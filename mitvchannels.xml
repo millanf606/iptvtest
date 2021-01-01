@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.11 -- Jan van Straaten" site="gatotv.com">
   <channels>
     <channel update="i" site="gatotv.com" site_id="1_colombia" xmltv_id="Canal 1 (Colombia)">Canal 1 (Colombia)</channel>
@@ -297,7 +297,7 @@
     <channel update="i" site="gatotv.com" site_id="hbo_signature_latinoamerica" xmltv_id="Canal HBO Signature Latinoamérica">Canal HBO Signature Latinoamérica</channel>
     <channel update="i" site="gatotv.com" site_id="hbo_xtreme" xmltv_id="Canal HBO Xtreme">Canal HBO Xtreme</channel>
     <channel update="i" site="gatotv.com" site_id="historia_espana" xmltv_id="Canal Historia (España)">Canal Historia (España)</channel>
-    <channel update="i" site="gatotv.com" site_id="history" xmltv_id="Canal History (México)">Canal History (México)</channel>
+    <channel update="i" site="gatotv.com" site_id="history_mexico" xmltv_id="History">History</channel>
     <channel update="i" site="gatotv.com" site_id="history_panregional" xmltv_id="Canal History (Panregional)">Canal History (Panregional)</channel>
     <channel update="i" site="gatotv.com" site_id="history_2_latinoamerica" xmltv_id="Canal History 2 (Latinoamérica)">Canal History 2 (Latinoamérica)</channel>
     <channel update="i" site="gatotv.com" site_id="history_2_mexico" xmltv_id="Canal History 2 (México)">Canal History 2 (México)</channel>
@@ -392,9 +392,9 @@
     <channel update="i" site="gatotv.com" site_id="sony_andes" xmltv_id="Canal Sony (Andes)">Canal Sony (Andes)</channel>
     <channel update="i" site="gatotv.com" site_id="sony_chile" xmltv_id="Canal Sony (Chile)">Canal Sony (Chile)</channel>
     <channel update="i" site="gatotv.com" site_id="sony_centro" xmltv_id="Canal Sony Centro">Canal Sony Centro</channel>
-    <channel update="i" site="gatotv.com" site_id="sony" xmltv_id="Canal Sony Entertainment Television (Latinoamérica)">Canal Sony Entertainment Television (Latinoamérica)</channel>
+    <channel update="i" site="gatotv.com" site_id="sony_mexico" xmltv_id="Sony">Sony</channel>
     <channel update="i" site="gatotv.com" site_id="sorpresa" xmltv_id="Canal Sorpresa">Canal Sorpresa</channel>
-    <channel update="i" site="gatotv.com" site_id="space" xmltv_id="Canal Space (México)">Canal Space (México)</channel>
+    <channel update="i" site="gatotv.com" site_id="space_mexico" xmltv_id="Space">Space</channel>
     <channel update="i" site="gatotv.com" site_id="space_panregional" xmltv_id="Canal Space (Panregional)">Canal Space (Panregional)</channel>
     <channel update="i" site="gatotv.com" site_id="space_hd" xmltv_id="Canal Space HD">Canal Space HD</channel>
     <channel update="i" site="gatotv.com" site_id="star_tve_hd" xmltv_id="Canal Star TVE HD ">Canal Star TVE HD </channel>
