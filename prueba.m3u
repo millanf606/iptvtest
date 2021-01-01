@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="SONY" tvg-name="SONY" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sony-channel-sur-us.png" group-title="Entretenimiento",SONY
+http://thex.tv:57999/luzmarina/luzmarina/447
+#EXTINF:-1 tvg-ID="SPACE" tvg-name="SPACE" tvg-logo="https://www.lyngsat.com/logo/tv/ss/space_lam.png" group-title="Cine",SPACE
+http://thex.tv:57999/luzmarina/luzmarina/450
