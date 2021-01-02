@@ -1,672 +1,837 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Canal Sony (Argentina)">
+  <channel id="Canal Sony (Chile)">
     <display-name lang="es">Sony</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Space (Sur)">
+  <channel id="Canal Space (Chile)">
     <display-name lang="es">Space</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal History (Panregional)">
+  <channel id="Canal History (Chile)">
     <display-name lang="es">History</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210102005000 -0600" stop="20210102015000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102005000 -0600" stop="20210102015000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Marvel - Daredevil</title>
   </programme>
-  <programme start="20210102015000 -0600" stop="20210102025500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102015000 -0600" stop="20210102025500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Marvel - Daredevil</title>
   </programme>
-  <programme start="20210102025500 -0600" stop="20210102040000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102025500 -0600" stop="20210102040000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Marvel - Daredevil</title>
   </programme>
-  <programme start="20210102040000 -0600" stop="20210102050500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102040000 -0600" stop="20210102050500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Marvel - Daredevil</title>
   </programme>
-  <programme start="20210102050500 -0600" stop="20210102060000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102050500 -0600" stop="20210102060000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210102060000 -0600" stop="20210102070000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102060000 -0600" stop="20210102070000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210102070000 -0600" stop="20210102073000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102070000 -0600" stop="20210102073000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210102073000 -0600" stop="20210102080000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102073000 -0600" stop="20210102080000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210102080000 -0600" stop="20210102083000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102080000 -0600" stop="20210102083000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210102083000 -0600" stop="20210102090000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102083000 -0600" stop="20210102090000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210102090000 -0600" stop="20210102103500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102090000 -0600" stop="20210102103500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">El Maestro del Disfraz</title>
   </programme>
-  <programme start="20210102103500 -0600" stop="20210102120500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102103500 -0600" stop="20210102120500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Los reyes de las olas</title>
   </programme>
-  <programme start="20210102120500 -0600" stop="20210102134000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102120500 -0600" stop="20210102134000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Open Season Tontos Por El Susto</title>
   </programme>
-  <programme start="20210102134000 -0600" stop="20210102160500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102134000 -0600" stop="20210102160500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">El sorprendente hombre araña</title>
   </programme>
-  <programme start="20210102160500 -0600" stop="20210102181500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102160500 -0600" stop="20210102181500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">El Hombre Araña</title>
   </programme>
-  <programme start="20210102181500 -0600" stop="20210102195000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102181500 -0600" stop="20210102195000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Hotel Transylvania 2</title>
   </programme>
-  <programme start="20210102195000 -0600" stop="20210102214000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102195000 -0600" stop="20210102214000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Chiquito pero peligroso</title>
   </programme>
-  <programme start="20210102214000 -0600" stop="20210102232500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102214000 -0600" stop="20210102232500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Buenos Vecinos</title>
   </programme>
-  <programme start="20210102232500 -0600" stop="20210103011000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210102232500 -0600" stop="20210103011000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Como si fuera la primera vez</title>
   </programme>
-  <programme start="20210103232500 -0600" stop="20210104011000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210103232500 -0600" stop="20210104011000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Como si fuera la primera vez</title>
   </programme>
-  <programme start="20210104011000 -0600" stop="20210104024500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104011000 -0600" stop="20210104024500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">El Maestro del Disfraz</title>
   </programme>
-  <programme start="20210104024500 -0600" stop="20210104031000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104024500 -0600" stop="20210104031000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210104031000 -0600" stop="20210104034000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104031000 -0600" stop="20210104034000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210104034000 -0600" stop="20210104040500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104034000 -0600" stop="20210104040500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210104040500 -0600" stop="20210104043000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104040500 -0600" stop="20210104043000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210104043000 -0600" stop="20210104050000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104043000 -0600" stop="20210104050000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210104050000 -0600" stop="20210104060000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104050000 -0600" stop="20210104060000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210104070000 -0600" stop="20210104073000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104070000 -0600" stop="20210104073000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210104090000 -0600" stop="20210104112500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104090000 -0600" stop="20210104112500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">El sorprendente hombre araña</title>
   </programme>
-  <programme start="20210104112500 -0600" stop="20210104133500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104112500 -0600" stop="20210104133500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">El Hombre Araña</title>
   </programme>
-  <programme start="20210104133500 -0600" stop="20210104151000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104133500 -0600" stop="20210104151000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Hotel Transylvania 2</title>
   </programme>
-  <programme start="20210104151000 -0600" stop="20210104165500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104151000 -0600" stop="20210104165500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Como si fuera la primera vez</title>
   </programme>
-  <programme start="20210104165500 -0600" stop="20210104184000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104165500 -0600" stop="20210104184000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Chiquito pero peligroso</title>
   </programme>
-  <programme start="20210104184000 -0600" stop="20210104202500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104184000 -0600" stop="20210104202500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Buenos Vecinos</title>
   </programme>
-  <programme start="20210104202500 -0600" stop="20210104222500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104202500 -0600" stop="20210104222500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Golpe Bajo El Juego Final</title>
   </programme>
-  <programme start="20210104222500 -0600" stop="20210105002500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210104222500 -0600" stop="20210105002500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">El perfecto asesino</title>
   </programme>
-  <programme start="20210105002500 -0600" stop="20210105020000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105002500 -0600" stop="20210105020000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Ace Ventura un detective diferente</title>
   </programme>
-  <programme start="20210105020000 -0600" stop="20210105023000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105020000 -0600" stop="20210105023000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210105023000 -0600" stop="20210105030000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105023000 -0600" stop="20210105030000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210105030000 -0600" stop="20210105033000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105030000 -0600" stop="20210105033000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105033000 -0600" stop="20210105040000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105033000 -0600" stop="20210105040000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105040000 -0600" stop="20210105043000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105040000 -0600" stop="20210105043000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210105043000 -0600" stop="20210105050000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105043000 -0600" stop="20210105050000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210105050000 -0600" stop="20210105060000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105050000 -0600" stop="20210105060000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210105060000 -0600" stop="20210105070000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105060000 -0600" stop="20210105070000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210105070000 -0600" stop="20210105073000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105070000 -0600" stop="20210105073000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210105073000 -0600" stop="20210105080000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105073000 -0600" stop="20210105080000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210105080000 -0600" stop="20210105083000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105080000 -0600" stop="20210105083000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105083000 -0600" stop="20210105090000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105083000 -0600" stop="20210105090000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105090000 -0600" stop="20210105100000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105090000 -0600" stop="20210105100000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">The Good Doctor</title>
   </programme>
-  <programme start="20210105100000 -0600" stop="20210105110000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105100000 -0600" stop="20210105110000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">The Good Doctor</title>
   </programme>
-  <programme start="20210105110000 -0600" stop="20210105113000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105110000 -0600" stop="20210105113000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210105113000 -0600" stop="20210105120000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105113000 -0600" stop="20210105120000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210105120000 -0600" stop="20210105123000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105120000 -0600" stop="20210105123000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105123000 -0600" stop="20210105130000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105123000 -0600" stop="20210105130000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105130000 -0600" stop="20210105143500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105130000 -0600" stop="20210105143500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Ace Ventura un detective diferente</title>
   </programme>
-  <programme start="20210105143500 -0600" stop="20210105153500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105143500 -0600" stop="20210105153500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Un lobo adolescente</title>
   </programme>
-  <programme start="20210105153500 -0600" stop="20210105163000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105153500 -0600" stop="20210105163000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Lobo adolescente</title>
   </programme>
-  <programme start="20210105163000 -0600" stop="20210105165500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105163000 -0600" stop="20210105165500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210105165500 -0600" stop="20210105190000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105165500 -0600" stop="20210105190000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Golpe Bajo El Juego Final</title>
   </programme>
-  <programme start="20210105190000 -0600" stop="20210105210000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105190000 -0600" stop="20210105210000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">El perfecto asesino</title>
   </programme>
-  <programme start="20210105210000 -0600" stop="20210105234000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105210000 -0600" stop="20210105234000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">El Código Da Vinci</title>
   </programme>
-  <programme start="20210105234000 -0600" stop="20210106015000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210105234000 -0600" stop="20210106015000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">En busca de la felicidad</title>
   </programme>
-  <programme start="20210106234000 -0600" stop="20210107015000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210106234000 -0600" stop="20210107015000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">En busca de la felicidad</title>
   </programme>
-  <programme start="20210107015000 -0600" stop="20210107034000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107015000 -0600" stop="20210107034000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Resident Evil: El Huésped Maldito</title>
   </programme>
-  <programme start="20210107034000 -0600" stop="20210107041000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107034000 -0600" stop="20210107041000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210107041000 -0600" stop="20210107050500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107041000 -0600" stop="20210107050500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Lobo adolescente</title>
   </programme>
-  <programme start="20210107050500 -0600" stop="20210107060000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107050500 -0600" stop="20210107060000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210107070000 -0600" stop="20210107073000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107070000 -0600" stop="20210107073000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210107090000 -0600" stop="20210107100000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107090000 -0600" stop="20210107100000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grey's Anatomy</title>
   </programme>
-  <programme start="20210107100000 -0600" stop="20210107110000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107100000 -0600" stop="20210107110000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grey's Anatomy</title>
   </programme>
-  <programme start="20210107110000 -0600" stop="20210107113000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107110000 -0600" stop="20210107113000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210107113000 -0600" stop="20210107115500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107113000 -0600" stop="20210107115500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210107115500 -0600" stop="20210107122000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107115500 -0600" stop="20210107122000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210107122000 -0600" stop="20210107124500 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107122000 -0600" stop="20210107124500 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210107124500 -0600" stop="20210107152000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107124500 -0600" stop="20210107152000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">El Código Da Vinci</title>
   </programme>
-  <programme start="20210107152000 -0600" stop="20210107162000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107152000 -0600" stop="20210107162000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Un lobo adolescente</title>
   </programme>
-  <programme start="20210107162000 -0600" stop="20210107183000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107162000 -0600" stop="20210107183000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">En busca de la felicidad</title>
   </programme>
-  <programme start="20210107183000 -0600" stop="20210107210000 -0600" channel="Canal Sony (Argentina)">
+  <programme start="20210107183000 -0600" stop="20210107210000 -0600" channel="Canal Sony (Chile)">
     <title lang="es">Inquebrantable</title>
   </programme>
-  <programme start="20210102000800 -0600" stop="20210102012400 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Rec</title>
+  <programme start="20210102010500 -0600" stop="20210102022500 -0600" channel="Canal Space (Chile)">
+    <title lang="es">[Rec</title>
   </programme>
-  <programme start="20210102012400 -0600" stop="20210102024600 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Rec 2</title>
+  <programme start="20210102022500 -0600" stop="20210102035000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">REC 2</title>
   </programme>
-  <programme start="20210102024600 -0600" stop="20210102040300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Rec 3: Génesis</title>
+  <programme start="20210102035000 -0600" stop="20210102053600 -0600" channel="Canal Space (Chile)">
+    <title lang="es">La gran apuesta</title>
   </programme>
-  <programme start="20210102040300 -0600" stop="20210102040700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Fillers HBO</title>
+  <programme start="20210102053600 -0600" stop="20210102054900 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210102040700 -0600" stop="20210102044500 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
+  <programme start="20210102054900 -0600" stop="20210102060000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210102044500 -0600" stop="20210102050000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
+  <programme start="20210102060000 -0600" stop="20210102060300 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Fillers individuales HBO</title>
   </programme>
-  <programme start="20210102050000 -0600" stop="20210102051400 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
+  <programme start="20210102060300 -0600" stop="20210102064000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210102051400 -0600" stop="20210102064300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Detective por error</title>
+  <programme start="20210102064000 -0600" stop="20210102072200 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210102064300 -0600" stop="20210102064900 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Fillers HBO</title>
+  <programme start="20210102072200 -0600" stop="20210102073300 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210102064900 -0600" stop="20210102084700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Amor y tesoro</title>
+  <programme start="20210102073300 -0600" stop="20210102094400 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Amor y Tesoro</title>
   </programme>
-  <programme start="20210102084700 -0600" stop="20210102103300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Turcos y caicos</title>
+  <programme start="20210102094400 -0600" stop="20210102114500 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Turks &amp; Caicos</title>
   </programme>
-  <programme start="20210102103300 -0600" stop="20210102123500 -0600" channel="Canal Space (Sur)">
-    <title lang="es">15 minutos</title>
+  <programme start="20210102114500 -0600" stop="20210102132500 -0600" channel="Canal Space (Chile)">
+    <title lang="es">El Máximo Juego</title>
   </programme>
-  <programme start="20210102123500 -0600" stop="20210102141200 -0600" channel="Canal Space (Sur)">
+  <programme start="20210102132500 -0600" stop="20210102150200 -0600" channel="Canal Space (Chile)">
     <title lang="es">Peligrosa Compañía</title>
   </programme>
-  <programme start="20210102141200 -0600" stop="20210102153400 -0600" channel="Canal Space (Sur)">
+  <programme start="20210102150200 -0600" stop="20210102162600 -0600" channel="Canal Space (Chile)">
     <title lang="es">La Reunión del Diablo</title>
   </programme>
-  <programme start="20210102153400 -0600" stop="20210102171600 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Sniper: El legado</title>
+  <programme start="20210102162600 -0600" stop="20210102181100 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Francotirador El legado</title>
   </programme>
-  <programme start="20210102171600 -0600" stop="20210102185400 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Ghost Rider: Espíritu de venganza</title>
+  <programme start="20210102181100 -0600" stop="20210102194900 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Ghost Rider Espíritu de venganza</title>
   </programme>
-  <programme start="20210102185400 -0600" stop="20210102210000 -0600" channel="Canal Space (Sur)">
+  <programme start="20210102194900 -0600" stop="20210102220000 -0600" channel="Canal Space (Chile)">
     <title lang="es">Cazafantasmas</title>
   </programme>
-  <programme start="20210102210000 -0600" stop="20210102232300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">It (Eso) (2017)</title>
+  <programme start="20210102220000 -0600" stop="20210103002600 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Spider-Man: De Regreso a Casa</title>
   </programme>
-  <programme start="20210102232300 -0600" stop="20210103010300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">La noche del demonio: Capítulo 3</title>
+  <programme start="20210103002600 -0600" stop="20210103020600 -0600" channel="Canal Space (Chile)">
+    <title lang="es">La noche del demonio Capítulo 3</title>
   </programme>
-  <programme start="20210103232300 -0600" stop="20210104010300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">La noche del demonio: Capítulo 3</title>
+  <programme start="20210103020600 -0600" stop="20210103032700 -0600" channel="Canal Space (Chile)">
+    <title lang="es">[REC]³ Génesis</title>
   </programme>
-  <programme start="20210104010300 -0600" stop="20210104022000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Rec 3: Génesis</title>
+  <programme start="20210103032700 -0600" stop="20210103052100 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Amor y Tesoro</title>
   </programme>
-  <programme start="20210104022000 -0600" stop="20210104035700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Intrusos</title>
+  <programme start="20210103052100 -0600" stop="20210103052400 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Fillers individuales HBO</title>
   </programme>
-  <programme start="20210104035700 -0600" stop="20210104043500 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Amor y tesoro</title>
+  <programme start="20210103052400 -0600" stop="20210103060000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210104043500 -0600" stop="20210104044900 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
+  <programme start="20210103060000 -0600" stop="20210103060200 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Fillers individuales HBO</title>
   </programme>
-  <programme start="20210104044900 -0600" stop="20210104050000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
+  <programme start="20210103060200 -0600" stop="20210103063900 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210104050000 -0600" stop="20210104050500 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Fillers HBO</title>
+  <programme start="20210103063900 -0600" stop="20210103072300 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210104050500 -0600" stop="20210104065200 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Turcos y caicos</title>
-  </programme>
-  <programme start="20210104065200 -0600" stop="20210104082300 -0600" channel="Canal Space (Sur)">
+  <programme start="20210103072300 -0600" stop="20210103090800 -0600" channel="Canal Space (Chile)">
     <title lang="es">Peligrosa Compañía</title>
   </programme>
-  <programme start="20210104082300 -0600" stop="20210104094300 -0600" channel="Canal Space (Sur)">
+  <programme start="20210103090800 -0600" stop="20210103104100 -0600" channel="Canal Space (Chile)">
     <title lang="es">La Reunión del Diablo</title>
   </programme>
-  <programme start="20210104094300 -0600" stop="20210104113000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Sniper: El legado</title>
+  <programme start="20210103104100 -0600" stop="20210103123000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Francotirador El legado</title>
   </programme>
-  <programme start="20210104113000 -0600" stop="20210104131600 -0600" channel="Canal Space (Sur)">
-    <title lang="es">All Elite Wrestling</title>
+  <programme start="20210103123000 -0600" stop="20210103141300 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Aew - all elite wrestling</title>
   </programme>
-  <programme start="20210104131600 -0600" stop="20210104145600 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Ghost Rider: Espíritu de venganza</title>
+  <programme start="20210103141300 -0600" stop="20210103155100 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Ghost Rider Espíritu de venganza</title>
   </programme>
-  <programme start="20210104145600 -0600" stop="20210104170100 -0600" channel="Canal Space (Sur)">
+  <programme start="20210103155100 -0600" stop="20210103175700 -0600" channel="Canal Space (Chile)">
     <title lang="es">Cazafantasmas</title>
   </programme>
-  <programme start="20210104170100 -0600" stop="20210104183700 -0600" channel="Canal Space (Sur)">
+  <programme start="20210103175700 -0600" stop="20210103193400 -0600" channel="Canal Space (Chile)">
     <title lang="es">Hancock</title>
   </programme>
-  <programme start="20210104183700 -0600" stop="20210104201900 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Operación peligrosa</title>
+  <programme start="20210103193400 -0600" stop="20210103211400 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Operación Peligrosa</title>
   </programme>
-  <programme start="20210104201900 -0600" stop="20210104221000 -0600" channel="Canal Space (Sur)">
+  <programme start="20210103211400 -0600" stop="20210103230900 -0600" channel="Canal Space (Chile)">
     <title lang="es">El gran maestro 4</title>
   </programme>
-  <programme start="20210104221000 -0600" stop="20210105002700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">It (Eso) (2017)</title>
+  <programme start="20210103230900 -0600" stop="20210104013000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Spider-Man: De Regreso a Casa</title>
   </programme>
-  <programme start="20210105221000 -0600" stop="20210106002700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">It (Eso) (2017)</title>
-  </programme>
-  <programme start="20210106002700 -0600" stop="20210106015200 -0600" channel="Canal Space (Sur)">
+  <programme start="20210104013000 -0600" stop="20210104025900 -0600" channel="Canal Space (Chile)">
     <title lang="es">Lucy</title>
   </programme>
-  <programme start="20210106015200 -0600" stop="20210106035000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">La Jugada Maestra</title>
+  <programme start="20210104025900 -0600" stop="20210104043500 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Tiburones Del Hielo</title>
   </programme>
-  <programme start="20210106035000 -0600" stop="20210106035200 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Fillers HBO</title>
+  <programme start="20210104043500 -0600" stop="20210104051000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210106035200 -0600" stop="20210106040500 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
+  <programme start="20210104051000 -0600" stop="20210104054400 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210106040500 -0600" stop="20210106044400 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
+  <programme start="20210104054400 -0600" stop="20210104060000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210106044400 -0600" stop="20210106050000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
+  <programme start="20210104060000 -0600" stop="20210104063700 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210106050000 -0600" stop="20210106065100 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El gran maestro</title>
+  <programme start="20210104063700 -0600" stop="20210104071400 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210106065100 -0600" stop="20210106084700 -0600" channel="Canal Space (Sur)">
+  <programme start="20210104071400 -0600" stop="20210104073000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
+  </programme>
+  <programme start="20210104073000 -0600" stop="20210104093300 -0600" channel="Canal Space (Chile)">
     <title lang="es">El Gran Maestro 2</title>
   </programme>
-  <programme start="20210106084700 -0600" stop="20210106103900 -0600" channel="Canal Space (Sur)">
+  <programme start="20210104093300 -0600" stop="20210104113700 -0600" channel="Canal Space (Chile)">
     <title lang="es">El gran maestro 3</title>
   </programme>
-  <programme start="20210106103900 -0600" stop="20210106123000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">10.000 A.C</title>
+  <programme start="20210104113700 -0600" stop="20210104132500 -0600" channel="Canal Space (Chile)">
+    <title lang="es">10,000 A.C</title>
   </programme>
-  <programme start="20210106123000 -0600" stop="20210106141700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Insignias de furia</title>
+  <programme start="20210104132500 -0600" stop="20210104151200 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Insignias de Furia</title>
   </programme>
-  <programme start="20210106141700 -0600" stop="20210106155400 -0600" channel="Canal Space (Sur)">
+  <programme start="20210104151200 -0600" stop="20210104164900 -0600" channel="Canal Space (Chile)">
     <title lang="es">Hancock</title>
   </programme>
-  <programme start="20210106155400 -0600" stop="20210106173300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Operación peligrosa</title>
+  <programme start="20210104164900 -0600" stop="20210104182800 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Operación Peligrosa</title>
   </programme>
-  <programme start="20210106173300 -0600" stop="20210106190500 -0600" channel="Canal Space (Sur)">
+  <programme start="20210104182800 -0600" stop="20210104200600 -0600" channel="Canal Space (Chile)">
     <title lang="es">Golpe fulminante</title>
   </programme>
-  <programme start="20210106190500 -0600" stop="20210106210000 -0600" channel="Canal Space (Sur)">
+  <programme start="20210104200600 -0600" stop="20210104220000 -0600" channel="Canal Space (Chile)">
     <title lang="es">El gran maestro 4</title>
   </programme>
-  <programme start="20210106210000 -0600" stop="20210106223000 -0600" channel="Canal Space (Sur)">
+  <programme start="20210104220000 -0600" stop="20210104233600 -0600" channel="Canal Space (Chile)">
     <title lang="es">Lucy</title>
   </programme>
-  <programme start="20210106223000 -0600" stop="20210107001100 -0600" channel="Canal Space (Sur)">
-    <title lang="es">All Elite Wrestling</title>
+  <programme start="20210104233600 -0600" stop="20210105011700 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Aew - all elite wrestling</title>
   </programme>
-  <programme start="20210107223000 -0600" stop="20210108001100 -0600" channel="Canal Space (Sur)">
-    <title lang="es">All Elite Wrestling</title>
-  </programme>
-  <programme start="20210108001100 -0600" stop="20210108020200 -0600" channel="Canal Space (Sur)">
+  <programme start="20210105011700 -0600" stop="20210105031200 -0600" channel="Canal Space (Chile)">
     <title lang="es">El Efecto Mariposa (The Butterfly Effect)</title>
   </programme>
-  <programme start="20210108020200 -0600" stop="20210108041000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Acoso Sexual</title>
+  <programme start="20210105031200 -0600" stop="20210105050200 -0600" channel="Canal Space (Chile)">
+    <title lang="es">El gran maestro</title>
   </programme>
-  <programme start="20210108041000 -0600" stop="20210108042300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Fillers HBO</title>
+  <programme start="20210105050200 -0600" stop="20210105051500 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Fillers individuales HBO</title>
   </programme>
-  <programme start="20210108042300 -0600" stop="20210108050000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
+  <programme start="20210105051500 -0600" stop="20210105055000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210108050000 -0600" stop="20210108064200 -0600" channel="Canal Space (Sur)">
+  <programme start="20210105055000 -0600" stop="20210105060000 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Hollywood one on one 2020</title>
+  </programme>
+  <programme start="20210105060000 -0600" stop="20210105072000 -0600" channel="Canal Space (Chile)">
     <title lang="es">El Gran Maestro 2</title>
   </programme>
-  <programme start="20210108064200 -0600" stop="20210108083200 -0600" channel="Canal Space (Sur)">
+  <programme start="20210105072000 -0600" stop="20210105091000 -0600" channel="Canal Space (Chile)">
     <title lang="es">El gran maestro 3</title>
   </programme>
-  <programme start="20210108083200 -0600" stop="20210108102100 -0600" channel="Canal Space (Sur)">
-    <title lang="es">10.000 A.C</title>
+  <programme start="20210105091000 -0600" stop="20210105110200 -0600" channel="Canal Space (Chile)">
+    <title lang="es">10,000 A.C</title>
   </programme>
-  <programme start="20210108102100 -0600" stop="20210108120700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Insignias de furia</title>
+  <programme start="20210105110200 -0600" stop="20210105125300 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Insignias de Furia</title>
   </programme>
-  <programme start="20210108120700 -0600" stop="20210108134400 -0600" channel="Canal Space (Sur)">
+  <programme start="20210105125300 -0600" stop="20210105143100 -0600" channel="Canal Space (Chile)">
     <title lang="es">Golpe fulminante</title>
   </programme>
-  <programme start="20210108134400 -0600" stop="20210108162000 -0600" channel="Canal Space (Sur)">
+  <programme start="20210105143100 -0600" stop="20210105170900 -0600" channel="Canal Space (Chile)">
     <title lang="es">El Código Da Vinci</title>
   </programme>
-  <programme start="20210108162000 -0600" stop="20210108175000 -0600" channel="Canal Space (Sur)">
+  <programme start="20210105170900 -0600" stop="20210105184200 -0600" channel="Canal Space (Chile)">
     <title lang="es">En el Tornado</title>
   </programme>
-  <programme start="20210108175000 -0600" stop="20210108192500 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Juegos de manos</title>
+  <programme start="20210105184200 -0600" stop="20210105202200 -0600" channel="Canal Space (Chile)">
+    <title lang="es">Juego de magos</title>
   </programme>
-  <programme start="20210108192500 -0600" stop="20210108210000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">S.W.A.T.: Unidad especial 2</title>
-  </programme>
-  <programme start="20210108210000 -0600" stop="20210108231200 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El factor viral</title>
-  </programme>
-  <programme start="20210108231200 -0600" stop="20210109013000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Acoso Sexual</title>
-  </programme>
-  <programme start="20210109231200 -0600" stop="20210110013000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Acoso Sexual</title>
-  </programme>
-  <programme start="20210102000500 -0600" stop="20210102003000 -0600" channel="Canal History (Panregional)">
+  <programme start="20210102001500 -0600" stop="20210102004000 -0600" channel="Canal History (Chile)">
     <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210102003000 -0600" stop="20210102011500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Alienígenas ancestrales</title>
+  <programme start="20210102004000 -0600" stop="20210102010500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210102011500 -0600" stop="20210102020500 -0600" channel="Canal History (Panregional)">
+  <programme start="20210102010500 -0600" stop="20210102020000 -0600" channel="Canal History (Chile)">
     <title lang="es">Lo Mejor de Cazadores de Tesoros</title>
   </programme>
-  <programme start="20210102020500 -0600" stop="20210102025500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Alienígenas ancestrales</title>
+  <programme start="20210102020000 -0600" stop="20210102022500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Locos por los autos</title>
   </programme>
-  <programme start="20210102025500 -0600" stop="20210102034000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Alienígenas ancestrales</title>
+  <programme start="20210102022500 -0600" stop="20210102025000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Locos por los autos</title>
   </programme>
-  <programme start="20210102034000 -0600" stop="20210102043000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Alienígenas ancestrales</title>
+  <programme start="20210102025000 -0600" stop="20210102031500 -0600" channel="Canal History (Chile)">
+    <title lang="es">¿Quién da más</title>
   </programme>
-  <programme start="20210102043000 -0600" stop="20210102052000 -0600" channel="Canal History (Panregional)">
+  <programme start="20210102031500 -0600" stop="20210102041000 -0600" channel="Canal History (Chile)">
     <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20210102052000 -0600" stop="20210102070000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Grant</title>
+  <programme start="20210102041000 -0600" stop="20210102050000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Lo Mejor de Cazadores de Tesoros</title>
   </programme>
-  <programme start="20210102070000 -0600" stop="20210102080000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Alienígenas ancestrales</title>
-  </programme>
-  <programme start="20210102080000 -0600" stop="20210102090000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Paid Programming</title>
-  </programme>
-  <programme start="20210102090000 -0600" stop="20210102100000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Paid Programming</title>
-  </programme>
-  <programme start="20210102100000 -0600" stop="20210102110000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Paid Programming</title>
-  </programme>
-  <programme start="20210102110000 -0600" stop="20210102120000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Paid Programming</title>
-  </programme>
-  <programme start="20210102120000 -0600" stop="20210102125000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Alienígenas ancestrales</title>
-  </programme>
-  <programme start="20210102125000 -0600" stop="20210102134000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Alienígenas ancestrales</title>
-  </programme>
-  <programme start="20210102134000 -0600" stop="20210102140500 -0600" channel="Canal History (Panregional)">
+  <programme start="20210102050000 -0600" stop="20210102053000 -0600" channel="Canal History (Chile)">
     <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210102140500 -0600" stop="20210102143000 -0600" channel="Canal History (Panregional)">
+  <programme start="20210102053000 -0600" stop="20210102060000 -0600" channel="Canal History (Chile)">
     <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210102143000 -0600" stop="20210102152000 -0600" channel="Canal History (Panregional)">
+  <programme start="20210102060000 -0600" stop="20210102070000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210102070000 -0600" stop="20210102080000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Locos por los autos</title>
+  </programme>
+  <programme start="20210102080000 -0600" stop="20210102083000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20210102083000 -0600" stop="20210102090000 -0600" channel="Canal History (Chile)">
+    <title lang="es">¿Quién da más</title>
+  </programme>
+  <programme start="20210102090000 -0600" stop="20210102095000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Lo Mejor de Cazadores de Tesoros</title>
+  </programme>
+  <programme start="20210102095000 -0600" stop="20210102104500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Locos por los autos</title>
+  </programme>
+  <programme start="20210102104500 -0600" stop="20210102111200 -0600" channel="Canal History (Chile)">
+    <title lang="es">Locos por los autos</title>
+  </programme>
+  <programme start="20210102111200 -0600" stop="20210102114000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Locos por los autos</title>
+  </programme>
+  <programme start="20210102114000 -0600" stop="20210102120700 -0600" channel="Canal History (Chile)">
+    <title lang="es">¿Quién da más</title>
+  </programme>
+  <programme start="20210102120700 -0600" stop="20210102123500 -0600" channel="Canal History (Chile)">
+    <title lang="es">¿Quién da más</title>
+  </programme>
+  <programme start="20210102123500 -0600" stop="20210102133000 -0600" channel="Canal History (Chile)">
     <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20210102152000 -0600" stop="20210102161000 -0600" channel="Canal History (Panregional)">
+  <programme start="20210102133000 -0600" stop="20210102142500 -0600" channel="Canal History (Chile)">
     <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210102161000 -0600" stop="20210102170000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Alienígenas ancestrales</title>
+  <programme start="20210102142500 -0600" stop="20210102152000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Locos por los autos</title>
   </programme>
-  <programme start="20210102170000 -0600" stop="20210102172500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210102172500 -0600" stop="20210102175000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210102175000 -0600" stop="20210102184000 -0600" channel="Canal History (Panregional)">
+  <programme start="20210102152000 -0600" stop="20210102161500 -0600" channel="Canal History (Chile)">
     <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20210102184000 -0600" stop="20210102190500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">¿Quién Da Má$</title>
-  </programme>
-  <programme start="20210102190500 -0600" stop="20210102193000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">¿Quién Da Má$</title>
-  </programme>
-  <programme start="20210102193000 -0600" stop="20210102195500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210102195500 -0600" stop="20210102202000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210102202000 -0600" stop="20210102204500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Lo Mejor Del Precio de la Historia</title>
-  </programme>
-  <programme start="20210102204500 -0600" stop="20210102211000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210102211000 -0600" stop="20210102220000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210102220000 -0600" stop="20210102222500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210102222500 -0600" stop="20210102225000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210102225000 -0600" stop="20210102231500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Unboxing extremo</title>
-  </programme>
-  <programme start="20210102231500 -0600" stop="20210102234000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Unboxing extremo</title>
-  </programme>
-  <programme start="20210102234000 -0600" stop="20210103003000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Locos por los autos</title>
-  </programme>
-  <programme start="20210103234000 -0600" stop="20210104003000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Locos por los autos</title>
-  </programme>
-  <programme start="20210104003000 -0600" stop="20210104012000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El socio</title>
-  </programme>
-  <programme start="20210104012000 -0600" stop="20210104014500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">¿Quién Da Má$</title>
-  </programme>
-  <programme start="20210104014500 -0600" stop="20210104021000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">¿Quién Da Má$</title>
-  </programme>
-  <programme start="20210104021000 -0600" stop="20210104030000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210104030000 -0600" stop="20210104032500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210104032500 -0600" stop="20210104035000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210104035000 -0600" stop="20210104041500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Unboxing extremo</title>
-  </programme>
-  <programme start="20210104041500 -0600" stop="20210104044000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Unboxing extremo</title>
-  </programme>
-  <programme start="20210104044000 -0600" stop="20210104052500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Locos por los autos</title>
-  </programme>
-  <programme start="20210104052500 -0600" stop="20210104055000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Lo Mejor Del Precio de la Historia</title>
-  </programme>
-  <programme start="20210104055000 -0600" stop="20210104061500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210104061500 -0600" stop="20210104070000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210104070000 -0600" stop="20210104073000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Unboxing extremo</title>
-  </programme>
-  <programme start="20210104073000 -0600" stop="20210104080000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Unboxing extremo</title>
-  </programme>
-  <programme start="20210104080000 -0600" stop="20210104090000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Paid Programming</title>
-  </programme>
-  <programme start="20210104090000 -0600" stop="20210104100000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Paid Programming</title>
-  </programme>
-  <programme start="20210104100000 -0600" stop="20210104110000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Paid Programming</title>
-  </programme>
-  <programme start="20210104110000 -0600" stop="20210104120000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Paid Programming</title>
-  </programme>
-  <programme start="20210104120000 -0600" stop="20210104122500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">¿Quién Da Má$</title>
-  </programme>
-  <programme start="20210104122500 -0600" stop="20210104125000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">¿Quién Da Má$</title>
-  </programme>
-  <programme start="20210104125000 -0600" stop="20210104134000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Locos por los autos</title>
-  </programme>
-  <programme start="20210104134000 -0600" stop="20210104143000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El socio</title>
-  </programme>
-  <programme start="20210104143000 -0600" stop="20210104145500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210104145500 -0600" stop="20210104152000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210104152000 -0600" stop="20210104154500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Lo Mejor Del Precio de la Historia</title>
-  </programme>
-  <programme start="20210104154500 -0600" stop="20210104161000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210104161000 -0600" stop="20210104170000 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El Precio de la Historia</title>
-  </programme>
-  <programme start="20210104170000 -0600" stop="20210104172500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Unboxing extremo</title>
-  </programme>
-  <programme start="20210104172500 -0600" stop="20210104181500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">El socio</title>
-  </programme>
-  <programme start="20210104181500 -0600" stop="20210104190500 -0600" channel="Canal History (Panregional)">
-    <title lang="es">Alienígenas ancestrales</title>
-  </programme>
-  <programme start="20210104190500 -0600" stop="20210104201000 -0600" channel="Canal History (Panregional)">
+  <programme start="20210102161500 -0600" stop="20210102171500 -0600" channel="Canal History (Chile)">
     <title lang="es">La historia de la fantasía</title>
+  </programme>
+  <programme start="20210102171500 -0600" stop="20210102181500 -0600" channel="Canal History (Chile)">
+    <title lang="es">La historia de la fantasía</title>
+  </programme>
+  <programme start="20210102181500 -0600" stop="20210102191000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210102191000 -0600" stop="20210102200000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210102200000 -0600" stop="20210102205000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210102205000 -0600" stop="20210102214000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210102214000 -0600" stop="20210102223000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210102223000 -0600" stop="20210102232000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210102232000 -0600" stop="20210103001500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210103232000 -0600" stop="20210104001500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210104001500 -0600" stop="20210104010500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210104010500 -0600" stop="20210104015000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210104015000 -0600" stop="20210104023500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210104023500 -0600" stop="20210104032500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210104032500 -0600" stop="20210104041500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210104041500 -0600" stop="20210104050000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210104050000 -0600" stop="20210104060000 -0600" channel="Canal History (Chile)">
+    <title lang="es">La historia de la fantasía</title>
+  </programme>
+  <programme start="20210104060000 -0600" stop="20210104070000 -0600" channel="Canal History (Chile)">
+    <title lang="es">La historia de la fantasía</title>
+  </programme>
+  <programme start="20210104070000 -0600" stop="20210104080000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210104080000 -0600" stop="20210104083000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Programación Pagada</title>
+  </programme>
+  <programme start="20210104083000 -0600" stop="20210104090000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Lo Mejor Del Precio de la Historia</title>
+  </programme>
+  <programme start="20210104090000 -0600" stop="20210104100000 -0600" channel="Canal History (Chile)">
+    <title lang="es">La historia de la fantasía</title>
+  </programme>
+  <programme start="20210104100000 -0600" stop="20210104110000 -0600" channel="Canal History (Chile)">
+    <title lang="es">La historia de la fantasía</title>
+  </programme>
+  <programme start="20210104110000 -0600" stop="20210104115500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210104115500 -0600" stop="20210104124500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210104124500 -0600" stop="20210104134000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210104134000 -0600" stop="20210104143000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210104143000 -0600" stop="20210104152500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Gigantes de los motores II</title>
+  </programme>
+  <programme start="20210104152500 -0600" stop="20210104155000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Lo Mejor Del Precio de la Historia</title>
+  </programme>
+  <programme start="20210104155000 -0600" stop="20210104161500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210104161500 -0600" stop="20210104164000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210104164000 -0600" stop="20210104173000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210104173000 -0600" stop="20210104182000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Hombres de la montaña</title>
+  </programme>
+  <programme start="20210104182000 -0600" stop="20210104191000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20210104191000 -0600" stop="20210104193500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210104193500 -0600" stop="20210104200000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210104200000 -0600" stop="20210104205000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210104205000 -0600" stop="20210104211200 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210104211200 -0600" stop="20210104213500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210104213500 -0600" stop="20210104220000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210104220000 -0600" stop="20210104222500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210104222500 -0600" stop="20210104232000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El socio</title>
+  </programme>
+  <programme start="20210104232000 -0600" stop="20210104234500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210104234500 -0600" stop="20210105001000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105001000 -0600" stop="20210105010500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105010500 -0600" stop="20210105020000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El socio</title>
+  </programme>
+  <programme start="20210105020000 -0600" stop="20210105022500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210105022500 -0600" stop="20210105025000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210105025000 -0600" stop="20210105031500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105031500 -0600" stop="20210105041000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Hombres de la montaña</title>
+  </programme>
+  <programme start="20210105041000 -0600" stop="20210105050000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20210105050000 -0600" stop="20210105053000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210105053000 -0600" stop="20210105060000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210105060000 -0600" stop="20210105063000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105063000 -0600" stop="20210105070000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105070000 -0600" stop="20210105080000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105083000 -0600" stop="20210105090000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210105090000 -0600" stop="20210105095000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Hombres de la montaña</title>
+  </programme>
+  <programme start="20210105095000 -0600" stop="20210105104000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20210105104000 -0600" stop="20210105110500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105110500 -0600" stop="20210105113000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105113000 -0600" stop="20210105122000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105122000 -0600" stop="20210105131500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El socio</title>
+  </programme>
+  <programme start="20210105131500 -0600" stop="20210105134000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210105134000 -0600" stop="20210105140500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210105140500 -0600" stop="20210105150000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Hombres de la montaña</title>
+  </programme>
+  <programme start="20210105150000 -0600" stop="20210105155000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Hombres de montaña</title>
+  </programme>
+  <programme start="20210105155000 -0600" stop="20210105161500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210105161500 -0600" stop="20210105164000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Unboxing extremo</title>
+  </programme>
+  <programme start="20210105164000 -0600" stop="20210105173000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210105173000 -0600" stop="20210105182000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210105182000 -0600" stop="20210105191000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20210105191000 -0600" stop="20210105193500 -0600" channel="Canal History (Chile)">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20210105193500 -0600" stop="20210105200000 -0600" channel="Canal History (Chile)">
+    <title lang="es">¿Quién da más</title>
+  </programme>
+  <programme start="20210105200000 -0600" stop="20210105202500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105202500 -0600" stop="20210105205000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105205000 -0600" stop="20210105214000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Solos</title>
+  </programme>
+  <programme start="20210105214000 -0600" stop="20210105223500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105223500 -0600" stop="20210105233000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20210105233000 -0600" stop="20210105235500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210105235500 -0600" stop="20210106002000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210106002000 -0600" stop="20210106011500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Solos</title>
+  </programme>
+  <programme start="20210106011500 -0600" stop="20210106020500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210106020500 -0600" stop="20210106023000 -0600" channel="Canal History (Chile)">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20210106023000 -0600" stop="20210106032500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210106032500 -0600" stop="20210106041000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20210106041000 -0600" stop="20210106050000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210106050000 -0600" stop="20210106060000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Solos</title>
+  </programme>
+  <programme start="20210106060000 -0600" stop="20210106070000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210106070000 -0600" stop="20210106080000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20210106083000 -0600" stop="20210106090000 -0600" channel="Canal History (Chile)">
+    <title lang="es">¿Quién da más</title>
+  </programme>
+  <programme start="20210106090000 -0600" stop="20210106094500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210106094500 -0600" stop="20210106103500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20210106103500 -0600" stop="20210106110000 -0600" channel="Canal History (Chile)">
+    <title lang="es">¿Quién Da Má$</title>
+  </programme>
+  <programme start="20210106110000 -0600" stop="20210106112500 -0600" channel="Canal History (Chile)">
+    <title lang="es">¿Quién da más</title>
+  </programme>
+  <programme start="20210106112500 -0600" stop="20210106122000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210106122000 -0600" stop="20210106131000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Desafío sobre fuego</title>
+  </programme>
+  <programme start="20210106131000 -0600" stop="20210106140500 -0600" channel="Canal History (Chile)">
+    <title lang="es">Alienígenas ancestrales</title>
+  </programme>
+  <programme start="20210106140500 -0600" stop="20210106143000 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210106143000 -0600" stop="20210106145500 -0600" channel="Canal History (Chile)">
+    <title lang="es">El Precio de la Historia</title>
+  </programme>
+  <programme start="20210106145500 -0600" stop="20210106155000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Solos</title>
+  </programme>
+  <programme start="20210106155000 -0600" stop="20210106164000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Lo Mejor de Cazadores de Tesoros</title>
+  </programme>
+  <programme start="20210106191000 -0600" stop="20210106200000 -0600" channel="Canal History (Chile)">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
 </tv>
