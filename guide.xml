@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Canal Sony (Chile)">
+  <channel id="Canal Sony (Venezuela)">
     <display-name lang="es">Sony</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/sony_channel-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Space (Chile)">
+  <channel id="Canal Space (Venezuela)">
     <display-name lang="es">Space</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/space-mediano.png" />
     <url>http://www.gatotv.com</url>
@@ -15,442 +15,442 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/history_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <programme start="20210102005000 -0600" stop="20210102015000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102005000 -0600" stop="20210102015000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Marvel - Daredevil</title>
   </programme>
-  <programme start="20210102015000 -0600" stop="20210102025500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102015000 -0600" stop="20210102025500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Marvel - Daredevil</title>
   </programme>
-  <programme start="20210102025500 -0600" stop="20210102040000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102025500 -0600" stop="20210102040000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Marvel - Daredevil</title>
   </programme>
-  <programme start="20210102040000 -0600" stop="20210102050500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102040000 -0600" stop="20210102050500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Marvel - Daredevil</title>
   </programme>
-  <programme start="20210102050500 -0600" stop="20210102060000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102050500 -0600" stop="20210102060000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210102060000 -0600" stop="20210102070000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102060000 -0600" stop="20210102070000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210102070000 -0600" stop="20210102073000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102070000 -0600" stop="20210102073000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210102073000 -0600" stop="20210102080000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102073000 -0600" stop="20210102080000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210102080000 -0600" stop="20210102083000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102080000 -0600" stop="20210102083000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210102083000 -0600" stop="20210102090000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102083000 -0600" stop="20210102090000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210102090000 -0600" stop="20210102103500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102090000 -0600" stop="20210102103500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">El Maestro del Disfraz</title>
   </programme>
-  <programme start="20210102103500 -0600" stop="20210102120500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102103500 -0600" stop="20210102120500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Los reyes de las olas</title>
   </programme>
-  <programme start="20210102120500 -0600" stop="20210102134000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102120500 -0600" stop="20210102134000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Open Season Tontos Por El Susto</title>
   </programme>
-  <programme start="20210102134000 -0600" stop="20210102160500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102134000 -0600" stop="20210102160500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">El sorprendente hombre araña</title>
   </programme>
-  <programme start="20210102160500 -0600" stop="20210102181500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102160500 -0600" stop="20210102181500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">El Hombre Araña</title>
   </programme>
-  <programme start="20210102181500 -0600" stop="20210102195000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102181500 -0600" stop="20210102195000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Hotel Transylvania 2</title>
   </programme>
-  <programme start="20210102195000 -0600" stop="20210102214000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102195000 -0600" stop="20210102214000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Chiquito pero peligroso</title>
   </programme>
-  <programme start="20210102214000 -0600" stop="20210102232500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102214000 -0600" stop="20210102232500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Buenos Vecinos</title>
   </programme>
-  <programme start="20210102232500 -0600" stop="20210103011000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210102232500 -0600" stop="20210103011000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Como si fuera la primera vez</title>
   </programme>
-  <programme start="20210103232500 -0600" stop="20210104011000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210103232500 -0600" stop="20210104011000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Como si fuera la primera vez</title>
   </programme>
-  <programme start="20210104011000 -0600" stop="20210104024500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104011000 -0600" stop="20210104024500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">El Maestro del Disfraz</title>
   </programme>
-  <programme start="20210104024500 -0600" stop="20210104031000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104024500 -0600" stop="20210104031000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210104031000 -0600" stop="20210104034000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104031000 -0600" stop="20210104034000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210104034000 -0600" stop="20210104040500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104034000 -0600" stop="20210104040500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210104040500 -0600" stop="20210104043000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104040500 -0600" stop="20210104043000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210104043000 -0600" stop="20210104050000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104043000 -0600" stop="20210104050000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210104050000 -0600" stop="20210104060000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104050000 -0600" stop="20210104060000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210104070000 -0600" stop="20210104073000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104070000 -0600" stop="20210104073000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210104090000 -0600" stop="20210104112500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104090000 -0600" stop="20210104112500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">El sorprendente hombre araña</title>
   </programme>
-  <programme start="20210104112500 -0600" stop="20210104133500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104112500 -0600" stop="20210104133500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">El Hombre Araña</title>
   </programme>
-  <programme start="20210104133500 -0600" stop="20210104151000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104133500 -0600" stop="20210104151000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Hotel Transylvania 2</title>
   </programme>
-  <programme start="20210104151000 -0600" stop="20210104165500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104151000 -0600" stop="20210104165500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Como si fuera la primera vez</title>
   </programme>
-  <programme start="20210104165500 -0600" stop="20210104184000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104165500 -0600" stop="20210104184000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Chiquito pero peligroso</title>
   </programme>
-  <programme start="20210104184000 -0600" stop="20210104202500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104184000 -0600" stop="20210104202500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Buenos Vecinos</title>
   </programme>
-  <programme start="20210104202500 -0600" stop="20210104222500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104202500 -0600" stop="20210104222500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Golpe Bajo El Juego Final</title>
   </programme>
-  <programme start="20210104222500 -0600" stop="20210105002500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210104222500 -0600" stop="20210105002500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">El perfecto asesino</title>
   </programme>
-  <programme start="20210105002500 -0600" stop="20210105020000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105002500 -0600" stop="20210105020000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Ace Ventura un detective diferente</title>
   </programme>
-  <programme start="20210105020000 -0600" stop="20210105023000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105020000 -0600" stop="20210105023000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210105023000 -0600" stop="20210105030000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105023000 -0600" stop="20210105030000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210105030000 -0600" stop="20210105033000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105030000 -0600" stop="20210105033000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105033000 -0600" stop="20210105040000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105033000 -0600" stop="20210105040000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105040000 -0600" stop="20210105043000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105040000 -0600" stop="20210105043000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210105043000 -0600" stop="20210105050000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105043000 -0600" stop="20210105050000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210105050000 -0600" stop="20210105060000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105050000 -0600" stop="20210105060000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210105060000 -0600" stop="20210105070000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105060000 -0600" stop="20210105070000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210105070000 -0600" stop="20210105073000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105070000 -0600" stop="20210105073000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210105073000 -0600" stop="20210105080000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105073000 -0600" stop="20210105080000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210105080000 -0600" stop="20210105083000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105080000 -0600" stop="20210105083000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105083000 -0600" stop="20210105090000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105083000 -0600" stop="20210105090000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105090000 -0600" stop="20210105100000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105090000 -0600" stop="20210105100000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">The Good Doctor</title>
   </programme>
-  <programme start="20210105100000 -0600" stop="20210105110000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105100000 -0600" stop="20210105110000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">The Good Doctor</title>
   </programme>
-  <programme start="20210105110000 -0600" stop="20210105113000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105110000 -0600" stop="20210105113000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210105113000 -0600" stop="20210105120000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105113000 -0600" stop="20210105120000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210105120000 -0600" stop="20210105123000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105120000 -0600" stop="20210105123000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105123000 -0600" stop="20210105130000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105123000 -0600" stop="20210105130000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210105130000 -0600" stop="20210105143500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105130000 -0600" stop="20210105143500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Ace Ventura un detective diferente</title>
   </programme>
-  <programme start="20210105143500 -0600" stop="20210105153500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105143500 -0600" stop="20210105153500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Un lobo adolescente</title>
   </programme>
-  <programme start="20210105153500 -0600" stop="20210105163000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105153500 -0600" stop="20210105163000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Lobo adolescente</title>
   </programme>
-  <programme start="20210105163000 -0600" stop="20210105165500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105163000 -0600" stop="20210105165500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210105165500 -0600" stop="20210105190000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105165500 -0600" stop="20210105190000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Golpe Bajo El Juego Final</title>
   </programme>
-  <programme start="20210105190000 -0600" stop="20210105210000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105190000 -0600" stop="20210105210000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">El perfecto asesino</title>
   </programme>
-  <programme start="20210105210000 -0600" stop="20210105234000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105210000 -0600" stop="20210105234000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">El Código Da Vinci</title>
   </programme>
-  <programme start="20210105234000 -0600" stop="20210106015000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210105234000 -0600" stop="20210106015000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">En busca de la felicidad</title>
   </programme>
-  <programme start="20210106234000 -0600" stop="20210107015000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210106234000 -0600" stop="20210107015000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">En busca de la felicidad</title>
   </programme>
-  <programme start="20210107015000 -0600" stop="20210107034000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107015000 -0600" stop="20210107034000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Resident Evil: El Huésped Maldito</title>
   </programme>
-  <programme start="20210107034000 -0600" stop="20210107041000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107034000 -0600" stop="20210107041000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210107041000 -0600" stop="20210107050500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107041000 -0600" stop="20210107050500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Lobo adolescente</title>
   </programme>
-  <programme start="20210107050500 -0600" stop="20210107060000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107050500 -0600" stop="20210107060000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Shark Tank</title>
   </programme>
-  <programme start="20210107070000 -0600" stop="20210107073000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107070000 -0600" stop="20210107073000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210107090000 -0600" stop="20210107100000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107090000 -0600" stop="20210107100000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grey's Anatomy</title>
   </programme>
-  <programme start="20210107100000 -0600" stop="20210107110000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107100000 -0600" stop="20210107110000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grey's Anatomy</title>
   </programme>
-  <programme start="20210107110000 -0600" stop="20210107113000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107110000 -0600" stop="20210107113000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Grown-ish</title>
   </programme>
-  <programme start="20210107113000 -0600" stop="20210107115500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107113000 -0600" stop="20210107115500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Black-ish</title>
   </programme>
-  <programme start="20210107115500 -0600" stop="20210107122000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107115500 -0600" stop="20210107122000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210107122000 -0600" stop="20210107124500 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107122000 -0600" stop="20210107124500 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Madre Americana</title>
   </programme>
-  <programme start="20210107124500 -0600" stop="20210107152000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107124500 -0600" stop="20210107152000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">El Código Da Vinci</title>
   </programme>
-  <programme start="20210107152000 -0600" stop="20210107162000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107152000 -0600" stop="20210107162000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Un lobo adolescente</title>
   </programme>
-  <programme start="20210107162000 -0600" stop="20210107183000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107162000 -0600" stop="20210107183000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">En busca de la felicidad</title>
   </programme>
-  <programme start="20210107183000 -0600" stop="20210107210000 -0600" channel="Canal Sony (Chile)">
+  <programme start="20210107183000 -0600" stop="20210107210000 -0600" channel="Canal Sony (Venezuela)">
     <title lang="es">Inquebrantable</title>
   </programme>
-  <programme start="20210102010500 -0600" stop="20210102022500 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102010500 -0600" stop="20210102022500 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">[Rec</title>
   </programme>
-  <programme start="20210102022500 -0600" stop="20210102035000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102022500 -0600" stop="20210102035000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">REC 2</title>
   </programme>
-  <programme start="20210102035000 -0600" stop="20210102053600 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102035000 -0600" stop="20210102053600 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">La gran apuesta</title>
   </programme>
-  <programme start="20210102053600 -0600" stop="20210102054900 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102053600 -0600" stop="20210102054900 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210102054900 -0600" stop="20210102060000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102054900 -0600" stop="20210102060000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210102060000 -0600" stop="20210102060300 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102060000 -0600" stop="20210102060300 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Fillers individuales HBO</title>
   </programme>
-  <programme start="20210102060300 -0600" stop="20210102064000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102060300 -0600" stop="20210102064000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210102064000 -0600" stop="20210102072200 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102064000 -0600" stop="20210102072200 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210102072200 -0600" stop="20210102073300 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102072200 -0600" stop="20210102073300 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210102073300 -0600" stop="20210102094400 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102073300 -0600" stop="20210102094400 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Amor y Tesoro</title>
   </programme>
-  <programme start="20210102094400 -0600" stop="20210102114500 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102094400 -0600" stop="20210102114500 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Turks &amp; Caicos</title>
   </programme>
-  <programme start="20210102114500 -0600" stop="20210102132500 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102114500 -0600" stop="20210102132500 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">El Máximo Juego</title>
   </programme>
-  <programme start="20210102132500 -0600" stop="20210102150200 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102132500 -0600" stop="20210102150200 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Peligrosa Compañía</title>
   </programme>
-  <programme start="20210102150200 -0600" stop="20210102162600 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102150200 -0600" stop="20210102162600 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">La Reunión del Diablo</title>
   </programme>
-  <programme start="20210102162600 -0600" stop="20210102181100 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102162600 -0600" stop="20210102181100 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Francotirador El legado</title>
   </programme>
-  <programme start="20210102181100 -0600" stop="20210102194900 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102181100 -0600" stop="20210102194900 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Ghost Rider Espíritu de venganza</title>
   </programme>
-  <programme start="20210102194900 -0600" stop="20210102220000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102194900 -0600" stop="20210102220000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Cazafantasmas</title>
   </programme>
-  <programme start="20210102220000 -0600" stop="20210103002600 -0600" channel="Canal Space (Chile)">
+  <programme start="20210102220000 -0600" stop="20210103002600 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Spider-Man: De Regreso a Casa</title>
   </programme>
-  <programme start="20210103002600 -0600" stop="20210103020600 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103002600 -0600" stop="20210103020600 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">La noche del demonio Capítulo 3</title>
   </programme>
-  <programme start="20210103020600 -0600" stop="20210103032700 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103020600 -0600" stop="20210103032700 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">[REC]³ Génesis</title>
   </programme>
-  <programme start="20210103032700 -0600" stop="20210103052100 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103032700 -0600" stop="20210103052100 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Amor y Tesoro</title>
   </programme>
-  <programme start="20210103052100 -0600" stop="20210103052400 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103052100 -0600" stop="20210103052400 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Fillers individuales HBO</title>
   </programme>
-  <programme start="20210103052400 -0600" stop="20210103060000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103052400 -0600" stop="20210103060000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210103060000 -0600" stop="20210103060200 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103060000 -0600" stop="20210103060200 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Fillers individuales HBO</title>
   </programme>
-  <programme start="20210103060200 -0600" stop="20210103063900 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103060200 -0600" stop="20210103063900 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210103063900 -0600" stop="20210103072300 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103063900 -0600" stop="20210103072300 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210103072300 -0600" stop="20210103090800 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103072300 -0600" stop="20210103090800 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Peligrosa Compañía</title>
   </programme>
-  <programme start="20210103090800 -0600" stop="20210103104100 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103090800 -0600" stop="20210103104100 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">La Reunión del Diablo</title>
   </programme>
-  <programme start="20210103104100 -0600" stop="20210103123000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103104100 -0600" stop="20210103123000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Francotirador El legado</title>
   </programme>
-  <programme start="20210103123000 -0600" stop="20210103141300 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103123000 -0600" stop="20210103141300 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Aew - all elite wrestling</title>
   </programme>
-  <programme start="20210103141300 -0600" stop="20210103155100 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103141300 -0600" stop="20210103155100 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Ghost Rider Espíritu de venganza</title>
   </programme>
-  <programme start="20210103155100 -0600" stop="20210103175700 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103155100 -0600" stop="20210103175700 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Cazafantasmas</title>
   </programme>
-  <programme start="20210103175700 -0600" stop="20210103193400 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103175700 -0600" stop="20210103193400 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hancock</title>
   </programme>
-  <programme start="20210103193400 -0600" stop="20210103211400 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103193400 -0600" stop="20210103211400 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Operación Peligrosa</title>
   </programme>
-  <programme start="20210103211400 -0600" stop="20210103230900 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103211400 -0600" stop="20210103230900 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">El gran maestro 4</title>
   </programme>
-  <programme start="20210103230900 -0600" stop="20210104013000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210103230900 -0600" stop="20210104013000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Spider-Man: De Regreso a Casa</title>
   </programme>
-  <programme start="20210104013000 -0600" stop="20210104025900 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104013000 -0600" stop="20210104025900 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Lucy</title>
   </programme>
-  <programme start="20210104025900 -0600" stop="20210104043500 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104025900 -0600" stop="20210104043500 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Tiburones Del Hielo</title>
   </programme>
-  <programme start="20210104043500 -0600" stop="20210104051000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104043500 -0600" stop="20210104051000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210104051000 -0600" stop="20210104054400 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104051000 -0600" stop="20210104054400 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210104054400 -0600" stop="20210104060000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104054400 -0600" stop="20210104060000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210104060000 -0600" stop="20210104063700 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104060000 -0600" stop="20210104063700 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210104063700 -0600" stop="20210104071400 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104063700 -0600" stop="20210104071400 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210104071400 -0600" stop="20210104073000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104071400 -0600" stop="20210104073000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210104073000 -0600" stop="20210104093300 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104073000 -0600" stop="20210104093300 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">El Gran Maestro 2</title>
   </programme>
-  <programme start="20210104093300 -0600" stop="20210104113700 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104093300 -0600" stop="20210104113700 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">El gran maestro 3</title>
   </programme>
-  <programme start="20210104113700 -0600" stop="20210104132500 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104113700 -0600" stop="20210104132500 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">10,000 A.C</title>
   </programme>
-  <programme start="20210104132500 -0600" stop="20210104151200 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104132500 -0600" stop="20210104151200 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Insignias de Furia</title>
   </programme>
-  <programme start="20210104151200 -0600" stop="20210104164900 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104151200 -0600" stop="20210104164900 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hancock</title>
   </programme>
-  <programme start="20210104164900 -0600" stop="20210104182800 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104164900 -0600" stop="20210104182800 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Operación Peligrosa</title>
   </programme>
-  <programme start="20210104182800 -0600" stop="20210104200600 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104182800 -0600" stop="20210104200600 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Golpe fulminante</title>
   </programme>
-  <programme start="20210104200600 -0600" stop="20210104220000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104200600 -0600" stop="20210104220000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">El gran maestro 4</title>
   </programme>
-  <programme start="20210104220000 -0600" stop="20210104233600 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104220000 -0600" stop="20210104233600 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Lucy</title>
   </programme>
-  <programme start="20210104233600 -0600" stop="20210105011700 -0600" channel="Canal Space (Chile)">
+  <programme start="20210104233600 -0600" stop="20210105011700 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Aew - all elite wrestling</title>
   </programme>
-  <programme start="20210105011700 -0600" stop="20210105031200 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105011700 -0600" stop="20210105031200 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">El Efecto Mariposa (The Butterfly Effect)</title>
   </programme>
-  <programme start="20210105031200 -0600" stop="20210105050200 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105031200 -0600" stop="20210105050200 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">El gran maestro</title>
   </programme>
-  <programme start="20210105050200 -0600" stop="20210105051500 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105050200 -0600" stop="20210105051500 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Fillers individuales HBO</title>
   </programme>
-  <programme start="20210105051500 -0600" stop="20210105055000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105051500 -0600" stop="20210105055000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210105055000 -0600" stop="20210105060000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105055000 -0600" stop="20210105060000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Hollywood one on one 2020</title>
   </programme>
-  <programme start="20210105060000 -0600" stop="20210105072000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105060000 -0600" stop="20210105072000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">El Gran Maestro 2</title>
   </programme>
-  <programme start="20210105072000 -0600" stop="20210105091000 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105072000 -0600" stop="20210105091000 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">El gran maestro 3</title>
   </programme>
-  <programme start="20210105091000 -0600" stop="20210105110200 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105091000 -0600" stop="20210105110200 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">10,000 A.C</title>
   </programme>
-  <programme start="20210105110200 -0600" stop="20210105125300 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105110200 -0600" stop="20210105125300 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Insignias de Furia</title>
   </programme>
-  <programme start="20210105125300 -0600" stop="20210105143100 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105125300 -0600" stop="20210105143100 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Golpe fulminante</title>
   </programme>
-  <programme start="20210105143100 -0600" stop="20210105170900 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105143100 -0600" stop="20210105170900 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">El Código Da Vinci</title>
   </programme>
-  <programme start="20210105170900 -0600" stop="20210105184200 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105170900 -0600" stop="20210105184200 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">En el Tornado</title>
   </programme>
-  <programme start="20210105184200 -0600" stop="20210105202200 -0600" channel="Canal Space (Chile)">
+  <programme start="20210105184200 -0600" stop="20210105202200 -0600" channel="Canal Space (Venezuela)">
     <title lang="es">Juego de magos</title>
   </programme>
   <programme start="20210102001500 -0600" stop="20210102004000 -0600" channel="Canal History (Chile)">
