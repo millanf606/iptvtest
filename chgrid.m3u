@@ -1,0 +1,75 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="a-e-mundo_m" tvg-name="a-e-mundo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Series",A&E
+http://thex.tv:57999/luzmarina/luzmarina/358
+#EXTINF:-1 tvg-ID="amc_m" tvg-name="amc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Series",AMC
+http://thex.tv:57999/luzmarina/luzmarina/362
+#EXTINF:-1 tvg-ID="axn_m" tvg-name="axn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Series",AXN
+http://thex.tv:57999/luzmarina/luzmarina/365
+#EXTINF:-1 tvg-ID="cinecanal-1_m" tvg-name="cinecanal-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Series",Cinecanal
+http://thex.tv:57999/luzmarina/luzmarina/373
+#EXTINF:-1 tvg-ID="cine-latino_m" tvg-name="cine-latino_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine-latino_m.png" group-title="Series",Cine Latino
+http://thex.tv:57999/luzmarina/luzmarina/374
+#EXTINF:-1 tvg-ID="cinemax-sur_m" tvg-name="cinemax-sur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Series",Cinemax
+http://thex.tv:57999/luzmarina/luzmarina/378
+#EXTINF:-1 tvg-ID="de-pelicula_m" tvg-name="de-pelicula_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Series",De Pelicula
+http://thex.tv:57999/luzmarina/luzmarina/379
+#EXTINF:-1 tvg-ID="dhe_m" tvg-name="dhe_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_m.png" group-title="Series",DHE
+http://thex.tv:57999/luzmarina/luzmarina/381
+#EXTINF:-1 tvg-ID="fx_m" tvg-name="fx_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Series",FX
+http://thex.tv:57999/luzmarina/luzmarina/408
+#EXTINF:-1 tvg-ID="fx-movies-m" tvg-name="fx-movies-m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Series",FX Movies
+http://thex.tv:57999/luzmarina/luzmarina/410
+#EXTINF:-1 tvg-ID="golden_m" tvg-name="golden_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Series",Golden
+http://thex.tv:57999/luzmarina/luzmarina/412
+#EXTINF:-1 tvg-ID="golden-edge_m" tvg-name="golden-edge_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Series",Golden EDGE
+http://thex.tv:57999/luzmarina/luzmarina/414
+#EXTINF:-1 tvg-ID="i-sat_m" tvg-name="i-sat_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/i-sat_m.png" group-title="Series",I-SAT
+http://thex.tv:57999/luzmarina/luzmarina/433
+#EXTINF:-1 tvg-ID="paramount-channel_m" tvg-name="paramount-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Series",Paramount Channel 
+http://thex.tv:57999/luzmarina/luzmarina/440
+#EXTINF:-1 tvg-ID="sony_m" tvg-name="sony_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Series",Sony 
+http://thex.tv:57999/luzmarina/luzmarina/447
+#EXTINF:-1 tvg-ID="space_m" tvg-name="space_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Series",Space 
+http://thex.tv:57999/luzmarina/luzmarina/450
+#EXTINF:-1 tvg-ID="studio-universal_m" tvg-name="studio-universal_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Series",Studio Universal
+http://thex.tv:57999/luzmarina/luzmarina/465
+#EXTINF:-1 tvg-ID="sy-fy_m" tvg-name="sy-fy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Series",SyFy
+http://thex.tv:57999/luzmarina/luzmarina/468
+#EXTINF:-1 tvg-ID="tcm_m" tvg-name="tcm_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Series",TCM
+http://thex.tv:57999/luzmarina/luzmarina/470
+#EXTINF:-1 tvg-ID="tnt_m" tvg-name="tnt_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Series",TNT
+http://thex.tv:57999/luzmarina/luzmarina/473
+#EXTINF:-1 tvg-ID="tnt-series_m" tvg-name="tnt-series_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Series",TNT Series
+http://thex.tv:57999/luzmarina/luzmarina/476
+#EXTINF:-1 tvg-ID="universal-channel_m" tvg-name="universal-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Series",Universal TV
+http://thex.tv:57999/luzmarina/luzmarina/484
+#EXTINF:-1 tvg-ID="warner-channel_m" tvg-name="warner-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Series",Warner Channel
+http://thex.tv:57999/luzmarina/luzmarina/487
+#EXTINF:-1 tvg-ID="comedy-central_m" tvg-name="comedy-central_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Series",Comedy Central
+http://thex.tv:57999/luzmarina/luzmarina/636
+#EXTINF:-1 tvg-ID="tbs_m" tvg-name="tbs_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Series",TBS
+http://thex.tv:57999/luzmarina/luzmarina/665
+#EXTINF:-1 tvg-ID="espn_m" tvg-name="espn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Centro 
+http://thex.tv:57999/luzmarina/luzmarina/222
+#EXTINF:-1 tvg-ID="espn-sur_m" tvg-name="espn-sur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Sur 
+http://thex.tv:57999/luzmarina/luzmarina/6214
+#EXTINF:-1 tvg-ID="espn-2_m" tvg-name="espn-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 
+http://thex.tv:57999/luzmarina/luzmarina/237
+#EXTINF:-1 tvg-ID="espn-3_m" tvg-name="espn-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 
+http://thex.tv:57999/luzmarina/luzmarina/240
+#EXTINF:-1 tvg-ID="espn-1_m" tvg-name="espn-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra 
+http://thex.tv:57999/luzmarina/luzmarina/243
+#EXTINF:-1 tvg-ID="fox-sports_m" tvg-name="fox-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports Sur 
+http://thex.tv:57999/luzmarina/luzmarina/268
+#EXTINF:-1 tvg-ID="fox-sports-2_m" tvg-name="fox-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
+http://thex.tv:57999/luzmarina/luzmarina/262
+#EXTINF:-1 tvg-ID="fox-sports-2-sur_m" tvg-name="fox-sports-2-sur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
+http://thex.tv:57999/luzmarina/luzmarina/271
+#EXTINF:-1 tvg-ID="fox-sports-3_m" tvg-name="fox-sports-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3 
+http://thex.tv:57999/luzmarina/luzmarina/265
+#EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DirecTV Sports 
+http://thex.tv:57999/luzmarina/luzmarina/211
+#EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DirecTV Sports 2 
+http://thex.tv:57999/luzmarina/luzmarina/214
+#EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus 
+http://thex.tv:57999/luzmarina/luzmarina/217
