@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<site generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V3.0.0.11 -- Jan van Straaten" site="gatotv.com">
-  <channels>
-    <channel site="gatotv.com" site_id="sony_argentina" update="i" xmltv_id="Canal Sony (Argentina)">Sony</channel>
-    <channel site="gatotv.com" site_id="space_sur" update="i" xmltv_id="Canal Space (Sur)">Space</channel>
-    <channel site="gatotv.com" site_id="history_panregional" update="i" xmltv_id="Canal History (Panregional)">History</channel>
-  </channels>
-</site>
