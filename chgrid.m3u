@@ -103,3 +103,19 @@ http://thex.tv:57999/luzmarina/luzmarina/211
 http://thex.tv:57999/luzmarina/luzmarina/214
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus 
 http://thex.tv:57999/luzmarina/luzmarina/217
+#EXTINF:-1 tvg-ID="hustler_m" tvg-name="hustler_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hustler_m.png" group-title="Adultos",Hustler TV
+http://thex.tv:57999/luzmarina/luzmarina/1612
+#EXTINF:-1 tvg-ID="erotic_m" tvg-name="erotic_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/erotic_m.png" group-title="Adultos",Pink Erotic
+http://thex.tv:57999/luzmarina/luzmarina/1734
+#EXTINF:-1 tvg-ID="erotic-2_m" tvg-name="erotic-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/erotic-2_m.png" group-title="Adultos",Pink Erotic 2
+http://thex.tv:57999/luzmarina/luzmarina/1730
+#EXTINF:-1 tvg-ID="erotic-7_m" tvg-name="erotic-7_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/erotic-7_m.png" group-title="Adultos",Pink Erotic 7
+http://thex.tv:57999/luzmarina/luzmarina/1661
+#EXTINF:-1 tvg-ID="sextreme_m" tvg-name="sextreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sextreme_m.png" group-title="Adultos",Sextreme
+http://thex.tv:57999/luzmarina/luzmarina/1628
+#EXTINF:-1 tvg-ID="venus_m" tvg-name="venus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adultos",Venus
+http://thex.tv:57999/luzmarina/luzmarina/1640
+#EXTINF:-1 tvg-ID="private_m" tvg-name="private_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/private_m.png" group-title="Adultos",Private
+http://thex.tv:57999/luzmarina/luzmarina/1671
+#EXTINF:-1 tvg-ID="hot_m" tvg-name="hot_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hot_m.png" group-title="Adultos",Hot
+http://thex.tv:57999/luzmarina/luzmarina/1615
