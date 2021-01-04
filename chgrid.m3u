@@ -1,4 +1,36 @@
 #EXTM3U
+#EXTINF:-1 tvg-ID="baby-fisrt_m" tvg-name="baby-fisrt_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/baby-fisrt_m.png" group-title="Infantiles",Baby First 
+http://thex.tv:57999/luzmarina/luzmarina/489
+#EXTINF:-1 tvg-ID="babytv_m" tvg-name="babytv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantiles",BabyTV 
+http://thex.tv:57999/luzmarina/luzmarina/492
+#EXTINF:-1 tvg-ID="boing_m" tvg-name="boing_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/boing_m.png" group-title="Infantiles",Boing España 
+http://thex.tv:57999/luzmarina/luzmarina/493
+#EXTINF:-1 tvg-ID="boomerang-cartoon_m" tvg-name="boomerang-cartoon_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/boomerang-cartoon_m.png" group-title="Infantiles",Boomerang 
+http://thex.tv:57999/luzmarina/luzmarina/496
+#EXTINF:-1 tvg-ID="cartoon-network_m" tvg-name="cartoon-network_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantiles",Cartoon Network 
+http://thex.tv:57999/luzmarina/luzmarina/499
+#EXTINF:-1 tvg-ID="discovery-kids_m" tvg-name="discovery-kids_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantiles",Discovery Kids 
+http://thex.tv:57999/luzmarina/luzmarina/503
+#EXTINF:-1 tvg-ID="disney-channel_m" tvg-name="disney-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantiles",Disney Channel 
+http://thex.tv:57999/luzmarina/luzmarina/506
+#EXTINF:-1 tvg-ID="disney-jr_m" tvg-name="disney-jr_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantiles",Disney Junior
+http://thex.tv:57999/luzmarina/luzmarina/509
+#EXTINF:-1 tvg-ID="disney-xd_m" tvg-name="disney-xd_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantiles",Disney XD
+http://thex.tv:57999/luzmarina/luzmarina/512
+#EXTINF:-1 tvg-ID="nat-geo-kids_m" tvg-name="nat-geo-kids_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-kids_m.png" group-title="Infantiles",NatGeo Kids
+http://thex.tv:57999/luzmarina/luzmarina/521
+#EXTINF:-1 tvg-ID="nickelodeon_m" tvg-name="nickelodeon_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantiles",Nick
+http://thex.tv:57999/luzmarina/luzmarina/523
+#EXTINF:-1 tvg-ID="nick-toons_m" tvg-name="nick-toons_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-toons_m.png" group-title="Infantiles",Nick Toons
+http://thex.tv:57999/luzmarina/luzmarina/529
+#EXTINF:-1 tvg-ID="bit-me_m" tvg-name="bit-me_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bit-me_m.png" group-title="Infantiles",BitMe
+http://thex.tv:57999/luzmarina/luzmarina/537
+#EXTINF:-1 tvg-ID="tooncast_m" tvg-name="tooncast_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantiles",Tooncast
+http://thex.tv:57999/luzmarina/luzmarina/539
+#EXTINF:-1 tvg-ID="zoomoo_m" tvg-name="zoomoo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/zoomoo_m.png" group-title="Infantiles",ZooMoo
+http://thex.tv:57999/luzmarina/luzmarina/541
+#EXTINF:-1 tvg-ID="loco_m" tvg-name="loco_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/loco_m.png" group-title="Infantiles",Locomotion
+http://thex.tv:57999/luzmarina/luzmarina/519
 #EXTINF:-1 tvg-ID="a-e-mundo_m" tvg-name="a-e-mundo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Series",A&E
 http://thex.tv:57999/luzmarina/luzmarina/358
 #EXTINF:-1 tvg-ID="amc_m" tvg-name="amc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Series",AMC
