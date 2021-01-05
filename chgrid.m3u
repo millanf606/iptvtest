@@ -21,14 +21,13 @@ http://thex.tv:57999/luzmarina/luzmarina/512
 http://thex.tv:57999/luzmarina/luzmarina/521
 #EXTINF:-1 tvg-ID="nickelodeon_m" tvg-name="nickelodeon_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantiles",Nick
 http://thex.tv:57999/luzmarina/luzmarina/523
-#EXTINF:-1 tvg-ID="nick-toons_m" tvg-name="nick-toons_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-toons_m.png" group-title="Infantiles",Nick Toons
-http://thex.tv:57999/luzmarina/luzmarina/529
 #EXTINF:-1 tvg-ID="tooncast_m" tvg-name="tooncast_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantiles",Tooncast
 http://thex.tv:57999/luzmarina/luzmarina/539
 #EXTINF:-1 tvg-ID="zoomoo_m" tvg-name="zoomoo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/zoomoo_m.png" group-title="Infantiles",ZooMoo
 http://thex.tv:57999/luzmarina/luzmarina/541
 #EXTINF:-1 tvg-ID="loco_m" tvg-name="loco_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/loco_m.png" group-title="Infantiles",Locomotion
 http://thex.tv:57999/luzmarina/luzmarina/519
+#
 #EXTINF:-1 tvg-ID="a-e-mundo_m" tvg-name="a-e-mundo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Series",A&E
 http://thex.tv:57999/luzmarina/luzmarina/358
 #EXTINF:-1 tvg-ID="amc_m" tvg-name="amc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Series",AMC
@@ -79,6 +78,7 @@ http://thex.tv:57999/luzmarina/luzmarina/487
 http://thex.tv:57999/luzmarina/luzmarina/636
 #EXTINF:-1 tvg-ID="tbs_m" tvg-name="tbs_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Series",TBS
 http://thex.tv:57999/luzmarina/luzmarina/665
+#
 #EXTINF:-1 tvg-ID="espn_m" tvg-name="espn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Centro 
 http://thex.tv:57999/luzmarina/luzmarina/222
 #EXTINF:-1 tvg-ID="espn-sur_m" tvg-name="espn-sur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Sur 
@@ -103,6 +103,9 @@ http://thex.tv:57999/luzmarina/luzmarina/211
 http://thex.tv:57999/luzmarina/luzmarina/214
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus 
 http://thex.tv:57999/luzmarina/luzmarina/217
+#EXTINF:-1 tvg-ID="sky_m" tvg-name="sky_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sky_m.png" group-title="Deportes",Sky Sports
+http://thex.tv:57999/luzmarina/luzmarina/3406
+#
 #EXTINF:-1 tvg-ID="hustler_m" tvg-name="hustler_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hustler_m.png" group-title="Adultos",Hustler TV
 http://thex.tv:57999/luzmarina/luzmarina/1612
 #EXTINF:-1 tvg-ID="erotic_m" tvg-name="erotic_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/erotic_m.png" group-title="Adultos",Pink Erotic
