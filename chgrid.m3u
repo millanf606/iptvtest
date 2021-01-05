@@ -159,7 +159,7 @@ http://thex.tv:57999/luzmarina/luzmarina/425
 http://thex.tv:57999/luzmarina/luzmarina/5949
 #EXTINF:-1 tvg-ID="hbo-pop_m" tvg-name="hbo-pop_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
 http://thex.tv:57999/luzmarina/luzmarina/6223
-#EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Xtreme
+#EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
 http://thex.tv:57999/luzmarina/luzmarina/436
 #EXTINF:-1 tvg-ID="fox-1-hd_m" tvg-name="fox-1-hd_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-1-hd_m.png" group-title="Premium",FOX Premium Series
 http://thex.tv:57999/luzmarina/luzmarina/406
@@ -170,11 +170,11 @@ http://thex.tv:57999/luzmarina/luzmarina/397
 #EXTINF:-1 tvg-ID="fox-movies_m" tvg-name="fox-movies_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-movies_m.png" group-title="Premium",FOX Premium Movies
 http://thex.tv:57999/luzmarina/luzmarina/403
 #EXTINF:-1 tvg-ID="fox-classic_m" tvg-name="fox-classic_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-classic_m.png" group-title="Premium",FOX Premium Classic
-http://thex.tv:57999/luzmarina/luzmarina/403
+http://thex.tv:57999/luzmarina/luzmarina/394
 #EXTINF:-1 tvg-ID="fox-action_m" tvg-name="fox-action_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-action_m.png" group-title="Premium",FOX Premium Action
 http://thex.tv:57999/luzmarina/luzmarina/388
 #EXTINF:-1 tvg-ID="fox-cinema_m" tvg-name="fox-cinema_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-cinema_m.png" group-title="Premium",FOX Premium Cinema
-http://thex.tv:57999/luzmarina/luzmarina/388
+http://thex.tv:57999/luzmarina/luzmarina/391
 #EXTINF:-1 tvg-ID="straz_m" tvg-name="straz_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz_m.png" group-title="Premium",Starz
 http://thex.tv:57999/luzmarina/luzmarina/459
 #EXTINF:-1 tvg-ID="straz-edge_m" tvg-name="straz-edge_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-edge_m.png" group-title="Premium",Starz EDGE
