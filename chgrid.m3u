@@ -243,3 +243,26 @@ http://thex.tv:57999/luzmarina/luzmarina/5959
 http://thex.tv:57999/luzmarina/luzmarina/4504
 #EXTINF:-1 tvg-ID="ntn24_m" tvg-name="ntn24_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ntn24_m.png" group-title="Noticias",NTN 24
 http://thex.tv:57999/luzmarina/luzmarina/631
+#
+#EXTINF:-1 tvg-ID="nat-geo_m" tvg-name="nat-geo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Documentales",National Geographic 
+http://thex.tv:57999/luzmarina/luzmarina/578
+#EXTINF:-1 tvg-ID="discovery_m" tvg-name="discovery_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Documentales",Discovery Channel
+http://thex.tv:57999/luzmarina/luzmarina/547
+#EXTINF:-1 tvg-ID="animal_m" tvg-name="animal_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Documentales",Animal Planet 
+http://thex.tv:57999/luzmarina/luzmarina/544
+#EXTINF:-1 tvg-ID="nat-geo-wild_m" tvg-name="nat-geo-wild_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Documentales",National Geographic Wild
+http://thex.tv:57999/luzmarina/luzmarina/580
+#EXTINF:-1 tvg-ID="turbo_m" tvg-name="turbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Documentales",Discovery Turbo
+http://thex.tv:57999/luzmarina/luzmarina/563
+#EXTINF:-1 tvg-ID="discovery-tlc_m" tvg-name="discovery-tlc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-tlc_m.png" group-title="Documentales",TLC
+http://thex.tv:57999/luzmarina/luzmarina/583
+#EXTINF:-1 tvg-ID="history_m" tvg-name="history_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Documentales",History
+http://thex.tv:57999/luzmarina/luzmarina/575
+#EXTINF:-1 tvg-ID="h2_m" tvg-name="h2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Documentales",H2
+http://thex.tv:57999/luzmarina/luzmarina/572
+#EXTINF:-1 tvg-ID="film-arts_m" tvg-name="film-arts_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/film-arts_m.png" group-title="Documentales",Film&Arts 
+http://thex.tv:57999/luzmarina/luzmarina/569
+#EXTINF:-1 tvg-ID="discovery-civilization_m" tvg-name="discovery-civilization_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-civilization_m.png" group-title="Documentales",Discovery Civilization  
+http://thex.tv:57999/luzmarina/luzmarina/550
+#EXTINF:-1 tvg-ID="discovery-science_m" tvg-name="discovery-science_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Documentales",Discovery Science  
+http://thex.tv:57999/luzmarina/luzmarina/559
