@@ -235,7 +235,7 @@ http://thex.tv:57999/luzmarina/luzmarina/3406
 #
 #EXTINF:-1 tvg-ID="cnn-espanol_m" tvg-name="cnn-espanol_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
 http://thex.tv:57999/luzmarina/luzmarina/4957
-#EXTINF:-1 tvg-ID="cnn_m" tvg-name="cnn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN en Español
+#EXTINF:-1 tvg-ID="cnn_m" tvg-name="cnn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
 http://thex.tv:57999/luzmarina/luzmarina/624
 #EXTINF:-1 tvg-ID="russia-today_m" tvg-name="russia-today_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
 http://thex.tv:57999/luzmarina/luzmarina/5959
