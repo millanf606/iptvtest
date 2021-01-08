@@ -1,0 +1,251 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="fox_m" tvg-name="fox_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox_m.png" group-title="Series",FOX Channel
+http://thex.tv:57999/luzmarina/luzmarina/385
+#EXTINF:-1 tvg-ID="warner-channel_m" tvg-name="warner-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Series",Warner Channel
+http://thex.tv:57999/luzmarina/luzmarina/487
+#EXTINF:-1 tvg-ID="a-e-mundo_m" tvg-name="a-e-mundo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Series",A&E
+http://thex.tv:57999/luzmarina/luzmarina/358
+#EXTINF:-1 tvg-ID="sony_m" tvg-name="sony_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Series",Sony 
+http://thex.tv:57999/luzmarina/luzmarina/447
+#EXTINF:-1 tvg-ID="axn_m" tvg-name="axn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Series",AXN
+http://thex.tv:57999/luzmarina/luzmarina/365
+#EXTINF:-1 tvg-ID="amc_m" tvg-name="amc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Series",AMC
+http://thex.tv:57999/luzmarina/luzmarina/362
+#EXTINF:-1 tvg-ID="fox-life_m" tvg-name="fox-life_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-life_m.png" group-title="Series",FOX Life
+http://thex.tv:57999/luzmarina/luzmarina/650
+#EXTINF:-1 tvg-ID="tnt-series_m" tvg-name="tnt-series_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Series",TNT Series
+http://thex.tv:57999/luzmarina/luzmarina/476
+#EXTINF:-1 tvg-ID="atreseries_m" tvg-name="atreseries_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/atreseries_m.png" group-title="Series",Atreseries
+http://thex.tv:57999/luzmarina/luzmarina/359
+#EXTINF:-1 tvg-ID="comedy-central_m" tvg-name="comedy-central_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Series",Comedy Central
+http://thex.tv:57999/luzmarina/luzmarina/636
+#EXTINF:-1 tvg-ID="tbs_m" tvg-name="tbs_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Series",TBS
+http://thex.tv:57999/luzmarina/luzmarina/665
+#EXTINF:-1 tvg-ID="fx_m" tvg-name="fx_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Series",FX
+http://thex.tv:57999/luzmarina/luzmarina/408
+#EXTINF:-1 tvg-ID="universal-channel_m" tvg-name="universal-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Series",Universal TV
+http://thex.tv:57999/luzmarina/luzmarina/484
+#EXTINF:-1 tvg-ID="sy-fy_m" tvg-name="sy-fy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Series",SyFy
+http://thex.tv:57999/luzmarina/luzmarina/468
+#EXTINF:-1 tvg-ID="trutv_m" tvg-name="trutv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Series",TruTV
+http://thex.tv:57999/luzmarina/luzmarina/669
+#EXTINF:-1 tvg-ID="hola-tv_m" tvg-name="hola-tv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Series",HolaTV
+http://thex.tv:57999/luzmarina/luzmarina/655
+#EXTINF:-1 tvg-ID="e_m" tvg-name="e_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/e_m.png" group-title="Series",E!
+http://thex.tv:57999/luzmarina/luzmarina/639
+#EXTINF:-1 tvg-ID="discovery-id_m" tvg-name="discovery-id_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Series",Investigation Discovery
+http://thex.tv:57999/luzmarina/luzmarina/556
+#EXTINF:-1 tvg-ID="glitz_m" tvg-name="glitz_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Series",Glitz
+http://thex.tv:57999/luzmarina/luzmarina/652
+#EXTINF:-1 tvg-ID="pasiones_m" tvg-name="pasiones_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasiones_m.png" group-title="Series",Pasiones
+http://thex.tv:57999/luzmarina/luzmarina/661
+#EXTINF:-1 tvg-ID="las-estrellas-m" tvg-name="las-estrellas-m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Series",Las Estrellas 
+http://thex.tv:57999/luzmarina/luzmarina/633
+#EXTINF:-1 tvg-ID="tlnovelas_m" tvg-name="tlnovelas_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Series",TLNovelas
+http://thex.tv:57999/luzmarina/luzmarina/667
+#EXTINF:-1 tvg-ID="lifetime_m" tvg-name="lifetime_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Series",Lifetime
+http://thex.tv:57999/luzmarina/luzmarina/657
+#EXTINF:-1 tvg-ID="h-a-h_m" tvg-name="h-a-h_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Series",Discovery Home & Health 
+http://thex.tv:57999/luzmarina/luzmarina/553
+#EXTINF:-1 tvg-ID="mas-chic_m" tvg-name="mas-chic_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Series",Más Chic
+http://thex.tv:57999/luzmarina/luzmarina/660
+#EXTINF:-1 tvg-ID="telemundo_m" tvg-name="telemundo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Series",Telemundo
+http://thex.tv:57999/luzmarina/luzmarina/666
+#EXTINF:-1 tvg-ID="gourmet_m" tvg-name="gourmet_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Series",El Gourmet
+http://thex.tv:57999/luzmarina/luzmarina/641
+#EXTINF:-1 tvg-ID="food-network_m" tvg-name="food-network_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food-network_m.png" group-title="Series",Food Network
+http://thex.tv:57999/luzmarina/luzmarina/648
+#
+#EXTINF:-1 tvg-ID="mtv_m" tvg-name="mtv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
+http://thex.tv:57999/luzmarina/luzmarina/6225
+#EXTINF:-1 tvg-ID="htv_m" tvg-name="htv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/htv_m.png" group-title="Musica",HTV
+http://thex.tv:57999/luzmarina/luzmarina/591
+#EXTINF:-1 tvg-ID="vh1_m" tvg-name="vh1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vh1_m.png" group-title="Musica",VH1
+http://thex.tv:57999/luzmarina/luzmarina/616
+#EXTINF:-1 tvg-ID="muchmusic_m" tvg-name="muchmusic_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/muchmusic_m.png" group-title="Musica",MuchMusic 
+http://thex.tv:57999/luzmarina/luzmarina/605
+#
+#EXTINF:-1 tvg-ID="cartoon-network_m" tvg-name="cartoon-network_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantiles",Cartoon Network 
+http://thex.tv:57999/luzmarina/luzmarina/499
+#EXTINF:-1 tvg-ID="nickelodeon_m" tvg-name="nickelodeon_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantiles",Nick
+http://thex.tv:57999/luzmarina/luzmarina/523
+#EXTINF:-1 tvg-ID="nick-jr_m" tvg-name="nick-jr_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantiles",Nick Jr.
+http://thex.tv:57999/luzmarina/luzmarina/525
+#EXTINF:-1 tvg-ID="disney-channel_m" tvg-name="disney-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantiles",Disney Channel 
+http://thex.tv:57999/luzmarina/luzmarina/506
+#EXTINF:-1 tvg-ID="disney-jr_m" tvg-name="disney-jr_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantiles",Disney Junior
+http://thex.tv:57999/luzmarina/luzmarina/509
+#EXTINF:-1 tvg-ID="disney-xd_m" tvg-name="disney-xd_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantiles",Disney XD
+http://thex.tv:57999/luzmarina/luzmarina/512
+#EXTINF:-1 tvg-ID="nat-geo-kids_m" tvg-name="nat-geo-kids_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-kids_m.png" group-title="Infantiles",NatGeo Kids
+http://thex.tv:57999/luzmarina/luzmarina/520
+#EXTINF:-1 tvg-ID="zoomoo_m" tvg-name="zoomoo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/zoomoo_m.png" group-title="Infantiles",ZooMoo
+http://thex.tv:57999/luzmarina/luzmarina/541
+#EXTINF:-1 tvg-ID="discovery-kids_m" tvg-name="discovery-kids_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantiles",Discovery Kids 
+http://thex.tv:57999/luzmarina/luzmarina/503
+#EXTINF:-1 tvg-ID="boomerang-cartoon_m" tvg-name="boomerang-cartoon_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/boomerang-cartoon_m.png" group-title="Infantiles",Boomerang 
+http://thex.tv:57999/luzmarina/luzmarina/496
+#EXTINF:-1 tvg-ID="baby-fisrt_m" tvg-name="baby-fisrt_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/baby-fisrt_m.png" group-title="Infantiles",Baby First 
+http://thex.tv:57999/luzmarina/luzmarina/489
+#EXTINF:-1 tvg-ID="babytv_m" tvg-name="babytv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantiles",BabyTV 
+http://thex.tv:57999/luzmarina/luzmarina/492
+#EXTINF:-1 tvg-ID="boing_m" tvg-name="boing_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/boing_m.png" group-title="Infantiles",Boing España 
+http://thex.tv:57999/luzmarina/luzmarina/493
+#EXTINF:-1 tvg-ID="tooncast_m" tvg-name="tooncast_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantiles",Tooncast
+http://thex.tv:57999/luzmarina/luzmarina/539
+#EXTINF:-1 tvg-ID="loco_m" tvg-name="loco_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/loco_m.png" group-title="Infantiles",Locomotion
+http://thex.tv:57999/luzmarina/luzmarina/519
+#
+#EXTINF:-1 tvg-ID="ewtn_m" tvg-name="ewtn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ewtn_m.png" group-title="Religion",EWTN
+http://thex.tv:57999/luzmarina/luzmarina/632
+#EXTINF:-1 tvg-ID="enlace_m" tvg-name="enlace_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/enlace_m.png" group-title="Religion",Enlace
+http://thex.tv:57999/luzmarina/luzmarina/644
+#
+#EXTINF:-1 tvg-ID="tnt_m" tvg-name="tnt_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Series",TNT
+http://thex.tv:57999/luzmarina/luzmarina/473
+#EXTINF:-1 tvg-ID="golden_m" tvg-name="golden_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Series",Golden
+http://thex.tv:57999/luzmarina/luzmarina/412
+#EXTINF:-1 tvg-ID="tcm_m" tvg-name="tcm_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Series",TCM
+http://thex.tv:57999/luzmarina/luzmarina/470
+#EXTINF:-1 tvg-ID="fx-movies-m" tvg-name="fx-movies-m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Series",FX Movies
+http://thex.tv:57999/luzmarina/luzmarina/410
+#EXTINF:-1 tvg-ID="cinecanal-1_m" tvg-name="cinecanal-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Series",Cinecanal
+http://thex.tv:57999/luzmarina/luzmarina/373
+#EXTINF:-1 tvg-ID="studio-universal_m" tvg-name="studio-universal_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Series",Studio Universal
+http://thex.tv:57999/luzmarina/luzmarina/465
+#EXTINF:-1 tvg-ID="cinemax-sur_m" tvg-name="cinemax-sur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Series",Cinemax
+http://thex.tv:57999/luzmarina/luzmarina/378
+#EXTINF:-1 tvg-ID="paramount-channel_m" tvg-name="paramount-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Series",Paramount Channel 
+http://thex.tv:57999/luzmarina/luzmarina/440
+#EXTINF:-1 tvg-ID="dhe_m" tvg-name="dhe_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_m.png" group-title="Series",DHE
+http://thex.tv:57999/luzmarina/luzmarina/381
+#EXTINF:-1 tvg-ID="cine-latino_m" tvg-name="cine-latino_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine-latino_m.png" group-title="Series",Cine Latino
+http://thex.tv:57999/luzmarina/luzmarina/374
+#EXTINF:-1 tvg-ID="de-pelicula_m" tvg-name="de-pelicula_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Series",De Pelicula
+http://thex.tv:57999/luzmarina/luzmarina/379
+#EXTINF:-1 tvg-ID="golden-edge_m" tvg-name="golden-edge_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Series",Golden EDGE
+http://thex.tv:57999/luzmarina/luzmarina/414
+#EXTINF:-1 tvg-ID="space_m" tvg-name="space_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Series",Space 
+http://thex.tv:57999/luzmarina/luzmarina/450
+#EXTINF:-1 tvg-ID="i-sat_m" tvg-name="i-sat_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/i-sat_m.png" group-title="Series",I-SAT
+http://thex.tv:57999/luzmarina/luzmarina/433
+#
+#EXTINF:-1 tvg-ID="hbo_m" tvg-name="hbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
+http://thex.tv:57999/luzmarina/luzmarina/419
+#EXTINF:-1 tvg-ID="hbo-2_m" tvg-name="hbo-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
+http://thex.tv:57999/luzmarina/luzmarina/422
+#EXTINF:-1 tvg-ID="signature_m" tvg-name="signature_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
+http://thex.tv:57999/luzmarina/luzmarina/431
+#EXTINF:-1 tvg-ID="family_m" tvg-name="family_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
+http://thex.tv:57999/luzmarina/luzmarina/425
+#EXTINF:-1 tvg-ID="mundi_m" tvg-name="mundi_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
+http://thex.tv:57999/luzmarina/luzmarina/5949
+#EXTINF:-1 tvg-ID="hbo-pop_m" tvg-name="hbo-pop_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
+http://thex.tv:57999/luzmarina/luzmarina/6223
+#EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
+http://thex.tv:57999/luzmarina/luzmarina/436
+#EXTINF:-1 tvg-ID="fox-1-hd_m" tvg-name="fox-1-hd_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-1-hd_m.png" group-title="Premium",FOX Premium Series
+http://thex.tv:57999/luzmarina/luzmarina/406
+#EXTINF:-1 tvg-ID="fox-family_m" tvg-name="fox-family_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-family_m.png" group-title="Premium",FOX Premium Family
+http://thex.tv:57999/luzmarina/luzmarina/400
+#EXTINF:-1 tvg-ID="fox-comedy_m" tvg-name="fox-comedy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-comedy_m.png" group-title="Premium",FOX Premium Comedy
+http://thex.tv:57999/luzmarina/luzmarina/397
+#EXTINF:-1 tvg-ID="fox-movies_m" tvg-name="fox-movies_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-movies_m.png" group-title="Premium",FOX Premium Movies
+http://thex.tv:57999/luzmarina/luzmarina/403
+#EXTINF:-1 tvg-ID="fox-classic_m" tvg-name="fox-classic_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-classic_m.png" group-title="Premium",FOX Premium Classic
+http://thex.tv:57999/luzmarina/luzmarina/394
+#EXTINF:-1 tvg-ID="fox-action_m" tvg-name="fox-action_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-action_m.png" group-title="Premium",FOX Premium Action
+http://thex.tv:57999/luzmarina/luzmarina/388
+#EXTINF:-1 tvg-ID="fox-cinema_m" tvg-name="fox-cinema_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-cinema_m.png" group-title="Premium",FOX Premium Cinema
+http://thex.tv:57999/luzmarina/luzmarina/391
+#EXTINF:-1 tvg-ID="straz_m" tvg-name="straz_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz_m.png" group-title="Premium",Starz
+http://thex.tv:57999/luzmarina/luzmarina/459
+#EXTINF:-1 tvg-ID="straz-edge_m" tvg-name="straz-edge_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-edge_m.png" group-title="Premium",Starz EDGE
+http://thex.tv:57999/luzmarina/luzmarina/456
+#EXTINF:-1 tvg-ID="straz-comedy_m" tvg-name="straz-comedy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-comedy_m.png" group-title="Premium",Starz Comedy
+http://thex.tv:57999/luzmarina/luzmarina/454
+#EXTINF:-1 tvg-ID="straz-kf_m" tvg-name="straz-kf_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-kf_m.png" group-title="Premium",Starz Kids & Family
+http://thex.tv:57999/luzmarina/luzmarina/460
+#EXTINF:-1 tvg-ID="straz-encore_m" tvg-name="straz-encore_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-encore_m.png" group-title="Premium",Starz Encore
+http://thex.tv:57999/luzmarina/luzmarina/457
+#EXTINF:-1 tvg-ID="straz-action_m" tvg-name="straz-action_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-action_m.png" group-title="Premium",Starz Encore Action
+http://thex.tv:57999/luzmarina/luzmarina/451
+#EXTINF:-1 tvg-ID="straz-black_m" tvg-name="straz-black_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-black_m.png" group-title="Premium",Starz Encore Black
+http://thex.tv:57999/luzmarina/luzmarina/452
+#EXTINF:-1 tvg-ID="straz-classic_m" tvg-name="straz-classic_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-classic_m.png" group-title="Premium",Starz Encore Classic
+http://thex.tv:57999/luzmarina/luzmarina/453
+#EXTINF:-1 tvg-ID="straz-suspense_m" tvg-name="straz-suspense_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-suspense_m.png" group-title="Premium",Starz Encore Suspense
+http://thex.tv:57999/luzmarina/luzmarina/461
+#EXTINF:-1 tvg-ID="straz-westterns_m" tvg-name="straz-westterns_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-westterns_m.png" group-title="Premium",Starz Encore Westerns
+http://thex.tv:57999/luzmarina/luzmarina/462
+#EXTINF:-1 tvg-ID="showtime_m" tvg-name="showtime_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime_m.png" group-title="Premium",Showtime
+http://thex.tv:57999/luzmarina/luzmarina/443
+#EXTINF:-1 tvg-ID="showtime2_m" tvg-name="showtime2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime2_m.png" group-title="Premium",Showtime 2
+http://thex.tv:57999/luzmarina/luzmarina/444
+#EXTINF:-1 tvg-ID="showtimebeyond_m" tvg-name="showtimebeyond_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtimebeyond_m.png" group-title="Premium",Showtime Beyond
+http://thex.tv:57999/luzmarina/luzmarina/441
+#EXTINF:-1 tvg-ID="showtimeextreme_m" tvg-name="showtimeextreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtimeextreme_m.png" group-title="Premium",Showtime Extreme
+http://thex.tv:57999/luzmarina/luzmarina/442
+#EXTINF:-1 tvg-ID="golden-premier_m" tvg-name="golden-premier_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" group-title="Premium",Golden Premier
+http://thex.tv:57999/luzmarina/luzmarina/417
+#
+#EXTINF:-1 tvg-ID="fox-sports_m" tvg-name="fox-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports Sur 
+http://thex.tv:57999/luzmarina/luzmarina/268
+#EXTINF:-1 tvg-ID="fox-sports-2_m" tvg-name="fox-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
+http://thex.tv:57999/luzmarina/luzmarina/262
+#EXTINF:-1 tvg-ID="fox-sports-2-sur_m" tvg-name="fox-sports-2-sur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
+http://thex.tv:57999/luzmarina/luzmarina/271
+#EXTINF:-1 tvg-ID="fox-sports-3_m" tvg-name="fox-sports-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3 
+http://thex.tv:57999/luzmarina/luzmarina/265
+#EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DirecTV Sports 
+http://thex.tv:57999/luzmarina/luzmarina/211
+#EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DirecTV Sports 2 
+http://thex.tv:57999/luzmarina/luzmarina/214
+#EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus 
+http://thex.tv:57999/luzmarina/luzmarina/217
+#EXTINF:-1 tvg-ID="espn_m" tvg-name="espn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Centro 
+http://thex.tv:57999/luzmarina/luzmarina/222
+#EXTINF:-1 tvg-ID="espn-sur_m" tvg-name="espn-sur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Sur 
+http://thex.tv:57999/luzmarina/luzmarina/6214
+#EXTINF:-1 tvg-ID="espn-2_m" tvg-name="espn-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 
+http://thex.tv:57999/luzmarina/luzmarina/236
+#EXTINF:-1 tvg-ID="espn-3_m" tvg-name="espn-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 
+http://thex.tv:57999/luzmarina/luzmarina/240
+#EXTINF:-1 tvg-ID="espn-1_m" tvg-name="espn-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra 
+http://thex.tv:57999/luzmarina/luzmarina/243
+#EXTINF:-1 tvg-ID="sky_m" tvg-name="sky_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sky_m.png" group-title="Deportes",Sky Sports
+http://thex.tv:57999/luzmarina/luzmarina/3406
+#
+#EXTINF:-1 tvg-ID="cnn-espanol_m" tvg-name="cnn-espanol_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
+http://thex.tv:57999/luzmarina/luzmarina/4957
+#EXTINF:-1 tvg-ID="cnn_m" tvg-name="cnn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
+http://thex.tv:57999/luzmarina/luzmarina/624
+#EXTINF:-1 tvg-ID="russia-today_m" tvg-name="russia-today_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
+http://thex.tv:57999/luzmarina/luzmarina/5959
+#EXTINF:-1 tvg-ID="bloomberg_m" tvg-name="bloomberg_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bloomberg_m.png" group-title="Noticias",Bloomberg
+http://thex.tv:57999/luzmarina/luzmarina/4504
+#EXTINF:-1 tvg-ID="ntn24_m" tvg-name="ntn24_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ntn24_m.png" group-title="Noticias",NTN 24
+http://thex.tv:57999/luzmarina/luzmarina/631
+#
+#EXTINF:-1 tvg-ID="nat-geo_m" tvg-name="nat-geo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Documentales",National Geographic 
+http://thex.tv:57999/luzmarina/luzmarina/578
+#EXTINF:-1 tvg-ID="discovery_m" tvg-name="discovery_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Documentales",Discovery Channel
+http://thex.tv:57999/luzmarina/luzmarina/547
+#EXTINF:-1 tvg-ID="animal_m" tvg-name="animal_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Documentales",Animal Planet 
+http://thex.tv:57999/luzmarina/luzmarina/544
+#EXTINF:-1 tvg-ID="nat-geo-wild_m" tvg-name="nat-geo-wild_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Documentales",National Geographic Wild
+http://thex.tv:57999/luzmarina/luzmarina/580
+#EXTINF:-1 tvg-ID="turbo_m" tvg-name="turbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Documentales",Discovery Turbo
+http://thex.tv:57999/luzmarina/luzmarina/563
+#EXTINF:-1 tvg-ID="discovery-tlc_m" tvg-name="discovery-tlc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-tlc_m.png" group-title="Documentales",TLC
+http://thex.tv:57999/luzmarina/luzmarina/583
+#EXTINF:-1 tvg-ID="history_m" tvg-name="history_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Documentales",History
+http://thex.tv:57999/luzmarina/luzmarina/575
+#EXTINF:-1 tvg-ID="h2_m" tvg-name="h2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Documentales",H2
+http://thex.tv:57999/luzmarina/luzmarina/572
+#EXTINF:-1 tvg-ID="film-arts_m" tvg-name="film-arts_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/film-arts_m.png" group-title="Documentales",Film&Arts 
+http://thex.tv:57999/luzmarina/luzmarina/569
+#EXTINF:-1 tvg-ID="discovery-civilization_m" tvg-name="discovery-civilization_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-civilization_m.png" group-title="Documentales",Discovery Civilization  
+http://thex.tv:57999/luzmarina/luzmarina/550
+#EXTINF:-1 tvg-ID="discovery-science_m" tvg-name="discovery-science_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Documentales",Discovery Science
+http://thex.tv:57999/luzmarina/luzmarina/559
