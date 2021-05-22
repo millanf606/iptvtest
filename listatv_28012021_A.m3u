@@ -1,26 +1,26 @@
 #EXTM3U
 #EXTINF:-1 tvg-ID="star-channel_m" tvg-name="star-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Series",Star Channel
-http://tv.nousiptv.com:8080/dani123/dani123/4121
+http://tvplaymundo.com:80/USUARIO/USUARIO/11360
 #EXTINF:-1 tvg-ID="warner-channel_m" tvg-name="warner-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Series",Warner Channel
-http://tv.nousiptv.com:8080/dani123/dani123/3228
+http://tvplaymundo.com:80/USUARIO/USUARIO/4827
 #EXTINF:-1 tvg-ID="sony_m" tvg-name="sony_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Series",Sony 
-http://tv.nousiptv.com:8080/dani123/dani123/3069
+http://tvplaymundo.com:80/USUARIO/USUARIO/4879
 #EXTINF:-1 tvg-ID="axn_m" tvg-name="axn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Series",AXN
-http://tv.nousiptv.com:8080/dani123/dani123/3248
+http://tvplaymundo.com:80/USUARIO/USUARIO/5394
 #EXTINF:-1 tvg-ID="amc_m" tvg-name="amc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Series",AMC
-http://tv.nousiptv.com:8080/dani123/dani123/4118
+http://tvplaymundo.com:80/USUARIO/USUARIO/5086
 #EXTINF:-1 tvg-ID="tnt-series_m" tvg-name="tnt-series_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Series",TNT Series
-http://tv.nousiptv.com:8080/dani123/dani123/3218
+http://tvplaymundo.com:80/USUARIO/USUARIO/4851
 #EXTINF:-1 tvg-ID="comedy-central_m" tvg-name="comedy-central_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Series",Comedy Central
-http://tv.nousiptv.com:8080/dani123/dani123/3241
+http://tvplaymundo.com:80/USUARIO/USUARIO/5391
 #EXTINF:-1 tvg-ID="tbs_m" tvg-name="tbs_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Series",TBS
-http://tv.nousiptv.com:8080/dani123/dani123/4011
+http://tvplaymundo.com:80/USUARIO/USUARIO/4862
 #EXTINF:-1 tvg-ID="fx_m" tvg-name="fx_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Series",FX
-http://tv.nousiptv.com:8080/dani123/dani123/3201
+http://tvplaymundo.com:80/USUARIO/USUARIO/4967
 #EXTINF:-1 tvg-ID="universal-channel_m" tvg-name="universal-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Series",Universal TV
-http://tv.nousiptv.com:8080/dani123/dani123/3068
+http://tvplaymundo.com:80/USUARIO/USUARIO/4838
 #EXTINF:-1 tvg-ID="sy-fy_m" tvg-name="sy-fy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Series",SyFy
-http://tv.nousiptv.com:8080/dani123/dani123/3958
+http://tvplaymundo.com:80/USUARIO/USUARIO/12958
 #
 #EXTINF:-1 tvg-ID="e_m" tvg-name="e_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/e_m.png" group-title="Variedades",E!
 http://tv.nousiptv.com:8080/dani123/dani123/3207
