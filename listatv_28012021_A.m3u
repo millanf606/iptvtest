@@ -152,54 +152,52 @@ http://tvplaymundo.com:80/USUARIO/USUARIO/4990
 http://tvplaymundo.com:80/USUARIO/USUARIO/4987
 #
 #EXTINF:-1 tvg-ID="fox-sports_m" tvg-name="fox-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports Sur 
-http://tv.nousiptv.com:8080/dani123/dani123/3612
+http://tvplaymundo.com:80/USUARIO/USUARIO/4767
 #EXTINF:-1 tvg-ID="fox-sports-2_m" tvg-name="fox-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
-http://tv.nousiptv.com:8080/dani123/dani123/3268
+http://tvplaymundo.com:80/USUARIO/USUARIO/4779
 #EXTINF:-1 tvg-ID="fox-sports-2-sur_m" tvg-name="fox-sports-2-sur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
-http://tv.nousiptv.com:8080/dani123/dani123/42456
+http://tvplaymundo.com:80/USUARIO/USUARIO/4766
 #EXTINF:-1 tvg-ID="fox-sports-3_m" tvg-name="fox-sports-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3 
-http://tv.nousiptv.com:8080/dani123/dani123/43640
+http://tvplaymundo.com:80/USUARIO/USUARIO/4773
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DirecTV Sports 
-http://tv.nousiptv.com:8080/dani123/dani123/33512
+http://tvplaymundo.com:80/USUARIO/USUARIO/22128
 #EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DirecTV Sports 2 
-http://tv.nousiptv.com:8080/dani123/dani123/32881
+http://tvplaymundo.com:80/USUARIO/USUARIO/22130
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus 
-http://tv.nousiptv.com:8080/dani123/dani123/8520
+http://tvplaymundo.com:80/USUARIO/USUARIO/22132
 #EXTINF:-1 tvg-ID="espn_m" tvg-name="espn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Centro 
-http://tv.nousiptv.com:8080/dani123/dani123/3178
+http://tvplaymundo.com:80/USUARIO/USUARIO/4808
 #EXTINF:-1 tvg-ID="espn-sur_m" tvg-name="espn-sur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Sur 
-http://tv.nousiptv.com:8080/dani123/dani123/33469
+http://tvplaymundo.com:80/USUARIO/USUARIO/12135
 #EXTINF:-1 tvg-ID="espn-2_m" tvg-name="espn-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 
-http://tv.nousiptv.com:8080/dani123/dani123/3616
+http://tvplaymundo.com:80/USUARIO/USUARIO/4798
 #EXTINF:-1 tvg-ID="espn-3_m" tvg-name="espn-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 
-http://tv.nousiptv.com:8080/dani123/dani123/43639
+http://tvplaymundo.com:80/USUARIO/USUARIO/4796
 #EXTINF:-1 tvg-ID="espn-1_m" tvg-name="espn-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra 
-http://tv.nousiptv.com:8080/dani123/dani123/43638
+http://tvplaymundo.com:80/USUARIO/USUARIO/12139
 #
 #EXTINF:-1 tvg-ID="cnn-espanol_m" tvg-name="cnn-espanol_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
-http://tv.nousiptv.com:8080/dani123/dani123/4014
+http://tvplaymundo.com:80/USUARIO/USUARIO/5054
 #EXTINF:-1 tvg-ID="cnn_m" tvg-name="cnn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
-http://tv.nousiptv.com:8080/dani123/dani123/33360
-#EXTINF:-1 tvg-ID="russia-today_m" tvg-name="russia-today_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
-http://tv.nousiptv.com:8080/dani123/dani123/2064
+http://tvplaymundo.com:80/USUARIO/USUARIO/5051
 #
 #EXTINF:-1 tvg-ID="nat-geo_m" tvg-name="nat-geo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Documentales",National Geographic 
-http://tv.nousiptv.com:8080/dani123/dani123/4126
+http://tvplaymundo.com:80/USUARIO/USUARIO/5329
 #EXTINF:-1 tvg-ID="discovery_m" tvg-name="discovery_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Documentales",Discovery Channel
-http://tv.nousiptv.com:8080/dani123/dani123/3251
+http://tvplaymundo.com:80/USUARIO/USUARIO/5036
 #EXTINF:-1 tvg-ID="animal_m" tvg-name="animal_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Documentales",Animal Planet 
-http://tv.nousiptv.com:8080/dani123/dani123/3247
+http://tvplaymundo.com:80/USUARIO/USUARIO/5078
 #EXTINF:-1 tvg-ID="nat-geo-wild_m" tvg-name="nat-geo-wild_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Documentales",National Geographic Wild
-http://tv.nousiptv.com:8080/dani123/dani123/3270
+http://tvplaymundo.com:80/USUARIO/USUARIO/4902
 #EXTINF:-1 tvg-ID="turbo_m" tvg-name="turbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Documentales",Discovery Turbo
-http://tv.nousiptv.com:8080/dani123/dani123/3257
+http://tvplaymundo.com:80/USUARIO/USUARIO/5024
 #EXTINF:-1 tvg-ID="discovery-tlc_m" tvg-name="discovery-tlc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-tlc_m.png" group-title="Documentales",TLC
-http://tv.nousiptv.com:8080/dani123/dani123/3256
+http://tvplaymundo.com:80/USUARIO/USUARIO/5018
 #EXTINF:-1 tvg-ID="history_m" tvg-name="history_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Documentales",History
-http://tv.nousiptv.com:8080/dani123/dani123/3234
+http://tvplaymundo.com:80/USUARIO/USUARIO/4950
 #EXTINF:-1 tvg-ID="h2_m" tvg-name="h2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Documentales",H2
-http://tv.nousiptv.com:8080/dani123/dani123/4005
+http://tvplaymundo.com:80/USUARIO/USUARIO/4948
 #EXTINF:-1 tvg-ID="discovery-civilization_m" tvg-name="discovery-civilization_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-civilization_m.png" group-title="Documentales",Discovery Civilization  
-http://tv.nousiptv.com:8080/dani123/dani123/6020
+http://tvplaymundo.com:80/USUARIO/USUARIO/22732
 #EXTINF:-1 tvg-ID="discovery-science_m" tvg-name="discovery-science_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Documentales",Discovery Science  
-http://tv.nousiptv.com:8080/dani123/dani123/3082
+http://tvplaymundo.com:80/USUARIO/USUARIO/5028
