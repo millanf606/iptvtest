@@ -121,55 +121,35 @@ http://tvplaymundo.com:80/USUARIO/USUARIO/4872
 http://tvplaymundo.com:80/USUARIO/USUARIO/4928
 #
 #EXTINF:-1 tvg-ID="hbo_m" tvg-name="hbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
-http://tv.nousiptv.com:8080/dani123/dani123/3199
+http://tvplaymundo.com:80/USUARIO/USUARIO/10315
 #EXTINF:-1 tvg-ID="hbo-2_m" tvg-name="hbo-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
-http://tv.nousiptv.com:8080/dani123/dani123/3198
+http://tvplaymundo.com:80/USUARIO/USUARIO/4941
 #EXTINF:-1 tvg-ID="signature_m" tvg-name="signature_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
-http://tv.nousiptv.com:8080/dani123/dani123/3197
+http://tvplaymundo.com:80/USUARIO/USUARIO/4934
 #EXTINF:-1 tvg-ID="family_m" tvg-name="family_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
-http://tv.nousiptv.com:8080/dani123/dani123/4017
+http://tvplaymundo.com:80/USUARIO/USUARIO/4939
 #EXTINF:-1 tvg-ID="mundi_m" tvg-name="mundi_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
-http://tv.nousiptv.com:8080/dani123/dani123/44337
+http://tvplaymundo.com:80/USUARIO/USUARIO/4911
 #EXTINF:-1 tvg-ID="hbo-pop_m" tvg-name="hbo-pop_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
-http://tv.nousiptv.com:8080/dani123/dani123/47445
+http://tvplaymundo.com:80/USUARIO/USUARIO/14661
 #EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
-http://tv.nousiptv.com:8080/dani123/dani123/44341
-#EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Plus
-http://tv.nousiptv.com:8080/dani123/dani123/4003
+http://tvplaymundo.com:80/USUARIO/USUARIO/4909
+#EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
+http://tvplaymundo.com:80/USUARIO/USUARIO/4936
 #EXTINF:-1 tvg-ID="star-series_m" tvg-name="star-series_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-series_m.png" group-title="Premium",Star Series
-http://tv.nousiptv.com:8080/dani123/dani123/3262
+http://tvplaymundo.com:80/USUARIO/USUARIO/4980
 #EXTINF:-1 tvg-ID="star-fun_m" tvg-name="star-fun_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-fun_m.png" group-title="Premium",Star Fun
-http://tv.nousiptv.com:8080/dani123/dani123/4032
+http://tvplaymundo.com:80/USUARIO/USUARIO/4977
 #EXTINF:-1 tvg-ID="star-comedy_m" tvg-name="star-comedy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png" group-title="Premium",Star Comedy
-http://tv.nousiptv.com:8080/dani123/dani123/3102
+http://tvplaymundo.com:80/USUARIO/USUARIO/4975
 #EXTINF:-1 tvg-ID="star-hits_m" tvg-name="star-hits_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-hits_m.png" group-title="Premium",Star Hits
-http://tv.nousiptv.com:8080/dani123/dani123/3266
+http://tvplaymundo.com:80/USUARIO/USUARIO/4983
 #EXTINF:-1 tvg-ID="star-class_m" tvg-name="star-class_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-class_m.png" group-title="Premium",Star Classic
-http://tv.nousiptv.com:8080/dani123/dani123/3077
+http://tvplaymundo.com:80/USUARIO/USUARIO/4985
 #EXTINF:-1 tvg-ID="star-action_m" tvg-name="star-action_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-action_m.png" group-title="Premium",Star Action
-http://tv.nousiptv.com:8080/dani123/dani123/3263
+http://tvplaymundo.com:80/USUARIO/USUARIO/4990
 #EXTINF:-1 tvg-ID="star-cinema_m" tvg-name="star-cinema_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-cinema_m.png" group-title="Premium",Star Cinema
-http://tv.nousiptv.com:8080/dani123/dani123/3264
-#EXTINF:-1 tvg-ID="straz_m" tvg-name="straz_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz_m.png" group-title="Premium",Starz
-http://tv.nousiptv.com:8080/dani123/dani123/8132
-#EXTINF:-1 tvg-ID="straz-comedy_m" tvg-name="straz-comedy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-comedy_m.png" group-title="Premium",Starz Comedy
-http://tv.nousiptv.com:8080/dani123/dani123/8135
-#EXTINF:-1 tvg-ID="straz-kf_m" tvg-name="straz-kf_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-kf_m.png" group-title="Premium",Starz Kids & Family
-http://tv.nousiptv.com:8080/dani123/dani123/8133
-#EXTINF:-1 tvg-ID="straz-encore_m" tvg-name="straz-encore_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-encore_m.png" group-title="Premium",Starz Encore
-http://tv.nousiptv.com:8080/dani123/dani123/8126
-#EXTINF:-1 tvg-ID="straz-action_m" tvg-name="straz-action_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-action_m.png" group-title="Premium",Starz Encore Action
-http://tv.nousiptv.com:8080/dani123/dani123/8128
-#EXTINF:-1 tvg-ID="straz-black_m" tvg-name="straz-black_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-black_m.png" group-title="Premium",Starz Encore Black
-http://tv.nousiptv.com:8080/dani123/dani123/8127
-#EXTINF:-1 tvg-ID="straz-suspense_m" tvg-name="straz-suspense_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-suspense_m.png" group-title="Premium",Starz Encore Suspense
-http://tv.nousiptv.com:8080/dani123/dani123/8130
-#EXTINF:-1 tvg-ID="straz-westterns_m" tvg-name="straz-westterns_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/straz-westterns_m.png" group-title="Premium",Starz Westerns
-http://tv.nousiptv.com:8080/dani123/dani123/8134
-#EXTINF:-1 tvg-ID="showtime_m" tvg-name="showtime_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime_m.png" group-title="Premium",Showtime
-http://tv.nousiptv.com:8080/dani123/dani123/8138
-#EXTINF:-1 tvg-ID="showtimebeyond_m" tvg-name="showtimebeyond_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtimebeyond_m.png" group-title="Premium",Showtime Beyond
-http://tv.nousiptv.com:8080/dani123/dani123/8139
+http://tvplaymundo.com:80/USUARIO/USUARIO/4987
 #
 #EXTINF:-1 tvg-ID="fox-sports_m" tvg-name="fox-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports Sur 
 http://tv.nousiptv.com:8080/dani123/dani123/3612
