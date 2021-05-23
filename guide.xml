@@ -20,6 +20,26 @@
     <display-name lang="es">FX</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
+  <channel id="HBO Family">
+    <display-name lang="es">HBO Family</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Star Fun">
+    <display-name lang="es">Star Fun</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Star Hits">
+    <display-name lang="es">Star Hits</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Star Classic">
+    <display-name lang="es">Star Classic</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Star Action">
+    <display-name lang="es">Star Action</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
   <channel id="History">
     <display-name lang="es">History</display-name>
     <url>http://www.gatotv.com</url>
@@ -2472,6 +2492,1077 @@
   </programme>
   <programme start="20210530230000 -0500" stop="20210531011000 -0500" channel="FX">
     <title lang="es">Escape Imposible</title>
+  </programme>
+  <programme start="20210523001100 -0500" stop="20210523023400 -0500" channel="HBO Family">
+    <title lang="es">El hombre araña 3</title>
+  </programme>
+  <programme start="20210523023400 -0500" stop="20210523040200 -0500" channel="HBO Family">
+    <title lang="es">Los misterios de Hailey Dean</title>
+  </programme>
+  <programme start="20210523040200 -0500" stop="20210523052300 -0500" channel="HBO Family">
+    <title lang="es">Batman La máscara</title>
+  </programme>
+  <programme start="20210523052300 -0500" stop="20210523055400 -0500" channel="HBO Family">
+    <title lang="es">Bebés clásicos canción cuna 2</title>
+  </programme>
+  <programme start="20210523055400 -0500" stop="20210523073100 -0500" channel="HBO Family">
+    <title lang="es">Una historia de Navidad</title>
+  </programme>
+  <programme start="20210523073100 -0500" stop="20210523085700 -0500" channel="HBO Family">
+    <title lang="es">La Princesa Encantada</title>
+  </programme>
+  <programme start="20210523085700 -0500" stop="20210523103600 -0500" channel="HBO Family">
+    <title lang="es">Mi Perro Skip</title>
+  </programme>
+  <programme start="20210523103600 -0500" stop="20210523121400 -0500" channel="HBO Family">
+    <title lang="es">Ricky Ricón</title>
+  </programme>
+  <programme start="20210523121400 -0500" stop="20210523135300 -0500" channel="HBO Family">
+    <title lang="es">Turbo</title>
+  </programme>
+  <programme start="20210523135300 -0500" stop="20210523153400 -0500" channel="HBO Family">
+    <title lang="es">Un Amigo Abominable</title>
+  </programme>
+  <programme start="20210523153400 -0500" stop="20210523170900 -0500" channel="HBO Family">
+    <title lang="es">Amor de Medianoche</title>
+  </programme>
+  <programme start="20210523170900 -0500" stop="20210523190800 -0500" channel="HBO Family">
+    <title lang="es">Hairspray, suéltate el pelo</title>
+  </programme>
+  <programme start="20210523190800 -0500" stop="20210523210000 -0500" channel="HBO Family">
+    <title lang="es">Happy Feet El pingüino</title>
+  </programme>
+  <programme start="20210523210000 -0500" stop="20210523224100 -0500" channel="HBO Family">
+    <title lang="es">Un Amigo Abominable</title>
+  </programme>
+  <programme start="20210523224100 -0500" stop="20210524001500 -0500" channel="HBO Family">
+    <title lang="es">Amor de Medianoche</title>
+  </programme>
+  <programme start="20210524224100 -0500" stop="20210525001500 -0500" channel="HBO Family">
+    <title lang="es">Amor de Medianoche</title>
+  </programme>
+  <programme start="20210525001500 -0500" stop="20210525022400 -0500" channel="HBO Family">
+    <title lang="es">Blanca Nieves y El Cazador</title>
+  </programme>
+  <programme start="20210525022400 -0500" stop="20210525041800 -0500" channel="HBO Family">
+    <title lang="es">Definitivamente, Tal Vez</title>
+  </programme>
+  <programme start="20210525041800 -0500" stop="20210525060500 -0500" channel="HBO Family">
+    <title lang="es">El Grinch</title>
+  </programme>
+  <programme start="20210525060500 -0500" stop="20210525073200 -0500" channel="HBO Family">
+    <title lang="es">Antz Hormiguitaz</title>
+  </programme>
+  <programme start="20210525073200 -0500" stop="20210525085900 -0500" channel="HBO Family">
+    <title lang="es">Amigos inseparables</title>
+  </programme>
+  <programme start="20210525085900 -0500" stop="20210525103200 -0500" channel="HBO Family">
+    <title lang="es">Vecinos al rescate</title>
+  </programme>
+  <programme start="20210525103200 -0500" stop="20210525120900 -0500" channel="HBO Family">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20210525120900 -0500" stop="20210525134900 -0500" channel="HBO Family">
+    <title lang="es">Mi Villano Favorito 2</title>
+  </programme>
+  <programme start="20210525134900 -0500" stop="20210525155500 -0500" channel="HBO Family">
+    <title lang="es">Jumanji El siguiente nivel</title>
+  </programme>
+  <programme start="20210525155500 -0500" stop="20210525173600 -0500" channel="HBO Family">
+    <title lang="es">Locas vacaciones sobre ruedas</title>
+  </programme>
+  <programme start="20210525173600 -0500" stop="20210525192600 -0500" channel="HBO Family">
+    <title lang="es">Un niño de otro mundo</title>
+  </programme>
+  <programme start="20210525192600 -0500" stop="20210525210000 -0500" channel="HBO Family">
+    <title lang="es">La casa de los sustos</title>
+  </programme>
+  <programme start="20210525210000 -0500" stop="20210525223800 -0500" channel="HBO Family">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20210525223800 -0500" stop="20210526002000 -0500" channel="HBO Family">
+    <title lang="es">Mi Villano Favorito 2</title>
+  </programme>
+  <programme start="20210526002000 -0500" stop="20210526022600 -0500" channel="HBO Family">
+    <title lang="es">Jumanji El siguiente nivel</title>
+  </programme>
+  <programme start="20210526022600 -0500" stop="20210526035600 -0500" channel="HBO Family">
+    <title lang="es">Darrow y Darrow</title>
+  </programme>
+  <programme start="20210526035600 -0500" stop="20210526052700 -0500" channel="HBO Family">
+    <title lang="es">Madeline</title>
+  </programme>
+  <programme start="20210526052700 -0500" stop="20210526065500 -0500" channel="HBO Family">
+    <title lang="es">Gordo Mentiroso</title>
+  </programme>
+  <programme start="20210526065500 -0500" stop="20210526081400 -0500" channel="HBO Family">
+    <title lang="es">Open Season 2 Amigos salvajes</title>
+  </programme>
+  <programme start="20210526081400 -0500" stop="20210526093300 -0500" channel="HBO Family">
+    <title lang="es">Batman La máscara</title>
+  </programme>
+  <programme start="20210526093300 -0500" stop="20210526111700 -0500" channel="HBO Family">
+    <title lang="es">Donde viven los monstruos</title>
+  </programme>
+  <programme start="20210526111700 -0500" stop="20210526130300 -0500" channel="HBO Family">
+    <title lang="es">Dolittle</title>
+  </programme>
+  <programme start="20210526130300 -0500" stop="20210526151100 -0500" channel="HBO Family">
+    <title lang="es">Quédate a mi lado</title>
+  </programme>
+  <programme start="20210526151100 -0500" stop="20210526173400 -0500" channel="HBO Family">
+    <title lang="es">Comer, Rezar, Amar</title>
+  </programme>
+  <programme start="20210526173400 -0500" stop="20210526192600 -0500" channel="HBO Family">
+    <title lang="es">Señoritas de negro</title>
+  </programme>
+  <programme start="20210526192600 -0500" stop="20210526210000 -0500" channel="HBO Family">
+    <title lang="es">Norm y los Invencibles</title>
+  </programme>
+  <programme start="20210526210000 -0500" stop="20210526224400 -0500" channel="HBO Family">
+    <title lang="es">Dolittle</title>
+  </programme>
+  <programme start="20210526224400 -0500" stop="20210527010600 -0500" channel="HBO Family">
+    <title lang="es">Comer, Rezar, Amar</title>
+  </programme>
+  <programme start="20210527010600 -0500" stop="20210527031300 -0500" channel="HBO Family">
+    <title lang="es">Quédate a mi lado</title>
+  </programme>
+  <programme start="20210527031300 -0500" stop="20210527045100 -0500" channel="HBO Family">
+    <title lang="es">Corazón de dragón La venganza</title>
+  </programme>
+  <programme start="20210527045100 -0500" stop="20210527061700 -0500" channel="HBO Family">
+    <title lang="es">Aventuras de Dally y Spanky</title>
+  </programme>
+  <programme start="20210527061700 -0500" stop="20210527064600 -0500" channel="HBO Family">
+    <title lang="es">Bebés clásicos canción cuna 2</title>
+  </programme>
+  <programme start="20210527064600 -0500" stop="20210527084300 -0500" channel="HBO Family">
+    <title lang="es">El hermano de Santa</title>
+  </programme>
+  <programme start="20210527084300 -0500" stop="20210527100700 -0500" channel="HBO Family">
+    <title lang="es">La Princesa Encantada</title>
+  </programme>
+  <programme start="20210527100700 -0500" stop="20210527114300 -0500" channel="HBO Family">
+    <title lang="es">Ratchet y Clank</title>
+  </programme>
+  <programme start="20210527114300 -0500" stop="20210527131200 -0500" channel="HBO Family">
+    <title lang="es">Vida secreta de tus mascotas 2</title>
+  </programme>
+  <programme start="20210527131200 -0500" stop="20210527150300 -0500" channel="HBO Family">
+    <title lang="es">Happy Feet El pingüino</title>
+  </programme>
+  <programme start="20210527150300 -0500" stop="20210527172400 -0500" channel="HBO Family">
+    <title lang="es">El hombre araña 3</title>
+  </programme>
+  <programme start="20210527172400 -0500" stop="20210527192200 -0500" channel="HBO Family">
+    <title lang="es">Hairspray, suéltate el pelo</title>
+  </programme>
+  <programme start="20210527192200 -0500" stop="20210527210000 -0500" channel="HBO Family">
+    <title lang="es">Turbo</title>
+  </programme>
+  <programme start="20210527210000 -0500" stop="20210527223000 -0500" channel="HBO Family">
+    <title lang="es">Vida secreta de tus mascotas 2</title>
+  </programme>
+  <programme start="20210527223000 -0500" stop="20210528002000 -0500" channel="HBO Family">
+    <title lang="es">Un niño de otro mundo</title>
+  </programme>
+  <programme start="20210528002000 -0500" stop="20210528021200 -0500" channel="HBO Family">
+    <title lang="es">Happy Feet El pingüino</title>
+  </programme>
+  <programme start="20210528021200 -0500" stop="20210528041800 -0500" channel="HBO Family">
+    <title lang="es">Apóyate en mí</title>
+  </programme>
+  <programme start="20210528041800 -0500" stop="20210528055800 -0500" channel="HBO Family">
+    <title lang="es">Turbo</title>
+  </programme>
+  <programme start="20210528055800 -0500" stop="20210528072900 -0500" channel="HBO Family">
+    <title lang="es">Jorge el curioso Mono real</title>
+  </programme>
+  <programme start="20210528072900 -0500" stop="20210528090100 -0500" channel="HBO Family">
+    <title lang="es">Madeline</title>
+  </programme>
+  <programme start="20210528090100 -0500" stop="20210528103300 -0500" channel="HBO Family">
+    <title lang="es">Gordo Mentiroso</title>
+  </programme>
+  <programme start="20210528103300 -0500" stop="20210528120000 -0500" channel="HBO Family">
+    <title lang="es">Aventuras de Dally y Spanky</title>
+  </programme>
+  <programme start="20210528120000 -0500" stop="20210528140600 -0500" channel="HBO Family">
+    <title lang="es">Jumanji El siguiente nivel</title>
+  </programme>
+  <programme start="20210528140600 -0500" stop="20210528160000 -0500" channel="HBO Family">
+    <title lang="es">Una nueva eternidad</title>
+  </programme>
+  <programme start="20210528160000 -0500" stop="20210528175500 -0500" channel="HBO Family">
+    <title lang="es">Definitivamente, Tal Vez</title>
+  </programme>
+  <programme start="20210528175500 -0500" stop="20210528193300 -0500" channel="HBO Family">
+    <title lang="es">Kung Fu Panda 3</title>
+  </programme>
+  <programme start="20210528193300 -0500" stop="20210528210000 -0500" channel="HBO Family">
+    <title lang="es">Antz Hormiguitaz</title>
+  </programme>
+  <programme start="20210528210000 -0500" stop="20210528222900 -0500" channel="HBO Family">
+    <title lang="es">Reyes de las olas</title>
+  </programme>
+  <programme start="20210528222900 -0500" stop="20210529003400 -0500" channel="HBO Family">
+    <title lang="es">Jumanji El siguiente nivel</title>
+  </programme>
+  <programme start="20210529003400 -0500" stop="20210529022700 -0500" channel="HBO Family">
+    <title lang="es">Una nueva eternidad</title>
+  </programme>
+  <programme start="20210529022700 -0500" stop="20210529042100 -0500" channel="HBO Family">
+    <title lang="es">Scott Pilgrim contra los ex</title>
+  </programme>
+  <programme start="20210529042100 -0500" stop="20210529060800 -0500" channel="HBO Family">
+    <title lang="es">El Grinch</title>
+  </programme>
+  <programme start="20210529060800 -0500" stop="20210529063700 -0500" channel="HBO Family">
+    <title lang="es">Bebés clásicos canción cuna 2</title>
+  </programme>
+  <programme start="20210529063700 -0500" stop="20210529080900 -0500" channel="HBO Family">
+    <title lang="es">Norm y los Invencibles</title>
+  </programme>
+  <programme start="20210529080900 -0500" stop="20210529093600 -0500" channel="HBO Family">
+    <title lang="es">Amigos inseparables</title>
+  </programme>
+  <programme start="20210529093600 -0500" stop="20210529111700 -0500" channel="HBO Family">
+    <title lang="es">Locas vacaciones sobre ruedas</title>
+  </programme>
+  <programme start="20210529111700 -0500" stop="20210529123600 -0500" channel="HBO Family">
+    <title lang="es">Open Season 2 Amigos salvajes</title>
+  </programme>
+  <programme start="20210529123600 -0500" stop="20210529141000 -0500" channel="HBO Family">
+    <title lang="es">La casa de los sustos</title>
+  </programme>
+  <programme start="20210529141000 -0500" stop="20210529154800 -0500" channel="HBO Family">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20210529154800 -0500" stop="20210529173200 -0500" channel="HBO Family">
+    <title lang="es">Donde viven los monstruos</title>
+  </programme>
+  <programme start="20210529173200 -0500" stop="20210529192200 -0500" channel="HBO Family">
+    <title lang="es">Un niño de otro mundo</title>
+  </programme>
+  <programme start="20210529192200 -0500" stop="20210529210000 -0500" channel="HBO Family">
+    <title lang="es">Mi villano favorito</title>
+  </programme>
+  <programme start="20210529210000 -0500" stop="20210529224200 -0500" channel="HBO Family">
+    <title lang="es">Mi Villano Favorito 2</title>
+  </programme>
+  <programme start="20210529224200 -0500" stop="20210530001700 -0500" channel="HBO Family">
+    <title lang="es">Amor de Medianoche</title>
+  </programme>
+  <programme start="20210530224200 -0500" stop="20210531001700 -0500" channel="HBO Family">
+    <title lang="es">Amor de Medianoche</title>
+  </programme>
+  <programme start="20210523002100 -0500" stop="20210523022200 -0500" channel="Star Fun">
+    <title lang="es">Máquinas Mortales</title>
+  </programme>
+  <programme start="20210523022200 -0500" stop="20210523035700 -0500" channel="Star Fun">
+    <title lang="es">Mi abuela es un peligro 2</title>
+  </programme>
+  <programme start="20210523035700 -0500" stop="20210523053400 -0500" channel="Star Fun">
+    <title lang="es">Encontrando la navidad</title>
+  </programme>
+  <programme start="20210523053400 -0500" stop="20210523064800 -0500" channel="Star Fun">
+    <title lang="es">Thor historias de Asgard</title>
+  </programme>
+  <programme start="20210523064800 -0500" stop="20210523081400 -0500" channel="Star Fun">
+    <title lang="es">¿Y dónde está el piloto</title>
+  </programme>
+  <programme start="20210523081400 -0500" stop="20210523095400 -0500" channel="Star Fun">
+    <title lang="es">La Navidad de Madea</title>
+  </programme>
+  <programme start="20210523095400 -0500" stop="20210523111300 -0500" channel="Star Fun">
+    <title lang="es">Todos los Perros Van al Cielo 2</title>
+  </programme>
+  <programme start="20210523111300 -0500" stop="20210523123900 -0500" channel="Star Fun">
+    <title lang="es">Mini espías y los ladrones del tiempo 4</title>
+  </programme>
+  <programme start="20210523123900 -0500" stop="20210523143100 -0500" channel="Star Fun">
+    <title lang="es">El club de madres solteras</title>
+  </programme>
+  <programme start="20210523143100 -0500" stop="20210523164700 -0500" channel="Star Fun">
+    <title lang="es">Hulk</title>
+  </programme>
+  <programme start="20210523164700 -0500" stop="20210523181000 -0500" channel="Star Fun">
+    <title lang="es">Hansel y Gretel: Cazadores de Brujas</title>
+  </programme>
+  <programme start="20210523181000 -0500" stop="20210523193500 -0500" channel="Star Fun">
+    <title lang="es">Las Aventuras del Capitán Calzoncillos</title>
+  </programme>
+  <programme start="20210523193500 -0500" stop="20210523210000 -0500" channel="Star Fun">
+    <title lang="es">Trolls</title>
+  </programme>
+  <programme start="20210523210000 -0500" stop="20210523224700 -0500" channel="Star Fun">
+    <title lang="es">Mi abuela es un peligro 3</title>
+  </programme>
+  <programme start="20210523224700 -0500" stop="20210524002100 -0500" channel="Star Fun">
+    <title lang="es">Guerra De Papás</title>
+  </programme>
+  <programme start="20210524224700 -0500" stop="20210525002100 -0500" channel="Star Fun">
+    <title lang="es">Guerra De Papás</title>
+  </programme>
+  <programme start="20210525002100 -0500" stop="20210525015800 -0500" channel="Star Fun">
+    <title lang="es">Guerra de Papás 2</title>
+  </programme>
+  <programme start="20210525015800 -0500" stop="20210525033100 -0500" channel="Star Fun">
+    <title lang="es">La guardería del abuelo</title>
+  </programme>
+  <programme start="20210525033100 -0500" stop="20210525050900 -0500" channel="Star Fun">
+    <title lang="es">Las niñas de papá</title>
+  </programme>
+  <programme start="20210525050900 -0500" stop="20210525063400 -0500" channel="Star Fun">
+    <title lang="es">Mini espías y los ladrones del tiempo 4</title>
+  </programme>
+  <programme start="20210525063400 -0500" stop="20210525080100 -0500" channel="Star Fun">
+    <title lang="es">Guerra de comida</title>
+  </programme>
+  <programme start="20210525080100 -0500" stop="20210525091500 -0500" channel="Star Fun">
+    <title lang="es">Thor historias de Asgard</title>
+  </programme>
+  <programme start="20210525091500 -0500" stop="20210525104800 -0500" channel="Star Fun">
+    <title lang="es">Jesús Henry Cristo</title>
+  </programme>
+  <programme start="20210525104800 -0500" stop="20210525122200 -0500" channel="Star Fun">
+    <title lang="es">Ella es así</title>
+  </programme>
+  <programme start="20210525122200 -0500" stop="20210525140000 -0500" channel="Star Fun">
+    <title lang="es">La reina pagana</title>
+  </programme>
+  <programme start="20210525140000 -0500" stop="20210525153000 -0500" channel="Star Fun">
+    <title lang="es">It's a Very Merry Muppet Christmas Movie</title>
+  </programme>
+  <programme start="20210525153000 -0500" stop="20210525165800 -0500" channel="Star Fun">
+    <title lang="es">Ghosting The Spirit of Christmas</title>
+  </programme>
+  <programme start="20210525165800 -0500" stop="20210525182400 -0500" channel="Star Fun">
+    <title lang="es">Angel Falls A Novel Holiday</title>
+  </programme>
+  <programme start="20210525182400 -0500" stop="20210525200000 -0500" channel="Star Fun">
+    <title lang="es">El Origen de los Guardianes</title>
+  </programme>
+  <programme start="20210525200000 -0500" stop="20210525212400 -0500" channel="Star Fun">
+    <title lang="es">Las Aventuras del Capitán Calzoncillos</title>
+  </programme>
+  <programme start="20210525212400 -0500" stop="20210525225900 -0500" channel="Star Fun">
+    <title lang="es">Ella es así</title>
+  </programme>
+  <programme start="20210525225900 -0500" stop="20210526002900 -0500" channel="Star Fun">
+    <title lang="es">Salvados, que el cielo los ayude</title>
+  </programme>
+  <programme start="20210526002900 -0500" stop="20210526020200 -0500" channel="Star Fun">
+    <title lang="es">Jesús Henry Cristo</title>
+  </programme>
+  <programme start="20210526020200 -0500" stop="20210526032000 -0500" channel="Star Fun">
+    <title lang="es">Pena ajena</title>
+  </programme>
+  <programme start="20210526032000 -0500" stop="20210526044500 -0500" channel="Star Fun">
+    <title lang="es">Mini espías y los ladrones del tiempo 4</title>
+  </programme>
+  <programme start="20210526044500 -0500" stop="20210526061300 -0500" channel="Star Fun">
+    <title lang="es">Guerra de comida</title>
+  </programme>
+  <programme start="20210526061300 -0500" stop="20210526075000 -0500" channel="Star Fun">
+    <title lang="es">El implacable</title>
+  </programme>
+  <programme start="20210526075000 -0500" stop="20210526092700 -0500" channel="Star Fun">
+    <title lang="es">La reina pagana</title>
+  </programme>
+  <programme start="20210526092700 -0500" stop="20210526105600 -0500" channel="Star Fun">
+    <title lang="es">It's a Very Merry Muppet Christmas Movie</title>
+  </programme>
+  <programme start="20210526105600 -0500" stop="20210526122200 -0500" channel="Star Fun">
+    <title lang="es">¿Y dónde está el piloto</title>
+  </programme>
+  <programme start="20210526122200 -0500" stop="20210526134100 -0500" channel="Star Fun">
+    <title lang="es">Todos los Perros Van al Cielo 2</title>
+  </programme>
+  <programme start="20210526134100 -0500" stop="20210526150800 -0500" channel="Star Fun">
+    <title lang="es">The Thing About Harry</title>
+  </programme>
+  <programme start="20210526150800 -0500" stop="20210526163900 -0500" channel="Star Fun">
+    <title lang="es">Love in the Forecast</title>
+  </programme>
+  <programme start="20210526163900 -0500" stop="20210526182100 -0500" channel="Star Fun">
+    <title lang="es">Juntos otra vez</title>
+  </programme>
+  <programme start="20210526182100 -0500" stop="20210526200000 -0500" channel="Star Fun">
+    <title lang="es">Las niñas de papá</title>
+  </programme>
+  <programme start="20210523001500 -0500" stop="20210523015800 -0500" channel="Star Hits">
+    <title lang="es">Non-Stop: Sin Escalas</title>
+  </programme>
+  <programme start="20210523015800 -0500" stop="20210523034400 -0500" channel="Star Hits">
+    <title lang="es">Jojo Rabbit</title>
+  </programme>
+  <programme start="20210523034400 -0500" stop="20210523051800 -0500" channel="Star Hits">
+    <title lang="es">Boda Sangrienta</title>
+  </programme>
+  <programme start="20210523051800 -0500" stop="20210523073300 -0500" channel="Star Hits">
+    <title lang="es">Bajo el planeta de los simios</title>
+  </programme>
+  <programme start="20210523073300 -0500" stop="20210523085800 -0500" channel="Star Hits">
+    <title lang="es">Escuadrón de la muerte</title>
+  </programme>
+  <programme start="20210523085800 -0500" stop="20210523102300 -0500" channel="Star Hits">
+    <title lang="es">Hansel &amp; Gretel</title>
+  </programme>
+  <programme start="20210523102300 -0500" stop="20210523120400 -0500" channel="Star Hits">
+    <title lang="es">Código Sombra Jack Ryan</title>
+  </programme>
+  <programme start="20210523120400 -0500" stop="20210523135900 -0500" channel="Star Hits">
+    <title lang="es">Nosotros</title>
+  </programme>
+  <programme start="20210523135900 -0500" stop="20210523161300 -0500" channel="Star Hits">
+    <title lang="es">Logan</title>
+  </programme>
+  <programme start="20210523161300 -0500" stop="20210523174400 -0500" channel="Star Hits">
+    <title lang="es">Búsqueda implacable</title>
+  </programme>
+  <programme start="20210523174400 -0500" stop="20210523191300 -0500" channel="Star Hits">
+    <title lang="es">Búsqueda implacable 2</title>
+  </programme>
+  <programme start="20210523191300 -0500" stop="20210523210000 -0500" channel="Star Hits">
+    <title lang="es">Búsqueda Implacable 3</title>
+  </programme>
+  <programme start="20210523210000 -0500" stop="20210523224600 -0500" channel="Star Hits">
+    <title lang="es">Jojo Rabbit</title>
+  </programme>
+  <programme start="20210523224600 -0500" stop="20210524005300 -0500" channel="Star Hits">
+    <title lang="es">Duro de Matar 4.0</title>
+  </programme>
+  <programme start="20210524005300 -0500" stop="20210524024600 -0500" channel="Star Hits">
+    <title lang="es">Robocop 2</title>
+  </programme>
+  <programme start="20210524024600 -0500" stop="20210524042700 -0500" channel="Star Hits">
+    <title lang="es">Robocop 3</title>
+  </programme>
+  <programme start="20210524042700 -0500" stop="20210524060300 -0500" channel="Star Hits">
+    <title lang="es">Amenaza roja</title>
+  </programme>
+  <programme start="20210524060300 -0500" stop="20210524081300 -0500" channel="Star Hits">
+    <title lang="es">El niño y el fugitivo</title>
+  </programme>
+  <programme start="20210524081300 -0500" stop="20210524095200 -0500" channel="Star Hits">
+    <title lang="es">El guardián del zoológico</title>
+  </programme>
+  <programme start="20210524095200 -0500" stop="20210524113300 -0500" channel="Star Hits">
+    <title lang="es">Los que aman odian</title>
+  </programme>
+  <programme start="20210524113300 -0500" stop="20210524131900 -0500" channel="Star Hits">
+    <title lang="es">Rango</title>
+  </programme>
+  <programme start="20210524131900 -0500" stop="20210524150400 -0500" channel="Star Hits">
+    <title lang="es">La razón de estar contigo 2</title>
+  </programme>
+  <programme start="20210524150400 -0500" stop="20210524164700 -0500" channel="Star Hits">
+    <title lang="es">Si Decido Quedarme</title>
+  </programme>
+  <programme start="20210524164700 -0500" stop="20210524183000 -0500" channel="Star Hits">
+    <title lang="es">Non-Stop: Sin Escalas</title>
+  </programme>
+  <programme start="20210524183000 -0500" stop="20210524210000 -0500" channel="Star Hits">
+    <title lang="es">Transformers: El Último Caballero</title>
+  </programme>
+  <programme start="20210524210000 -0500" stop="20210524230900 -0500" channel="Star Hits">
+    <title lang="es">Duro de matar</title>
+  </programme>
+  <programme start="20210524230900 -0500" stop="20210525010800 -0500" channel="Star Hits">
+    <title lang="es">Duro de Matar 2</title>
+  </programme>
+  <programme start="20210525230900 -0500" stop="20210526010800 -0500" channel="Star Hits">
+    <title lang="es">Duro de Matar 2</title>
+  </programme>
+  <programme start="20210526010800 -0500" stop="20210526031300 -0500" channel="Star Hits">
+    <title lang="es">Duro de matar 3</title>
+  </programme>
+  <programme start="20210526031300 -0500" stop="20210526051900 -0500" channel="Star Hits">
+    <title lang="es">Duro de Matar 4.0</title>
+  </programme>
+  <programme start="20210526051900 -0500" stop="20210526070000 -0500" channel="Star Hits">
+    <title lang="es">Almas condenadas</title>
+  </programme>
+  <programme start="20210526070000 -0500" stop="20210526082000 -0500" channel="Star Hits">
+    <title lang="es">30 y Viviendo en Casa</title>
+  </programme>
+  <programme start="20210526082000 -0500" stop="20210526094400 -0500" channel="Star Hits">
+    <title lang="es">Un Hombre Común</title>
+  </programme>
+  <programme start="20210526094400 -0500" stop="20210526113700 -0500" channel="Star Hits">
+    <title lang="es">Juegos del Hambre: Sinsajo 1</title>
+  </programme>
+  <programme start="20210526113700 -0500" stop="20210526131300 -0500" channel="Star Hits">
+    <title lang="es">El Especialista Resurrección</title>
+  </programme>
+  <programme start="20210526131300 -0500" stop="20210526144100 -0500" channel="Star Hits">
+    <title lang="es">Becky</title>
+  </programme>
+  <programme start="20210526144100 -0500" stop="20210526162300 -0500" channel="Star Hits">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20210526162300 -0500" stop="20210526174800 -0500" channel="Star Hits">
+    <title lang="es">Hansel &amp; Gretel</title>
+  </programme>
+  <programme start="20210526174800 -0500" stop="20210526192200 -0500" channel="Star Hits">
+    <title lang="es">Guerra De Papás</title>
+  </programme>
+  <programme start="20210526192200 -0500" stop="20210526210000 -0500" channel="Star Hits">
+    <title lang="es">Guerra de Papás 2</title>
+  </programme>
+  <programme start="20210526210000 -0500" stop="20210526231400 -0500" channel="Star Hits">
+    <title lang="es">Logan</title>
+  </programme>
+  <programme start="20210526231400 -0500" stop="20210527004500 -0500" channel="Star Hits">
+    <title lang="es">Amenaza roja</title>
+  </programme>
+  <programme start="20210527004500 -0500" stop="20210527023000 -0500" channel="Star Hits">
+    <title lang="es">Fiesta Navidad en la oficina</title>
+  </programme>
+  <programme start="20210527023000 -0500" stop="20210527041100 -0500" channel="Star Hits">
+    <title lang="es">Código Sombra Jack Ryan</title>
+  </programme>
+  <programme start="20210527041100 -0500" stop="20210527061000 -0500" channel="Star Hits">
+    <title lang="es">La carrera de la muerte 4</title>
+  </programme>
+  <programme start="20210527061000 -0500" stop="20210527081200 -0500" channel="Star Hits">
+    <title lang="es">Jobs</title>
+  </programme>
+  <programme start="20210527081200 -0500" stop="20210527095900 -0500" channel="Star Hits">
+    <title lang="es">Rango</title>
+  </programme>
+  <programme start="20210527095900 -0500" stop="20210527114100 -0500" channel="Star Hits">
+    <title lang="es">Almas condenadas</title>
+  </programme>
+  <programme start="20210527114100 -0500" stop="20210527132300 -0500" channel="Star Hits">
+    <title lang="es">Dos Armas Letales</title>
+  </programme>
+  <programme start="20210527132300 -0500" stop="20210527153000 -0500" channel="Star Hits">
+    <title lang="es">El secreto de sus ojos</title>
+  </programme>
+  <programme start="20210527153000 -0500" stop="20210527172300 -0500" channel="Star Hits">
+    <title lang="es">La guerra de los mundos</title>
+  </programme>
+  <programme start="20210527172300 -0500" stop="20210527184900 -0500" channel="Star Hits">
+    <title lang="es">Escuadrón de la muerte</title>
+  </programme>
+  <programme start="20210527184900 -0500" stop="20210527210000 -0500" channel="Star Hits">
+    <title lang="es">Duro de matar</title>
+  </programme>
+  <programme start="20210527210000 -0500" stop="20210527225900 -0500" channel="Star Hits">
+    <title lang="es">Duro de Matar 2</title>
+  </programme>
+  <programme start="20210527225900 -0500" stop="20210528010300 -0500" channel="Star Hits">
+    <title lang="es">Duro de matar 3</title>
+  </programme>
+  <programme start="20210528225900 -0500" stop="20210529010300 -0500" channel="Star Hits">
+    <title lang="es">Duro de matar 3</title>
+  </programme>
+  <programme start="20210529010300 -0500" stop="20210529024300 -0500" channel="Star Hits">
+    <title lang="es">Marea de fuego 2</title>
+  </programme>
+  <programme start="20210529024300 -0500" stop="20210529051100 -0500" channel="Star Hits">
+    <title lang="es">Transformers: El Último Caballero</title>
+  </programme>
+  <programme start="20210529051100 -0500" stop="20210529065300 -0500" channel="Star Hits">
+    <title lang="es">Paranoia</title>
+  </programme>
+  <programme start="20210529065300 -0500" stop="20210529082100 -0500" channel="Star Hits">
+    <title lang="es">Becky</title>
+  </programme>
+  <programme start="20210529082100 -0500" stop="20210529103500 -0500" channel="Star Hits">
+    <title lang="es">Divergente</title>
+  </programme>
+  <programme start="20210529103500 -0500" stop="20210529121200 -0500" channel="Star Hits">
+    <title lang="es">El Especialista Resurrección</title>
+  </programme>
+  <programme start="20210529121200 -0500" stop="20210529135700 -0500" channel="Star Hits">
+    <title lang="es">El Nombre del Engaño</title>
+  </programme>
+  <programme start="20210529135700 -0500" stop="20210529153000 -0500" channel="Star Hits">
+    <title lang="es">Guerra De Papás</title>
+  </programme>
+  <programme start="20210529153000 -0500" stop="20210529170800 -0500" channel="Star Hits">
+    <title lang="es">Guerra de Papás 2</title>
+  </programme>
+  <programme start="20210529170800 -0500" stop="20210529185300 -0500" channel="Star Hits">
+    <title lang="es">Fiesta Navidad en la oficina</title>
+  </programme>
+  <programme start="20210529185300 -0500" stop="20210529210000 -0500" channel="Star Hits">
+    <title lang="es">Maze Runner: Prueba de fuego</title>
+  </programme>
+  <programme start="20210529210000 -0500" stop="20210529225400 -0500" channel="Star Hits">
+    <title lang="es">La cumbre escarlata</title>
+  </programme>
+  <programme start="20210529225400 -0500" stop="20210530003900 -0500" channel="Star Hits">
+    <title lang="es">La razón de estar contigo 2</title>
+  </programme>
+  <programme start="20210530225400 -0500" stop="20210531003900 -0500" channel="Star Hits">
+    <title lang="es">La razón de estar contigo 2</title>
+  </programme>
+  <programme start="20210523022600 -0500" stop="20210523045500 -0500" channel="Star Classic">
+    <title lang="es">Cromwell Hombre de Hierro</title>
+  </programme>
+  <programme start="20210523045500 -0500" stop="20210523051300 -0500" channel="Star Classic">
+    <title lang="es">Programación Especial</title>
+  </programme>
+  <programme start="20210523051300 -0500" stop="20210523072000 -0500" channel="Star Classic">
+    <title lang="es">Maratón de la muerte</title>
+  </programme>
+  <programme start="20210523072000 -0500" stop="20210523091100 -0500" channel="Star Classic">
+    <title lang="es">Leyenda de los perdidos</title>
+  </programme>
+  <programme start="20210523091100 -0500" stop="20210523111300 -0500" channel="Star Classic">
+    <title lang="es">The outsider</title>
+  </programme>
+  <programme start="20210523111300 -0500" stop="20210523125000 -0500" channel="Star Classic">
+    <title lang="es">El implacable</title>
+  </programme>
+  <programme start="20210523125000 -0500" stop="20210523144700 -0500" channel="Star Classic">
+    <title lang="es">Alíen, el Octavo Pasajero</title>
+  </programme>
+  <programme start="20210523144700 -0500" stop="20210523163300 -0500" channel="Star Classic">
+    <title lang="es">Especies</title>
+  </programme>
+  <programme start="20210523163300 -0500" stop="20210523185000 -0500" channel="Star Classic">
+    <title lang="es">Un Cowboy de la Ciudad</title>
+  </programme>
+  <programme start="20210523185000 -0500" stop="20210523210000 -0500" channel="Star Classic">
+    <title lang="es">Siete Hombres y Un Destino</title>
+  </programme>
+  <programme start="20210523210000 -0500" stop="20210523223400 -0500" channel="Star Classic">
+    <title lang="es">La Pandilla Maldita</title>
+  </programme>
+  <programme start="20210523223400 -0500" stop="20210524000000 -0500" channel="Star Classic">
+    <title lang="es">A la hora señalada</title>
+  </programme>
+  <programme start="20210524000000 -0500" stop="20210524014700 -0500" channel="Star Classic">
+    <title lang="es">Hogueras de odio</title>
+  </programme>
+  <programme start="20210524014700 -0500" stop="20210524031900 -0500" channel="Star Classic">
+    <title lang="es">Hell Is For Heroes</title>
+  </programme>
+  <programme start="20210524031900 -0500" stop="20210524045200 -0500" channel="Star Classic">
+    <title lang="es">El desafío de Pancho Villa</title>
+  </programme>
+  <programme start="20210524045200 -0500" stop="20210524062700 -0500" channel="Star Classic">
+    <title lang="es">Vera Cruz</title>
+  </programme>
+  <programme start="20210524062700 -0500" stop="20210524080400 -0500" channel="Star Classic">
+    <title lang="es">La senda de la guerra</title>
+  </programme>
+  <programme start="20210524080400 -0500" stop="20210524100600 -0500" channel="Star Classic">
+    <title lang="es">Infierno 17</title>
+  </programme>
+  <programme start="20210524100600 -0500" stop="20210524120600 -0500" channel="Star Classic">
+    <title lang="es">El desconocido</title>
+  </programme>
+  <programme start="20210524120600 -0500" stop="20210524135400 -0500" channel="Star Classic">
+    <title lang="es">Para atrapar al ladrón</title>
+  </programme>
+  <programme start="20210524135400 -0500" stop="20210524150900 -0500" channel="Star Classic">
+    <title lang="es">Estación comanche</title>
+  </programme>
+  <programme start="20210524150900 -0500" stop="20210524164600 -0500" channel="Star Classic">
+    <title lang="es">El salvaje</title>
+  </programme>
+  <programme start="20210524164600 -0500" stop="20210524181400 -0500" channel="Star Classic">
+    <title lang="es">La hija de Belle Starr</title>
+  </programme>
+  <programme start="20210524181400 -0500" stop="20210524200000 -0500" channel="Star Classic">
+    <title lang="es">La antesala del infierno</title>
+  </programme>
+  <programme start="20210524200000 -0500" stop="20210524215700 -0500" channel="Star Classic">
+    <title lang="es">Moby dick de john huston</title>
+  </programme>
+  <programme start="20210524215700 -0500" stop="20210525001300 -0500" channel="Star Classic">
+    <title lang="es">Un Cowboy de la Ciudad</title>
+  </programme>
+  <programme start="20210525215700 -0500" stop="20210526001300 -0500" channel="Star Classic">
+    <title lang="es">Un Cowboy de la Ciudad</title>
+  </programme>
+  <programme start="20210526001300 -0500" stop="20210526015100 -0500" channel="Star Classic">
+    <title lang="es">El implacable</title>
+  </programme>
+  <programme start="20210526015100 -0500" stop="20210526035200 -0500" channel="Star Classic">
+    <title lang="es">Expreso de medianoche</title>
+  </programme>
+  <programme start="20210526035200 -0500" stop="20210526052100 -0500" channel="Star Classic">
+    <title lang="es">Vivirás Tu Vida</title>
+  </programme>
+  <programme start="20210526052100 -0500" stop="20210526071000 -0500" channel="Star Classic">
+    <title lang="es">Horizontes desconocidos</title>
+  </programme>
+  <programme start="20210526071000 -0500" stop="20210526085500 -0500" channel="Star Classic">
+    <title lang="es">Adiós, Sabata</title>
+  </programme>
+  <programme start="20210526085500 -0500" stop="20210526102700 -0500" channel="Star Classic">
+    <title lang="es">Hell Is For Heroes</title>
+  </programme>
+  <programme start="20210526102700 -0500" stop="20210526114800 -0500" channel="Star Classic">
+    <title lang="es">El vengador de su padre</title>
+  </programme>
+  <programme start="20210526114800 -0500" stop="20210526130900 -0500" channel="Star Classic">
+    <title lang="es">La espada de Montecristo</title>
+  </programme>
+  <programme start="20210526130900 -0500" stop="20210526151200 -0500" channel="Star Classic">
+    <title lang="es">Duelo de titanes</title>
+  </programme>
+  <programme start="20210526151200 -0500" stop="20210526170100 -0500" channel="Star Classic">
+    <title lang="es">Horizontes desconocidos</title>
+  </programme>
+  <programme start="20210526170100 -0500" stop="20210526182800 -0500" channel="Star Classic">
+    <title lang="es">A la hora señalada</title>
+  </programme>
+  <programme start="20210526182800 -0500" stop="20210526200000 -0500" channel="Star Classic">
+    <title lang="es">Hell Is For Heroes</title>
+  </programme>
+  <programme start="20210526200000 -0500" stop="20210526215300 -0500" channel="Star Classic">
+    <title lang="es">Límite de seguridad</title>
+  </programme>
+  <programme start="20210526215300 -0500" stop="20210527000200 -0500" channel="Star Classic">
+    <title lang="es">Siete Hombres y Un Destino</title>
+  </programme>
+  <programme start="20210527000200 -0500" stop="20210527013600 -0500" channel="Star Classic">
+    <title lang="es">La Pandilla Maldita</title>
+  </programme>
+  <programme start="20210527013600 -0500" stop="20210527032400 -0500" channel="Star Classic">
+    <title lang="es">Adiós, Sabata</title>
+  </programme>
+  <programme start="20210527032400 -0500" stop="20210527052800 -0500" channel="Star Classic">
+    <title lang="es">Viva Zapata</title>
+  </programme>
+  <programme start="20210527052800 -0500" stop="20210527064900 -0500" channel="Star Classic">
+    <title lang="es">La espada de Montecristo</title>
+  </programme>
+  <programme start="20210527064900 -0500" stop="20210527085500 -0500" channel="Star Classic">
+    <title lang="es">Maratón de la muerte</title>
+  </programme>
+  <programme start="20210527085500 -0500" stop="20210527101800 -0500" channel="Star Classic">
+    <title lang="es">El vengador de su padre</title>
+  </programme>
+  <programme start="20210527101800 -0500" stop="20210527122000 -0500" channel="Star Classic">
+    <title lang="es">Infierno 17</title>
+  </programme>
+  <programme start="20210527122000 -0500" stop="20210527141500 -0500" channel="Star Classic">
+    <title lang="es">Viva Zapata</title>
+  </programme>
+  <programme start="20210527141500 -0500" stop="20210527161500 -0500" channel="Star Classic">
+    <title lang="es">El clan siciliano</title>
+  </programme>
+  <programme start="20210527161500 -0500" stop="20210527182300 -0500" channel="Star Classic">
+    <title lang="es">El Dorado</title>
+  </programme>
+  <programme start="20210527182300 -0500" stop="20210527200000 -0500" channel="Star Classic">
+    <title lang="es">El Último Tren</title>
+  </programme>
+  <programme start="20210527200000 -0500" stop="20210527220300 -0500" channel="Star Classic">
+    <title lang="es">Los hijos de katie elder</title>
+  </programme>
+  <programme start="20210527220300 -0500" stop="20210528000300 -0500" channel="Star Classic">
+    <title lang="es">El viento y el león</title>
+  </programme>
+  <programme start="20210528220300 -0500" stop="20210529000300 -0500" channel="Star Classic">
+    <title lang="es">El viento y el león</title>
+  </programme>
+  <programme start="20210529000300 -0500" stop="20210529020000 -0500" channel="Star Classic">
+    <title lang="es">Fiebre de sábado por la noche</title>
+  </programme>
+  <programme start="20210529020000 -0500" stop="20210529033700 -0500" channel="Star Classic">
+    <title lang="es">Un tren al infierno</title>
+  </programme>
+  <programme start="20210529033700 -0500" stop="20210529053000 -0500" channel="Star Classic">
+    <title lang="es">Dr. insólito</title>
+  </programme>
+  <programme start="20210529053000 -0500" stop="20210529072900 -0500" channel="Star Classic">
+    <title lang="es">El clan siciliano</title>
+  </programme>
+  <programme start="20210529072900 -0500" stop="20210529084400 -0500" channel="Star Classic">
+    <title lang="es">Estación comanche</title>
+  </programme>
+  <programme start="20210529084400 -0500" stop="20210529101200 -0500" channel="Star Classic">
+    <title lang="es">La hija de Belle Starr</title>
+  </programme>
+  <programme start="20210529101200 -0500" stop="20210529114900 -0500" channel="Star Classic">
+    <title lang="es">El salvaje</title>
+  </programme>
+  <programme start="20210529114900 -0500" stop="20210529131200 -0500" channel="Star Classic">
+    <title lang="es">El vengador de su padre</title>
+  </programme>
+  <programme start="20210529131200 -0500" stop="20210529145700 -0500" channel="Star Classic">
+    <title lang="es">La antesala del infierno</title>
+  </programme>
+  <programme start="20210529145700 -0500" stop="20210529165400 -0500" channel="Star Classic">
+    <title lang="es">Alíen, el Octavo Pasajero</title>
+  </programme>
+  <programme start="20210529165400 -0500" stop="20210529182700 -0500" channel="Star Classic">
+    <title lang="es">Cujo</title>
+  </programme>
+  <programme start="20210529182700 -0500" stop="20210529200000 -0500" channel="Star Classic">
+    <title lang="es">Los Guerreros</title>
+  </programme>
+  <programme start="20210529200000 -0500" stop="20210529214700 -0500" channel="Star Classic">
+    <title lang="es">El Gran Houdini</title>
+  </programme>
+  <programme start="20210529214700 -0500" stop="20210529231900 -0500" channel="Star Classic">
+    <title lang="es">No te fíes de tu marido</title>
+  </programme>
+  <programme start="20210529231900 -0500" stop="20210530010900 -0500" channel="Star Classic">
+    <title lang="es">Horizontes desconocidos</title>
+  </programme>
+  <programme start="20210530231900 -0500" stop="20210531010900 -0500" channel="Star Classic">
+    <title lang="es">Horizontes desconocidos</title>
+  </programme>
+  <programme start="20210523011300 -0500" stop="20210523030700 -0500" channel="Star Action">
+    <title lang="es">La cumbre escarlata</title>
+  </programme>
+  <programme start="20210523030700 -0500" stop="20210523051500 -0500" channel="Star Action">
+    <title lang="es">Terminator: Destino Oculto</title>
+  </programme>
+  <programme start="20210523051500 -0500" stop="20210523064200 -0500" channel="Star Action">
+    <title lang="es">Bajo amenaza</title>
+  </programme>
+  <programme start="20210523064200 -0500" stop="20210523083000 -0500" channel="Star Action">
+    <title lang="es">Nada es lo que parece</title>
+  </programme>
+  <programme start="20210523083000 -0500" stop="20210523090000 -0500" channel="Star Action">
+    <title lang="es">Previa GP de Monaco</title>
+  </programme>
+  <programme start="20210523090000 -0500" stop="20210523110100 -0500" channel="Star Action">
+    <title lang="es">Gran Premio de Mónaco</title>
+  </programme>
+  <programme start="20210523110100 -0500" stop="20210523122900 -0500" channel="Star Action">
+    <title lang="es">Búsqueda implacable 2</title>
+  </programme>
+  <programme start="20210523122900 -0500" stop="20210523143600 -0500" channel="Star Action">
+    <title lang="es">Duro de Matar 4.0</title>
+  </programme>
+  <programme start="20210523143600 -0500" stop="20210523164500 -0500" channel="Star Action">
+    <title lang="es">Jack Reacher</title>
+  </programme>
+  <programme start="20210523164500 -0500" stop="20210523183500 -0500" channel="Star Action">
+    <title lang="es">Barry Seal: Solo en América</title>
+  </programme>
+  <programme start="20210523183500 -0500" stop="20210523210800 -0500" channel="Star Action">
+    <title lang="es">Bastardos sin gloria</title>
+  </programme>
+  <programme start="20210523210800 -0500" stop="20210523225800 -0500" channel="Star Action">
+    <title lang="es">Guerra Mundial Z</title>
+  </programme>
+  <programme start="20210523225800 -0500" stop="20210524005400 -0500" channel="Star Action">
+    <title lang="es">Sr. y Sra. Smith</title>
+  </programme>
+  <programme start="20210524225800 -0500" stop="20210525005400 -0500" channel="Star Action">
+    <title lang="es">Sr. y Sra. Smith</title>
+  </programme>
+  <programme start="20210525005400 -0500" stop="20210525030300 -0500" channel="Star Action">
+    <title lang="es">Rápidos y Furiosos 8</title>
+  </programme>
+  <programme start="20210525030300 -0500" stop="20210525043400 -0500" channel="Star Action">
+    <title lang="es">Stuber: Locos al Volante</title>
+  </programme>
+  <programme start="20210525043400 -0500" stop="20210525064200 -0500" channel="Star Action">
+    <title lang="es">Rampart</title>
+  </programme>
+  <programme start="20210525064200 -0500" stop="20210525073200 -0500" channel="Star Action">
+    <title lang="es">Countdown UFC 257 Dustin Poir</title>
+  </programme>
+  <programme start="20210525073200 -0500" stop="20210525094200 -0500" channel="Star Action">
+    <title lang="es">Duro de matar</title>
+  </programme>
+  <programme start="20210525094200 -0500" stop="20210525114200 -0500" channel="Star Action">
+    <title lang="es">Duro de Matar 2</title>
+  </programme>
+  <programme start="20210525114200 -0500" stop="20210525134600 -0500" channel="Star Action">
+    <title lang="es">Duro de matar 3</title>
+  </programme>
+  <programme start="20210525134600 -0500" stop="20210525155300 -0500" channel="Star Action">
+    <title lang="es">Duro de Matar 4.0</title>
+  </programme>
+  <programme start="20210525155300 -0500" stop="20210525174200 -0500" channel="Star Action">
+    <title lang="es">Infidel</title>
+  </programme>
+  <programme start="20210525174200 -0500" stop="20210525192000 -0500" channel="Star Action">
+    <title lang="es">Yardie</title>
+  </programme>
+  <programme start="20210525192000 -0500" stop="20210525210000 -0500" channel="Star Action">
+    <title lang="es">RoboCop</title>
+  </programme>
+  <programme start="20210525210000 -0500" stop="20210526003400 -0500" channel="Star Action">
+    <title lang="es">Terminator: Destino Oculto</title>
+  </programme>
+  <programme start="20210526003400 -0500" stop="20210526024200 -0500" channel="Star Action">
+    <title lang="es">Rápidos y Furiosos 8</title>
+  </programme>
+  <programme start="20210526024200 -0500" stop="20210526041100 -0500" channel="Star Action">
+    <title lang="es">Stuber: Locos al Volante</title>
+  </programme>
+  <programme start="20210526041100 -0500" stop="20210526051800 -0500" channel="Star Action">
+    <title lang="es">Rampart</title>
+  </programme>
+  <programme start="20210526051800 -0500" stop="20210526070200 -0500" channel="Star Action">
+    <title lang="es">Escupiré sobre tu tumba 2</title>
+  </programme>
+  <programme start="20210526070200 -0500" stop="20210526083300 -0500" channel="Star Action">
+    <title lang="es">La carta</title>
+  </programme>
+  <programme start="20210526083300 -0500" stop="20210526095500 -0500" channel="Star Action">
+    <title lang="es">Muerte en el camino</title>
+  </programme>
+  <programme start="20210526095500 -0500" stop="20210526112400 -0500" channel="Star Action">
+    <title lang="es">Murder In-Law</title>
+  </programme>
+  <programme start="20210526112400 -0500" stop="20210526124600 -0500" channel="Star Action">
+    <title lang="es">La Enfermera Asesina</title>
+  </programme>
+  <programme start="20210526124600 -0500" stop="20210526142200 -0500" channel="Star Action">
+    <title lang="es">Bajo amenaza</title>
+  </programme>
+  <programme start="20210526142200 -0500" stop="20210526173900 -0500" channel="Star Action">
+    <title lang="es">Piraña 3D</title>
+  </programme>
+  <programme start="20210526173900 -0500" stop="20210526191900 -0500" channel="Star Action">
+    <title lang="es">Yardie</title>
+  </programme>
+  <programme start="20210526191900 -0500" stop="20210526210000 -0500" channel="Star Action">
+    <title lang="es">RoboCop</title>
+  </programme>
+  <programme start="20210526210000 -0500" stop="20210526230200 -0500" channel="Star Action">
+    <title lang="es">Terminator: Destino Oculto</title>
+  </programme>
+  <programme start="20210526230200 -0500" stop="20210527003300 -0500" channel="Star Action">
+    <title lang="es">Stuber: Locos al Volante</title>
+  </programme>
+  <programme start="20210527003300 -0500" stop="20210527023100 -0500" channel="Star Action">
+    <title lang="es">Asesinos por naturaleza</title>
+  </programme>
+  <programme start="20210527023100 -0500" stop="20210527042200 -0500" channel="Star Action">
+    <title lang="es">Guerra Mundial Z</title>
+  </programme>
+  <programme start="20210527042200 -0500" stop="20210527051500 -0500" channel="Star Action">
+    <title lang="es">Especies</title>
+  </programme>
+  <programme start="20210527051500 -0500" stop="20210527064200 -0500" channel="Star Action">
+    <title lang="es">1000 Cuerpos</title>
+  </programme>
+  <programme start="20210527064200 -0500" stop="20210527083000 -0500" channel="Star Action">
+    <title lang="es">El robo del siglo</title>
+  </programme>
+  <programme start="20210527083000 -0500" stop="20210527095100 -0500" channel="Star Action">
+    <title lang="es">Piraña 3D</title>
+  </programme>
+  <programme start="20210527095100 -0500" stop="20210527114200 -0500" channel="Star Action">
+    <title lang="es">Marcado por la muerte</title>
+  </programme>
+  <programme start="20210527114200 -0500" stop="20210527125900 -0500" channel="Star Action">
+    <title lang="es">Con el Diablo adentro</title>
+  </programme>
+  <programme start="20210527125900 -0500" stop="20210527142900 -0500" channel="Star Action">
+    <title lang="es">Murder In-Law</title>
+  </programme>
+  <programme start="20210527142900 -0500" stop="20210527161300 -0500" channel="Star Action">
+    <title lang="es">Rampart</title>
+  </programme>
+  <programme start="20210527161300 -0500" stop="20210527174600 -0500" channel="Star Action">
+    <title lang="es">Bajo amenaza</title>
+  </programme>
+  <programme start="20210527174600 -0500" stop="20210527210000 -0500" channel="Star Action">
+    <title lang="es">Arizona</title>
+  </programme>
+  <programme start="20210527210000 -0500" stop="20210527222700 -0500" channel="Star Action">
+    <title lang="es">Búsqueda implacable 2</title>
+  </programme>
+  <programme start="20210527222700 -0500" stop="20210528001400 -0500" channel="Star Action">
+    <title lang="es">Búsqueda Implacable 3</title>
+  </programme>
+  <programme start="20210528001400 -0500" stop="20210528023400 -0500" channel="Star Action">
+    <title lang="es">El club de la pelea</title>
+  </programme>
+  <programme start="20210528023400 -0500" stop="20210528041200 -0500" channel="Star Action">
+    <title lang="es">Lucha Extrema</title>
+  </programme>
+  <programme start="20210528041200 -0500" stop="20210528052100 -0500" channel="Star Action">
+    <title lang="es">Nada es lo que parece</title>
+  </programme>
+  <programme start="20210528052100 -0500" stop="20210528065500 -0500" channel="Star Action">
+    <title lang="es">Encadenados</title>
+  </programme>
+  <programme start="20210528065500 -0500" stop="20210528082200 -0500" channel="Star Action">
+    <title lang="es">Los misterios de Emma Fielding</title>
+  </programme>
+  <programme start="20210528082200 -0500" stop="20210528095500 -0500" channel="Star Action">
+    <title lang="es">Bajo amenaza</title>
+  </programme>
+  <programme start="20210528095500 -0500" stop="20210528112300 -0500" channel="Star Action">
+    <title lang="es">Iron Sky</title>
+  </programme>
+  <programme start="20210528112300 -0500" stop="20210528125400 -0500" channel="Star Action">
+    <title lang="es">La carta</title>
+  </programme>
+  <programme start="20210528125400 -0500" stop="20210528142100 -0500" channel="Star Action">
+    <title lang="es">Carrera sin reglas</title>
+  </programme>
+  <programme start="20210528142100 -0500" stop="20210528160800 -0500" channel="Star Action">
+    <title lang="es">Escupiré sobre tu tumba 2</title>
+  </programme>
+  <programme start="20210528160800 -0500" stop="20210528173100 -0500" channel="Star Action">
+    <title lang="es">Muerte en el camino</title>
+  </programme>
+  <programme start="20210528173100 -0500" stop="20210528191800 -0500" channel="Star Action">
+    <title lang="es">Especies</title>
+  </programme>
+  <programme start="20210528191800 -0500" stop="20210528210000 -0500" channel="Star Action">
+    <title lang="es">El Arte de Defenderse</title>
+  </programme>
+  <programme start="20210528210000 -0500" stop="20210528223800 -0500" channel="Star Action">
+    <title lang="es">Un Novato en Apuros</title>
+  </programme>
+  <programme start="20210528223800 -0500" stop="20210529002900 -0500" channel="Star Action">
+    <title lang="es">Guerra Mundial Z</title>
+  </programme>
+  <programme start="20210529223800 -0500" stop="20210530002900 -0500" channel="Star Action">
+    <title lang="es">Guerra Mundial Z</title>
+  </programme>
+  <programme start="20210530002900 -0500" stop="20210530040000 -0500" channel="Star Action">
+    <title lang="es">RoboCop</title>
+  </programme>
+  <programme start="20210530040000 -0500" stop="20210530045900 -0500" channel="Star Action">
+    <title lang="es">Un Hombre Común</title>
+  </programme>
+  <programme start="20210530045900 -0500" stop="20210530061700 -0500" channel="Star Action">
+    <title lang="es">Con el Diablo adentro</title>
+  </programme>
+  <programme start="20210530061700 -0500" stop="20210530080900 -0500" channel="Star Action">
+    <title lang="es">Marcado por la muerte</title>
+  </programme>
+  <programme start="20210530080900 -0500" stop="20210530093500 -0500" channel="Star Action">
+    <title lang="es">Carrera sin reglas</title>
+  </programme>
+  <programme start="20210530093500 -0500" stop="20210530111800 -0500" channel="Star Action">
+    <title lang="es">Rampart</title>
+  </programme>
+  <programme start="20210530111800 -0500" stop="20210530124600 -0500" channel="Star Action">
+    <title lang="es">1000 Cuerpos</title>
+  </programme>
+  <programme start="20210530124600 -0500" stop="20210530141400 -0500" channel="Star Action">
+    <title lang="es">Crossword Mysteries Abracadav</title>
+  </programme>
+  <programme start="20210530141400 -0500" stop="20210530153600 -0500" channel="Star Action">
+    <title lang="es">Piraña 3D</title>
+  </programme>
+  <programme start="20210530153600 -0500" stop="20210530172400 -0500" channel="Star Action">
+    <title lang="es">Nada es lo que parece</title>
+  </programme>
+  <programme start="20210530172400 -0500" stop="20210530192100 -0500" channel="Star Action">
+    <title lang="es">Asesinos por naturaleza</title>
+  </programme>
+  <programme start="20210530192100 -0500" stop="20210530210000 -0500" channel="Star Action">
+    <title lang="es">Yardie</title>
+  </programme>
+  <programme start="20210530210000 -0500" stop="20210531001700 -0500" channel="Star Action">
+    <title lang="es">Paranoia</title>
   </programme>
   <programme start="20210523002700 -0500" stop="20210523005500 -0500" channel="History">
     <title lang="es">La forja de Steele</title>
