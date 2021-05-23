@@ -134,7 +134,7 @@ http://tvplaymundo.com:80/USUARIO/USUARIO/4911
 http://tvplaymundo.com:80/USUARIO/USUARIO/14661
 #EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
 http://tvplaymundo.com:80/USUARIO/USUARIO/4909
-#EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
+#EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m" group-title="Premium",HBO Plus
 http://tvplaymundo.com:80/USUARIO/USUARIO/4936
 #EXTINF:-1 tvg-ID="star-series_m" tvg-name="star-series_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-series_m.png" group-title="Premium",Star Series
 http://tvplaymundo.com:80/USUARIO/USUARIO/4980
