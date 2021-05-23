@@ -45,9 +45,9 @@ http://tvplaymundo.com:80/USUARIO/USUARIO/22729
 #EXTINF:-1 tvg-ID="h-a-h_m" tvg-name="h-a-h_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Variedades",Discovery Home & Health 
 http://tvplaymundo.com:80/USUARIO/USUARIO/4925
 #EXTINF:-1 tvg-ID="hgtv_m" tvg-name="hgtv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hgtv_m.png" group-title="Variedades",HGTV
-http://tv.nousiptv.com:8080/dani123/dani123/3252
-#EXTINF:-1 tvg-ID="discovery-id_m" tvg-name="discovery-id_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Variedades",Investigation Discovery
 http://tvplaymundo.com:80/USUARIO/USUARIO/22298
+#EXTINF:-1 tvg-ID="discovery-id_m" tvg-name="discovery-id_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Variedades",Investigation Discovery
+http://tv.nousiptv.com:8080/dani123/dani123/3252
 #EXTINF:-1 tvg-ID="a-e-mundo_m" tvg-name="a-e-mundo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Variedades",A&E
 http://tvplaymundo.com:80/USUARIO/USUARIO/5088
 #EXTINF:-1 tvg-ID="star-life_m" tvg-name="star-life_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-life_m.png" group-title="Variedades",Star Life
