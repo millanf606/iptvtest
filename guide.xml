@@ -1,2652 +1,809 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
-  <channel id="Canal Space (Sur)">
-    <display-name lang="es">Space</display-name>
+  <channel id="History">
+    <display-name lang="es">History</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Fox Channel (Argentina)">
-    <display-name lang="es">Fox</display-name>
+  <channel id="Discovery Science">
+    <display-name lang="es">Discovery Science</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Canal Fox Premium Movies">
-    <display-name lang="es">FOX Premium Movies</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Fox Premium Action (Este)">
-    <display-name lang="es">FOX Premium Action)</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Fox Premium Cinéma">
-    <display-name lang="es">Canal Fox Premium Cinéma</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Fox Premium Classics">
-    <display-name lang="es">FOX Premium Classic</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Fox Premium Comedy">
-    <display-name lang="es">FOX Premium Cinema</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Fox Premium Family (Este)">
-    <display-name lang="es">FOX Premium Family</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal Fox Premium Series (Este)">
-    <display-name lang="es">FOX Premium Series</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal HBO">
-    <display-name lang="es">HBO</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal HBO 2 Latinoamérica">
-    <display-name lang="es">HBO 2</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal HBO Mundi">
-    <display-name lang="es">HBO Mundi</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal HBO Pop">
-    <display-name lang="es">HBO Pop</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal HBO Signature Latinoamérica">
-    <display-name lang="es">HBO Signature</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Canal HBO Xtreme">
-    <display-name lang="es">HBO Xtreme</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <programme start="20210107011200 -0600" stop="20210107033900 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El Abogado del diablo</title>
-  </programme>
-  <programme start="20210107033900 -0600" stop="20210107041500 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20210107041500 -0600" stop="20210107045000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20210107045000 -0600" stop="20210107050000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Hollywood one on one</title>
-  </programme>
-  <programme start="20210107050000 -0600" stop="20210107061800 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Cuatro contra el banco</title>
-  </programme>
-  <programme start="20210107061800 -0600" stop="20210107081700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Superman II</title>
-  </programme>
-  <programme start="20210107081700 -0600" stop="20210107102600 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El chacal</title>
-  </programme>
-  <programme start="20210107102600 -0600" stop="20210107121200 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Sin Límites</title>
-  </programme>
-  <programme start="20210107121200 -0600" stop="20210107143300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Momento crítico</title>
-  </programme>
-  <programme start="20210107143300 -0600" stop="20210107161400 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Infierno bajo tierra</title>
-  </programme>
-  <programme start="20210107161400 -0600" stop="20210107185000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Mujer Maravilla</title>
-  </programme>
-  <programme start="20210107185000 -0600" stop="20210107210000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Constantine</title>
-  </programme>
-  <programme start="20210107210000 -0600" stop="20210107233900 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El Abogado del diablo</title>
-  </programme>
-  <programme start="20210107233900 -0600" stop="20210108010800 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El carnicero</title>
-  </programme>
-  <programme start="20210108010800 -0600" stop="20210108022900 -0600" channel="Canal Space (Sur)">
-    <title lang="es">La Horca</title>
-  </programme>
-  <programme start="20210108022900 -0600" stop="20210108040700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Intrusos</title>
-  </programme>
-  <programme start="20210108040700 -0600" stop="20210108052300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Cuatro contra el banco</title>
+  <programme start="20210523002700 -0500" stop="20210523005500 -0500" channel="History">
+    <title lang="es">La forja de Steele</title>
   </programme>
-  <programme start="20210108052300 -0600" stop="20210108072200 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Superman II</title>
+  <programme start="20210523005500 -0500" stop="20210523014700 -0500" channel="History">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20210108072200 -0600" stop="20210108090700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Sin Límites</title>
+  <programme start="20210523014700 -0500" stop="20210523021300 -0500" channel="History">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20210108090700 -0600" stop="20210108110400 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Un día difícil</title>
+  <programme start="20210523021300 -0500" stop="20210523030500 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210108110400 -0600" stop="20210108130700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">S.W.A.T. Unidad Especial</title>
+  <programme start="20210523030500 -0500" stop="20210523033100 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210108130700 -0600" stop="20210108151800 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Constantine</title>
+  <programme start="20210523033100 -0500" stop="20210523035700 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210108151800 -0600" stop="20210108171000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Cirque du Freak el aprendiz de vampiro</title>
+  <programme start="20210523035700 -0500" stop="20210523042500 -0500" channel="History">
+    <title lang="es">La forja de Steele</title>
   </programme>
-  <programme start="20210108171000 -0600" stop="20210108192700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Van Helsing</title>
+  <programme start="20210523042500 -0500" stop="20210523045100 -0500" channel="History">
+    <title lang="es">Naturaleza sin límites</title>
   </programme>
-  <programme start="20210108192700 -0600" stop="20210108210000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Drácula: La historia Jamás Contada</title>
+  <programme start="20210523045100 -0500" stop="20210523051700 -0500" channel="History">
+    <title lang="es">Naturaleza sin límites</title>
   </programme>
-  <programme start="20210108210000 -0600" stop="20210108223200 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El carnicero</title>
+  <programme start="20210523051700 -0500" stop="20210523054200 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210108223200 -0600" stop="20210108235600 -0600" channel="Canal Space (Sur)">
-    <title lang="es">La Horca</title>
+  <programme start="20210523054200 -0500" stop="20210523060700 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210108235600 -0600" stop="20210109012300 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Desastre el último apocalipsis zombie</title>
+  <programme start="20210523060700 -0500" stop="20210523070000 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210109012300 -0600" stop="20210109030000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">[REC] 4 Apocalipsis</title>
+  <programme start="20210523070000 -0500" stop="20210523080000 -0500" channel="History">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20210109030000 -0600" stop="20210109050000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Jessabelle</title>
+  <programme start="20210523080000 -0500" stop="20210523090000 -0500" channel="History">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210109050000 -0600" stop="20210109063900 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Un día difícil</title>
+  <programme start="20210523090000 -0500" stop="20210523100000 -0500" channel="History">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210109063900 -0600" stop="20210109081700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Line Walker 2: Invisible Spy</title>
+  <programme start="20210523100000 -0500" stop="20210523110000 -0500" channel="History">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210109081700 -0600" stop="20210109101700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">S.W.A.T. Unidad Especial</title>
+  <programme start="20210523110000 -0500" stop="20210523120000 -0500" channel="History">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210109101700 -0600" stop="20210109120900 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Cirque du Freak el aprendiz de vampiro</title>
+  <programme start="20210523120000 -0500" stop="20210523122700 -0500" channel="History">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20210109120900 -0600" stop="20210109142700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Van Helsing</title>
+  <programme start="20210523122700 -0500" stop="20210523125500 -0500" channel="History">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20210109142700 -0600" stop="20210109160100 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Drácula: La historia Jamás Contada</title>
+  <programme start="20210523125500 -0500" stop="20210523135000 -0500" channel="History">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20210109160100 -0600" stop="20210109182800 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El sorprendente hombre araña</title>
+  <programme start="20210523135000 -0500" stop="20210523141700 -0500" channel="History">
+    <title lang="es">La forja de Steele</title>
   </programme>
-  <programme start="20210109182800 -0600" stop="20210109210000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El Sorprendente Hombre Araña 2: La venganza de Electro</title>
+  <programme start="20210523141700 -0500" stop="20210523144500 -0500" channel="History">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20210109210000 -0600" stop="20210109232400 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Spider-Man: De Regreso a Casa</title>
+  <programme start="20210523144500 -0500" stop="20210523154000 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210109232400 -0600" stop="20210110014400 -0600" channel="Canal Space (Sur)">
-    <title lang="es">It (Eso) (2017)</title>
+  <programme start="20210523154000 -0500" stop="20210523163500 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210110014400 -0600" stop="20210110032500 -0600" channel="Canal Space (Sur)">
-    <title lang="es">John Wick</title>
+  <programme start="20210523163500 -0500" stop="20210523170200 -0500" channel="History">
+    <title lang="es">Naturaleza sin límites</title>
   </programme>
-  <programme start="20210110032500 -0600" stop="20210110050000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">12 Horas para Sobrevivir</title>
+  <programme start="20210523170200 -0500" stop="20210523172800 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210110050000 -0600" stop="20210110060200 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Line Walker 2: Invisible Spy</title>
+  <programme start="20210523172800 -0500" stop="20210523175800 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210110060200 -0600" stop="20210110075400 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Cold War 2</title>
+  <programme start="20210523175800 -0500" stop="20210523193300 -0500" channel="History">
+    <title lang="es">OVNIS Archivos extraterrestres</title>
   </programme>
-  <programme start="20210110075400 -0600" stop="20210110092700 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El ejecutor</title>
+  <programme start="20210523193300 -0500" stop="20210523202800 -0500" channel="History">
+    <title lang="es">Proyecto libro azul</title>
   </programme>
-  <programme start="20210110092700 -0600" stop="20210110113000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El sorprendente hombre araña</title>
+  <programme start="20210523202800 -0500" stop="20210523220300 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210110113000 -0600" stop="20210110133000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">All Elite Wrestling</title>
+  <programme start="20210523220300 -0500" stop="20210523225700 -0500" channel="History">
+    <title lang="es">Inexplicable con William Shatner</title>
   </programme>
-  <programme start="20210110133000 -0600" stop="20210110163800 -0600" channel="Canal Space (Sur)">
-    <title lang="es">El Sorprendente Hombre Araña 2: La venganza de Electro</title>
+  <programme start="20210523225700 -0500" stop="20210523234900 -0500" channel="History">
+    <title lang="es">Inexplicable Latinoamérica con John Leguizamo</title>
   </programme>
-  <programme start="20210110163800 -0600" stop="20210110190200 -0600" channel="Canal Space (Sur)">
-    <title lang="es">Spider-Man: De Regreso a Casa</title>
+  <programme start="20210523234900 -0500" stop="20210524001500 -0500" channel="History">
+    <title lang="es">La evidencia está entre nosotros</title>
   </programme>
-  <programme start="20210110190200 -0600" stop="20210110210000 -0600" channel="Canal Space (Sur)">
-    <title lang="es">¿Y dónde estan las rubias...</title>
+  <programme start="20210524234900 -0500" stop="20210525001500 -0500" channel="History">
+    <title lang="es">La evidencia está entre nosotros</title>
   </programme>
-  <programme start="20210110210000 -0600" stop="20210110232600 -0600" channel="Canal Space (Sur)">
-    <title lang="es">It (Eso) (2017)</title>
+  <programme start="20210525001500 -0500" stop="20210525004200 -0500" channel="History">
+    <title lang="es">La evidencia está entre nosotros</title>
   </programme>
-  <programme start="20210110232600 -0600" stop="20210111011400 -0600" channel="Canal Space (Sur)">
-    <title lang="es">12 Horas para Sobrevivir</title>
+  <programme start="20210525004200 -0500" stop="20210525013700 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210107002300 -0600" stop="20210107020400 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Venganza despiadada</title>
+  <programme start="20210525013700 -0500" stop="20210525023200 -0500" channel="History">
+    <title lang="es">Proyecto libro azul</title>
   </programme>
-  <programme start="20210107020400 -0600" stop="20210107034300 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Siberia</title>
+  <programme start="20210525023200 -0500" stop="20210525040700 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210107034300 -0600" stop="20210107050400 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Negocios Fuera de Control</title>
+  <programme start="20210525040700 -0500" stop="20210525043700 -0500" channel="History">
+    <title lang="es">La evidencia está entre nosotros</title>
   </programme>
-  <programme start="20210107050400 -0600" stop="20210107052500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Fresh Off the Boat</title>
+  <programme start="20210525043700 -0500" stop="20210525050700 -0500" channel="History">
+    <title lang="es">La evidencia está entre nosotros</title>
   </programme>
-  <programme start="20210107052500 -0600" stop="20210107054600 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Fresh Off the Boat</title>
+  <programme start="20210525050700 -0500" stop="20210525060200 -0500" channel="History">
+    <title lang="es">Inexplicable Latinoamérica con John Leguizamo</title>
   </programme>
-  <programme start="20210107054600 -0600" stop="20210107060000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programación Especial</title>
+  <programme start="20210525060200 -0500" stop="20210525070000 -0500" channel="History">
+    <title lang="es">Proyecto libro azul</title>
   </programme>
-  <programme start="20210107060000 -0600" stop="20210107063000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210525070000 -0500" stop="20210525080000 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210107063000 -0600" stop="20210107070000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210525120000 -0500" stop="20210525133200 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210107070000 -0600" stop="20210107073000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210525133200 -0500" stop="20210525142700 -0500" channel="History">
+    <title lang="es">Proyecto libro azul</title>
   </programme>
-  <programme start="20210107073000 -0600" stop="20210107080000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210525142700 -0500" stop="20210525155700 -0500" channel="History">
+    <title lang="es">OVNIS Archivos extraterrestres</title>
   </programme>
-  <programme start="20210107080000 -0600" stop="20210107083000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210525155700 -0500" stop="20210525165200 -0500" channel="History">
+    <title lang="es">Inexplicable Latinoamérica con John Leguizamo</title>
   </programme>
-  <programme start="20210107083000 -0600" stop="20210107090500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210525165200 -0500" stop="20210525171800 -0500" channel="History">
+    <title lang="es">La evidencia está entre nosotros</title>
   </programme>
-  <programme start="20210107090500 -0600" stop="20210107094000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210525171800 -0500" stop="20210525174500 -0500" channel="History">
+    <title lang="es">La evidencia está entre nosotros</title>
   </programme>
-  <programme start="20210107094000 -0600" stop="20210107094600 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210525174500 -0500" stop="20210525192000 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210107094600 -0600" stop="20210107112200 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Despereaux: Un pequeño gran héroe</title>
+  <programme start="20210525192000 -0500" stop="20210525201400 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210107112200 -0600" stop="20210107114700 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210525201400 -0500" stop="20210525211000 -0500" channel="History">
+    <title lang="es">Inexplicable Latinoamérica con John Leguizamo</title>
   </programme>
-  <programme start="20210107114700 -0600" stop="20210107121000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210525211000 -0500" stop="20210525213700 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210107121000 -0600" stop="20210107123500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210525213700 -0500" stop="20210525220400 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210107123500 -0600" stop="20210107130000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Speechless</title>
+  <programme start="20210525220400 -0500" stop="20210525234400 -0500" channel="History">
+    <title lang="es">Gigantes de la comida</title>
   </programme>
-  <programme start="20210107130000 -0600" stop="20210107132400 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Speechless</title>
+  <programme start="20210525234400 -0500" stop="20210526001100 -0500" channel="History">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20210107132400 -0600" stop="20210107150400 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Trico Tri: Happy Halloween</title>
+  <programme start="20210526001100 -0500" stop="20210526003800 -0500" channel="History">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20210107150400 -0600" stop="20210107152900 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526003800 -0500" stop="20210526013300 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210107152900 -0600" stop="20210107155500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526013300 -0500" stop="20210526022800 -0500" channel="History">
+    <title lang="es">Inexplicable Latinoamérica con John Leguizamo</title>
   </programme>
-  <programme start="20210107155500 -0600" stop="20210107162000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526022800 -0500" stop="20210526040300 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210107162000 -0600" stop="20210107164700 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526040300 -0500" stop="20210526042800 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210107164700 -0600" stop="20210107190200 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Miss Peregrine y los niños peculiares</title>
+  <programme start="20210526042800 -0500" stop="20210526045400 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210107190200 -0600" stop="20210107192600 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526045400 -0500" stop="20210526052000 -0500" channel="History">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20210107192600 -0600" stop="20210107194900 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526052000 -0500" stop="20210526070000 -0500" channel="History">
+    <title lang="es">Gigantes de la comida</title>
   </programme>
-  <programme start="20210107194900 -0600" stop="20210107201200 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526070000 -0500" stop="20210526073000 -0500" channel="History">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20210107201200 -0600" stop="20210107203500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526073000 -0500" stop="20210526080000 -0500" channel="History">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20210107203500 -0600" stop="20210107210000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526080000 -0500" stop="20210526090000 -0500" channel="History">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210107210000 -0600" stop="20210107223600 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">La Torre Oscura</title>
+  <programme start="20210526090000 -0500" stop="20210526100000 -0500" channel="History">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210107223600 -0600" stop="20210107225900 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526100000 -0500" stop="20210526110000 -0500" channel="History">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210107225900 -0600" stop="20210107232200 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210526110000 -0500" stop="20210526120000 -0500" channel="History">
+    <title lang="es">Paid Programming</title>
   </programme>
-  <programme start="20210107232200 -0600" stop="20210108013200 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">El Hilo Fantasma</title>
+  <programme start="20210526120000 -0500" stop="20210526125500 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210108232200 -0600" stop="20210109013200 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">El Hilo Fantasma</title>
+  <programme start="20210526125500 -0500" stop="20210526132200 -0500" channel="History">
+    <title lang="es">¿Quién Da Má$</title>
   </programme>
-  <programme start="20210109013200 -0600" stop="20210109033400 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">El tirador</title>
+  <programme start="20210526132200 -0500" stop="20210526145700 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210109033400 -0600" stop="20210109053400 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Siete Almas</title>
+  <programme start="20210526145700 -0500" stop="20210526163700 -0500" channel="History">
+    <title lang="es">Gigantes de la comida</title>
   </programme>
-  <programme start="20210109053400 -0600" stop="20210109060000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Fresh Off the Boat</title>
+  <programme start="20210526163700 -0500" stop="20210526173200 -0500" channel="History">
+    <title lang="es">Inexplicable Latinoamérica con John Leguizamo</title>
   </programme>
-  <programme start="20210109060000 -0600" stop="20210109063000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210526173200 -0500" stop="20210526182600 -0500" channel="History">
+    <title lang="es">Desafío sobre fuego</title>
   </programme>
-  <programme start="20210109063000 -0600" stop="20210109070000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210526182600 -0500" stop="20210526185200 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210109070000 -0600" stop="20210109073000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210526185200 -0500" stop="20210526192000 -0500" channel="History">
+    <title lang="es">El Precio de la Historia</title>
   </programme>
-  <programme start="20210109073000 -0600" stop="20210109080000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210526192000 -0500" stop="20210526201500 -0500" channel="History">
+    <title lang="es">Alienígenas ancestrales</title>
   </programme>
-  <programme start="20210109080000 -0600" stop="20210109083500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210523003600 -0500" stop="20210523010000 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210109083500 -0600" stop="20210109090000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Programa Pagado</title>
+  <programme start="20210523010000 -0500" stop="20210523012400 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210109090000 -0600" stop="20210109103300 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Shaun el cordero la película</title>
+  <programme start="20210523012400 -0500" stop="20210523021200 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210109103300 -0600" stop="20210109105700 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523021200 -0500" stop="20210523030000 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210109105700 -0600" stop="20210109112200 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523030000 -0500" stop="20210523034800 -0500" channel="Discovery Science">
+    <title lang="es">La Idea Ganadora</title>
   </programme>
-  <programme start="20210109112200 -0600" stop="20210109114700 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523034800 -0500" stop="20210523043600 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210109114700 -0600" stop="20210109121700 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Speechless</title>
+  <programme start="20210523043600 -0500" stop="20210523052400 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210109121700 -0600" stop="20210109124800 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Speechless</title>
+  <programme start="20210523052400 -0500" stop="20210523061200 -0500" channel="Discovery Science">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
   </programme>
-  <programme start="20210109124800 -0600" stop="20210109151200 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Erin Brockovich, una mujer audaz</title>
+  <programme start="20210523061200 -0500" stop="20210523070000 -0500" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
   </programme>
-  <programme start="20210109151200 -0600" stop="20210109153700 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523070000 -0500" stop="20210523074800 -0500" channel="Discovery Science">
+    <title lang="es">Horror de cálculo</title>
   </programme>
-  <programme start="20210109153700 -0600" stop="20210109160000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523074800 -0500" stop="20210523083600 -0500" channel="Discovery Science">
+    <title lang="es">Ilusión con Keith Barry</title>
   </programme>
-  <programme start="20210109160000 -0600" stop="20210109162600 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523083600 -0500" stop="20210523092400 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210109162600 -0600" stop="20210109164500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523092400 -0500" stop="20210523101200 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210109164500 -0600" stop="20210109170700 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523101200 -0500" stop="20210523110000 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210109170700 -0600" stop="20210109185400 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Son como niños 2</title>
+  <programme start="20210523110000 -0500" stop="20210523114800 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210109185400 -0600" stop="20210109192000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523114800 -0500" stop="20210523123600 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210109192000 -0600" stop="20210109194500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523123600 -0500" stop="20210523132400 -0500" channel="Discovery Science">
+    <title lang="es">Penn &amp; Teller: No Todo Es Verdad</title>
   </programme>
-  <programme start="20210109194500 -0600" stop="20210109200900 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523132400 -0500" stop="20210523141200 -0500" channel="Discovery Science">
+    <title lang="es">Vehículos Lunares</title>
   </programme>
-  <programme start="20210109200900 -0600" stop="20210109203400 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523141200 -0500" stop="20210523143600 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210109203400 -0600" stop="20210109210000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523143600 -0500" stop="20210523150000 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210109210000 -0600" stop="20210109223900 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Shrek Tercero</title>
+  <programme start="20210523150000 -0500" stop="20210523154800 -0500" channel="Discovery Science">
+    <title lang="es">Silicon Valley: The Untold Story</title>
   </programme>
-  <programme start="20210109223900 -0600" stop="20210109230400 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523154800 -0500" stop="20210523163600 -0500" channel="Discovery Science">
+    <title lang="es">The Explosion Show</title>
   </programme>
-  <programme start="20210109230400 -0600" stop="20210109232800 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523163600 -0500" stop="20210523172400 -0500" channel="Discovery Science">
+    <title lang="es">Pistoleros</title>
   </programme>
-  <programme start="20210109232800 -0600" stop="20210110012100 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Código Sombra Jack Ryan</title>
+  <programme start="20210523172400 -0500" stop="20210523174800 -0500" channel="Discovery Science">
+    <title lang="es">Reto a la Ciencia</title>
   </programme>
-  <programme start="20210110232800 -0600" stop="20210111012100 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Código Sombra Jack Ryan</title>
+  <programme start="20210523174800 -0500" stop="20210523181200 -0500" channel="Discovery Science">
+    <title lang="es">Reto a la Ciencia</title>
   </programme>
-  <programme start="20210111012100 -0600" stop="20210111030900 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Escape Imposible</title>
+  <programme start="20210523181200 -0500" stop="20210523190000 -0500" channel="Discovery Science">
+    <title lang="es">La Idea Ganadora</title>
   </programme>
-  <programme start="20210111030900 -0600" stop="20210111051200 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Misión: Imposible - Repercusión</title>
+  <programme start="20210523190000 -0500" stop="20210523194800 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210111051200 -0600" stop="20210111060000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Cumbia ninja</title>
+  <programme start="20210523194800 -0500" stop="20210523203600 -0500" channel="Discovery Science">
+    <title lang="es">Un salto gigante</title>
   </programme>
-  <programme start="20210111090000 -0600" stop="20210111104500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Hombres de Negro 3</title>
+  <programme start="20210523203600 -0500" stop="20210523212400 -0500" channel="Discovery Science">
+    <title lang="es">Truth Behind the Moon Landing</title>
   </programme>
-  <programme start="20210111104500 -0600" stop="20210111110900 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523212400 -0500" stop="20210523221200 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210111110900 -0600" stop="20210111113500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523221200 -0500" stop="20210523230000 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210111113500 -0600" stop="20210111120500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210523230000 -0500" stop="20210523234800 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210111120500 -0600" stop="20210111134800 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Lluvia de hamburguesas 2 La venganza de las sobras</title>
+  <programme start="20210523234800 -0500" stop="20210524003600 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210111134800 -0600" stop="20210111163500 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Misión: Imposible - Repercusión</title>
+  <programme start="20210524234800 -0500" stop="20210525003600 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210111163500 -0600" stop="20210111190000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Rápidos y Furiosos: 5in Control</title>
+  <programme start="20210525012400 -0500" stop="20210525021200 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210111190000 -0600" stop="20210111193000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210525021200 -0500" stop="20210525030000 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210111193000 -0600" stop="20210111200000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210525034800 -0500" stop="20210525043600 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210111200000 -0600" stop="20210111202700 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210525043600 -0500" stop="20210525052400 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210111202700 -0600" stop="20210111210000 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Los Simpson</title>
+  <programme start="20210525052400 -0500" stop="20210525061200 -0500" channel="Discovery Science">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
   </programme>
-  <programme start="20210111210000 -0600" stop="20210111231300 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">Deadpool 2</title>
+  <programme start="20210525061200 -0500" stop="20210525070000 -0500" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
   </programme>
-  <programme start="20210111231300 -0600" stop="20210112012800 -0600" channel="Canal Fox Channel (Argentina)">
-    <title lang="es">El tirador</title>
+  <programme start="20210525070000 -0500" stop="20210525074800 -0500" channel="Discovery Science">
+    <title lang="es">Ciencia al rescate</title>
   </programme>
-  <programme start="20210107011900 -0600" stop="20210107031200 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Guerra Mundial Z</title>
+  <programme start="20210525074800 -0500" stop="20210525083600 -0500" channel="Discovery Science">
+    <title lang="es">Vikingos Americanos</title>
   </programme>
-  <programme start="20210107031200 -0600" stop="20210107045100 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Dragon Ball Super: Broly</title>
+  <programme start="20210525083600 -0500" stop="20210525092400 -0500" channel="Discovery Science">
+    <title lang="es">Vikingos Americanos</title>
   </programme>
-  <programme start="20210107045100 -0600" stop="20210107063400 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">El guardián del zoológico</title>
+  <programme start="20210525092400 -0500" stop="20210525101200 -0500" channel="Discovery Science">
+    <title lang="es">En busca del tesoro: Isla Serpientes</title>
   </programme>
-  <programme start="20210107063400 -0600" stop="20210107075500 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Nadie Camina</title>
+  <programme start="20210525101200 -0500" stop="20210525103600 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210107075500 -0600" stop="20210107093400 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">La Noche de las Nerds</title>
+  <programme start="20210525103600 -0500" stop="20210525110000 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210107093400 -0600" stop="20210107113600 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Jobs</title>
+  <programme start="20210525110000 -0500" stop="20210525114800 -0500" channel="Discovery Science">
+    <title lang="es">Horror de cálculo</title>
   </programme>
-  <programme start="20210107113600 -0600" stop="20210107125600 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Parque Mágico</title>
+  <programme start="20210525114800 -0500" stop="20210525123600 -0500" channel="Discovery Science">
+    <title lang="es">Horror de cálculo</title>
   </programme>
-  <programme start="20210107125600 -0600" stop="20210107142500 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Minions</title>
+  <programme start="20210525123600 -0500" stop="20210525132400 -0500" channel="Discovery Science">
+    <title lang="es">Ilusión con Keith Barry</title>
   </programme>
-  <programme start="20210107142500 -0600" stop="20210107162400 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Silver Linings Playbook</title>
+  <programme start="20210525132400 -0500" stop="20210525141200 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210107162400 -0600" stop="20210107174700 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Socias en Guerra</title>
+  <programme start="20210525141200 -0500" stop="20210525150000 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210107174700 -0600" stop="20210107192500 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">El Redentor</title>
+  <programme start="20210525150000 -0500" stop="20210525154800 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210107192500 -0600" stop="20210107210000 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">222 premonición</title>
+  <programme start="20210525154800 -0500" stop="20210525163600 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210107210000 -0600" stop="20210107224700 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">El ritmo de la venganza</title>
+  <programme start="20210525163600 -0500" stop="20210525172400 -0500" channel="Discovery Science">
+    <title lang="es">Pistoleros</title>
   </programme>
-  <programme start="20210107224700 -0600" stop="20210108005000 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Sangre, sudor y gloria</title>
+  <programme start="20210525172400 -0500" stop="20210525181200 -0500" channel="Discovery Science">
+    <title lang="es">Penn &amp; Teller: No Todo Es Verdad</title>
   </programme>
-  <programme start="20210108005000 -0600" stop="20210108023500 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">El Precio del Mañana</title>
+  <programme start="20210525181200 -0500" stop="20210525190000 -0500" channel="Discovery Science">
+    <title lang="es">Vehículos Lunares</title>
   </programme>
-  <programme start="20210108023500 -0600" stop="20210108042000 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Dos Armas Letales</title>
+  <programme start="20210525190000 -0500" stop="20210525192400 -0500" channel="Discovery Science">
+    <title lang="es">Transplantes</title>
   </programme>
-  <programme start="20210108042000 -0600" stop="20210108061600 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Rampart</title>
+  <programme start="20210525192400 -0500" stop="20210525194800 -0500" channel="Discovery Science">
+    <title lang="es">Transplantes</title>
   </programme>
-  <programme start="20210108061600 -0600" stop="20210108075300 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Fenómeno siniestro 2</title>
+  <programme start="20210525194800 -0500" stop="20210525203600 -0500" channel="Discovery Science">
+    <title lang="es">Universidad Forense</title>
   </programme>
-  <programme start="20210108075300 -0600" stop="20210108093700 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">¿Podrás Perdonarme</title>
+  <programme start="20210525203600 -0500" stop="20210525212400 -0500" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
   </programme>
-  <programme start="20210108093700 -0600" stop="20210108113600 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Silver Linings Playbook</title>
+  <programme start="20210525212400 -0500" stop="20210525221200 -0500" channel="Discovery Science">
+    <title lang="es">Tesla: Crimen desclasificado</title>
   </programme>
-  <programme start="20210108113600 -0600" stop="20210108125900 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Socias en Guerra</title>
+  <programme start="20210525221200 -0500" stop="20210525223600 -0500" channel="Discovery Science">
+    <title lang="es">Analízame</title>
   </programme>
-  <programme start="20210108125900 -0600" stop="20210108144100 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Rampart</title>
+  <programme start="20210525223600 -0500" stop="20210525230000 -0500" channel="Discovery Science">
+    <title lang="es">Analízame</title>
   </programme>
-  <programme start="20210108144100 -0600" stop="20210108160500 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Un Hombre Común</title>
+  <programme start="20210525230000 -0500" stop="20210525234800 -0500" channel="Discovery Science">
+    <title lang="es">Houdini's Last Secrets</title>
   </programme>
-  <programme start="20210108160500 -0600" stop="20210108174300 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">El Redentor</title>
+  <programme start="20210525234800 -0500" stop="20210526003600 -0500" channel="Discovery Science">
+    <title lang="es">¿Dónde está el error</title>
   </programme>
-  <programme start="20210108174300 -0600" stop="20210108192700 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Asistente de compras</title>
+  <programme start="20210526010000 -0500" stop="20210526012400 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210108192700 -0600" stop="20210108210000 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Boda Sangrienta</title>
+  <programme start="20210526012400 -0500" stop="20210526021200 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210108210000 -0600" stop="20210108222500 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Gretel y hansel - un siniestr</title>
+  <programme start="20210526021200 -0500" stop="20210526030000 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210108222500 -0600" stop="20210109000300 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Duro de matar 5</title>
+  <programme start="20210526034800 -0500" stop="20210526043600 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210109000300 -0600" stop="20210109015000 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">El ritmo de la venganza</title>
+  <programme start="20210526043600 -0500" stop="20210526052400 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210109015000 -0600" stop="20210109035300 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Sangre, sudor y gloria</title>
+  <programme start="20210526052400 -0500" stop="20210526061200 -0500" channel="Discovery Science">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
   </programme>
-  <programme start="20210109035300 -0600" stop="20210109053200 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Dragon Ball Super: Broly</title>
+  <programme start="20210526061200 -0500" stop="20210526070000 -0500" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
   </programme>
-  <programme start="20210109053200 -0600" stop="20210109081400 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">La noche más oscura</title>
+  <programme start="20210526070000 -0500" stop="20210526074800 -0500" channel="Discovery Science">
+    <title lang="es">Truth Behind the Moon Landing</title>
   </programme>
-  <programme start="20210109081400 -0600" stop="20210109093400 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">El Grinch</title>
+  <programme start="20210526074800 -0500" stop="20210526083600 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210109093400 -0600" stop="20210109111000 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">El Especialista Resurrección</title>
+  <programme start="20210526083600 -0500" stop="20210526092400 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210109111000 -0600" stop="20210109125500 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">El Precio del Mañana</title>
+  <programme start="20210526092400 -0500" stop="20210526101200 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210109125500 -0600" stop="20210109142800 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Alucinaciones</title>
+  <programme start="20210526101200 -0500" stop="20210526110000 -0500" channel="Discovery Science">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
   </programme>
-  <programme start="20210109142800 -0600" stop="20210109160400 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Upgrade</title>
+  <programme start="20210526110000 -0500" stop="20210526114800 -0500" channel="Discovery Science">
+    <title lang="es">Ciencia al rescate</title>
   </programme>
-  <programme start="20210109160400 -0600" stop="20210109175400 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Guerra Mundial Z</title>
+  <programme start="20210526114800 -0500" stop="20210526123600 -0500" channel="Discovery Science">
+    <title lang="es">Unexplained and Unexplored</title>
   </programme>
-  <programme start="20210109175400 -0600" stop="20210109192500 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Cómo Entrenar a tu Dragón</title>
+  <programme start="20210526123600 -0500" stop="20210526132400 -0500" channel="Discovery Science">
+    <title lang="es">Vikingos Americanos</title>
   </programme>
-  <programme start="20210109192500 -0600" stop="20210109210000 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Cómo Entrenar a tu Dragón 2</title>
+  <programme start="20210526132400 -0500" stop="20210526141200 -0500" channel="Discovery Science">
+    <title lang="es">Vikingos Americanos</title>
   </programme>
-  <programme start="20210109210000 -0600" stop="20210109223900 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+  <programme start="20210526141200 -0500" stop="20210526150000 -0500" channel="Discovery Science">
+    <title lang="es">En busca del tesoro: Isla Serpientes</title>
   </programme>
-  <programme start="20210109223900 -0600" stop="20210110003700 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Jurassic World-Mundo Jurásico</title>
+  <programme start="20210526150000 -0500" stop="20210526152400 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210110003700 -0600" stop="20210110023700 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Terminator: Destino Oculto</title>
+  <programme start="20210526152400 -0500" stop="20210526154800 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210110023700 -0600" stop="20210110043700 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Prometeo</title>
+  <programme start="20210526154800 -0500" stop="20210526163600 -0500" channel="Discovery Science">
+    <title lang="es">Horror de cálculo</title>
   </programme>
-  <programme start="20210110043700 -0600" stop="20210110062500 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Boda Sangrienta</title>
+  <programme start="20210526163600 -0500" stop="20210526172400 -0500" channel="Discovery Science">
+    <title lang="es">Pistoleros</title>
   </programme>
-  <programme start="20210110062500 -0600" stop="20210110085800 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">La noche más oscura</title>
+  <programme start="20210526172400 -0500" stop="20210526181200 -0500" channel="Discovery Science">
+    <title lang="es">Ilusión con Keith Barry</title>
   </programme>
-  <programme start="20210110085800 -0600" stop="20210110105800 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Prometeo</title>
+  <programme start="20210526181200 -0500" stop="20210526190000 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210110105800 -0600" stop="20210110123900 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Daredevil El Hombre Sin Miedo</title>
+  <programme start="20210526190000 -0500" stop="20210526194800 -0500" channel="Discovery Science">
+    <title lang="es">Batalla de creadores</title>
   </programme>
-  <programme start="20210110123900 -0600" stop="20210110141700 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Duro de matar 5</title>
+  <programme start="20210526194800 -0500" stop="20210526203600 -0500" channel="Discovery Science">
+    <title lang="es">Ciencia al rescate</title>
   </programme>
-  <programme start="20210110141700 -0600" stop="20210110161500 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Jurassic World-Mundo Jurásico</title>
+  <programme start="20210526203600 -0500" stop="20210526212400 -0500" channel="Discovery Science">
+    <title lang="es">Ciencia al rescate</title>
   </programme>
-  <programme start="20210110161500 -0600" stop="20210110174600 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Cómo Entrenar a tu Dragón</title>
+  <programme start="20210526212400 -0500" stop="20210526221200 -0500" channel="Discovery Science">
+    <title lang="es">Ciencia al rescate</title>
   </programme>
-  <programme start="20210110174600 -0600" stop="20210110192100 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Cómo Entrenar a tu Dragón 2</title>
+  <programme start="20210526221200 -0500" stop="20210526230000 -0500" channel="Discovery Science">
+    <title lang="es">Silicon Valley: The Untold Story</title>
   </programme>
-  <programme start="20210110192100 -0600" stop="20210110210000 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Cómo Entrenar a tu Dragón 3</title>
+  <programme start="20210526230000 -0500" stop="20210526234800 -0500" channel="Discovery Science">
+    <title lang="es">Silicon Valley: The Untold Story</title>
   </programme>
-  <programme start="20210110210000 -0600" stop="20210110223600 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Upgrade</title>
+  <programme start="20210526234800 -0500" stop="20210527003600 -0500" channel="Discovery Science">
+    <title lang="es">Silicon Valley: The Untold Story</title>
   </programme>
-  <programme start="20210110223600 -0600" stop="20210111003600 -0600" channel="Canal Fox Premium Movies">
-    <title lang="es">Terminator: Destino Oculto</title>
+  <programme start="20210527012400 -0500" stop="20210527021200 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210107003900 -0600" stop="20210107020900 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">La fría luz del día</title>
+  <programme start="20210527021200 -0500" stop="20210527030000 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210107020900 -0600" stop="20210107034700 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Duro de matar 5</title>
+  <programme start="20210527034800 -0500" stop="20210527043600 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210107034700 -0600" stop="20210107052900 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Marcado por la muerte</title>
+  <programme start="20210527043600 -0500" stop="20210527052400 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210107052900 -0600" stop="20210107070600 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Desde México con amor</title>
+  <programme start="20210527052400 -0500" stop="20210527061200 -0500" channel="Discovery Science">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
   </programme>
-  <programme start="20210107070600 -0600" stop="20210107073700 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Empire of Lust</title>
+  <programme start="20210527061200 -0500" stop="20210527070000 -0500" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
   </programme>
-  <programme start="20210107073700 -0600" stop="20210107090000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">A.I. Inteligencia artificial</title>
+  <programme start="20210527070000 -0500" stop="20210527074800 -0500" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
   </programme>
-  <programme start="20210107090000 -0600" stop="20210107102700 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Un amor del pasado</title>
+  <programme start="20210527074800 -0500" stop="20210527081200 -0500" channel="Discovery Science">
+    <title lang="es">Analízame</title>
   </programme>
-  <programme start="20210107102700 -0600" stop="20210107120200 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Un grito lejano</title>
+  <programme start="20210527081200 -0500" stop="20210527083600 -0500" channel="Discovery Science">
+    <title lang="es">Analízame</title>
   </programme>
-  <programme start="20210107120200 -0600" stop="20210107135300 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Marcado por la muerte</title>
+  <programme start="20210527083600 -0500" stop="20210527092400 -0500" channel="Discovery Science">
+    <title lang="es">Houdini's Last Secrets</title>
   </programme>
-  <programme start="20210107135300 -0600" stop="20210107153600 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Escupiré sobre tu tumba 2</title>
+  <programme start="20210527092400 -0500" stop="20210527101200 -0500" channel="Discovery Science">
+    <title lang="es">¿Dónde está el error</title>
   </programme>
-  <programme start="20210107153600 -0600" stop="20210107172700 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Azul Extremo</title>
+  <programme start="20210527101200 -0500" stop="20210527110000 -0500" channel="Discovery Science">
+    <title lang="es">Un salto gigante</title>
   </programme>
-  <programme start="20210107172700 -0600" stop="20210107190400 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Duro de matar 5</title>
+  <programme start="20210527110000 -0500" stop="20210527114800 -0500" channel="Discovery Science">
+    <title lang="es">Truth Behind the Moon Landing</title>
   </programme>
-  <programme start="20210107190400 -0600" stop="20210107210000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">The Last Full Measure</title>
+  <programme start="20210527114800 -0500" stop="20210527123600 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210107210000 -0600" stop="20210107225000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Red 2</title>
+  <programme start="20210527123600 -0500" stop="20210527132400 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210107225000 -0600" stop="20210108024800 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Jack Reacher</title>
+  <programme start="20210527132400 -0500" stop="20210527141200 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210108225000 -0600" stop="20210109024800 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Jack Reacher</title>
+  <programme start="20210527141200 -0500" stop="20210527150000 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210109024800 -0600" stop="20210109042800 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Drive acción máxima velocidad</title>
+  <programme start="20210527150000 -0500" stop="20210527154800 -0500" channel="Discovery Science">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
   </programme>
-  <programme start="20210109042800 -0600" stop="20210109082800 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Dos Armas Letales</title>
+  <programme start="20210527154800 -0500" stop="20210527163600 -0500" channel="Discovery Science">
+    <title lang="es">Ciencia al rescate</title>
   </programme>
-  <programme start="20210109082800 -0600" stop="20210109122800 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Dos Armas Letales</title>
+  <programme start="20210527163600 -0500" stop="20210527172400 -0500" channel="Discovery Science">
+    <title lang="es">Pistoleros</title>
   </programme>
-  <programme start="20210109122800 -0600" stop="20210109162800 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Dos Armas Letales</title>
+  <programme start="20210527172400 -0500" stop="20210527181200 -0500" channel="Discovery Science">
+    <title lang="es">Vikingos Americanos</title>
   </programme>
-  <programme start="20210109162800 -0600" stop="20210109202800 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Dos Armas Letales</title>
+  <programme start="20210527181200 -0500" stop="20210527190000 -0500" channel="Discovery Science">
+    <title lang="es">Vikingos Americanos</title>
   </programme>
-  <programme start="20210109202800 -0600" stop="20210110002800 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Dos Armas Letales</title>
+  <programme start="20210527194800 -0500" stop="20210527203600 -0500" channel="Discovery Science">
+    <title lang="es">Artesano del apocalipsis</title>
   </programme>
-  <programme start="20210110002800 -0600" stop="20210110004600 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Dos Armas Letales</title>
+  <programme start="20210527203600 -0500" stop="20210527212400 -0500" channel="Discovery Science">
+    <title lang="es">The Explosion Show</title>
   </programme>
-  <programme start="20210110004600 -0600" stop="20210110033900 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Nanny Surveillance</title>
+  <programme start="20210527212400 -0500" stop="20210527221200 -0500" channel="Discovery Science">
+    <title lang="es">Mythbusters: Los cazadores de mitos</title>
   </programme>
-  <programme start="20210110033900 -0600" stop="20210110052200 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">La trampa</title>
+  <programme start="20210527221200 -0500" stop="20210527223600 -0500" channel="Discovery Science">
+    <title lang="es">Reto a la Ciencia</title>
   </programme>
-  <programme start="20210110052200 -0600" stop="20210110065000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Misión Babilonia</title>
+  <programme start="20210527223600 -0500" stop="20210527230000 -0500" channel="Discovery Science">
+    <title lang="es">Reto a la Ciencia</title>
   </programme>
-  <programme start="20210110065000 -0600" stop="20210110082500 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Un grito lejano</title>
+  <programme start="20210527230000 -0500" stop="20210527234800 -0500" channel="Discovery Science">
+    <title lang="es">La Idea Ganadora</title>
   </programme>
-  <programme start="20210110082500 -0600" stop="20210110104900 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">A.I. Inteligencia artificial</title>
+  <programme start="20210527234800 -0500" stop="20210528003600 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210110104900 -0600" stop="20210110122700 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Estigma</title>
+  <programme start="20210528010000 -0500" stop="20210528012400 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210110122700 -0600" stop="20210110141200 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Siniestro</title>
+  <programme start="20210528012400 -0500" stop="20210528021200 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210110141200 -0600" stop="20210110154300 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Eliminar Amigo 2</title>
+  <programme start="20210528021200 -0500" stop="20210528030000 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210110154300 -0600" stop="20210110171400 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Alucinaciones</title>
+  <programme start="20210528034800 -0500" stop="20210528043600 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210110171400 -0600" stop="20210110185200 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Drive acción máxima velocidad</title>
+  <programme start="20210528043600 -0500" stop="20210528052400 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210110185200 -0600" stop="20210110210000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Jack Reacher</title>
+  <programme start="20210528052400 -0500" stop="20210528061200 -0500" channel="Discovery Science">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
   </programme>
-  <programme start="20210110210000 -0600" stop="20210110223400 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">La fría luz del día</title>
+  <programme start="20210528061200 -0500" stop="20210528070000 -0500" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
   </programme>
-  <programme start="20210110223400 -0600" stop="20210111001100 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">En Defensa Propia</title>
+  <programme start="20210528074800 -0500" stop="20210528083600 -0500" channel="Discovery Science">
+    <title lang="es">Silicon Valley: The Untold Story</title>
   </programme>
-  <programme start="20210111001100 -0600" stop="20210111020000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Red 2</title>
+  <programme start="20210528083600 -0500" stop="20210528092400 -0500" channel="Discovery Science">
+    <title lang="es">Silicon Valley: The Untold Story</title>
   </programme>
-  <programme start="20210111020000 -0600" stop="20210111033500 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Imparable</title>
+  <programme start="20210528092400 -0500" stop="20210528101200 -0500" channel="Discovery Science">
+    <title lang="es">Silicon Valley: The Untold Story</title>
   </programme>
-  <programme start="20210111033500 -0600" stop="20210111052000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Cementerio maldito</title>
+  <programme start="20210528101200 -0500" stop="20210528110000 -0500" channel="Discovery Science">
+    <title lang="es">Universidad Forense</title>
   </programme>
-  <programme start="20210111052000 -0600" stop="20210111092000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Proyecto Géminis</title>
+  <programme start="20210528110000 -0500" stop="20210528114800 -0500" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
   </programme>
-  <programme start="20210111092000 -0600" stop="20210111132000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Proyecto Géminis</title>
+  <programme start="20210528114800 -0500" stop="20210528123600 -0500" channel="Discovery Science">
+    <title lang="es">Tesla: Crimen desclasificado</title>
   </programme>
-  <programme start="20210111132000 -0600" stop="20210111172000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Proyecto Géminis</title>
+  <programme start="20210528123600 -0500" stop="20210528130000 -0500" channel="Discovery Science">
+    <title lang="es">Analízame</title>
   </programme>
-  <programme start="20210111172000 -0600" stop="20210111212000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Proyecto Géminis</title>
+  <programme start="20210528130000 -0500" stop="20210528132400 -0500" channel="Discovery Science">
+    <title lang="es">Analízame</title>
   </programme>
-  <programme start="20210111212000 -0600" stop="20210112012000 -0600" channel="Canal Fox Premium Action (Este)">
-    <title lang="es">Proyecto Géminis</title>
+  <programme start="20210528132400 -0500" stop="20210528141200 -0500" channel="Discovery Science">
+    <title lang="es">Houdini's Last Secrets</title>
   </programme>
-  <programme start="20210107002600 -0600" stop="20210107015300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Ginger &amp; Rosa</title>
+  <programme start="20210528141200 -0500" stop="20210528150000 -0500" channel="Discovery Science">
+    <title lang="es">¿Dónde está el error</title>
   </programme>
-  <programme start="20210107015300 -0600" stop="20210107034000 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">La reina del miedo</title>
+  <programme start="20210528150000 -0500" stop="20210528154800 -0500" channel="Discovery Science">
+    <title lang="es">Un salto gigante</title>
   </programme>
-  <programme start="20210107034000 -0600" stop="20210107050000 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Tren nocturno a Lisboa</title>
+  <programme start="20210528154800 -0500" stop="20210528163600 -0500" channel="Discovery Science">
+    <title lang="es">Truth Behind the Moon Landing</title>
   </programme>
-  <programme start="20210107050000 -0600" stop="20210107062400 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Jamón, jamón</title>
+  <programme start="20210528163600 -0500" stop="20210528172400 -0500" channel="Discovery Science">
+    <title lang="es">Pistoleros</title>
   </programme>
-  <programme start="20210107062400 -0600" stop="20210107075300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Crossword Mysteries</title>
+  <programme start="20210528172400 -0500" stop="20210528181200 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210107075300 -0600" stop="20210107093700 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Paranoia</title>
+  <programme start="20210528181200 -0500" stop="20210528190000 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210107093700 -0600" stop="20210107111800 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Amores asesinos</title>
+  <programme start="20210528190000 -0500" stop="20210528194800 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210107111800 -0600" stop="20210107125300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Todas as Canções de Amor</title>
+  <programme start="20210528194800 -0500" stop="20210528203600 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210107125300 -0600" stop="20210107142300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">La puerta abierta</title>
+  <programme start="20210528203600 -0500" stop="20210528212400 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210107142300 -0600" stop="20210107160000 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Glass Houses</title>
+  <programme start="20210528212400 -0500" stop="20210528221200 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210107160000 -0600" stop="20210107175000 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Animal</title>
+  <programme start="20210528221200 -0500" stop="20210528230000 -0500" channel="Discovery Science">
+    <title lang="es">Penn &amp; Teller: No Todo Es Verdad</title>
   </programme>
-  <programme start="20210107175000 -0600" stop="20210107192100 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">A Vigilante</title>
+  <programme start="20210528230000 -0500" stop="20210528234800 -0500" channel="Discovery Science">
+    <title lang="es">Vehículos Lunares</title>
   </programme>
-  <programme start="20210107192100 -0600" stop="20210107210000 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">The Lead</title>
+  <programme start="20210528234800 -0500" stop="20210529001200 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210107210000 -0600" stop="20210107230900 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">El amor menos pensado</title>
+  <programme start="20210529001200 -0500" stop="20210529003600 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210107230900 -0600" stop="20210108003800 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Amor de Película</title>
+  <programme start="20210529003600 -0500" stop="20210529010000 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210108230900 -0600" stop="20210109003800 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Amor de Película</title>
+  <programme start="20210529010000 -0500" stop="20210529012400 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210109003800 -0600" stop="20210109023500 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Pecado original</title>
+  <programme start="20210529012400 -0500" stop="20210529021200 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210109023500 -0600" stop="20210109044300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Cumbres borrascosas</title>
+  <programme start="20210529021200 -0500" stop="20210529030000 -0500" channel="Discovery Science">
+    <title lang="es">Secretos de la NASA</title>
   </programme>
-  <programme start="20210109044300 -0600" stop="20210109052400 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Sitiados México</title>
+  <programme start="20210529030000 -0500" stop="20210529034800 -0500" channel="Discovery Science">
+    <title lang="es">La Idea Ganadora</title>
   </programme>
-  <programme start="20210109052400 -0600" stop="20210109071300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Caso 39</title>
+  <programme start="20210529034800 -0500" stop="20210529043600 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210109071300 -0600" stop="20210109084200 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Crossword Mysteries Abracadav</title>
+  <programme start="20210529043600 -0500" stop="20210529052400 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210109084200 -0600" stop="20210109102800 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Viviendo con el enemigo</title>
+  <programme start="20210529052400 -0500" stop="20210529061200 -0500" channel="Discovery Science">
+    <title lang="es">Tesoro en el Espacio: El Secreto del Astronauta</title>
   </programme>
-  <programme start="20210109102800 -0600" stop="20210109115700 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Crossword Mysteries</title>
+  <programme start="20210529061200 -0500" stop="20210529070000 -0500" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
   </programme>
-  <programme start="20210109115700 -0600" stop="20210109140100 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Infidelidad</title>
+  <programme start="20210529070000 -0500" stop="20210529074800 -0500" channel="Discovery Science">
+    <title lang="es">The Explosion Show</title>
   </programme>
-  <programme start="20210109140100 -0600" stop="20210109154900 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Lo Imposible</title>
+  <programme start="20210529074800 -0500" stop="20210529081200 -0500" channel="Discovery Science">
+    <title lang="es">Reto a la Ciencia</title>
   </programme>
-  <programme start="20210109154900 -0600" stop="20210109173200 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Paranoia</title>
+  <programme start="20210529081200 -0500" stop="20210529083600 -0500" channel="Discovery Science">
+    <title lang="es">Reto a la Ciencia</title>
   </programme>
-  <programme start="20210109173200 -0600" stop="20210109191700 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">La reina del miedo</title>
+  <programme start="20210529083600 -0500" stop="20210529092400 -0500" channel="Discovery Science">
+    <title lang="es">La Idea Ganadora</title>
   </programme>
-  <programme start="20210109191700 -0600" stop="20210109210000 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Araña</title>
+  <programme start="20210529092400 -0500" stop="20210529101200 -0500" channel="Discovery Science">
+    <title lang="es">Savage Builds</title>
   </programme>
-  <programme start="20210109210000 -0600" stop="20210109222500 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Ginger &amp; Rosa</title>
+  <programme start="20210529101200 -0500" stop="20210529110000 -0500" channel="Discovery Science">
+    <title lang="es">Ciencia al rescate</title>
   </programme>
-  <programme start="20210109222500 -0600" stop="20210110002800 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">De-Lovely vida y amores</title>
+  <programme start="20210529114800 -0500" stop="20210529123600 -0500" channel="Discovery Science">
+    <title lang="es">Ciencia al rescate</title>
   </programme>
-  <programme start="20210110002800 -0600" stop="20210110022300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">La escuela de la vida</title>
+  <programme start="20210529123600 -0500" stop="20210529132400 -0500" channel="Discovery Science">
+    <title lang="es">Silicon Valley: The Untold Story</title>
   </programme>
-  <programme start="20210110022300 -0600" stop="20210110034900 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Maine</title>
+  <programme start="20210529132400 -0500" stop="20210529141200 -0500" channel="Discovery Science">
+    <title lang="es">Silicon Valley: The Untold Story</title>
   </programme>
-  <programme start="20210110034900 -0600" stop="20210110052700 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">El cielo esperará</title>
+  <programme start="20210529141200 -0500" stop="20210529150000 -0500" channel="Discovery Science">
+    <title lang="es">Silicon Valley: The Untold Story</title>
   </programme>
-  <programme start="20210110052700 -0600" stop="20210110070500 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">La Celestina</title>
+  <programme start="20210529150000 -0500" stop="20210529154800 -0500" channel="Discovery Science">
+    <title lang="es">Universidad Forense</title>
   </programme>
-  <programme start="20210110070500 -0600" stop="20210110082900 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Nadie Camina</title>
+  <programme start="20210529154800 -0500" stop="20210529163600 -0500" channel="Discovery Science">
+    <title lang="es">El forense es usted</title>
   </programme>
-  <programme start="20210110082900 -0600" stop="20210110095100 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Yosemite</title>
+  <programme start="20210529163600 -0500" stop="20210529172400 -0500" channel="Discovery Science">
+    <title lang="es">Historia olvidada</title>
   </programme>
-  <programme start="20210110095100 -0600" stop="20210110114900 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Pecado original</title>
+  <programme start="20210529172400 -0500" stop="20210529174800 -0500" channel="Discovery Science">
+    <title lang="es">Analízame</title>
   </programme>
-  <programme start="20210110114900 -0600" stop="20210110131600 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Amor de Película</title>
+  <programme start="20210529174800 -0500" stop="20210529181200 -0500" channel="Discovery Science">
+    <title lang="es">Analízame</title>
   </programme>
-  <programme start="20210110131600 -0600" stop="20210110145500 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">The Lead</title>
+  <programme start="20210529181200 -0500" stop="20210529190000 -0500" channel="Discovery Science">
+    <title lang="es">Houdini's Last Secrets</title>
   </programme>
-  <programme start="20210110145500 -0600" stop="20210110171500 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Babel</title>
+  <programme start="20210529194800 -0500" stop="20210529201200 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210110171500 -0600" stop="20210110190400 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Lo Imposible</title>
+  <programme start="20210529201200 -0500" stop="20210529203600 -0500" channel="Discovery Science">
+    <title lang="es">Así se hace</title>
   </programme>
-  <programme start="20210110190400 -0600" stop="20210110210000 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">La Odisea de los Giles</title>
+  <programme start="20210529203600 -0500" stop="20210529212400 -0500" channel="Discovery Science">
+    <title lang="es">Horror de cálculo</title>
   </programme>
-  <programme start="20210110210000 -0600" stop="20210110223900 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Tres Idénticos Desconocidos</title>
+  <programme start="20210529212400 -0500" stop="20210529221200 -0500" channel="Discovery Science">
+    <title lang="es">Horror de cálculo</title>
   </programme>
-  <programme start="20210110223900 -0600" stop="20210111002700 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Animales en riesgo Miami</title>
+  <programme start="20210529221200 -0500" stop="20210529230000 -0500" channel="Discovery Science">
+    <title lang="es">Ilusión con Keith Barry</title>
   </programme>
-  <programme start="20210111002700 -0600" stop="20210111020300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Nitro Rush</title>
+  <programme start="20210529230000 -0500" stop="20210529234800 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210111020300 -0600" stop="20210111034300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">La Espía Roja</title>
+  <programme start="20210529234800 -0500" stop="20210530003600 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
-  <programme start="20210111034300 -0600" stop="20210111050000 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Amores asesinos</title>
-  </programme>
-  <programme start="20210111050000 -0600" stop="20210111061100 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Freeloaders</title>
-  </programme>
-  <programme start="20210111061100 -0600" stop="20210111073800 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">El misterio de Michelle</title>
-  </programme>
-  <programme start="20210111073800 -0600" stop="20210111090500 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Maine</title>
-  </programme>
-  <programme start="20210111090500 -0600" stop="20210111105400 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Caso 39</title>
-  </programme>
-  <programme start="20210111105400 -0600" stop="20210111124300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Viviendo con el enemigo</title>
-  </programme>
-  <programme start="20210111124300 -0600" stop="20210111143100 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">La reina del miedo</title>
-  </programme>
-  <programme start="20210111143100 -0600" stop="20210111161200 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">El cielo esperará</title>
-  </programme>
-  <programme start="20210111161200 -0600" stop="20210111174300 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">La puerta abierta</title>
-  </programme>
-  <programme start="20210111174300 -0600" stop="20210111191500 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">El Último Traje</title>
-  </programme>
-  <programme start="20210111191500 -0600" stop="20210111210000 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Todo por mi hijo</title>
-  </programme>
-  <programme start="20210111210000 -0600" stop="20210111225900 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">Divaldo Franco</title>
-  </programme>
-  <programme start="20210111225900 -0600" stop="20210112003900 -0600" channel="Canal Fox Premium Cinéma">
-    <title lang="es">El Cambista</title>
-  </programme>
-  <programme start="20210107013900 -0600" stop="20210107035700 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Alejandro Magno</title>
-  </programme>
-  <programme start="20210107035700 -0600" stop="20210107061200 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Destino de un rebelde</title>
-  </programme>
-  <programme start="20210107061200 -0600" stop="20210107082400 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">¡Que bello es vivir</title>
-  </programme>
-  <programme start="20210107082400 -0600" stop="20210107105500 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Cómo casi se perdió el Oeste</title>
-  </programme>
-  <programme start="20210107105500 -0600" stop="20210107123200 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">El oeste loco</title>
-  </programme>
-  <programme start="20210107123200 -0600" stop="20210107141100 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Yo soy la ley</title>
-  </programme>
-  <programme start="20210107141100 -0600" stop="20210107155400 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">La hora de las pistolas</title>
-  </programme>
-  <programme start="20210107155400 -0600" stop="20210107175300 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Duro de Matar 2</title>
-  </programme>
-  <programme start="20210107175300 -0600" stop="20210107200000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Duelo de Gigantes</title>
-  </programme>
-  <programme start="20210107200000 -0600" stop="20210107214100 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Hechizo De Luna</title>
-  </programme>
-  <programme start="20210107214100 -0600" stop="20210107232900 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">¿Quién Llamó a la Cigüeña</title>
-  </programme>
-  <programme start="20210107232900 -0600" stop="20210108012300 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Alfie</title>
-  </programme>
-  <programme start="20210108012300 -0600" stop="20210108040600 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Nueva York, Nueva York</title>
-  </programme>
-  <programme start="20210108040600 -0600" stop="20210108054300 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">¿Quién Llamó a la Cigüeña</title>
-  </programme>
-  <programme start="20210108054300 -0600" stop="20210108074000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Moby dick de john huston</title>
-  </programme>
-  <programme start="20210108074000 -0600" stop="20210108111000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">La guerra y la paz</title>
-  </programme>
-  <programme start="20210108111000 -0600" stop="20210108132700 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Alejandro Magno</title>
-  </programme>
-  <programme start="20210108132700 -0600" stop="20210108154800 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Cromwell Hombre de Hierro</title>
-  </programme>
-  <programme start="20210108154800 -0600" stop="20210108172000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Los Guerreros</title>
-  </programme>
-  <programme start="20210108172000 -0600" stop="20210108192700 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Alien resurrección</title>
-  </programme>
-  <programme start="20210108192700 -0600" stop="20210108210000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Cujo</title>
-  </programme>
-  <programme start="20210108210000 -0600" stop="20210108224000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">RoboCop</title>
-  </programme>
-  <programme start="20210108224000 -0600" stop="20210109005000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Duro de matar</title>
-  </programme>
-  <programme start="20210109224000 -0600" stop="20210110005000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Duro de matar</title>
-  </programme>
-  <programme start="20210110005000 -0600" stop="20210110023900 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">La fuerza de la verdad</title>
-  </programme>
-  <programme start="20210110023900 -0600" stop="20210110042000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Hechizo De Luna</title>
-  </programme>
-  <programme start="20210110042000 -0600" stop="20210110065100 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Domingo negro</title>
-  </programme>
-  <programme start="20210110065100 -0600" stop="20210110081800 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">¿Y dónde está el piloto</title>
-  </programme>
-  <programme start="20210110081800 -0600" stop="20210110102400 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Maratón de la muerte</title>
-  </programme>
-  <programme start="20210110102400 -0600" stop="20210110121100 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">¿Quién Llamó a la Cigüeña</title>
-  </programme>
-  <programme start="20210110121100 -0600" stop="20210110140000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">La fuerza de la verdad</title>
-  </programme>
-  <programme start="20210110140000 -0600" stop="20210110160700 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Alien resurrección</title>
-  </programme>
-  <programme start="20210110160700 -0600" stop="20210110181700 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Duro de matar</title>
-  </programme>
-  <programme start="20210110181700 -0600" stop="20210110210000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Nueva York, Nueva York</title>
-  </programme>
-  <programme start="20210110210000 -0600" stop="20210110225300 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Límite de seguridad</title>
-  </programme>
-  <programme start="20210110225300 -0600" stop="20210111002200 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">La patrulla infernal</title>
-  </programme>
-  <programme start="20210111002200 -0600" stop="20210111022800 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Los inadaptados</title>
-  </programme>
-  <programme start="20210111022800 -0600" stop="20210111041100 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">La hora de las pistolas</title>
-  </programme>
-  <programme start="20210111041100 -0600" stop="20210111055500 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Los Duelistas</title>
-  </programme>
-  <programme start="20210111055500 -0600" stop="20210111081900 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Domingo negro</title>
-  </programme>
-  <programme start="20210111081900 -0600" stop="20210111095100 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Los Guerreros</title>
-  </programme>
-  <programme start="20210111095100 -0600" stop="20210111111800 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">¿Y dónde está el piloto</title>
-  </programme>
-  <programme start="20210111111800 -0600" stop="20210111124400 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">El Cuervo</title>
-  </programme>
-  <programme start="20210111124400 -0600" stop="20210111144100 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Fiebre de sábado por la noche</title>
-  </programme>
-  <programme start="20210111144100 -0600" stop="20210111160700 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Cumpleaños sangriento</title>
-  </programme>
-  <programme start="20210111160700 -0600" stop="20210111174000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Cujo</title>
-  </programme>
-  <programme start="20210111174000 -0600" stop="20210111192000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">RoboCop</title>
-  </programme>
-  <programme start="20210111192000 -0600" stop="20210111210000 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Tres horas de amor</title>
-  </programme>
-  <programme start="20210111210000 -0600" stop="20210111221400 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Estación comanche</title>
-  </programme>
-  <programme start="20210111221400 -0600" stop="20210112000900 -0600" channel="Canal Fox Premium Classics">
-    <title lang="es">Diligencia al Oeste</title>
-  </programme>
-  <programme start="20210107001200 -0600" stop="20210107014100 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Nacho libre</title>
-  </programme>
-  <programme start="20210107014100 -0600" stop="20210107030000 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">No es otra película de amor</title>
-  </programme>
-  <programme start="20210107030000 -0600" stop="20210107045000 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">El Hombre que Mató a Don Q</title>
-  </programme>
-  <programme start="20210107045000 -0600" stop="20210107060800 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Bienvenido a la jungla</title>
-  </programme>
-  <programme start="20210107060800 -0600" stop="20210107074500 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Yo, Mi mujer y Mi mujer muerta</title>
-  </programme>
-  <programme start="20210107074500 -0600" stop="20210107090700 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Ass Backwards</title>
-  </programme>
-  <programme start="20210107090700 -0600" stop="20210107104300 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Mi novio es un zombie</title>
-  </programme>
-  <programme start="20210107104300 -0600" stop="20210107120100 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Reno 911! Miami</title>
-  </programme>
-  <programme start="20210107120100 -0600" stop="20210107132600 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Tan muertos como yo</title>
-  </programme>
-  <programme start="20210107132600 -0600" stop="20210107152200 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Madea protección de testigos</title>
-  </programme>
-  <programme start="20210107152200 -0600" stop="20210107170800 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Conquistando a mi suegro</title>
-  </programme>
-  <programme start="20210107170800 -0600" stop="20210107191700 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">En sus zapatos</title>
-  </programme>
-  <programme start="20210107191700 -0600" stop="20210107210000 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">¿Bailamos</title>
-  </programme>
-  <programme start="20210107210000 -0600" stop="20210107225100 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Rapidos y Fogosos</title>
-  </programme>
-  <programme start="20210107225100 -0600" stop="20210108001400 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Una pareja infernal</title>
-  </programme>
-  <programme start="20210108225100 -0600" stop="20210109001400 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Una pareja infernal</title>
-  </programme>
-  <programme start="20210109001400 -0600" stop="20210109032400 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">De tonta, nada</title>
-  </programme>
-  <programme start="20210109032400 -0600" stop="20210109050400 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Laggies</title>
-  </programme>
-  <programme start="20210109050400 -0600" stop="20210109065500 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">The Sapphires</title>
-  </programme>
-  <programme start="20210109065500 -0600" stop="20210109090400 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">El Hombre que Mató a Don Q</title>
-  </programme>
-  <programme start="20210109090400 -0600" stop="20210109103200 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Christmas in Rome</title>
-  </programme>
-  <programme start="20210109103200 -0600" stop="20210109120000 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Sense, Sensibility &amp; Snowmen</title>
-  </programme>
-  <programme start="20210109120000 -0600" stop="20210109132200 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Una loca película épica</title>
-  </programme>
-  <programme start="20210109132200 -0600" stop="20210109145300 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Imagínatelo</title>
-  </programme>
-  <programme start="20210109145300 -0600" stop="20210109161300 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">30 y Viviendo en Casa</title>
-  </programme>
-  <programme start="20210109161300 -0600" stop="20210109180800 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Más sabe el Diablo por Viejo</title>
-  </programme>
-  <programme start="20210109180800 -0600" stop="20210109193500 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Sobreviviendo a la Navidad</title>
-  </programme>
-  <programme start="20210109193500 -0600" stop="20210109210000 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Lola Versus</title>
-  </programme>
-  <programme start="20210109210000 -0600" stop="20210109225300 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">El club de madres solteras</title>
-  </programme>
-  <programme start="20210109225300 -0600" stop="20210110002200 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Hijos de padres separados</title>
-  </programme>
-  <programme start="20210110002200 -0600" stop="20210110015800 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">The Inbetweeners Movie</title>
-  </programme>
-  <programme start="20210110015800 -0600" stop="20210110045300 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">American Summer</title>
-  </programme>
-  <programme start="20210110045300 -0600" stop="20210110051100 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Goon</title>
-  </programme>
-  <programme start="20210110051100 -0600" stop="20210110064100 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Bienvenido a la jungla</title>
-  </programme>
-  <programme start="20210110064100 -0600" stop="20210110085100 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">El Hombre que Mató a Don Q</title>
-  </programme>
-  <programme start="20210110085100 -0600" stop="20210110101800 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Christmas in Rome</title>
-  </programme>
-  <programme start="20210110101800 -0600" stop="20210110114600 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Sense, Sensibility &amp; Snowmen</title>
-  </programme>
-  <programme start="20210110114600 -0600" stop="20210110131800 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Una loca película épica</title>
-  </programme>
-  <programme start="20210110131800 -0600" stop="20210110144800 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Imagínatelo</title>
-  </programme>
-  <programme start="20210110144800 -0600" stop="20210110160700 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">30 y Viviendo en Casa</title>
-  </programme>
-  <programme start="20210110160700 -0600" stop="20210110180100 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Más sabe el Diablo por Viejo</title>
-  </programme>
-  <programme start="20210110180100 -0600" stop="20210110192800 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Sobreviviendo a la Navidad</title>
-  </programme>
-  <programme start="20210110192800 -0600" stop="20210110210000 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Lola Versus</title>
-  </programme>
-  <programme start="20210110210000 -0600" stop="20210110225300 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">El club de madres solteras</title>
-  </programme>
-  <programme start="20210110225300 -0600" stop="20210111002100 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Hijos de padres separados</title>
-  </programme>
-  <programme start="20210111225300 -0600" stop="20210112002100 -0600" channel="Canal Fox Premium Comedy">
-    <title lang="es">Hijos de padres separados</title>
-  </programme>
-  <programme start="20210107004800 -0600" stop="20210107024100 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Los Juegos del Hambre: Sinsajo - Parte 1</title>
-  </programme>
-  <programme start="20210107024100 -0600" stop="20210107042900 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Las aventuras de Chris Fable</title>
-  </programme>
-  <programme start="20210107042900 -0600" stop="20210107060300 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Ella es así</title>
-  </programme>
-  <programme start="20210107060300 -0600" stop="20210107073800 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Liberal Arts</title>
-  </programme>
-  <programme start="20210107073800 -0600" stop="20210107091900 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">La Navidad de Madea</title>
-  </programme>
-  <programme start="20210107091900 -0600" stop="20210107094200 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Programación Especial</title>
-  </programme>
-  <programme start="20210107094200 -0600" stop="20210107111400 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Las Fieras Fútbol Club</title>
-  </programme>
-  <programme start="20210107111400 -0600" stop="20210107125700 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">The Cup</title>
-  </programme>
-  <programme start="20210107125700 -0600" stop="20210107144500 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Las aventuras de Chris Fable</title>
-  </programme>
-  <programme start="20210107144500 -0600" stop="20210107163400 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">27 Bodas</title>
-  </programme>
-  <programme start="20210107163400 -0600" stop="20210107181400 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">La Navidad de Madea</title>
-  </programme>
-  <programme start="20210107181400 -0600" stop="20210107194400 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Christmas 9 to 5</title>
-  </programme>
-  <programme start="20210107194400 -0600" stop="20210107211200 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Sense, Sensibility &amp; Snowmen</title>
-  </programme>
-  <programme start="20210107211200 -0600" stop="20210107230000 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">La Saga Crepúsculo: Amanecer - Parte 2</title>
-  </programme>
-  <programme start="20210107230000 -0600" stop="20210108003000 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Al Diablo Con El Diablo</title>
-  </programme>
-  <programme start="20210108230000 -0600" stop="20210109003000 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Al Diablo Con El Diablo</title>
-  </programme>
-  <programme start="20210109003000 -0600" stop="20210109022800 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Aprendices Fuera de Línea</title>
-  </programme>
-  <programme start="20210109022800 -0600" stop="20210109041500 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Conquistando a mi suegro</title>
-  </programme>
-  <programme start="20210109041500 -0600" stop="20210109054200 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">JL Ranch 2</title>
-  </programme>
-  <programme start="20210109054200 -0600" stop="20210109071300 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Mi vida en ruinas</title>
-  </programme>
-  <programme start="20210109071300 -0600" stop="20210109084500 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Great Ghost Rescue</title>
-  </programme>
-  <programme start="20210109084500 -0600" stop="20210109100200 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">La princesa y el dragón</title>
-  </programme>
-  <programme start="20210109100200 -0600" stop="20210109114200 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">La Navidad de Madea</title>
-  </programme>
-  <programme start="20210109114200 -0600" stop="20210109132700 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">The Cup</title>
-  </programme>
-  <programme start="20210109132700 -0600" stop="20210109145300 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">El Fantástico Sr. Fox</title>
-  </programme>
-  <programme start="20210109145300 -0600" stop="20210109161800 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Love Under the Olive Tree</title>
-  </programme>
-  <programme start="20210109161800 -0600" stop="20210109174700 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Grounded for Christmas</title>
-  </programme>
-  <programme start="20210109174700 -0600" stop="20210109192300 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Ella es así</title>
-  </programme>
-  <programme start="20210109192300 -0600" stop="20210109205700 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Fluke, memorias de otra vida</title>
-  </programme>
-  <programme start="20210109205700 -0600" stop="20210109223000 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Jesús Henry Cristo</title>
-  </programme>
-  <programme start="20210109223000 -0600" stop="20210110000000 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Nacho libre</title>
-  </programme>
-  <programme start="20210110000000 -0600" stop="20210110015300 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Amor ciego</title>
-  </programme>
-  <programme start="20210110015300 -0600" stop="20210110033600 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">La Casa con un Reloj en sus Paredes</title>
-  </programme>
-  <programme start="20210110033600 -0600" stop="20210110050700 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Al Diablo Con El Diablo</title>
-  </programme>
-  <programme start="20210110050700 -0600" stop="20210110065500 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">La Saga Crepúsculo: Amanecer - Parte 2</title>
-  </programme>
-  <programme start="20210110065500 -0600" stop="20210110084400 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Los Juegos del Hambre: Sinsajo - Parte 1</title>
-  </programme>
-  <programme start="20210110084400 -0600" stop="20210110095700 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Thor historias de Asgard</title>
-  </programme>
-  <programme start="20210110095700 -0600" stop="20210110114600 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Las aventuras de Chris Fable</title>
-  </programme>
-  <programme start="20210110114600 -0600" stop="20210110132000 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Jesús Henry Cristo</title>
-  </programme>
-  <programme start="20210110132000 -0600" stop="20210110145400 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Fluke, memorias de otra vida</title>
-  </programme>
-  <programme start="20210110145400 -0600" stop="20210110162600 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Christmas 9 to 5</title>
-  </programme>
-  <programme start="20210110162600 -0600" stop="20210110175600 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Sense, Sensibility &amp; Snowmen</title>
-  </programme>
-  <programme start="20210110175600 -0600" stop="20210110192400 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">JL Ranch 2</title>
-  </programme>
-  <programme start="20210110192400 -0600" stop="20210110205000 -0600" channel="Canal Fox Premium Family (Este)">
-    <title lang="es">Bee Movie la historia de una abeja</title>
-  </programme>
-  <programme start="20210107001300 -0600" stop="20210107011700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Outlander</title>
-  </programme>
-  <programme start="20210107011700 -0600" stop="20210107021000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210107021000 -0600" stop="20210107030200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210107030200 -0600" stop="20210107035000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210107035000 -0600" stop="20210107043900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210107043900 -0600" stop="20210107053900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">The Walking Dead</title>
-  </programme>
-  <programme start="20210107053900 -0600" stop="20210107065000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107065000 -0600" stop="20210107073700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107073700 -0600" stop="20210107082400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107082400 -0600" stop="20210107091000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107091000 -0600" stop="20210107095500 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107095500 -0600" stop="20210107103800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107103800 -0600" stop="20210107112500 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107112500 -0600" stop="20210107120800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107120800 -0600" stop="20210107125000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107125000 -0600" stop="20210107133300 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107133300 -0600" stop="20210107141700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107141700 -0600" stop="20210107145800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107145800 -0600" stop="20210107154200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107154200 -0600" stop="20210107162300 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107162300 -0600" stop="20210107170700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107170700 -0600" stop="20210107174800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107174800 -0600" stop="20210107183300 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107183300 -0600" stop="20210107191800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107191800 -0600" stop="20210107200300 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107200300 -0600" stop="20210107210000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Godfather of Harlem</title>
-  </programme>
-  <programme start="20210107210000 -0600" stop="20210107214700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210107214700 -0600" stop="20210107223200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210107223200 -0600" stop="20210107231600 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210107231600 -0600" stop="20210107235900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210107235900 -0600" stop="20210108004800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210108235900 -0600" stop="20210109004800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109004800 -0600" stop="20210109013800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109013800 -0600" stop="20210109022600 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109022600 -0600" stop="20210109031400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109031400 -0600" stop="20210109040300 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109040300 -0600" stop="20210109062200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109062200 -0600" stop="20210109071600 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109071600 -0600" stop="20210109080600 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109080600 -0600" stop="20210109085500 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109085500 -0600" stop="20210109094400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109094400 -0600" stop="20210109103200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109103200 -0600" stop="20210109112200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109112200 -0600" stop="20210109121000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109121000 -0600" stop="20210109125800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109125800 -0600" stop="20210109134700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109134700 -0600" stop="20210109143600 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109143600 -0600" stop="20210109152900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109152900 -0600" stop="20210109161700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109161700 -0600" stop="20210109170400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109170400 -0600" stop="20210109175300 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109175300 -0600" stop="20210109184200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109184200 -0600" stop="20210109193200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109193200 -0600" stop="20210109202000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109202000 -0600" stop="20210109210900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109210900 -0600" stop="20210109220000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109220000 -0600" stop="20210109225100 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210109225100 -0600" stop="20210110020000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20210110020000 -0600" stop="20210110050000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20210110050000 -0600" stop="20210110055000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210110055000 -0600" stop="20210110064100 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210110064100 -0600" stop="20210110072900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210110072900 -0600" stop="20210110081800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210110081800 -0600" stop="20210110090900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210110090900 -0600" stop="20210110095900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210110095900 -0600" stop="20210110104400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110104400 -0600" stop="20210110112900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110112900 -0600" stop="20210110121400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110121400 -0600" stop="20210110125900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110125900 -0600" stop="20210110134400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110134400 -0600" stop="20210110142900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110142900 -0600" stop="20210110151400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110151400 -0600" stop="20210110155900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110155900 -0600" stop="20210110164400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110164400 -0600" stop="20210110202300 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110202300 -0600" stop="20210110210500 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Britannia</title>
-  </programme>
-  <programme start="20210110210500 -0600" stop="20210110220000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Godfather of Harlem</title>
-  </programme>
-  <programme start="20210110220000 -0600" stop="20210110224700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110224700 -0600" stop="20210110233200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210110233200 -0600" stop="20210111001700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111001700 -0600" stop="20210111005900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Riviera</title>
-  </programme>
-  <programme start="20210111005900 -0600" stop="20210111020100 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Outlander</title>
-  </programme>
-  <programme start="20210111020100 -0600" stop="20210111040100 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Homeland</title>
-  </programme>
-  <programme start="20210111040100 -0600" stop="20210111060100 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Homeland</title>
-  </programme>
-  <programme start="20210111060100 -0600" stop="20210111065400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Homeland</title>
-  </programme>
-  <programme start="20210111065400 -0600" stop="20210111073900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111073900 -0600" stop="20210111082400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111082400 -0600" stop="20210111090900 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111090900 -0600" stop="20210111095400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111095400 -0600" stop="20210111104000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111104000 -0600" stop="20210111112600 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111112600 -0600" stop="20210111121200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111121200 -0600" stop="20210111125700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111125700 -0600" stop="20210111134200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111134200 -0600" stop="20210111142700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111142700 -0600" stop="20210111151100 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111151100 -0600" stop="20210111155700 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111155700 -0600" stop="20210111164200 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111164200 -0600" stop="20210111172800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111172800 -0600" stop="20210111181400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111181400 -0600" stop="20210111185800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20210111185800 -0600" stop="20210111194400 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">This is Us</title>
-  </programme>
-  <programme start="20210111194400 -0600" stop="20210111203100 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111203100 -0600" stop="20210111211600 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111211600 -0600" stop="20210111220000 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Vikings</title>
-  </programme>
-  <programme start="20210111220000 -0600" stop="20210111224600 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">The Walking Dead</title>
-  </programme>
-  <programme start="20210111224600 -0600" stop="20210111233800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Devs</title>
-  </programme>
-  <programme start="20210111233800 -0600" stop="20210112002800 -0600" channel="Canal Fox Premium Series (Este)">
-    <title lang="es">Condor</title>
-  </programme>
-  <programme start="20210107014000 -0600" stop="20210107031500 -0600" channel="Canal HBO">
-    <title lang="es">Chicos Buenos</title>
-  </programme>
-  <programme start="20210107031500 -0600" stop="20210107061000 -0600" channel="Canal HBO">
-    <title lang="es">It Capítulo dos</title>
-  </programme>
-  <programme start="20210107061000 -0600" stop="20210107082500 -0600" channel="Canal HBO">
-    <title lang="es">Prueba de fuego</title>
-  </programme>
-  <programme start="20210107082500 -0600" stop="20210107103600 -0600" channel="Canal HBO">
-    <title lang="es">Guasón</title>
-  </programme>
-  <programme start="20210107103600 -0600" stop="20210107125000 -0600" channel="Canal HBO">
-    <title lang="es">Emma</title>
-  </programme>
-  <programme start="20210107125000 -0600" stop="20210107143500 -0600" channel="Canal HBO">
-    <title lang="es">Angry Birds 2: La película</title>
-  </programme>
-  <programme start="20210107143500 -0600" stop="20210107165500 -0600" channel="Canal HBO">
-    <title lang="es">Shazam</title>
-  </programme>
-  <programme start="20210107165500 -0600" stop="20210107185000 -0600" channel="Canal HBO">
-    <title lang="es">Fuera de la ley</title>
-  </programme>
-  <programme start="20210107185000 -0600" stop="20210107210000 -0600" channel="Canal HBO">
-    <title lang="es">Bad Boys Para Siempre</title>
-  </programme>
-  <programme start="20210107210000 -0600" stop="20210107215000 -0600" channel="Canal HBO">
-    <title lang="es">Dime quién soy</title>
-  </programme>
-  <programme start="20210107215000 -0600" stop="20210108000000 -0600" channel="Canal HBO">
-    <title lang="es">Guasón</title>
-  </programme>
-  <programme start="20210108000000 -0600" stop="20210108015000 -0600" channel="Canal HBO">
-    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
-  </programme>
-  <programme start="20210108015000 -0600" stop="20210108041000 -0600" channel="Canal HBO">
-    <title lang="es">Shazam</title>
-  </programme>
-  <programme start="20210108041000 -0600" stop="20210108071500 -0600" channel="Canal HBO">
-    <title lang="es">El señor de los anillos La comunidad del anillo</title>
-  </programme>
-  <programme start="20210108071500 -0600" stop="20210108085000 -0600" channel="Canal HBO">
-    <title lang="es">El arte del asesinato político</title>
-  </programme>
-  <programme start="20210108085000 -0600" stop="20210108122000 -0600" channel="Canal HBO">
-    <title lang="es">El Señor de los Anillos: El Retorno del Rey</title>
-  </programme>
-  <programme start="20210108122000 -0600" stop="20210108143000 -0600" channel="Canal HBO">
-    <title lang="es">Jumanji: El siguiente nivel</title>
-  </programme>
-  <programme start="20210108143000 -0600" stop="20210108161000 -0600" channel="Canal HBO">
-    <title lang="es">Mis Huellas a Casa</title>
-  </programme>
-  <programme start="20210108161000 -0600" stop="20210108181500 -0600" channel="Canal HBO">
-    <title lang="es">Yesterday (2019)</title>
-  </programme>
-  <programme start="20210108181500 -0600" stop="20210108201500 -0600" channel="Canal HBO">
-    <title lang="es">Hombres de Negro: Internacional</title>
-  </programme>
-  <programme start="20210108201500 -0600" stop="20210108221000 -0600" channel="Canal HBO">
-    <title lang="es">Bloodshot</title>
-  </programme>
-  <programme start="20210108221000 -0600" stop="20210109000000 -0600" channel="Canal HBO">
-    <title lang="es">Pokémon Detective Pikachu</title>
-  </programme>
-  <programme start="20210109000000 -0600" stop="20210109021000 -0600" channel="Canal HBO">
-    <title lang="es">Jumanji: El siguiente nivel</title>
-  </programme>
-  <programme start="20210109021000 -0600" stop="20210109041500 -0600" channel="Canal HBO">
-    <title lang="es">Hombres de Negro: Internacional</title>
-  </programme>
-  <programme start="20210109041500 -0600" stop="20210109061000 -0600" channel="Canal HBO">
-    <title lang="es">Bloodshot</title>
-  </programme>
-  <programme start="20210109061000 -0600" stop="20210109075500 -0600" channel="Canal HBO">
-    <title lang="es">Juego de poder</title>
-  </programme>
-  <programme start="20210109075500 -0600" stop="20210109094800 -0600" channel="Canal HBO">
-    <title lang="es">Pokémon Detective Pikachu</title>
-  </programme>
-  <programme start="20210109094800 -0600" stop="20210109120000 -0600" channel="Canal HBO">
-    <title lang="es">Bad Boys Para Siempre</title>
-  </programme>
-  <programme start="20210109120000 -0600" stop="20210109140500 -0600" channel="Canal HBO">
-    <title lang="es">1917</title>
-  </programme>
-  <programme start="20210109140500 -0600" stop="20210109161000 -0600" channel="Canal HBO">
-    <title lang="es">Nosotros (2019)</title>
-  </programme>
-  <programme start="20210109161000 -0600" stop="20210109175000 -0600" channel="Canal HBO">
-    <title lang="es">La maldición renace</title>
-  </programme>
-  <programme start="20210109175000 -0600" stop="20210109200000 -0600" channel="Canal HBO">
-    <title lang="es">Guasón</title>
-  </programme>
-  <programme start="20210109200000 -0600" stop="20210109215000 -0600" channel="Canal HBO">
-    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
-  </programme>
-  <programme start="20210109215000 -0600" stop="20210110000000 -0600" channel="Canal HBO">
-    <title lang="es">Bad Boys Para Siempre</title>
-  </programme>
-  <programme start="20210110000000 -0600" stop="20210110015500 -0600" channel="Canal HBO">
-    <title lang="es">El camino de regreso</title>
-  </programme>
-  <programme start="20210110015500 -0600" stop="20210110040000 -0600" channel="Canal HBO">
-    <title lang="es">1917</title>
-  </programme>
-  <programme start="20210110040000 -0600" stop="20210110061000 -0600" channel="Canal HBO">
-    <title lang="es">Harriet</title>
-  </programme>
-  <programme start="20210110061000 -0600" stop="20210110080500 -0600" channel="Canal HBO">
-    <title lang="es">Aves de presa (y la fantabulosa emancipación de Harley Quinn)</title>
-  </programme>
-  <programme start="20210110080500 -0600" stop="20210110100000 -0600" channel="Canal HBO">
-    <title lang="es">La Gran Aventura LEGO 2</title>
-  </programme>
-  <programme start="20210110100000 -0600" stop="20210110121000 -0600" channel="Canal HBO">
-    <title lang="es">Jumanji: El siguiente nivel</title>
-  </programme>
-  <programme start="20210110121000 -0600" stop="20210110141000 -0600" channel="Canal HBO">
-    <title lang="es">Escuela nocturna</title>
-  </programme>
-  <programme start="20210110141000 -0600" stop="20210110170000 -0600" channel="Canal HBO">
-    <title lang="es">Había una vez en Hollywood</title>
-  </programme>
-  <programme start="20210110170000 -0600" stop="20210110190500 -0600" channel="Canal HBO">
-    <title lang="es">Yesterday (2019)</title>
-  </programme>
-  <programme start="20210110190500 -0600" stop="20210110205000 -0600" channel="Canal HBO">
-    <title lang="es">Un Amigo Abominable</title>
-  </programme>
-  <programme start="20210110205000 -0600" stop="20210110230000 -0600" channel="Canal HBO">
-    <title lang="es">Jumanji: El siguiente nivel</title>
-  </programme>
-  <programme start="20210110230000 -0600" stop="20210111000000 -0600" channel="Canal HBO">
-    <title lang="es">Dime quién soy</title>
-  </programme>
-  <programme start="20210107020500 -0600" stop="20210107040000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">La Rebelión</title>
-  </programme>
-  <programme start="20210107040000 -0600" stop="20210107055500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Obsesión</title>
-  </programme>
-  <programme start="20210107055500 -0600" stop="20210107080000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Emma</title>
-  </programme>
-  <programme start="20210107080000 -0600" stop="20210107101500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Construyendo La Vida</title>
-  </programme>
-  <programme start="20210107101500 -0600" stop="20210107124000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">RyF Hobbs &amp; Shaw</title>
-  </programme>
-  <programme start="20210107124000 -0600" stop="20210107152500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Había una vez en Hollywood</title>
-  </programme>
-  <programme start="20210107152500 -0600" stop="20210107173500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Inhala</title>
-  </programme>
-  <programme start="20210107173500 -0600" stop="20210107192500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Miss Bala: Sin Piedad</title>
-  </programme>
-  <programme start="20210107192500 -0600" stop="20210107214000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Godzilla II</title>
-  </programme>
-  <programme start="20210107214000 -0600" stop="20210108000000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">RyF Hobbs &amp; Shaw</title>
-  </programme>
-  <programme start="20210108000000 -0600" stop="20210108024500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Había una vez en Hollywood</title>
-  </programme>
-  <programme start="20210108024500 -0600" stop="20210108033000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Dime quién soy</title>
-  </programme>
-  <programme start="20210108033000 -0600" stop="20210108060000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">El Gran Gatsby</title>
-  </programme>
-  <programme start="20210108060000 -0600" stop="20210108081500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">La Intérprete</title>
-  </programme>
-  <programme start="20210108081500 -0600" stop="20210108095500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">La maldición renace</title>
-  </programme>
-  <programme start="20210108095500 -0600" stop="20210108113500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">La maldición de la llorona</title>
-  </programme>
-  <programme start="20210108113500 -0600" stop="20210108133000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Click perdiendo el control</title>
-  </programme>
-  <programme start="20210108133000 -0600" stop="20210108152500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">La Gran Aventura LEGO 2</title>
-  </programme>
-  <programme start="20210108152500 -0600" stop="20210108170500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Un Amigo Abominable</title>
-  </programme>
-  <programme start="20210108170500 -0600" stop="20210108193000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Comer, Rezar, Amar</title>
-  </programme>
-  <programme start="20210108193000 -0600" stop="20210108215000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Mujercitas</title>
-  </programme>
-  <programme start="20210108215000 -0600" stop="20210109000000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Emma</title>
-  </programme>
-  <programme start="20210109000000 -0600" stop="20210109014000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">La maldición renace</title>
-  </programme>
-  <programme start="20210109014000 -0600" stop="20210109031500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">La maldición de la llorona</title>
-  </programme>
-  <programme start="20210109031500 -0600" stop="20210109053000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">A Él No Le Gustas Tanto</title>
-  </programme>
-  <programme start="20210109053000 -0600" stop="20210109080500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">El Jilguero</title>
-  </programme>
-  <programme start="20210109080500 -0600" stop="20210109095500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">17 otra vez</title>
-  </programme>
-  <programme start="20210109095500 -0600" stop="20210109115000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Cats</title>
-  </programme>
-  <programme start="20210109115000 -0600" stop="20210109140500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Godzilla II</title>
-  </programme>
-  <programme start="20210109140500 -0600" stop="20210109162000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Blanca Nieves y El Cazador</title>
-  </programme>
-  <programme start="20210109162000 -0600" stop="20210109184000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Mujercitas</title>
-  </programme>
-  <programme start="20210109184000 -0600" stop="20210109202500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Quiero matar a mi jefe</title>
-  </programme>
-  <programme start="20210109202500 -0600" stop="20210109222000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">La razón de estar contigo 2</title>
-  </programme>
-  <programme start="20210109222000 -0600" stop="20210110000000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Angry Birds 2: La película</title>
-  </programme>
-  <programme start="20210110000000 -0600" stop="20210110021500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Godzilla II</title>
-  </programme>
-  <programme start="20210110021500 -0600" stop="20210110041000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Cats</title>
-  </programme>
-  <programme start="20210110041000 -0600" stop="20210110060000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Eterno resplandor de una mente</title>
-  </programme>
-  <programme start="20210110060000 -0600" stop="20210110072500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Antes del atardecer</title>
-  </programme>
-  <programme start="20210110072500 -0600" stop="20210110093000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Maria Antonieta La reina</title>
-  </programme>
-  <programme start="20210110093000 -0600" stop="20210110113500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Emma</title>
-  </programme>
-  <programme start="20210110113500 -0600" stop="20210110134500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Green Book Una amistad sin</title>
-  </programme>
-  <programme start="20210110134500 -0600" stop="20210110155500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Atracción peligrosa</title>
-  </programme>
-  <programme start="20210110155500 -0600" stop="20210110174500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Miss Bala: Sin Piedad</title>
-  </programme>
-  <programme start="20210110174500 -0600" stop="20210110200500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Queen y Slim Los fugitivos</title>
-  </programme>
-  <programme start="20210110200500 -0600" stop="20210110220000 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Fuera de la ley</title>
-  </programme>
-  <programme start="20210110220000 -0600" stop="20210110235500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">El camino de regreso</title>
-  </programme>
-  <programme start="20210110235500 -0600" stop="20210111014500 -0600" channel="Canal HBO 2 Latinoamérica">
-    <title lang="es">Miss Bala: Sin Piedad</title>
-  </programme>
-  <programme start="20210107004500 -0600" stop="20210107022000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El mejor verano de mi vida</title>
-  </programme>
-  <programme start="20210107022000 -0600" stop="20210107042500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La Música de mi Vida</title>
-  </programme>
-  <programme start="20210107042500 -0600" stop="20210107063000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Los sueños de Akira Kurosawa</title>
-  </programme>
-  <programme start="20210107063000 -0600" stop="20210107091000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El último Samurai</title>
-  </programme>
-  <programme start="20210107091000 -0600" stop="20210107105500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Mi mamá es una espía</title>
-  </programme>
-  <programme start="20210107105500 -0600" stop="20210107130000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Si la Colonia Hablara</title>
-  </programme>
-  <programme start="20210107130000 -0600" stop="20210107144500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Jamás llegarán a viejos</title>
-  </programme>
-  <programme start="20210107144500 -0600" stop="20210107161000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Morgue</title>
-  </programme>
-  <programme start="20210107161000 -0600" stop="20210107175000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El maestro</title>
-  </programme>
-  <programme start="20210107175000 -0600" stop="20210107210000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">No dejes de mirarme</title>
-  </programme>
-  <programme start="20210107210000 -0600" stop="20210107230000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La mula</title>
-  </programme>
-  <programme start="20210107230000 -0600" stop="20210108005500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El faro</title>
-  </programme>
-  <programme start="20210108005500 -0600" stop="20210108024700 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El pacto</title>
-  </programme>
-  <programme start="20210108024700 -0600" stop="20210108043900 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Flores Rotas</title>
-  </programme>
-  <programme start="20210108043900 -0600" stop="20210108070500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El pescador de ilusiones</title>
-  </programme>
-  <programme start="20210108070500 -0600" stop="20210108073800 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Freshman year</title>
-  </programme>
-  <programme start="20210108073800 -0600" stop="20210108100500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Un Mundo Perfecto</title>
-  </programme>
-  <programme start="20210108100500 -0600" stop="20210108121500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Campeones</title>
-  </programme>
-  <programme start="20210108121500 -0600" stop="20210108140000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El comienzo de la navidad</title>
-  </programme>
-  <programme start="20210108140000 -0600" stop="20210108161000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El cuervo blanco</title>
-  </programme>
-  <programme start="20210108161000 -0600" stop="20210108175500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La Viuda</title>
-  </programme>
-  <programme start="20210108175500 -0600" stop="20210108200000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La Voz de la Igualdad</title>
-  </programme>
-  <programme start="20210108200000 -0600" stop="20210108220000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Corazón Borrado</title>
-  </programme>
-  <programme start="20210108220000 -0600" stop="20210109000000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La Diosa Fortuna</title>
-  </programme>
-  <programme start="20210109000000 -0600" stop="20210109015000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Los adoptantes</title>
-  </programme>
-  <programme start="20210109015000 -0600" stop="20210109035500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La Diosa Fortuna</title>
-  </programme>
-  <programme start="20210109035500 -0600" stop="20210109061000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Eclipse total</title>
-  </programme>
-  <programme start="20210109061000 -0600" stop="20210109074000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Yo no me Llamo Rubén Blades</title>
-  </programme>
-  <programme start="20210109074000 -0600" stop="20210109094500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Quadrophenia</title>
-  </programme>
-  <programme start="20210109094500 -0600" stop="20210109114000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La última estación</title>
-  </programme>
-  <programme start="20210109114000 -0600" stop="20210109131500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Todo incluído</title>
-  </programme>
-  <programme start="20210109131500 -0600" stop="20210109152000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Si la Colonia Hablara</title>
-  </programme>
-  <programme start="20210109152000 -0600" stop="20210109171000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">¡Es muy cruel vivir así</title>
-  </programme>
-  <programme start="20210109171000 -0600" stop="20210109185500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Brian Banks</title>
-  </programme>
-  <programme start="20210109185500 -0600" stop="20210109210000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Mi viaje contigo</title>
-  </programme>
-  <programme start="20210109210000 -0600" stop="20210109230000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">No te Preocupes, no Irá Lejos</title>
-  </programme>
-  <programme start="20210109230000 -0600" stop="20210110005500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La canción de los nombres</title>
-  </programme>
-  <programme start="20210110005500 -0600" stop="20210110025000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Van Gogh en la puerta de</title>
-  </programme>
-  <programme start="20210110025000 -0600" stop="20210110045000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">No te Preocupes, no Irá Lejos</title>
-  </programme>
-  <programme start="20210110045000 -0600" stop="20210110073300 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Perfume de Mujer</title>
-  </programme>
-  <programme start="20210110073300 -0600" stop="20210110092000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Reencuentro</title>
-  </programme>
-  <programme start="20210110092000 -0600" stop="20210110111000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El reality</title>
-  </programme>
-  <programme start="20210110111000 -0600" stop="20210110124000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Bajo la Torre Eiffel</title>
-  </programme>
-  <programme start="20210110124000 -0600" stop="20210110144000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La Diosa Fortuna</title>
-  </programme>
-  <programme start="20210110144000 -0600" stop="20210110163000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La Dama de Oro</title>
-  </programme>
-  <programme start="20210110163000 -0600" stop="20210110182500 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El Buen Mentiroso</title>
-  </programme>
-  <programme start="20210110182500 -0600" stop="20210110200000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El mejor verano de mi vida</title>
-  </programme>
-  <programme start="20210110200000 -0600" stop="20210110220000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">La Diosa Fortuna</title>
-  </programme>
-  <programme start="20210110220000 -0600" stop="20210110235000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">Wildlife</title>
-  </programme>
-  <programme start="20210110235000 -0600" stop="20210111014000 -0600" channel="Canal HBO Mundi">
-    <title lang="es">El comienzo de la navidad</title>
-  </programme>
-  <programme start="20210107004500 -0600" stop="20210107022500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Tully</title>
-  </programme>
-  <programme start="20210107022500 -0600" stop="20210107041500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Siempre el mismo día</title>
-  </programme>
-  <programme start="20210107041500 -0600" stop="20210107054000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Lemon</title>
-  </programme>
-  <programme start="20210107054000 -0600" stop="20210107073000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Un hombre serio</title>
-  </programme>
-  <programme start="20210107073000 -0600" stop="20210107090000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Misterio en el set</title>
-  </programme>
-  <programme start="20210107090000 -0600" stop="20210107103500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Permanente</title>
-  </programme>
-  <programme start="20210107103500 -0600" stop="20210107121500 -0600" channel="Canal HBO Pop">
-    <title lang="es">La Mejor de mis Bodas</title>
-  </programme>
-  <programme start="20210107121500 -0600" stop="20210107135500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Un perdedor con suerte</title>
-  </programme>
-  <programme start="20210107135500 -0600" stop="20210107155000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Definitivamente, Tal Vez</title>
-  </programme>
-  <programme start="20210107155000 -0600" stop="20210107173000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Cuando apareciste tú</title>
-  </programme>
-  <programme start="20210107173000 -0600" stop="20210107192000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Rock Star La voz del dragón</title>
-  </programme>
-  <programme start="20210107192000 -0600" stop="20210107211500 -0600" channel="Canal HBO Pop">
-    <title lang="es">100 cosas</title>
-  </programme>
-  <programme start="20210107211500 -0600" stop="20210107230000 -0600" channel="Canal HBO Pop">
-    <title lang="es">2 tontos en fuga</title>
-  </programme>
-  <programme start="20210107230000 -0600" stop="20210108003000 -0600" channel="Canal HBO Pop">
-    <title lang="es">En los 90</title>
-  </programme>
-  <programme start="20210108003000 -0600" stop="20210108021000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Nuestro último verano Escocia</title>
-  </programme>
-  <programme start="20210108021000 -0600" stop="20210108043500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Amor y mafia</title>
-  </programme>
-  <programme start="20210108043500 -0600" stop="20210108061300 -0600" channel="Canal HBO Pop">
-    <title lang="es">Hombres de mentes</title>
-  </programme>
-  <programme start="20210108061300 -0600" stop="20210108075000 -0600" channel="Canal HBO Pop">
-    <title lang="es">De ladrón A policía</title>
-  </programme>
-  <programme start="20210108075000 -0600" stop="20210108100000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Campeones</title>
-  </programme>
-  <programme start="20210108100000 -0600" stop="20210108115000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Your Name</title>
-  </programme>
-  <programme start="20210108115000 -0600" stop="20210108134000 -0600" channel="Canal HBO Pop">
-    <title lang="es">No Soy Tu Mami</title>
-  </programme>
-  <programme start="20210108134000 -0600" stop="20210108152500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Todo es cierto</title>
-  </programme>
-  <programme start="20210108152500 -0600" stop="20210108173500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Damas en Guerra</title>
-  </programme>
-  <programme start="20210108173500 -0600" stop="20210108191000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Muerte en el funeral</title>
-  </programme>
-  <programme start="20210108191000 -0600" stop="20210108210000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Sí señor</title>
-  </programme>
-  <programme start="20210108210000 -0600" stop="20210108230000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Los caza novias</title>
-  </programme>
-  <programme start="20210108230000 -0600" stop="20210109005500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Notas perfectas</title>
-  </programme>
-  <programme start="20210109230000 -0600" stop="20210110005500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Notas perfectas</title>
-  </programme>
-  <programme start="20210110005500 -0600" stop="20210110024000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Amor a distancia</title>
-  </programme>
-  <programme start="20210110024000 -0600" stop="20210110042500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Mi Abuelo es un Peligro</title>
-  </programme>
-  <programme start="20210110042500 -0600" stop="20210110055800 -0600" channel="Canal HBO Pop">
-    <title lang="es">Adicta al sexo</title>
-  </programme>
-  <programme start="20210110055800 -0600" stop="20210110080700 -0600" channel="Canal HBO Pop">
-    <title lang="es">Topaz</title>
-  </programme>
-  <programme start="20210110080700 -0600" stop="20210110093500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Amigos inseparables</title>
-  </programme>
-  <programme start="20210110093500 -0600" stop="20210110112300 -0600" channel="Canal HBO Pop">
-    <title lang="es">Viejos Gruñones</title>
-  </programme>
-  <programme start="20210110112300 -0600" stop="20210110130000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Un papá genial</title>
-  </programme>
-  <programme start="20210110130000 -0600" stop="20210110144000 -0600" channel="Canal HBO Pop">
-    <title lang="es">La mejor noche de tu vida</title>
-  </programme>
-  <programme start="20210110144000 -0600" stop="20210110163000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Nosotros Los Nobles</title>
-  </programme>
-  <programme start="20210110163000 -0600" stop="20210110190000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Siempre hay tiempo para reir</title>
-  </programme>
-  <programme start="20210110190000 -0600" stop="20210110203500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Ladrones de la fama</title>
-  </programme>
-  <programme start="20210110203500 -0600" stop="20210110221000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Mama's boy</title>
-  </programme>
-  <programme start="20210110221000 -0600" stop="20210110230000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Cenicienta después del</title>
-  </programme>
-  <programme start="20210110230000 -0600" stop="20210111003000 -0600" channel="Canal HBO Pop">
-    <title lang="es">La mujer milagrosa</title>
-  </programme>
-  <programme start="20210111003000 -0600" stop="20210111023000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Luna de Miel en Familia</title>
-  </programme>
-  <programme start="20210111023000 -0600" stop="20210111040500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Confesiones de una novia joven</title>
-  </programme>
-  <programme start="20210111040500 -0600" stop="20210111053000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Chris Rock kill the messenger</title>
-  </programme>
-  <programme start="20210111053000 -0600" stop="20210111071500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Recuerdos de Hollywood</title>
-  </programme>
-  <programme start="20210111071500 -0600" stop="20210111083000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Hank y Asha</title>
-  </programme>
-  <programme start="20210111083000 -0600" stop="20210111104500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Los Chicos De Mi Vida</title>
-  </programme>
-  <programme start="20210111104500 -0600" stop="20210111122500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Yo soy más yo</title>
-  </programme>
-  <programme start="20210111122500 -0600" stop="20210111141500 -0600" channel="Canal HBO Pop">
-    <title lang="es">Siempre tú</title>
-  </programme>
-  <programme start="20210111141500 -0600" stop="20210111155000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Licencia para casarse</title>
-  </programme>
-  <programme start="20210111155000 -0600" stop="20210111174800 -0600" channel="Canal HBO Pop">
-    <title lang="es">Hairspray, suéltate el pelo</title>
-  </programme>
-  <programme start="20210111174800 -0600" stop="20210111195500 -0600" channel="Canal HBO Pop">
-    <title lang="es">La Era del Rock</title>
-  </programme>
-  <programme start="20210111195500 -0600" stop="20210111213000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Castigados</title>
-  </programme>
-  <programme start="20210111213000 -0600" stop="20210111230000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Proyecto X</title>
-  </programme>
-  <programme start="20210111230000 -0600" stop="20210112005000 -0600" channel="Canal HBO Pop">
-    <title lang="es">Ted</title>
-  </programme>
-  <programme start="20210107010000 -0600" stop="20210107030500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Dejando Neverland (Parte 1)</title>
-  </programme>
-  <programme start="20210107030500 -0600" stop="20210107051000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Dejando Neverland (Parte 2)</title>
-  </programme>
-  <programme start="20210107051000 -0600" stop="20210107070000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Mi cena con Hervé</title>
-  </programme>
-  <programme start="20210107070000 -0600" stop="20210107084500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Brexit</title>
-  </programme>
-  <programme start="20210107084500 -0600" stop="20210107105000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">La conspiración</title>
-  </programme>
-  <programme start="20210107105000 -0600" stop="20210107131000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">No Conoces A Jack</title>
-  </programme>
-  <programme start="20210107131000 -0600" stop="20210107144500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Stockton Siempre presente</title>
-  </programme>
-  <programme start="20210107144500 -0600" stop="20210107154800 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20210107154800 -0600" stop="20210107164900 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20210107164900 -0600" stop="20210107174900 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20210107174900 -0600" stop="20210107185200 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20210107185200 -0600" stop="20210107195100 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20210107195100 -0600" stop="20210107205000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20210107205000 -0600" stop="20210107220000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20210107220000 -0600" stop="20210107230000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Patria</title>
-  </programme>
-  <programme start="20210107230000 -0600" stop="20210108000000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Industry</title>
-  </programme>
-  <programme start="20210108000000 -0600" stop="20210108010000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Industry</title>
-  </programme>
-  <programme start="20210108010000 -0600" stop="20210108024000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Transhood Crecer transgénero</title>
-  </programme>
-  <programme start="20210108024000 -0600" stop="20210108044000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El cuento</title>
-  </programme>
-  <programme start="20210108044000 -0600" stop="20210108061500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Buzz</title>
-  </programme>
-  <programme start="20210108061500 -0600" stop="20210108075000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Cinema verite</title>
-  </programme>
-  <programme start="20210108075000 -0600" stop="20210108093000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">La vida inmortal de Henrietta</title>
-  </programme>
-  <programme start="20210108093000 -0600" stop="20210108110500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">En el corazón del oro</title>
-  </programme>
-  <programme start="20210108110500 -0600" stop="20210108125500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Paterno</title>
-  </programme>
-  <programme start="20210108125500 -0600" stop="20210108150500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Loco, no demente</title>
-  </programme>
-  <programme start="20210108150500 -0600" stop="20210108170000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Confirmación</title>
-  </programme>
-  <programme start="20210108170000 -0600" stop="20210108180000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">The Undoing</title>
-  </programme>
-  <programme start="20210108180000 -0600" stop="20210108190000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">The Undoing</title>
-  </programme>
-  <programme start="20210108190000 -0600" stop="20210108200000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">The Undoing</title>
-  </programme>
-  <programme start="20210108200000 -0600" stop="20210108205500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">The Undoing</title>
-  </programme>
-  <programme start="20210108205500 -0600" stop="20210108220000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">The Undoing</title>
-  </programme>
-  <programme start="20210108220000 -0600" stop="20210108230300 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">The Undoing</title>
-  </programme>
-  <programme start="20210108230300 -0600" stop="20210109001000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Euphoria Special</title>
-  </programme>
-  <programme start="20210109001000 -0600" stop="20210109011500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Mi Papa Escribio Una Porno</title>
-  </programme>
-  <programme start="20210109011500 -0600" stop="20210109020500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Dime quién soy</title>
-  </programme>
-  <programme start="20210109020500 -0600" stop="20210109031000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Te amo, ahora muere</title>
-  </programme>
-  <programme start="20210109031000 -0600" stop="20210109043500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Te amo, ahora muere</title>
-  </programme>
-  <programme start="20210109043500 -0600" stop="20210109061500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Cinema verite</title>
-  </programme>
-  <programme start="20210109061500 -0600" stop="20210109081000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">La Historia De Mary</title>
-  </programme>
-  <programme start="20210109081000 -0600" stop="20210109101500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Palacio De Joe</title>
-  </programme>
-  <programme start="20210109101500 -0600" stop="20210109120000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Fahrenheit 451</title>
-  </programme>
-  <programme start="20210109120000 -0600" stop="20210109131500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20210109131500 -0600" stop="20210109142500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20210109142500 -0600" stop="20210109153000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20210109153000 -0600" stop="20210109164000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20210109164000 -0600" stop="20210109174500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20210109174500 -0600" stop="20210109185000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20210109185000 -0600" stop="20210109195200 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20210109195200 -0600" stop="20210109205500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20210109205500 -0600" stop="20210109215500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20210109215500 -0600" stop="20210109230000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Lovecraft Country</title>
-  </programme>
-  <programme start="20210109230000 -0600" stop="20210109235000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Dime quién soy</title>
-  </programme>
-  <programme start="20210109235000 -0600" stop="20210110013000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Piazzola Los años del tiburón</title>
-  </programme>
-  <programme start="20210110013000 -0600" stop="20210110035000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">No Conoces A Jack</title>
-  </programme>
-  <programme start="20210110035000 -0600" stop="20210110051000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El alma de América</title>
-  </programme>
-  <programme start="20210110051000 -0600" stop="20210110065500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">En la tormenta</title>
-  </programme>
-  <programme start="20210110065500 -0600" stop="20210110075500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Mis formas favoritas</title>
-  </programme>
-  <programme start="20210110075500 -0600" stop="20210110094000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Malas Noticias</title>
-  </programme>
-  <programme start="20210110094000 -0600" stop="20210110120000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Mago De Las Mentiras</title>
-  </programme>
-  <programme start="20210110120000 -0600" stop="20210110130500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Visitante</title>
-  </programme>
-  <programme start="20210110130500 -0600" stop="20210110140500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Visitante</title>
-  </programme>
-  <programme start="20210110140500 -0600" stop="20210110151000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Visitante</title>
-  </programme>
-  <programme start="20210110151000 -0600" stop="20210110161500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Visitante</title>
-  </programme>
-  <programme start="20210110161500 -0600" stop="20210110171500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Visitante</title>
-  </programme>
-  <programme start="20210110171500 -0600" stop="20210110182000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Visitante</title>
-  </programme>
-  <programme start="20210110182000 -0600" stop="20210110191500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Visitante</title>
-  </programme>
-  <programme start="20210110191500 -0600" stop="20210110201500 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Visitante</title>
-  </programme>
-  <programme start="20210110201500 -0600" stop="20210110211000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Visitante</title>
-  </programme>
-  <programme start="20210110211000 -0600" stop="20210110221000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">El Visitante</title>
-  </programme>
-  <programme start="20210110221000 -0600" stop="20210111000000 -0600" channel="Canal HBO Signature Latinoamérica">
-    <title lang="es">Paterno</title>
-  </programme>
-  <programme start="20210107015000 -0600" stop="20210107035500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Olimpo bajo fuego</title>
-  </programme>
-  <programme start="20210107035500 -0600" stop="20210107060500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Poder absoluto</title>
-  </programme>
-  <programme start="20210107060500 -0600" stop="20210107082000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">La vida de David Gale</title>
-  </programme>
-  <programme start="20210107082000 -0600" stop="20210107104000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Mundo Acuático</title>
-  </programme>
-  <programme start="20210107104000 -0600" stop="20210107125500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">El último gran héroe</title>
-  </programme>
-  <programme start="20210107125500 -0600" stop="20210107143500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Tres tipos duros</title>
-  </programme>
-  <programme start="20210107143500 -0600" stop="20210107162000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Departamento de Policía Mortal</title>
-  </programme>
-  <programme start="20210107162000 -0600" stop="20210107182500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Soldado anónimo</title>
-  </programme>
-  <programme start="20210107182500 -0600" stop="20210107195500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">El auto Camino a la venganza</title>
-  </programme>
-  <programme start="20210107195500 -0600" stop="20210107215500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Rocknrolla</title>
-  </programme>
-  <programme start="20210107215500 -0600" stop="20210108000000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">El Sobreviviente</title>
-  </programme>
-  <programme start="20210108000000 -0600" stop="20210108014000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Departamento de Policía Mortal</title>
-  </programme>
-  <programme start="20210108014000 -0600" stop="20210108033500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Operación oculta</title>
-  </programme>
-  <programme start="20210108033500 -0600" stop="20210108052000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">El último hombre</title>
-  </programme>
-  <programme start="20210108052000 -0600" stop="20210108075000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">El día del chacal</title>
-  </programme>
-  <programme start="20210108075000 -0600" stop="20210108091000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Werewolf of London</title>
-  </programme>
-  <programme start="20210108091000 -0600" stop="20210108112000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Valiente</title>
-  </programme>
-  <programme start="20210108112000 -0600" stop="20210108131000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Robo en las alturas</title>
-  </programme>
-  <programme start="20210108131000 -0600" stop="20210108154000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">El Robo Perfecto</title>
-  </programme>
-  <programme start="20210108154000 -0600" stop="20210108171000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Locke</title>
-  </programme>
-  <programme start="20210108171000 -0600" stop="20210108192500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Aislados</title>
-  </programme>
-  <programme start="20210108192500 -0600" stop="20210108210000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Milla 22 El escape</title>
-  </programme>
-  <programme start="20210108210000 -0600" stop="20210108230000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Ángeles de Charlie</title>
-  </programme>
-  <programme start="20210108230000 -0600" stop="20210108235000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Strike back</title>
-  </programme>
-  <programme start="20210108235000 -0600" stop="20210109013500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Las Reinas del Crimen</title>
-  </programme>
-  <programme start="20210109235000 -0600" stop="20210110013500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Las Reinas del Crimen</title>
-  </programme>
-  <programme start="20210110013500 -0600" stop="20210110033000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Un crimen perfecto</title>
-  </programme>
-  <programme start="20210110033000 -0600" stop="20210110054500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Se presume inocente</title>
-  </programme>
-  <programme start="20210110054500 -0600" stop="20210110075000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">El más valiente</title>
-  </programme>
-  <programme start="20210110075000 -0600" stop="20210110094500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Un día de furia</title>
-  </programme>
-  <programme start="20210110094500 -0600" stop="20210110120000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Parque Jurásico</title>
-  </programme>
-  <programme start="20210110120000 -0600" stop="20210110141500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">El Juego</title>
-  </programme>
-  <programme start="20210110141500 -0600" stop="20210110155500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Mortal Kombat 2</title>
-  </programme>
-  <programme start="20210110155500 -0600" stop="20210110173000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Una pareja explosiva 3</title>
-  </programme>
-  <programme start="20210110173000 -0600" stop="20210110192500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Ajuste de cuentas</title>
-  </programme>
-  <programme start="20210110192500 -0600" stop="20210110202000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">The pacific</title>
-  </programme>
-  <programme start="20210110202000 -0600" stop="20210110211500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">The pacific</title>
-  </programme>
-  <programme start="20210110211500 -0600" stop="20210110221500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">The pacific</title>
-  </programme>
-  <programme start="20210110221500 -0600" stop="20210110231000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">The pacific</title>
-  </programme>
-  <programme start="20210110231000 -0600" stop="20210111000000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">The pacific</title>
-  </programme>
-  <programme start="20210111000000 -0600" stop="20210111021500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Tropa de Héroes</title>
-  </programme>
-  <programme start="20210111021500 -0600" stop="20210111040500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Slaughterhouse</title>
-  </programme>
-  <programme start="20210111040500 -0600" stop="20210111063000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Apolo 13</title>
-  </programme>
-  <programme start="20210111063000 -0600" stop="20210111083500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Ambición peligrosa</title>
-  </programme>
-  <programme start="20210111083500 -0600" stop="20210111103500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Juego de viernes por la noche</title>
-  </programme>
-  <programme start="20210111103500 -0600" stop="20210111121000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">La caída de Berlín</title>
-  </programme>
-  <programme start="20210111121000 -0600" stop="20210111134000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Cielos Turbulentos</title>
-  </programme>
-  <programme start="20210111134000 -0600" stop="20210111151500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Milla 22 El escape</title>
-  </programme>
-  <programme start="20210111151500 -0600" stop="20210111172500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Sherlock Holmes</title>
-  </programme>
-  <programme start="20210111172500 -0600" stop="20210111194500 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Hasta el último hombre</title>
-  </programme>
-  <programme start="20210111194500 -0600" stop="20210111213000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Marea de fuego 2</title>
-  </programme>
-  <programme start="20210111213000 -0600" stop="20210112000000 -0600" channel="Canal HBO Xtreme">
-    <title lang="es">Huérfanos de Brooklyn</title>
+  <programme start="20210530234800 -0500" stop="20210531003600 -0500" channel="Discovery Science">
+    <title lang="es">Outrageous Acts of Science</title>
   </programme>
 </tv>
