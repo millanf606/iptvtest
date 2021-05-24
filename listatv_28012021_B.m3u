@@ -1,0 +1,101 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="star-channel_m" tvg-name="star-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Series",Star Channel
+http://209.222.101.100:25461/tv/tv/61457
+#EXTINF:-1 tvg-ID="warner-channel_m" tvg-name="warner-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Series",Warner Channel
+http://209.222.101.100:25461/tv/tv/61554
+#EXTINF:-1 tvg-ID="sony_m" tvg-name="sony_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Series",Sony 
+http://209.222.101.100:25461/tv/tv/61504
+#EXTINF:-1 tvg-ID="axn_m" tvg-name="axn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Series",AXN
+http://209.222.101.100:25461/tv/tv/61390
+#EXTINF:-1 tvg-ID="tnt-series_m" tvg-name="tnt-series_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Series",TNT Series
+http://209.222.101.100:25461/tv/tv/61520
+#EXTINF:-1 tvg-ID="comedy-central_m" tvg-name="comedy-central_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Series",Comedy Central
+http://209.222.101.100:25461/tv/tv/61429
+#EXTINF:-1 tvg-ID="tbs_m" tvg-name="tbs_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Series",TBS
+http://209.222.101.100:25461/tv/tv/61510
+#EXTINF:-1 tvg-ID="fx_m" tvg-name="fx_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Series",FX
+http://209.222.101.100:25461/tv/tv/61469
+#EXTINF:-1 tvg-ID="universal-channel_m" tvg-name="universal-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Series",Universal TV
+http://209.222.101.100:25461/tv/tv/61551
+#EXTINF:-1 tvg-ID="sy-fy_m" tvg-name="sy-fy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Series",SyFy
+http://209.222.101.100:25461/tv/tv/61509
+#
+#EXTINF:-1 tvg-ID="tnt_m" tvg-name="tnt_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Series",TNT
+http://209.222.101.100:25461/tv/tv/61519
+#EXTINF:-1 tvg-ID="golden_m" tvg-name="golden_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Series",Golden
+http://209.222.101.100:25461/tv/tv/61471
+#EXTINF:-1 tvg-ID="tcm_m" tvg-name="tcm_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Series",TCM
+http://209.222.101.100:25461/tv/tv/61511
+#EXTINF:-1 tvg-ID="fx-movies-m" tvg-name="fx-movies-m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Series",FX Movies
+http://209.222.101.100:25461/tv/tv/61470
+#EXTINF:-1 tvg-ID="cinecanal-1_m" tvg-name="cinecanal-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Series",Cinecanal
+http://209.222.101.100:25461/tv/tv/61426
+#EXTINF:-1 tvg-ID="studio-universal_m" tvg-name="studio-universal_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Series",Studio Universal
+http://209.222.101.100:25461/tv/tv/61507
+#EXTINF:-1 tvg-ID="paramount-channel_m" tvg-name="paramount-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Series",Paramount Channel 
+http://209.222.101.100:25461/tv/tv/61499
+#EXTINF:-1 tvg-ID="golden-edge_m" tvg-name="golden-edge_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Series",Golden EDGE
+http://209.222.101.100:25461/tv/tv/61472
+#EXTINF:-1 tvg-ID="space_m" tvg-name="space_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Series",Space 
+http://209.222.101.100:25461/tv/tv/61505
+#EXTINF:-1 tvg-ID="i-sat_m" tvg-name="i-sat_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/i-sat_m.png" group-title="Series",I-SAT
+http://209.222.101.100:25461/tv/tv/61479
+#
+#EXTINF:-1 tvg-ID="hbo_m" tvg-name="hbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
+http://209.222.101.100:25461/tv/tv/5126
+#EXTINF:-1 tvg-ID="hbo-2_m" tvg-name="hbo-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
+http://209.222.101.100:25461/tv/tv/5127
+#EXTINF:-1 tvg-ID="signature_m" tvg-name="signature_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
+http://209.222.101.100:25461/tv/tv/5130
+#EXTINF:-1 tvg-ID="family_m" tvg-name="family_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
+http://209.222.101.100:25461/tv/tv/5128
+#EXTINF:-1 tvg-ID="mundi_m" tvg-name="mundi_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
+http://209.222.101.100:25461/tv/tv/5138
+#EXTINF:-1 tvg-ID="hbo-pop_m" tvg-name="hbo-pop_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
+http://209.222.101.100:25461/tv/tv/5140
+#EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
+http://209.222.101.100:25461/tv/tv/5139
+#EXTINF:-1 tvg-ID="star-series_m" tvg-name="star-series_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-series_m.png" group-title="Premium",Star Series
+http://209.222.101.100:25461/tv/tv/61465
+#EXTINF:-1 tvg-ID="star-hits_m" tvg-name="star-hits_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-hits_m.png" group-title="Premium",Star Hits
+http://209.222.101.100:25461/tv/tv/61463
+#EXTINF:-1 tvg-ID="star-class_m" tvg-name="star-class_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-class_m.png" group-title="Premium",Star Classic
+http://209.222.101.100:25461/tv/tv/61461
+#EXTINF:-1 tvg-ID="star-action_m" tvg-name="star-action_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-action_m.png" group-title="Premium",Star Action
+http://209.222.101.100:25461/tv/tv/61458
+#EXTINF:-1 tvg-ID="star-cinema_m" tvg-name="star-cinema_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-cinema_m.png" group-title="Premium",Star Cinema
+http://209.222.101.100:25461/tv/tv/61460
+#
+#EXTINF:-1 tvg-ID="fox-sports_m" tvg-name="fox-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
+http://209.222.101.100:25461/tv/tv/61466
+#EXTINF:-1 tvg-ID="fox-sports-2_m" tvg-name="fox-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
+http://209.222.101.100:25461/tv/tv/61467
+#EXTINF:-1 tvg-ID="fox-sports-3_m" tvg-name="fox-sports-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3 
+http://209.222.101.100:25461/tv/tv/61468
+#EXTINF:-1 tvg-ID="espn_m" tvg-name="espn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
+http://209.222.101.100:25461/tv/tv/61448
+#EXTINF:-1 tvg-ID="espn-2_m" tvg-name="espn-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 
+http://209.222.101.100:25461/tv/tv/61449
+#EXTINF:-1 tvg-ID="espn-3_m" tvg-name="espn-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 
+http://209.222.101.100:25461/tv/tv/61450
+#EXTINF:-1 tvg-ID="espn-1_m" tvg-name="espn-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra 
+http://209.222.101.100:25461/tv/tv/61452
+#
+#EXTINF:-1 tvg-ID="nat-geo_m" tvg-name="nat-geo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Documentales",National Geographic 
+http://209.222.101.100:25461/tv/tv/61491
+#EXTINF:-1 tvg-ID="discovery_m" tvg-name="discovery_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Documentales",Discovery Channel
+http://209.222.101.100:25461/tv/tv/61432
+#EXTINF:-1 tvg-ID="animal_m" tvg-name="animal_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Documentales",Animal Planet 
+http://209.222.101.100:25461/tv/tv/61382
+#EXTINF:-1 tvg-ID="nat-geo-wild_m" tvg-name="nat-geo-wild_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Documentales",National Geographic Wild
+http://209.222.101.100:25461/tv/tv/61493
+#EXTINF:-1 tvg-ID="turbo_m" tvg-name="turbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Documentales",Discovery Turbo
+http://209.222.101.100:25461/tv/tv/61439
+#EXTINF:-1 tvg-ID="discovery-tlc_m" tvg-name="discovery-tlc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-tlc_m.png" group-title="Documentales",TLC
+http://209.222.101.100:25461/tv/tv/61517
+#EXTINF:-1 tvg-ID="history_m" tvg-name="history_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Documentales",History
+http://209.222.101.100:25461/tv/tv/61475
+#EXTINF:-1 tvg-ID="discovery-civilization_m" tvg-name="discovery-civilization_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-civilization_m.png" group-title="Documentales",Discovery Civilization  
+http://209.222.101.100:25461/tv/tv/61433
+#EXTINF:-1 tvg-ID="discovery-science_m" tvg-name="discovery-science_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Documentales",Discovery Science  
+http://209.222.101.100:25461/tv/tv/61437
