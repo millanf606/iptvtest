@@ -62,7 +62,7 @@ http://209.222.101.100:25461/tv/tv/61463
 #EXTINF:-1 tvg-ID="star-class_m" tvg-name="star-class_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-class_m.png" group-title="Premium",Star Classic
 http://209.222.101.100:25461/tv/tv/61461
 #EXTINF:-1 tvg-ID="star-action_m" tvg-name="star-action_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-action_m.png" group-title="Premium",Star Action
-http://209.222.101.100:25461/tv/tv/61458
+https://iptvcat.com/my_list/s/3674ef7367ddd3b2af057720443980af.m3u8
 #EXTINF:-1 tvg-ID="star-cinema_m" tvg-name="star-cinema_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-cinema_m.png" group-title="Premium",Star Cinema
 http://209.222.101.100:25461/tv/tv/61460
 #
@@ -73,13 +73,13 @@ http://209.222.101.100:25461/tv/tv/61467
 #EXTINF:-1 tvg-ID="fox-sports-3_m" tvg-name="fox-sports-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3 
 http://209.222.101.100:25461/tv/tv/61468
 #EXTINF:-1 tvg-ID="espn_m" tvg-name="espn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
-http://209.222.101.100:25461/tv/tv/61448
+https://iptvcat.com/my_list/s/3c166201ca7846dad91007353787c326.m3u8
 #EXTINF:-1 tvg-ID="espn-2_m" tvg-name="espn-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 
-http://209.222.101.100:25461/tv/tv/61449
+https://iptvcat.com/my_list/s/ae1c829f41aa5a46d25c6e90756b6797.m3u8
 #EXTINF:-1 tvg-ID="espn-3_m" tvg-name="espn-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 
-http://209.222.101.100:25461/tv/tv/61450
+https://iptvcat.com/my_list/s/806bdb3bc90ac8751590f67d6df71add.m3u8
 #EXTINF:-1 tvg-ID="espn-1_m" tvg-name="espn-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra 
-http://209.222.101.100:25461/tv/tv/61452
+https://iptvcat.com/my_list/s/6e1f50d54520be20b6674b589c2f5a54.m3u8
 #
 #EXTINF:-1 tvg-ID="nat-geo_m" tvg-name="nat-geo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Documentales",National Geographic 
 http://209.222.101.100:25461/tv/tv/61491
