@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://tv.teleclub.xyz/epg"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/millanf606/iptvtest/main/guide.xml"
 #EXTINF:-1 tvg-ID="star-channel_m" tvg-name="star-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Series",Star Channel
 https://tv.teleclub.xyz/canales/L1/FOX.m3u8
 #EXTINF:-1 tvg-ID="warner-channel_m" tvg-name="warner-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Series",Warner Channel
@@ -164,4 +164,4 @@ https://tv.teleclub.xyz/canales/L1/HISTORY.m3u8
 #EXTINF:-1 tvg-ID="h2_m" tvg-name="h2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Documentales",H2
 https://tv.teleclub.xyz/canales/L1/H2.m3u8
 #EXTINF:-1 tvg-ID="discovery-science_m" tvg-name="discovery-science_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Documentales",Discovery Science  
-https://tv.teleclub.xyz/canales/L1/DSCIENCES.m3u8
+https://tv.teleclub.xyz/canales/L4/DSCIENCES.m3u8
