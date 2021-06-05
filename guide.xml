@@ -60,25 +60,19 @@
 <channel id="ElGourmet.mx">
 <display-name>gourmet_m</display-name>
 </channel>
-<channel id="ESPN.ar">
+<channel id="ESPN.do">
 <display-name>espn_m</display-name>
 </channel>
-<channel id="ESPN2.ar">
-<display-name>espn-2_m</display-name>
-</channel>
-<channel id="ESPN3(South).ar">
+<channel id="ESPN3(South).do">
 <display-name>espn-3_m</display-name>
 </channel>
-<channel id="ESPNEXTRA.co">
+<channel id="ESPNEXTRA.do">
 <display-name>espn-1_m</display-name>
 </channel>
-<channel id="FoxSports(ConoSur).co">
+<channel id="FoxSports(ConoSur).do">
 <display-name>fox-sports_m</display-name>
 </channel>
-<channel id="FoxSports2(ConoSur).co">
-<display-name>fox-sports-2_m</display-name>
-</channel>
-<channel id="FoxSports3(ConoSur).co">
+<channel id="FoxSports3(ConoSur).do">
 <display-name>fox-sports-3_m</display-name>
 </channel>
 <channel id="FX.mx">
@@ -10857,885 +10851,1317 @@
 <title lang="es" >La cocina de Sonia Ortiz</title>
 <desc lang="es">Sonia Ortiz comparte una gran variedad de recetas fáciles y llenas de sabor que la hicieron popular en las redes sociales.</desc>
 </programme>
-<programme start="20210602000000 +0000" stop="20210602020000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter Sur</title>
-<desc lang="es">La edición Sur del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210602020000 +0000" stop="20210602030000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN F Show</title>
-<desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.</desc>
-</programme>
-<programme start="20210602030000 +0000" stop="20210602040000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter</title>
-<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
-</programme>
-<programme start="20210602040000 +0000" stop="20210602050000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210602050000 +0000" stop="20210602060000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210602060000 +0000" stop="20210602070000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210602070000 +0000" stop="20210602080000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210602080000 +0000" stop="20210602083000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN W</title>
-<desc lang="es">Un magazín dedicado a las mujeres que aman el deporte, con entrevistas, informes y perfiles de las protagonistas.</desc>
-</programme>
-<programme start="20210602083000 +0000" stop="20210602090000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN X</title>
-<desc lang="es">Un programa de deportes extremos que muestra no solo el vértigo y la adrenalina de cada disciplina sino también las historias y los detalles que rodean a cada una de las actividades.</desc>
-</programme>
-<programme start="20210602090000 +0000" stop="20210602100000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210602100000 +0000" stop="20210602110000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210602110000 +0000" stop="20210602150000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter - edición de mediodía</title>
-<desc lang="es">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210602150000 +0000" stop="20210602160000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN F12</title>
-<desc lang="es">Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.</desc>
-</programme>
-<programme start="20210602160000 +0000" stop="20210602180000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN F90 Primera edición</title>
-<desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.</desc>
-</programme>
-<programme start="20210602180000 +0000" stop="20210602200000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN F360</title>
-<desc lang="es">Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.</desc>
-</programme>
-<programme start="20210602200000 +0000" stop="20210602220000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter</title>
-<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
-</programme>
-<programme start="20210602220000 +0000" stop="20210603000000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN F90 Segunda edición</title>
-<desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.</desc>
-</programme>
-<programme start="20210603000000 +0000" stop="20210603020000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter Sur</title>
-<desc lang="es">La edición Sur del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210603020000 +0000" stop="20210603030000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN F Show</title>
-<desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.</desc>
-</programme>
-<programme start="20210603030000 +0000" stop="20210603040000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter</title>
-<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
-</programme>
-<programme start="20210603040000 +0000" stop="20210603050000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210603050000 +0000" stop="20210603060000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210603060000 +0000" stop="20210603070000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210603070000 +0000" stop="20210603080000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210603080000 +0000" stop="20210603083000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN Run</title>
-<desc lang="es">Programa dedicado para los corredores apasionados, profesionales y principiantes. Presentación de las carreras más famosas alrededor del mundo.</desc>
-</programme>
-<programme start="20210603083000 +0000" stop="20210603090000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN W</title>
-<desc lang="es">Un magazín dedicado a las mujeres que aman el deporte, con entrevistas, informes y perfiles de las protagonistas.</desc>
-</programme>
-<programme start="20210603090000 +0000" stop="20210603100000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210603100000 +0000" stop="20210603110000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter L.A.</title>
-<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210603110000 +0000" stop="20210603150000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter - edición de mediodía</title>
-<desc lang="es">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210603150000 +0000" stop="20210603160000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN F12</title>
-<desc lang="es">Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.</desc>
-</programme>
-<programme start="20210603160000 +0000" stop="20210603180000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN F90 Primera edición</title>
-<desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.</desc>
-</programme>
-<programme start="20210603180000 +0000" stop="20210603200000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN F360</title>
-<desc lang="es">Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.</desc>
-</programme>
-<programme start="20210603200000 +0000" stop="20210603220000 +0000" channel="ESPN.ar">
-<title lang="es" >SportsCenter Sur</title>
-<desc lang="es">La edición Sur del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
-</programme>
-<programme start="20210603220000 +0000" stop="20210604000000 +0000" channel="ESPN.ar">
-<title lang="es" >ESPN F90 Segunda edición</title>
-<desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.</desc>
-</programme>
-<programme start="20210601230000 +0000" stop="20210602020000 +0000" channel="ESPN2.ar">
-<title lang="es" >Tampa Bay Rays vs. New York Yankees</title>
-<desc lang="es">Béisbol MLB</desc>
-</programme>
-<programme start="20210602020000 +0000" stop="20210602030000 +0000" channel="ESPN2.ar">
-<title lang="es" >SportsCenter</title>
-<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
-</programme>
-<programme start="20210602030000 +0000" stop="20210602040000 +0000" channel="ESPN2.ar">
-<title lang="es" >SportsCenter</title>
-<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
-</programme>
-<programme start="20210602040000 +0000" stop="20210602050000 +0000" channel="ESPN2.ar">
-<title lang="es" >Fútbol picante</title>
-<desc lang="es">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
-</programme>
-<programme start="20210602050000 +0000" stop="20210602060000 +0000" channel="ESPN2.ar">
-<title lang="es" >Fútbol picante</title>
-<desc lang="es">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
-</programme>
-<programme start="20210602060000 +0000" stop="20210602090000 +0000" channel="ESPN2.ar">
-<title lang="es" >Barca TV</title>
-<desc lang="es">Jornada 6. Partido disputado el 29 de septiembre de 2012.</desc>
-</programme>
-<programme start="20210602090000 +0000" stop="20210602170000 +0000" channel="ESPN2.ar">
-<title lang="es" >Tenis Roland Garros 2021</title>
-<desc lang="es">Acción de la segunda ronda del torneo. Desde el estadio Roland Garros, en París, Francia.</desc>
-</programme>
-<programme start="20210602170000 +0000" stop="20210602190000 +0000" channel="ESPN2.ar">
-<title lang="es" >Tenis Roland Garros 2021</title>
-<desc lang="es">Acción de la segunda ronda del torneo. Desde el estadio Roland Garros, en París, Francia.</desc>
-</programme>
-<programme start="20210602190000 +0000" stop="20210602220000 +0000" channel="ESPN2.ar">
-<title lang="es" >Tenis Roland Garros 2021</title>
-<desc lang="es">Acción de la segunda ronda del torneo. Desde el estadio Roland Garros, en París, Francia.</desc>
-</programme>
-<programme start="20210602220000 +0000" stop="20210602223000 +0000" channel="ESPN2.ar">
-<title lang="es" >Goles de la UEFA Europa League</title>
-<desc lang="es">Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League, la segunda competición internacional de fútbol europeo más importante.</desc>
-</programme>
-<programme start="20210602223000 +0000" stop="20210602230000 +0000" channel="ESPN2.ar">
-<title lang="es" >MLS Magazine</title>
-<desc lang="es">Noticias y reportajes de la Major League Soccer.</desc>
-</programme>
-<programme start="20210602230000 +0000" stop="20210603000000 +0000" channel="ESPN2.ar">
-<title lang="es" >SportsCenter</title>
-<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
-</programme>
-<programme start="20210603000000 +0000" stop="20210603030000 +0000" channel="ESPN2.ar">
-<title lang="es" >Béisbol MLB</title>
-<desc lang="es">La cobertura de los partidos de béisbol de las Grandes Ligas de los Estados Unidos.</desc>
-</programme>
-<programme start="20210603030000 +0000" stop="20210603040000 +0000" channel="ESPN2.ar">
-<title lang="es" >SportsCenter</title>
-<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
-</programme>
-<programme start="20210603040000 +0000" stop="20210603050000 +0000" channel="ESPN2.ar">
-<title lang="es" >Fútbol picante</title>
-<desc lang="es">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
-</programme>
-<programme start="20210603050000 +0000" stop="20210603060000 +0000" channel="ESPN2.ar">
-<title lang="es" >Fútbol picante</title>
-<desc lang="es">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
-</programme>
-<programme start="20210603060000 +0000" stop="20210603070000 +0000" channel="ESPN2.ar">
-<title lang="es" >Fútbol picante</title>
-<desc lang="es">La mesa más picante discute las últimas novedades del fútbol mexicano y analiza la actuación de los futbolistas mexicanos en el exterior.</desc>
-</programme>
-<programme start="20210603070000 +0000" stop="20210603080000 +0000" channel="ESPN2.ar">
-<title lang="es" >SportsCenter</title>
-<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
-</programme>
-<programme start="20210603080000 +0000" stop="20210603090000 +0000" channel="ESPN2.ar">
-<title lang="es" >SportsCenter</title>
-<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
-</programme>
-<programme start="20210603090000 +0000" stop="20210603170000 +0000" channel="ESPN2.ar">
-<title lang="es" >Tenis Roland Garros 2021</title>
-<desc lang="es">Acción correspondiente a la segunda ronda del Abierto de Francia. Desde Stade Roland Garros, en París.</desc>
-</programme>
-<programme start="20210603170000 +0000" stop="20210603190000 +0000" channel="ESPN2.ar">
-<title lang="es" >Tenis Roland Garros 2021</title>
-<desc lang="es">Acción correspondiente a la segunda ronda del Abierto de Francia. Desde Stade Roland Garros, en París.</desc>
-</programme>
-<programme start="20210603190000 +0000" stop="20210603220000 +0000" channel="ESPN2.ar">
-<title lang="es" >Tenis Roland Garros 2021</title>
-<desc lang="es">Acción correspondiente a la segunda ronda del Abierto de Francia. Desde Stade Roland Garros, en París.</desc>
-</programme>
-<programme start="20210603220000 +0000" stop="20210604000000 +0000" channel="ESPN2.ar">
-<title lang="es" >Eurocopa Sub-21 2021</title>
-<desc lang="es">Campeonato juvenil internacional para los equipos nacionales masculinos de Europa menores de 21 años. Desde Hungría y Eslovenia.</desc>
-</programme>
-<programme start="20210601230000 +0000" stop="20210602020000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Tampa Bay Rays vs. New York Yankees</title>
-<desc lang="es">Béisbol MLB</desc>
-</programme>
-<programme start="20210602020000 +0000" stop="20210602030000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >SportsCenter</title>
-<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
-</programme>
-<programme start="20210602030000 +0000" stop="20210602033000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >UEFA Champions League Magazine</title>
-<desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
-</programme>
-<programme start="20210602033000 +0000" stop="20210602040000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Goles de la UEFA Champions League</title>
-<desc lang="es">Los mejores goles de la UEFA Champions League, el torneo a nivel de clubes de mayor importancia de Europa.</desc>
-</programme>
-<programme start="20210602040000 +0000" stop="20210602043000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Goles de la UEFA Europa League</title>
-<desc lang="es">Un análisis completo con los momentos destacados de los últimos partidos de la UEFA Europa League, la segunda competición internacional de fútbol europeo más importante.</desc>
-</programme>
-<programme start="20210602043000 +0000" stop="20210602053000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >UEFA Europa League Magazine</title>
-<desc lang="es">Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League.</desc>
-</programme>
-<programme start="20210602053000 +0000" stop="20210602060000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Aguas arriba</title>
-<desc lang="es">La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe.</desc>
-</programme>
-<programme start="20210602060000 +0000" stop="20210602063000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >ESPN W</title>
-<desc lang="es">Un magazín dedicado a las mujeres que aman el deporte, con entrevistas, informes y perfiles de las protagonistas.</desc>
-</programme>
-<programme start="20210602063000 +0000" stop="20210602070000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >ESPN Yoga</title>
-<desc lang="es">El yoga, una filosofía de vida, y un complemento para muchos deportistas amateurs y de alto rendimiento.</desc>
-</programme>
-<programme start="20210602070000 +0000" stop="20210602080000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >El Show de la Fórmula 1</title>
-<desc lang="es">Repaso de los acontecimientos más recientes de la Fórmula 1 antes y/o después de cada carrera con entrevistas a los pilotos y mensajes de correo electrónico enviado por televidentes.</desc>
-</programme>
-<programme start="20210602080000 +0000" stop="20210602090000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Goles del fútbol de Italia</title>
-<desc lang="es">Una recopilación de lo más destacado de la temporada 2019-2020 de la Serie A de Italia.</desc>
-</programme>
-<programme start="20210602090000 +0000" stop="20210602153000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Tenis Roland Garros 2021</title>
-<desc lang="es">Acción de la segunda ronda del torneo. Desde el estadio Roland Garros, en París, Francia.</desc>
-</programme>
-<programme start="20210602153000 +0000" stop="20210602180000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Tenis Roland Garros 2021</title>
-<desc lang="es">Acción de la segunda ronda del torneo. Desde el estadio Roland Garros, en París, Francia.</desc>
-</programme>
-<programme start="20210602180000 +0000" stop="20210602185500 +0000" channel="ESPN3(South).ar">
-<title lang="es" >El Show de la Fórmula 1</title>
-<desc lang="es">Repaso de los acontecimientos más recientes de la Fórmula 1 antes y/o después de cada carrera con entrevistas a los pilotos y mensajes de correo electrónico enviado por televidentes.</desc>
-</programme>
-<programme start="20210602185500 +0000" stop="20210602210000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >France vs. Wales</title>
-<desc lang="es">Fútbol</desc>
-</programme>
-<programme start="20210602210000 +0000" stop="20210602213000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Premiership Rugby</title>
-<desc lang="es">Cobertura de la Premiership Rugby, la liga de clubes más importante de Inglaterra.</desc>
-</programme>
-<programme start="20210602213000 +0000" stop="20210602220000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Rugby de Francia Top 14 Highlights</title>
-<desc lang="es">Destacados de los encuentros de la Liga de Rugby Francesa.</desc>
-</programme>
-<programme start="20210602220000 +0000" stop="20210602223000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >ESPN Polo</title>
-<desc lang="es">Lo más destacado y la mejor cobertura de los torneos más importantes de Polo del mundo, con el análisis de los especialistas.</desc>
-</programme>
-<programme start="20210602223000 +0000" stop="20210602230000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >ESPN Bike</title>
-<desc lang="es">Noticias sobre las cuatro disciplinas más importantes del mundo del ciclismo: ruta, pista, mountain bike y BMX. Informes y notas íntimas con los protagonistas.</desc>
-</programme>
-<programme start="20210602230000 +0000" stop="20210603000000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Goles del fútbol de Italia</title>
-<desc lang="es">Una recopilación de lo más destacado de la temporada 2019-2020 de la Serie A de Italia.</desc>
-</programme>
-<programme start="20210603000000 +0000" stop="20210603030000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Béisbol MLB</title>
-<desc lang="es">La cobertura de los partidos de béisbol de las Grandes Ligas de los Estados Unidos.</desc>
-</programme>
-<programme start="20210603030000 +0000" stop="20210603040000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Fútbol Premier League</title>
-<desc lang="es">Un repaso a la campaña de Manchester City rumbo a su nueva conquista en Inglaterra, la séptima en Primera División.</desc>
-</programme>
-<programme start="20210603040000 +0000" stop="20210603050000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Especiales LaLiga</title>
-<desc lang="es">Un repaso de lo más destacado de la edición 2020-2021 de LaLiga.</desc>
-</programme>
-<programme start="20210603050000 +0000" stop="20210603060000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >PGA Tour Highlights</title>
-<desc lang="es">Acción con los mejores momentos de la edición 2021 del Charles Schwab Challenge.</desc>
-</programme>
-<programme start="20210603060000 +0000" stop="20210603063000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Premiership Rugby</title>
-<desc lang="es">Cobertura de la Premiership Rugby, la liga de clubes más importante de Inglaterra.</desc>
-</programme>
-<programme start="20210603063000 +0000" stop="20210603070000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Rugby de Francia Top 14 Highlights</title>
-<desc lang="es">Destacados de los encuentros de la Liga de Rugby Francesa.</desc>
-</programme>
-<programme start="20210603070000 +0000" stop="20210603073000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >ESPN Polo</title>
-<desc lang="es">Lo más destacado y la mejor cobertura de los torneos más importantes de Polo del mundo, con el análisis de los especialistas.</desc>
-</programme>
-<programme start="20210603073000 +0000" stop="20210603080000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >ESPN Bike</title>
-<desc lang="es">Noticias sobre las cuatro disciplinas más importantes del mundo del ciclismo: ruta, pista, mountain bike y BMX. Informes y notas íntimas con los protagonistas.</desc>
-</programme>
-<programme start="20210603080000 +0000" stop="20210603090000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Especiales LaLiga</title>
-<desc lang="es">Un repaso de lo más destacado de la edición 2020-2021 de LaLiga.</desc>
-</programme>
-<programme start="20210603090000 +0000" stop="20210603153000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Tenis Roland Garros 2021</title>
-<desc lang="es">Acción correspondiente a la segunda ronda del Abierto de Francia. Desde Stade Roland Garros, en París.</desc>
-</programme>
-<programme start="20210603153000 +0000" stop="20210603180000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Tenis Roland Garros 2021</title>
-<desc lang="es">Acción correspondiente a la segunda ronda del Abierto de Francia. Desde Stade Roland Garros, en París.</desc>
-</programme>
-<programme start="20210603180000 +0000" stop="20210603183000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >ESPN Polo</title>
-<desc lang="es">Lo más destacado y la mejor cobertura de los torneos más importantes de Polo del mundo, con el análisis de los especialistas.</desc>
-</programme>
-<programme start="20210603183000 +0000" stop="20210603190000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >ESPN Bike</title>
-<desc lang="es">Noticias sobre las cuatro disciplinas más importantes del mundo del ciclismo: ruta, pista, mountain bike y BMX. Informes y notas íntimas con los protagonistas.</desc>
-</programme>
-<programme start="20210603190000 +0000" stop="20210603230000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Golf PGA Tour</title>
-<desc lang="es">Acción de la primera ronda del torneo. Desde el Muirfield Village Golf Club, en Dublin.</desc>
-</programme>
-<programme start="20210603230000 +0000" stop="20210604000000 +0000" channel="ESPN3(South).ar">
-<title lang="es" >Circuito</title>
-<desc lang="es">Un panel de periodistas especializados en las distintas categorías internacionales de automovilismo analizan y debaten lo más importante del mundo de las carreras.</desc>
-</programme>
-<programme start="20210602000000 +0000" stop="20210602010000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >PGA Tour Highlights</title>
-<desc lang="es">Acción con los mejores momentos de la edición 2021 del Charles Schwab Challenge.</desc>
-</programme>
-<programme start="20210602010000 +0000" stop="20210602030000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Tenis</title>
-<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
-</programme>
-<programme start="20210602030000 +0000" stop="20210602040000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Surf</title>
-<desc lang="es">Lo más destacado del Campeonato del Mundo de Surf. Desde El Salvador.</desc>
-</programme>
-<programme start="20210602040000 +0000" stop="20210602060000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Tenis</title>
-<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
-</programme>
-<programme start="20210602060000 +0000" stop="20210602080000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Ciclismo</title>
-<desc lang="es">Acción de la tercera etapa de la competencia. 172,5 kilómetros desde Langeac hasta Saint-Haon-le-Vieux.</desc>
-</programme>
-<programme start="20210602080000 +0000" stop="20210602083000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >ESPN X</title>
-<desc lang="es">Un programa de deportes extremos que muestra no solo el vértigo y la adrenalina de cada disciplina sino también las historias y los detalles que rodean a cada una de las actividades.</desc>
-</programme>
-<programme start="20210602083000 +0000" stop="20210602102500 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Portugal vs. Italy</title>
-<desc lang="es">Eurocopa Sub-21 2021</desc>
-</programme>
-<programme start="20210602102500 +0000" stop="20210602122000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Automovilismo Extreme E</title>
-<desc lang="es">Acción de la segunda fecha de la temporada 2021 del Extreme E. Desde Lago Rosa, en Senegal.</desc>
-</programme>
-<programme start="20210602122000 +0000" stop="20210602143000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Ciclismo</title>
-<desc lang="es">Acción de la cuarta etapa del Critérium du Dauphiné. Con un recorrido de 16,4 kilómetros desde Firminy hasta Roche-La-Moliére.</desc>
-</programme>
-<programme start="20210602143000 +0000" stop="20210602173000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Tampa Bay Rays vs. New York Yankees</title>
-<desc lang="es">Béisbol MLB</desc>
-</programme>
-<programme start="20210602173000 +0000" stop="20210602180000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Aguas arriba</title>
-<desc lang="es">La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe.</desc>
-</programme>
-<programme start="20210602180000 +0000" stop="20210602183000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >ESPN W</title>
-<desc lang="es">Un magazín dedicado a las mujeres que aman el deporte, con entrevistas, informes y perfiles de las protagonistas.</desc>
-</programme>
-<programme start="20210602183000 +0000" stop="20210602210000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Baloncesto NBA</title>
-<desc lang="es">Cobertura de los partidos de la mejor liga de baloncesto del mundo, la NBA.</desc>
-</programme>
-<programme start="20210602210000 +0000" stop="20210602233000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Baloncesto NBA</title>
-<desc lang="es">Cobertura de los partidos de la mejor liga de baloncesto del mundo, la NBA.</desc>
-</programme>
-<programme start="20210602233000 +0000" stop="20210603000000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >UEFA Champions League Magazine</title>
-<desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
-</programme>
-<programme start="20210603000000 +0000" stop="20210603010000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Goles del fútbol de Italia</title>
-<desc lang="es">Una recopilación de lo más destacado de la temporada 2019-2020 de la Serie A de Italia.</desc>
-</programme>
-<programme start="20210603010000 +0000" stop="20210603030000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Tenis</title>
-<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
-</programme>
-<programme start="20210603030000 +0000" stop="20210603040000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Surf</title>
-<desc lang="es">Lo más destacado del Campeonato del Mundo de Surf. Desde El Salvador.</desc>
-</programme>
-<programme start="20210603040000 +0000" stop="20210603060000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Tenis</title>
-<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
-</programme>
-<programme start="20210603060000 +0000" stop="20210603063000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >MLS Magazine</title>
-<desc lang="es">Noticias y reportajes de la Major League Soccer.</desc>
-</programme>
-<programme start="20210603063000 +0000" stop="20210603070000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Goles de la UEFA Champions League</title>
-<desc lang="es">Los mejores goles de la UEFA Champions League, el torneo a nivel de clubes de mayor importancia de Europa.</desc>
-</programme>
-<programme start="20210603070000 +0000" stop="20210603070500 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Scrum</title>
-<desc lang="es">El repaso a la legendaria victoria de Argentina, la primera ante los All Blacks en toda su historia. Del 14 de noviembre de 2020.</desc>
-</programme>
-<programme start="20210603070500 +0000" stop="20210603093000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Marshall vs. Indiana</title>
-<desc lang="es">Fútbol Universitario</desc>
-</programme>
-<programme start="20210603093000 +0000" stop="20210603122000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Béisbol MLB</title>
-<desc lang="es">La cobertura de los partidos de béisbol de las Grandes Ligas de los Estados Unidos.</desc>
-</programme>
-<programme start="20210603122000 +0000" stop="20210603143000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Ciclismo</title>
-<desc lang="es">Acción de la quinta etapa del Critérium du Dauphiné. Con un recorrido de 175,5 kilómetros desde Saint-Chamond hasta Saint- Vallier.</desc>
-</programme>
-<programme start="20210603143000 +0000" stop="20210603152500 +0000" channel="ESPNEXTRA.co">
+<programme start="20210604000000 +0000" stop="20210604010000 +0000" channel="ESPN.do">
 <title lang="es" >ESPN Compact</title>
 <desc lang="es">Lo mejor del partido correspondiente a la final de la UEFA Champions League 2020-2021. Disputado el 29 de mayo de 2021.</desc>
 </programme>
-<programme start="20210603152500 +0000" stop="20210603155000 +0000" channel="ESPNEXTRA.co">
+<programme start="20210604010000 +0000" stop="20210604020000 +0000" channel="ESPN.do">
+<title lang="es" >Fútbol Premier League</title>
+<desc lang="es">Un repaso a la campaña de Manchester City rumbo a su nueva conquista en Inglaterra, la séptima en Primera División.</desc>
+</programme>
+<programme start="20210604020000 +0000" stop="20210604030000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN F Show</title>
+<desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.</desc>
+</programme>
+<programme start="20210604030000 +0000" stop="20210604040000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter</title>
+<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
+</programme>
+<programme start="20210604040000 +0000" stop="20210604050000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210604050000 +0000" stop="20210604060000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210604060000 +0000" stop="20210604070000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210604070000 +0000" stop="20210604080000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210604080000 +0000" stop="20210604090000 +0000" channel="ESPN.do">
+<title lang="es" >Simplemente fútbol</title>
+<desc lang="es">La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista.</desc>
+</programme>
+<programme start="20210604090000 +0000" stop="20210604100000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210604100000 +0000" stop="20210604110000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210604110000 +0000" stop="20210604150000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter - edición de mediodía</title>
+<desc lang="es">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210604150000 +0000" stop="20210604160000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN F12</title>
+<desc lang="es">Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.</desc>
+</programme>
+<programme start="20210604160000 +0000" stop="20210604180000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN F90 Primera edición</title>
+<desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.</desc>
+</programme>
+<programme start="20210604180000 +0000" stop="20210604200000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN F360</title>
+<desc lang="es">Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.</desc>
+</programme>
+<programme start="20210604200000 +0000" stop="20210604215000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter Sur</title>
+<desc lang="es">La edición Sur del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210604215000 +0000" stop="20210605000000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter - Relato</title>
+<desc lang="es">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos. Además, el relato del partido del fútbol argentino en disputa.</desc>
+</programme>
+<programme start="20210605000000 +0000" stop="20210605020000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN F10</title>
+<desc lang="es">Los fines de semana se llenan de fútbol. Tras la finalización del partido de la fecha de la Copa de la Liga Profesional del fútbol argentino, llega el mejor análisis.</desc>
+</programme>
+<programme start="20210605020000 +0000" stop="20210605030000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN F Show</title>
+<desc lang="es">Un reunión virtual descontracturada y llena de información, donde los amigos se reúnen para pasarla bien y charlar de los temas más divertidos.</desc>
+</programme>
+<programme start="20210605030000 +0000" stop="20210605040000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter</title>
+<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
+</programme>
+<programme start="20210605040000 +0000" stop="20210605050000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210605050000 +0000" stop="20210605060000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210605060000 +0000" stop="20210605065700 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210605065700 +0000" stop="20210605075500 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210605075500 +0000" stop="20210605085500 +0000" channel="ESPN.do">
+<title lang="es" >Simplemente fútbol</title>
+<desc lang="es">La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista.</desc>
+</programme>
+<programme start="20210605085500 +0000" stop="20210605100500 +0000" channel="ESPN.do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Tercera tanda de entrenamientos libres. Desde el Circuito callejero de Bakú, en Azerbaiyán.</desc>
+</programme>
+<programme start="20210605100500 +0000" stop="20210605110000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210605110000 +0000" stop="20210605115500 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210605115500 +0000" stop="20210605131500 +0000" channel="ESPN.do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Clasificación de la jornada 6 de la temporada 2021. Desde el Circuito callejero de Bakú, en Azerbaiyán.</desc>
+</programme>
+<programme start="20210605131500 +0000" stop="20210605200000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter</title>
+<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
+</programme>
+<programme start="20210605200000 +0000" stop="20210605230000 +0000" channel="ESPN.do">
+<title lang="es" >UFC Fight Night: Rozenstruik vs. Sakai, preliminares</title>
+<desc lang="es">Makwan Amirkhani contra Kamuela Kirk, peso pluma. FranciscoTrinaldo vs. Muslim Salikhov, peso wélter. Tanner Boser contra Ilir Latifi, peso pesado. Montana De La Rosa contra Ariane Lipski, peso mosca femenino. Desde el UFC Apex en Las Vegas.</desc>
+</programme>
+<programme start="20210605230000 +0000" stop="20210606020000 +0000" channel="ESPN.do">
+<title lang="es" >UFC Fight Night: Rozenstruik vs. Sakai</title>
+<desc lang="es">Santiago Ponzinibbio contra Miguel Baeza, peso wélter. Roman Dolidze contra Laureano Staropoli, peso mediano. Walt Harris contra Marcin Tybura, peso pesado. Jairzinho Rozenstruik contra Augusto Sakai, peso pesado. Desde el UFC Apex en Las Vegas.</desc>
+</programme>
+<programme start="20210606020000 +0000" stop="20210606030000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210606030000 +0000" stop="20210606040000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210606040000 +0000" stop="20210606050000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210606050000 +0000" stop="20210606060000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210606060000 +0000" stop="20210606070000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210606070000 +0000" stop="20210606080000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210606080000 +0000" stop="20210606090000 +0000" channel="ESPN.do">
 <title lang="es" >UEFA Champions League Magazine</title>
 <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
 </programme>
-<programme start="20210603155000 +0000" stop="20210603180000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Eurocopa Sub-21 2021</title>
-<desc lang="es">Campeonato juvenil internacional para los equipos nacionales masculinos de Europa menores de 21 años. Desde Hungría y Eslovenia.</desc>
+<programme start="20210606090000 +0000" stop="20210606133000 +0000" channel="ESPN.do">
+<title lang="es" >Campeonato Mundial de MotoGP</title>
+<desc lang="es">Desde el circuito de Barcelona-Cataluña en Barcelona, España.</desc>
 </programme>
-<programme start="20210603180000 +0000" stop="20210603185000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >UEFA Europa League Magazine</title>
-<desc lang="es">Noticias, entrevistas, momentos destacados, historias y análisis de los equipos de la UEFA Europa League.</desc>
+<programme start="20210606133000 +0000" stop="20210606155000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter</title>
+<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
 </programme>
-<programme start="20210603185000 +0000" stop="20210603210000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Eurocopa Sub-21 2021</title>
-<desc lang="es">Campeonato juvenil internacional para los equipos nacionales masculinos de Europa menores de 21 años. Desde Hungría y Eslovenia.</desc>
+<programme start="20210606155000 +0000" stop="20210606180000 +0000" channel="ESPN.do">
+<title lang="es" >England vs. Romania</title>
+<desc lang="es">Fútbol</desc>
 </programme>
-<programme start="20210603210000 +0000" stop="20210603233000 +0000" channel="ESPNEXTRA.co">
-<title lang="es" >Manchester City vs. Chelsea</title>
-<desc lang="es">Fútbol UEFA Champions League</desc>
+<programme start="20210606180000 +0000" stop="20210606185000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter</title>
+<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
 </programme>
-<programme start="20210603233000 +0000" stop="20210604000000 +0000" channel="ESPNEXTRA.co">
+<programme start="20210606185000 +0000" stop="20210606210000 +0000" channel="ESPN.do">
+<title lang="es" >Germany vs. Portugal</title>
+<desc lang="es">Eurocopa Sub-21 2021</desc>
+</programme>
+<programme start="20210606210000 +0000" stop="20210607000000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter Sur</title>
+<desc lang="es">La edición Sur del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210607000000 +0000" stop="20210607023000 +0000" channel="ESPN.do">
+<title lang="es" >Boxeo</title>
+<desc lang="es">Toda la acción del combate entre Floyd Mayweather Jr. y Logan Paul. Desde el Hard Rock Stadium de Miami.</desc>
+</programme>
+<programme start="20210607023000 +0000" stop="20210607033000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210607033000 +0000" stop="20210607043000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210607043000 +0000" stop="20210607053000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210607053000 +0000" stop="20210607063000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210607063000 +0000" stop="20210607073000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210607073000 +0000" stop="20210607080000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN Run</title>
+<desc lang="es">Programa dedicado para los corredores apasionados, profesionales y principiantes. Presentación de las carreras más famosas alrededor del mundo.</desc>
+</programme>
+<programme start="20210607080000 +0000" stop="20210607090000 +0000" channel="ESPN.do">
+<title lang="es" >Simplemente fútbol</title>
+<desc lang="es">La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista.</desc>
+</programme>
+<programme start="20210607090000 +0000" stop="20210607100000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210607100000 +0000" stop="20210607110000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter L.A.</title>
+<desc lang="es">Edición Latinoamericana del noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210607110000 +0000" stop="20210607150000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter - edición de mediodía</title>
+<desc lang="es">El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+</programme>
+<programme start="20210607150000 +0000" stop="20210607160000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN F12</title>
+<desc lang="es">Una nueva propuesta informativa a puro fútbol con un panel destacado. Además, periodistas en vivo desde los entrenamientos de los equipos más destacados del fútbol argentino.</desc>
+</programme>
+<programme start="20210607160000 +0000" stop="20210607180000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN F90 Primera edición</title>
+<desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.</desc>
+</programme>
+<programme start="20210607180000 +0000" stop="20210607200000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN F360</title>
+<desc lang="es">Con lo mejor de la actualidad del fútbol argentino y del exterior, con la noticia al instante, goles, curiosidades, entrevistas y la indispensable cuota de humor.</desc>
+</programme>
+<programme start="20210607200000 +0000" stop="20210607210000 +0000" channel="ESPN.do">
+<title lang="es" >SportsCenter</title>
+<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
+</programme>
+<programme start="20210607210000 +0000" stop="20210608000000 +0000" channel="ESPN.do">
+<title lang="es" >ESPN F90 Segunda edición</title>
+<desc lang="es">Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.</desc>
+</programme>
+<programme start="20210604000000 +0000" stop="20210604003000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+</programme>
+<programme start="20210604003000 +0000" stop="20210604010000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Moto Grand Prix F.I.M Highlights</title>
+<desc lang="es">Un vistazo a los mejores momentos y a lo más destacado de MotoGP.</desc>
+</programme>
+<programme start="20210604010000 +0000" stop="20210604013000 +0000" channel="ESPN3(South).do">
+<title lang="es" >GP 1</title>
+<desc lang="es">Un programa con todo lo que no se puede ver de la Fórmula Uno. Qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome y mucho más.</desc>
+</programme>
+<programme start="20210604013000 +0000" stop="20210604020000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Revista del turf</title>
+<desc lang="es">Carrera de caballos en Argentina y Sudamérica.</desc>
+</programme>
+<programme start="20210604020000 +0000" stop="20210604030000 +0000" channel="ESPN3(South).do">
+<title lang="es" >SportsCenter</title>
+<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
+</programme>
+<programme start="20210604030000 +0000" stop="20210604040000 +0000" channel="ESPN3(South).do">
+<title lang="es" >ESPN Playroom</title>
+<desc lang="es">Una propuesta llena de actualidad y mucho humor, con la compañía de invitados especiales provenientes tanto del mundo de la música como del deporte.</desc>
+</programme>
+<programme start="20210604040000 +0000" stop="20210604043000 +0000" channel="ESPN3(South).do">
+<title lang="es" >MLS Magazine</title>
+<desc lang="es">Noticias y reportajes de la Major League Soccer.</desc>
+</programme>
+<programme start="20210604043000 +0000" stop="20210604050000 +0000" channel="ESPN3(South).do">
+<title lang="es" >UEFA Champions League Magazine</title>
+<desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
+</programme>
+<programme start="20210604050000 +0000" stop="20210604060000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Fútbol Premier League</title>
+<desc lang="es">Un repaso a la campaña de Manchester City rumbo a su nueva conquista en Inglaterra, la séptima en Primera División.</desc>
+</programme>
+<programme start="20210604060000 +0000" stop="20210604063000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Moto Grand Prix F.I.M Highlights</title>
+<desc lang="es">Un vistazo a los mejores momentos y a lo más destacado de MotoGP.</desc>
+</programme>
+<programme start="20210604063000 +0000" stop="20210604070000 +0000" channel="ESPN3(South).do">
+<title lang="es" >GP 1</title>
+<desc lang="es">Un programa con todo lo que no se puede ver de la Fórmula Uno. Qué hacen los pilotos, qué comen y dónde, qué hacen a la noche, cómo son los boxes, cómo son los Motorhome y mucho más.</desc>
+</programme>
+<programme start="20210604070000 +0000" stop="20210604075500 +0000" channel="ESPN3(South).do">
+<title lang="es" >Circuito</title>
+<desc lang="es">Un panel de periodistas especializados en las distintas categorías internacionales de automovilismo analizan y debaten lo más importante del mundo de las carreras.</desc>
+</programme>
+<programme start="20210604075500 +0000" stop="20210604082500 +0000" channel="ESPN3(South).do">
+<title lang="es" >Planet Speed</title>
+<desc lang="es">Las novedades del automovilismo y motociclismo internacional.</desc>
+</programme>
+<programme start="20210604082500 +0000" stop="20210604093500 +0000" channel="ESPN3(South).do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Entrenamientos libres. Desde el Circuito callejero de Bakú, en Azerbaiyán.</desc>
+</programme>
+<programme start="20210604093500 +0000" stop="20210604115000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Reds vs. Blues</title>
+<desc lang="es">Super Rugby</desc>
+</programme>
+<programme start="20210604115000 +0000" stop="20210604130500 +0000" channel="ESPN3(South).do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Acción de la práctica 2 del Gran Premio de Azerbaiyán. Desde el Circuito callejero de Bakú, en Azerbaiyán.</desc>
+</programme>
+<programme start="20210604130500 +0000" stop="20210604180000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Tenis Roland Garros 2021</title>
+<desc lang="es">Acción correspondiente a la tercera ronda del Abierto de Francia. Desde Stade Roland Garros, en París.</desc>
+</programme>
+<programme start="20210604180000 +0000" stop="20210604190000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Circuito</title>
+<desc lang="es">Un panel de periodistas especializados en las distintas categorías internacionales de automovilismo analizan y debaten lo más importante del mundo de las carreras.</desc>
+</programme>
+<programme start="20210604190000 +0000" stop="20210604230000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Golf PGA Tour</title>
+<desc lang="es">Acción de la segunda ronda del torneo. Desde el Muirfield Village Golf Club, en Dublin.</desc>
+</programme>
+<programme start="20210604230000 +0000" stop="20210605020000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Boston Red Sox vs. New York Yankees</title>
+<desc lang="es">Béisbol MLB</desc>
+</programme>
+<programme start="20210605020000 +0000" stop="20210605030000 +0000" channel="ESPN3(South).do">
+<title lang="es" >SportsCenter</title>
+<desc lang="es">Las últimas noticias, momentos destacados e información de todos los rincones del mundo del deporte se presenta cada día en "SportsCenter", el primer programa de ESPN cuando la red se estrenó en septiembre de 1979. La serie se transmite en tres ediciones nocturnas, luego se re-transmite la última edición cuatro veces cada mañana de lunes a viernes antes de despejar el escenario para un bloque de seis horas de "SportsCenter" en vivo, que pone más énfasis en la interactividad de los fanáticos, noticias, análisis, comentarios y la cobertura de las conferencias de prensa.</desc>
+</programme>
+<programme start="20210605030000 +0000" stop="20210605040000 +0000" channel="ESPN3(South).do">
+<title lang="es" >ESPN KnockOut</title>
+<desc lang="es">Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN.</desc>
+</programme>
+<programme start="20210605040000 +0000" stop="20210605050000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Goles de Europa</title>
+<desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.</desc>
+</programme>
+<programme start="20210605050000 +0000" stop="20210605060000 +0000" channel="ESPN3(South).do">
+<title lang="es" >UEFA Champions League Magazine</title>
+<desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
+</programme>
+<programme start="20210605060000 +0000" stop="20210605070000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Scrum</title>
+<desc lang="es">Un programa que trae lo mejor del rugby mundial con todos los últimos acontecimientos de la URBA, reportajes, entrevistas exclusivas a los protagonistas, los análisis más profundos y los resúmenes de cada partido y evento.</desc>
+</programme>
+<programme start="20210605070000 +0000" stop="20210605080000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Simplemente fútbol</title>
+<desc lang="es">La actualidad y las grandes historias del fútbol mundial. Entrevistas, invitados y música de la mano del exfutbolista.</desc>
+</programme>
+<programme start="20210605080000 +0000" stop="20210605090000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Goles de Europa</title>
+<desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.</desc>
+</programme>
+<programme start="20210605090000 +0000" stop="20210605153000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Tenis Roland Garros 2021</title>
+<desc lang="es">Acción correspondiente a la tercera ronda del Abierto de Francia. Desde Stade Roland Garros, en París.</desc>
+</programme>
+<programme start="20210605153000 +0000" stop="20210605180000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Tenis Roland Garros 2021</title>
+<desc lang="es">Acción correspondiente a la tercera ronda del Abierto de Francia. Desde Stade Roland Garros, en París.</desc>
+</programme>
+<programme start="20210605180000 +0000" stop="20210605220000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Boxeo</title>
+<desc lang="es">El británico Daniel Dubois (15-1-0, 14 KOs) se mide ante el rumano Bogdan Dinu (20-2-0, 16 KOs), por el título mundial interino peso pesado de la Asociación Mundial de Boxeo (AMB). Desde el Telford International Centre, en Telford, Shropshire.</desc>
+</programme>
+<programme start="20210605220000 +0000" stop="20210605230000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Campeonato Mundial de MotoGP</title>
+<desc lang="es">Acción de la clasificación del Gran Premio de Cataluña, séptima jornada de la temporada. Desde el circuito de Barcelona-Cataluña, en Montmeló.</desc>
+</programme>
+<programme start="20210605230000 +0000" stop="20210605233000 +0000" channel="ESPN3(South).do">
+<title lang="es" >NBA Action</title>
+<desc lang="es">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.</desc>
+</programme>
+<programme start="20210605233000 +0000" stop="20210606013000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Tenis</title>
+<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
+</programme>
+<programme start="20210606013000 +0000" stop="20210606033000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Castres vs. Toulon</title>
+<desc lang="es">Rugby Top 14 de Francia</desc>
+</programme>
+<programme start="20210606033000 +0000" stop="20210606053000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Las Vegas Aces vs. Washington Mystics</title>
+<desc lang="es">Baloncesto WNBA</desc>
+</programme>
+<programme start="20210606053000 +0000" stop="20210606060000 +0000" channel="ESPN3(South).do">
+<title lang="es" >NBA Action</title>
+<desc lang="es">Programa semanal con reportajes, entrevistas y toda la información de la liga de baloncesto más espectacular: la NBA. Incluye resúmenes de los partidos de la jornada y entrevistas a los personajes más destacados.</desc>
+</programme>
+<programme start="20210606060000 +0000" stop="20210606070000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Campeonato Mundial de MotoGP</title>
+<desc lang="es">Acción de la clasificación del Gran Premio de Cataluña, séptima jornada de la temporada. Desde el circuito de Barcelona-Cataluña, en Montmeló.</desc>
+</programme>
+<programme start="20210606070000 +0000" stop="20210606083000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Clasificación de la jornada 6 de la temporada 2021. Desde el Circuito callejero de Bakú, en Azerbaiyán.</desc>
+</programme>
+<programme start="20210606083000 +0000" stop="20210606090000 +0000" channel="ESPN3(South).do">
+<title lang="es" >ATP Tour Uncovered</title>
+<desc lang="es">Toda la acción del circuito de la ATP Tour, con entrevistas y reportes especiales.</desc>
+</programme>
+<programme start="20210606090000 +0000" stop="20210606153000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Tenis Roland Garros 2021</title>
+<desc lang="es">Acción de los octavos de final del torneo. Desde el estadio Roland Garros, en París, Francia.</desc>
+</programme>
+<programme start="20210606153000 +0000" stop="20210606170000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Tenis Roland Garros 2021</title>
+<desc lang="es">Acción de los octavos de final del torneo. Desde el estadio Roland Garros, en París, Francia.</desc>
+</programme>
+<programme start="20210606170000 +0000" stop="20210606193000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Atlanta Hawks vs. Philadelphia 76ers</title>
+<desc lang="es">Baloncesto NBA</desc>
+</programme>
+<programme start="20210606193000 +0000" stop="20210606220000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Dallas Mavericks vs. Los Angeles Clippers</title>
+<desc lang="es">Baloncesto NBA</desc>
+</programme>
+<programme start="20210606220000 +0000" stop="20210606230000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Scrum</title>
+<desc lang="es">Un programa que trae lo mejor del rugby mundial con todos los últimos acontecimientos de la URBA, reportajes, entrevistas exclusivas a los protagonistas, los análisis más profundos y los resúmenes de cada partido y evento.</desc>
+</programme>
+<programme start="20210606230000 +0000" stop="20210607020000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Boston Red Sox vs. New York Yankees</title>
+<desc lang="es">Béisbol MLB</desc>
+</programme>
+<programme start="20210607020000 +0000" stop="20210607050000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Campeonato Mundial de MotoGP</title>
+<desc lang="es">Acción del Gran Premio de Cataluña, séptima jornada de la temporada. Desde el circuito de Barcelona-Cataluña, en Montmeló.</desc>
+</programme>
+<programme start="20210607050000 +0000" stop="20210607070000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Acción del Gran Premio de Azerbaiyán. Desde el Circuito callejero de Bakú.</desc>
+</programme>
+<programme start="20210607070000 +0000" stop="20210607080000 +0000" channel="ESPN3(South).do">
+<title lang="es" >ESPN Compact</title>
+<desc lang="es">Resumen del partido de preparación entre Inglaterra y Rumania, disputado en Riverside. Del 6 de junio de 2021.</desc>
+</programme>
+<programme start="20210607080000 +0000" stop="20210607090000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Scrum</title>
+<desc lang="es">Un programa que trae lo mejor del rugby mundial con todos los últimos acontecimientos de la URBA, reportajes, entrevistas exclusivas a los protagonistas, los análisis más profundos y los resúmenes de cada partido y evento.</desc>
+</programme>
+<programme start="20210607090000 +0000" stop="20210607153000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Tenis Roland Garros 2021</title>
+<desc lang="es">Acción de los octavos de final femenino y masculino de Roland-Garros 2021. Desde el Stade Roland Garros de París, Francia.</desc>
+</programme>
+<programme start="20210607153000 +0000" stop="20210607180000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Tenis Roland Garros 2021</title>
+<desc lang="es">Acción de los octavos de final femenino y masculino de Roland-Garros 2021. Desde el Stade Roland Garros de París, Francia.</desc>
+</programme>
+<programme start="20210607180000 +0000" stop="20210607210000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Campeonato Mundial de MotoGP</title>
+<desc lang="es">Acción del Gran Premio de Cataluña, séptima jornada de la temporada. Desde el circuito de Barcelona-Cataluña, en Montmeló.</desc>
+</programme>
+<programme start="20210607210000 +0000" stop="20210607220000 +0000" channel="ESPN3(South).do">
+<title lang="es" >ESPN Compact</title>
+<desc lang="es">Resumen del partido de preparación entre Inglaterra y Rumania, disputado en Riverside. Del 6 de junio de 2021.</desc>
+</programme>
+<programme start="20210607220000 +0000" stop="20210607230000 +0000" channel="ESPN3(South).do">
+<title lang="es" >Goles de Europa</title>
+<desc lang="es">El resumen más completo de las ligas del Viejo Continente, con el análisis, goles y las mejores jugadas del fin de semana.</desc>
+</programme>
+<programme start="20210607230000 +0000" stop="20210607233000 +0000" channel="ESPN3(South).do">
+<title lang="es" >ESPN X</title>
+<desc lang="es">Un programa de deportes extremos que muestra no solo el vértigo y la adrenalina de cada disciplina sino también las historias y los detalles que rodean a cada una de las actividades.</desc>
+</programme>
+<programme start="20210607233000 +0000" stop="20210608000000 +0000" channel="ESPN3(South).do">
+<title lang="es" >ESPN Run</title>
+<desc lang="es">Programa dedicado para los corredores apasionados, profesionales y principiantes. Presentación de las carreras más famosas alrededor del mundo.</desc>
+</programme>
+<programme start="20210604000000 +0000" stop="20210604003000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >ESPN Polo</title>
+<desc lang="es">Lo más destacado y la mejor cobertura de los torneos más importantes de polo del mundo, con el análisis de los especialistas.</desc>
+</programme>
+<programme start="20210604003000 +0000" stop="20210604010000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >MLS Magazine</title>
+<desc lang="es">Noticias y reportajes de la Major League Soccer.</desc>
+</programme>
+<programme start="20210604010000 +0000" stop="20210604030000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Tenis</title>
+<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
+</programme>
+<programme start="20210604030000 +0000" stop="20210604040000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Surf</title>
+<desc lang="es">Lo más destacado del Campeonato del Mundo de Surf. Desde El Salvador.</desc>
+</programme>
+<programme start="20210604040000 +0000" stop="20210604043000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Moto Grand Prix F.I.M Highlights</title>
+<desc lang="es">Un vistazo a los mejores momentos y a lo más destacado de MotoGP.</desc>
+</programme>
+<programme start="20210604043000 +0000" stop="20210604050000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >MLS Magazine</title>
+<desc lang="es">Noticias y reportajes de la Major League Soccer.</desc>
+</programme>
+<programme start="20210604050000 +0000" stop="20210604060000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >ESPN Playroom</title>
+<desc lang="es">Una propuesta llena de actualidad y mucho humor, con la compañía de invitados especiales provenientes tanto del mundo de la música como del deporte.</desc>
+</programme>
+<programme start="20210604060000 +0000" stop="20210604080000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Ciclismo</title>
+<desc lang="es">Acción de la quinta etapa del Critérium du Dauphiné. Con un recorrido de 175,5 kilómetros desde Saint-Chamond hasta Saint- Vallier.</desc>
+</programme>
+<programme start="20210604080000 +0000" stop="20210604083000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Aguas arriba</title>
+<desc lang="es">La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe.</desc>
+</programme>
+<programme start="20210604083000 +0000" stop="20210604090000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >ATP Tour Uncovered</title>
+<desc lang="es">Toda la acción del circuito de la ATP Tour, con entrevistas y reportes especiales.</desc>
+</programme>
+<programme start="20210604090000 +0000" stop="20210604130500 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Tenis Roland Garros 2021</title>
+<desc lang="es">Acción correspondiente a la tercera ronda del Abierto de Francia. Desde Stade Roland Garros, en París.</desc>
+</programme>
+<programme start="20210604130500 +0000" stop="20210604143000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Ciclismo</title>
+<desc lang="es">Acción de la sexta etapa del Critérium du Dauphiné. Con un recorrido de 168 kilómetros desde Loriol-sur-Drome hasta Le Sappey-en-Chartreuse.</desc>
+</programme>
+<programme start="20210604143000 +0000" stop="20210604164000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Reds vs. Blues</title>
+<desc lang="es">Super Rugby</desc>
+</programme>
+<programme start="20210604164000 +0000" stop="20210604184000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Crusaders vs. Western Force</title>
+<desc lang="es">Super Rugby</desc>
+</programme>
+<programme start="20210604184000 +0000" stop="20210604204500 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Sale Sharks vs. Harlequins</title>
+<desc lang="es">Rugby Premiership</desc>
+</programme>
+<programme start="20210604204500 +0000" stop="20210604214500 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Scrum</title>
+<desc lang="es">Un programa que trae lo mejor del rugby mundial con todos los últimos acontecimientos de la URBA, reportajes, entrevistas exclusivas a los protagonistas, los análisis más profundos y los resúmenes de cada partido y evento.</desc>
+</programme>
+<programme start="20210604214500 +0000" stop="20210604220000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Scrum</title>
+<desc lang="es">El mejor repaso de la campaña de Los Pumas en la edición 2020 del torneo.</desc>
+</programme>
+<programme start="20210604220000 +0000" stop="20210604223000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Aguas arriba</title>
+<desc lang="es">La experiencia de la pesca con mosca en Latinoamérica. La búsqueda de truchas en la Patagonia, sea trout y salmones en Chile, dorados en el norte de Argentina y las magníficas especies como bonefish, pertmit y tarpon de Centroamérica y Caribe.</desc>
+</programme>
+<programme start="20210604223000 +0000" stop="20210604230000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >ESPN Run</title>
+<desc lang="es">Programa dedicado para los corredores apasionados, profesionales y principiantes. Presentación de las carreras más famosas alrededor del mundo.</desc>
+</programme>
+<programme start="20210604230000 +0000" stop="20210605000000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >UEFA Champions League Magazine</title>
+<desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
+</programme>
+<programme start="20210605000000 +0000" stop="20210605010000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >ESPN KnockOut</title>
+<desc lang="es">Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN.</desc>
+</programme>
+<programme start="20210605010000 +0000" stop="20210605030000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Tenis</title>
+<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
+</programme>
+<programme start="20210605030000 +0000" stop="20210605040000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Surf</title>
+<desc lang="es">Lo más destacado del Campeonato del Mundo de Surf. Desde El Salvador.</desc>
+</programme>
+<programme start="20210605040000 +0000" stop="20210605060000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Tenis</title>
+<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
+</programme>
+<programme start="20210605060000 +0000" stop="20210605080000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Ciclismo</title>
+<desc lang="es">Acción de la sexta etapa del Critérium du Dauphiné. Con un recorrido de 168 kilómetros desde Loriol-sur-Drome hasta Le Sappey-en-Chartreuse.</desc>
+</programme>
+<programme start="20210605080000 +0000" stop="20210605081500 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Ciclismo</title>
+<desc lang="es">Los mejores momentos del ciclista colombiano en el Tour de France 2019, donde se convertiría en el primer latinoamericano en ganar dicho evento.</desc>
+</programme>
+<programme start="20210605081500 +0000" stop="20210605091500 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >ESPN KnockOut</title>
+<desc lang="es">Ciclo de boxeo con los mejores combates en directo y en español para toda Latinoamérica en ESPN.</desc>
+</programme>
+<programme start="20210605091500 +0000" stop="20210605094500 +0000" channel="ESPNEXTRA.do">
 <title lang="es" >Premiership Rugby</title>
 <desc lang="es">Cobertura de la Premiership Rugby, la liga de clubes más importante de Inglaterra.</desc>
 </programme>
-<programme start="20210602000000 +0000" stop="20210602020000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >UFC Clásicos</title>
-<desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.</desc>
+<programme start="20210605094500 +0000" stop="20210605114000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Brumbies vs. Hurricanes</title>
+<desc lang="es">Super Rugby</desc>
 </programme>
-<programme start="20210602020000 +0000" stop="20210602023000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Momentos eternos</title>
-<desc lang="es">Repaso de momentos históricos en las diferentes disciplinas deportivas contados por sus propios protagonistas.</desc>
+<programme start="20210605114000 +0000" stop="20210605130000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Ciclismo</title>
+<desc lang="es"></desc>
 </programme>
-<programme start="20210602023000 +0000" stop="20210602030000 +0000" channel="FoxSports(ConoSur).co">
+<programme start="20210605130000 +0000" stop="20210605140000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Campeonato Mundial de MotoGP</title>
+<desc lang="es">Acción de la clasificación del Gran Premio de Cataluña, séptima jornada de la temporada. Desde el circuito de Barcelona-Cataluña, en Montmeló.</desc>
+</programme>
+<programme start="20210605140000 +0000" stop="20210605143000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Planet Speed</title>
+<desc lang="es">Las novedades del automovilismo y motociclismo internacional.</desc>
+</programme>
+<programme start="20210605143000 +0000" stop="20210605163000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Highlanders vs. Waratahs</title>
+<desc lang="es">Super Rugby</desc>
+</programme>
+<programme start="20210605163000 +0000" stop="20210605220000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Golf PGA Tour</title>
+<desc lang="es">Acción de la tercera ronda del torneo. Desde el Muirfield Village Golf Club, en Dublin.</desc>
+</programme>
+<programme start="20210605220000 +0000" stop="20210606020000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Golf U.S.Open femenino 2021</title>
+<desc lang="es">Desde The Olympic Club, en San Francisco.</desc>
+</programme>
+<programme start="20210606020000 +0000" stop="20210606030000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >ESPN Playroom</title>
+<desc lang="es">Una propuesta llena de actualidad y mucho humor, con la compañía de invitados especiales provenientes tanto del mundo de la música como del deporte.</desc>
+</programme>
+<programme start="20210606030000 +0000" stop="20210606040000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Surf</title>
+<desc lang="es">Lo más destacado del Campeonato del Mundo de Surf. Desde El Salvador.</desc>
+</programme>
+<programme start="20210606040000 +0000" stop="20210606060000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Tenis</title>
+<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
+</programme>
+<programme start="20210606060000 +0000" stop="20210606080000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Ciclismo</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210606080000 +0000" stop="20210606090000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Campeonato Mundial de MotoGP</title>
+<desc lang="es">Acción de la clasificación del Gran Premio de Cataluña, séptima jornada de la temporada. Desde el circuito de Barcelona-Cataluña, en Montmeló.</desc>
+</programme>
+<programme start="20210606090000 +0000" stop="20210606110000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Baloncesto WNBA</title>
+<desc lang="es">Cobertura del baloncesto femenino.</desc>
+</programme>
+<programme start="20210606110000 +0000" stop="20210606143000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Ciclismo</title>
+<desc lang="es"></desc>
+</programme>
+<programme start="20210606143000 +0000" stop="20210606160000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Scrum</title>
+<desc lang="es">Un programa que trae lo mejor del rugby mundial con todos los últimos acontecimientos de la URBA, reportajes, entrevistas exclusivas a los protagonistas, los análisis más profundos y los resúmenes de cada partido y evento.</desc>
+</programme>
+<programme start="20210606160000 +0000" stop="20210606220000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Golf PGA Tour</title>
+<desc lang="es">Acción de la ronda final del The Memorial Tournament 2021. Desde el Muirfield Village Golf Club, en Dublin.</desc>
+</programme>
+<programme start="20210606220000 +0000" stop="20210607010000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Golf U.S.Open femenino 2021</title>
+<desc lang="es">Acción correspondiente a la ronda final. Desde The Olympic Club, en San Francisco.</desc>
+</programme>
+<programme start="20210607010000 +0000" stop="20210607030000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Tenis</title>
+<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
+</programme>
+<programme start="20210607030000 +0000" stop="20210607040000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Surf</title>
+<desc lang="es">Lo más destacado del Campeonato del Mundo de Surf. Desde El Salvador.</desc>
+</programme>
+<programme start="20210607040000 +0000" stop="20210607060000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Tenis</title>
+<desc lang="es">Lo más destacado de la edición 2021 del torneo Grand Slam. Disputado en París, Francia.</desc>
+</programme>
+<programme start="20210607060000 +0000" stop="20210607080000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Germany vs. Portugal</title>
+<desc lang="es">Eurocopa Sub-21 2021</desc>
+</programme>
+<programme start="20210607080000 +0000" stop="20210607110000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Golf PGA Tour</title>
+<desc lang="es">Acción de la ronda final del The Memorial Tournament 2021. Desde el Muirfield Village Golf Club, en Dublin.</desc>
+</programme>
+<programme start="20210607110000 +0000" stop="20210607120000 +0000" channel="ESPNEXTRA.do">
 <title lang="es" >UEFA Champions League Magazine</title>
 <desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
 </programme>
-<programme start="20210602030000 +0000" stop="20210602040000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">La XI Copa Mundial que se llevó a cabo en Argentina, entre el 1 y el 25 de junio de 1978.</desc>
+<programme start="20210607120000 +0000" stop="20210607150000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Boston Red Sox vs. New York Yankees</title>
+<desc lang="es">Béisbol MLB</desc>
 </programme>
-<programme start="20210602040000 +0000" stop="20210602060000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Fútbol CONMEBOL Libertadores</title>
-<desc lang="es">Partido de vuelta de octavos de final de la edición 2016. Disputado el 19 de mayo de 2016, en Medellín.</desc>
+<programme start="20210607150000 +0000" stop="20210607173000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Atlanta Hawks vs. Philadelphia 76ers</title>
+<desc lang="es">Baloncesto NBA</desc>
 </programme>
-<programme start="20210602060000 +0000" stop="20210602070000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.</desc>
+<programme start="20210607173000 +0000" stop="20210607200000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Dallas Mavericks vs. Los Angeles Clippers</title>
+<desc lang="es">Baloncesto NBA</desc>
 </programme>
-<programme start="20210602070000 +0000" stop="20210602100000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >UFC 219: Cyborg vs. Holm</title>
-<desc lang="es">Cynthia Calvillo vs. Carla Esparza; Dan Hooker vs. Marc Diakiese; Khabib Nurmagomedov vs. Edson Barboza; Cris Cyborg vs. Holly Holm, pelea por el título de peso pluma femenino. Desde Las Vegas, Nevada.</desc>
+<programme start="20210607200000 +0000" stop="20210607220000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Brumbies vs. Hurricanes</title>
+<desc lang="es">Super Rugby</desc>
 </programme>
-<programme start="20210602100000 +0000" stop="20210602120000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Barcelona vs. Santos FC</title>
-<desc lang="es">Fútbol CONMEBOL Libertadores</desc>
+<programme start="20210607220000 +0000" stop="20210607230000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Scrum</title>
+<desc lang="es">Un programa que trae lo mejor del rugby mundial con todos los últimos acontecimientos de la URBA, reportajes, entrevistas exclusivas a los protagonistas, los análisis más profundos y los resúmenes de cada partido y evento.</desc>
 </programme>
-<programme start="20210602120000 +0000" stop="20210602130000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >UEFA Champions League Classic</title>
-<desc lang="es">Los mejores partidos del recuerdo del torneo de campeones de Europa.</desc>
+<programme start="20210607230000 +0000" stop="20210608010000 +0000" channel="ESPNEXTRA.do">
+<title lang="es" >Ciclismo</title>
+<desc lang="es"></desc>
 </programme>
-<programme start="20210602130000 +0000" stop="20210602150000 +0000" channel="FoxSports(ConoSur).co">
+<programme start="20210604000000 +0000" stop="20210604010000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >The Ultimate Fighter</title>
+<desc lang="es">El entrenamiento y desarrollo de los mejores luchadores profesionales.</desc>
+</programme>
+<programme start="20210604010000 +0000" stop="20210604020000 +0000" channel="FoxSports(ConoSur).do">
 <title lang="es" >UFC Clásicos</title>
 <desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.</desc>
 </programme>
-<programme start="20210602150000 +0000" stop="20210602180000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >UFC 220: Miocic vs. Ngannou</title>
-<desc lang="es">Evento disputado el 20 de enero de 2018 en el TD Garden de Boston, Estados Unidos.</desc>
-</programme>
-<programme start="20210602180000 +0000" stop="20210602190000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">La XI Copa Mundial que se llevó a cabo en Argentina, entre el 1 y el 25 de junio de 1978.</desc>
-</programme>
-<programme start="20210602190000 +0000" stop="20210602210000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Fútbol CONMEBOL Libertadores</title>
-<desc lang="es">Partido de vuelta de cuartos de final. Disputado el 19 de mayo de 2016, en La Bombonera.</desc>
-</programme>
-<programme start="20210602210000 +0000" stop="20210602220000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Review</title>
-<desc lang="es">Compacto con los mejores momentos y las jugadas más destacadas del partido de ida. Disputado el 14 de febrero de 2018, en el estadio Libertadores de América.</desc>
-</programme>
-<programme start="20210602220000 +0000" stop="20210603000000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Fútbol CONMEBOL Libertadores</title>
-<desc lang="es">La mejor cobertura de los encuentros del torneo de clubes más importante y prestigioso de América.</desc>
-</programme>
-<programme start="20210603000000 +0000" stop="20210603020000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >UFC Clásicos</title>
-<desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.</desc>
-</programme>
-<programme start="20210603020000 +0000" stop="20210603023000 +0000" channel="FoxSports(ConoSur).co">
+<programme start="20210604020000 +0000" stop="20210604023000 +0000" channel="FoxSports(ConoSur).do">
 <title lang="es" >UFC Ultimate Knockouts</title>
 <desc lang="es">Repasamos los más memorables KOs en la historia de los combates de la UFC. Boxeo, Muay Tahi, Jiu Jitsu, judo y diferentes técnicas de lucha se mezclan en el Octágono para brindar los golpes y técnicas más impactantes de la MMA.</desc>
 </programme>
-<programme start="20210603023000 +0000" stop="20210603030000 +0000" channel="FoxSports(ConoSur).co">
+<programme start="20210604023000 +0000" stop="20210604030000 +0000" channel="FoxSports(ConoSur).do">
 <title lang="es" >Momentos eternos</title>
 <desc lang="es">Repaso de momentos históricos en las diferentes disciplinas deportivas contados por sus propios protagonistas.</desc>
 </programme>
-<programme start="20210603030000 +0000" stop="20210603040000 +0000" channel="FoxSports(ConoSur).co">
+<programme start="20210604030000 +0000" stop="20210604040000 +0000" channel="FoxSports(ConoSur).do">
 <title lang="es" >Expediente fútbol</title>
 <desc lang="es">La XI Copa Mundial que se llevó a cabo en Argentina, entre el 1 y el 25 de junio de 1978.</desc>
 </programme>
-<programme start="20210603040000 +0000" stop="20210603060000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Fútbol CONMEBOL Libertadores</title>
-<desc lang="es">Partido de vuelta de cuartos de final. Disputado el 19 de mayo de 2016, en La Bombonera.</desc>
-</programme>
-<programme start="20210603060000 +0000" stop="20210603070000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.</desc>
-</programme>
-<programme start="20210603070000 +0000" stop="20210603100000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >UFC 220: Miocic vs. Ngannou</title>
-<desc lang="es">Evento disputado el 20 de enero de 2018 en el TD Garden de Boston, Estados Unidos.</desc>
-</programme>
-<programme start="20210603100000 +0000" stop="20210603120000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Nacional vs. Argentinos Juniors</title>
-<desc lang="es">Fútbol CONMEBOL Libertadores</desc>
-</programme>
-<programme start="20210603120000 +0000" stop="20210603130000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >UEFA Champions League Classic</title>
-<desc lang="es">Los mejores partidos del recuerdo del torneo de campeones de Europa.</desc>
-</programme>
-<programme start="20210603130000 +0000" stop="20210603150000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >UFC Clásicos</title>
-<desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.</desc>
-</programme>
-<programme start="20210603150000 +0000" stop="20210603180000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >UFC 221: Romero vs. Rockhold</title>
-<desc lang="es">Evento llevado a cabo el 11 de febrero de 2018 en el Perth Arena de Australia.</desc>
-</programme>
-<programme start="20210603180000 +0000" stop="20210603190000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">La XI Copa Mundial que se llevó a cabo en Argentina, entre el 1 y el 25 de junio de 1978.</desc>
-</programme>
-<programme start="20210603190000 +0000" stop="20210603210000 +0000" channel="FoxSports(ConoSur).co">
+<programme start="20210604040000 +0000" stop="20210604060000 +0000" channel="FoxSports(ConoSur).do">
 <title lang="es" >Fútbol CONMEBOL Libertadores</title>
 <desc lang="es">Vuelta de semifinales del torneo. Disputado el 14 de julio de 2016, en el estadio La Bombonera.</desc>
 </programme>
-<programme start="20210603210000 +0000" stop="20210603220000 +0000" channel="FoxSports(ConoSur).co">
-<title lang="es" >Review</title>
-<desc lang="es">Compacto con los mejores momentos y las jugadas más destacadas del partido de vuelta. Disputado el 21 de febrero de 2018 en el Arena do Grêmio.</desc>
+<programme start="20210604060000 +0000" stop="20210604070000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.</desc>
 </programme>
-<programme start="20210603220000 +0000" stop="20210604000000 +0000" channel="FoxSports(ConoSur).co">
+<programme start="20210604070000 +0000" stop="20210604100000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC 221: Romero vs. Rockhold</title>
+<desc lang="es">Evento llevado a cabo el 11 de febrero de 2018 en el Perth Arena de Australia.</desc>
+</programme>
+<programme start="20210604100000 +0000" stop="20210604120000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Racing vs. Rentistas</title>
+<desc lang="es">Fútbol CONMEBOL Libertadores</desc>
+</programme>
+<programme start="20210604120000 +0000" stop="20210604130000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UEFA Champions League Classic</title>
+<desc lang="es">Los mejores partidos del recuerdo del torneo de campeones de Europa.</desc>
+</programme>
+<programme start="20210604130000 +0000" stop="20210604150000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC Clásicos</title>
+<desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.</desc>
+</programme>
+<programme start="20210604150000 +0000" stop="20210604180000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC 222: Cyborg vs. Kunitskaya</title>
+<desc lang="es">Evento disputado el 3 de marzo de 2016 en el T-Mobile Arena, Las Vegas.</desc>
+</programme>
+<programme start="20210604180000 +0000" stop="20210604190000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">La XI Copa Mundial que se llevó a cabo en Argentina, entre el 1 y el 25 de junio de 1978.</desc>
+</programme>
+<programme start="20210604190000 +0000" stop="20210604210000 +0000" channel="FoxSports(ConoSur).do">
 <title lang="es" >Fútbol CONMEBOL Libertadores</title>
-<desc lang="es">La mejor cobertura de los encuentros del torneo de clubes más importante y prestigioso de América.</desc>
+<desc lang="es">Partido de vuelta de la gran final. Disputado el 27 de julio de 2016, en el estadio Atanasio Girardot.</desc>
 </programme>
-<programme start="20210602000000 +0000" stop="20210602010000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Cienciano campeón Copa Sudamericana 2003</title>
-<desc lang="es">Los mejores momentos de los Rojos en la Copa Sudamericana 2003. Los cusqueños culminarían el certamen como campeones, y así se convertirían en el primer equipo peruano en ganar un torneo internacional.</desc>
+<programme start="20210604210000 +0000" stop="20210604220000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Review</title>
+<desc lang="es">Resumen del partido que definió el título de la Supercopa con el gran Superclásico de Argentina.</desc>
 </programme>
-<programme start="20210602010000 +0000" stop="20210602030000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >La Era Palermo</title>
-<desc lang="es">Un espacio que rinde tributo a la etapa de Martín Palermo.</desc>
+<programme start="20210604220000 +0000" stop="20210604223000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UEFA Champions League Magazine</title>
+<desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
 </programme>
-<programme start="20210602030000 +0000" stop="20210602040000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >WWE Vintage</title>
-<desc lang="es">Una mirada a los clásicos combates de la WWE.</desc>
+<programme start="20210604223000 +0000" stop="20210604230000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC Conectado</title>
+<desc lang="es">Historias alrededor del mundo del UFC: sus peleadores, entrenadores, gimnasios, y mucho más.</desc>
 </programme>
-<programme start="20210602040000 +0000" stop="20210602070000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >UFC Fight Night: Dos Anjos vs. Lee</title>
-<desc lang="es">Combate disputado el 18 de mayo de 2019 en la Blue Cross Arena de Rochester, Nueva York, Estados Unidos.</desc>
+<programme start="20210604230000 +0000" stop="20210605000000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC Unleashed</title>
+<desc lang="es">Presentando los más grandes momentos de la enorme biblioteca de metraje de lucha de la UFC.</desc>
 </programme>
-<programme start="20210602070000 +0000" stop="20210602080000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.</desc>
-</programme>
-<programme start="20210602080000 +0000" stop="20210602100000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Cerro Porteño vs. América de Cali</title>
-<desc lang="es">Fútbol CONMEBOL Libertadores</desc>
-</programme>
-<programme start="20210602100000 +0000" stop="20210602130000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >UFC Fight Night: Gustafsson vs Smith</title>
-<desc lang="es">Combate disputado el primero de junio del 2019 en Estocolmo, Suecia.</desc>
-</programme>
-<programme start="20210602130000 +0000" stop="20210602150000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Arsenal vs. Club Bolivar</title>
-<desc lang="es">Fútbol CONMEBOL Sudamericana</desc>
-</programme>
-<programme start="20210602150000 +0000" stop="20210602170000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Barcelona vs. Santos FC</title>
-<desc lang="es">Fútbol CONMEBOL Libertadores</desc>
-</programme>
-<programme start="20210602170000 +0000" stop="20210602190000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >La Era Riquelme</title>
-<desc lang="es">El retiro de Juan Román Riquelme, el último de su generación.</desc>
-</programme>
-<programme start="20210602190000 +0000" stop="20210602200000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">Programa especial repasando la conquista de la selección de Argentina como campeón del mundo en México 1986.</desc>
-</programme>
-<programme start="20210602200000 +0000" stop="20210602210000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">Programa especial repasando la conquista de la selección de Argentina como campeón del mundo en México 1986.</desc>
-</programme>
-<programme start="20210602210000 +0000" stop="20210602220000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >50 años Copa Libertadores</title>
-<desc lang="es">El aniversario número 50 de la Copa Libertadores, el gran torneo de fútbol de América a nivel de clubes.</desc>
-</programme>
-<programme start="20210602220000 +0000" stop="20210602230000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >WWE NXT</title>
-<desc lang="es">La nueva generación de superestrellas de WWE lucha para ganar fama.</desc>
-</programme>
-<programme start="20210602230000 +0000" stop="20210603000000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >UFC Clásicos</title>
-<desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.</desc>
-</programme>
-<programme start="20210603000000 +0000" stop="20210603010000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Boca Juniors Campeón Copa Sudamericana 2004</title>
-<desc lang="es">Todo lo acontecido durante el camino del equipo argentino para consagrarse como Campeón de este torneo de fútbol.</desc>
-</programme>
-<programme start="20210603010000 +0000" stop="20210603030000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >La Era Pekerman</title>
-<desc lang="es">Programa especial del exfutbolista y actual director técnico argentino nacido en Villa Domínguez, José Néstor Pekerman.</desc>
-</programme>
-<programme start="20210603030000 +0000" stop="20210603040000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >WWE NXT</title>
-<desc lang="es">La nueva generación de superestrellas de WWE lucha para ganar fama.</desc>
-</programme>
-<programme start="20210603040000 +0000" stop="20210603070000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >UFC Fight Night: Gustafsson vs Smith</title>
-<desc lang="es">Combate disputado el primero de junio del 2019 en Estocolmo, Suecia.</desc>
-</programme>
-<programme start="20210603070000 +0000" stop="20210603080000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.</desc>
-</programme>
-<programme start="20210603080000 +0000" stop="20210603100000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Defensa y Justicia vs. Independiente del Valle</title>
-<desc lang="es">Fútbol CONMEBOL Libertadores</desc>
-</programme>
-<programme start="20210603100000 +0000" stop="20210603130000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >UFC 238: Cejudo vs. Moraes</title>
-<desc lang="es">Del 8 de junio de 2019. Desde el United Center, en Chicago. Henry Cejudo defiende su título gallo ante Marlon Moraes.</desc>
-</programme>
-<programme start="20210603130000 +0000" stop="20210603150000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Lanús vs. Aragua</title>
-<desc lang="es">Fútbol CONMEBOL Sudamericana</desc>
-</programme>
-<programme start="20210603150000 +0000" stop="20210603170000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Nacional vs. Argentinos Juniors</title>
-<desc lang="es">Fútbol CONMEBOL Libertadores</desc>
-</programme>
-<programme start="20210603170000 +0000" stop="20210603190000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Fox Gol</title>
-<desc lang="es">Programa especial dedicado al rosarino Lionel Messi, figura del Barcelona y de la Selección Argentina.</desc>
-</programme>
-<programme start="20210603190000 +0000" stop="20210603200000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">Programa especial repasando la conquista de la selección de Argentina como campeón del mundo en México 1986.</desc>
-</programme>
-<programme start="20210603200000 +0000" stop="20210603210000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >Expediente fútbol</title>
-<desc lang="es">Programa especial repasando la conquista de la selección de Argentina como campeón del mundo en México 1986.</desc>
-</programme>
-<programme start="20210603210000 +0000" stop="20210603220000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >50 años Copa Libertadores</title>
-<desc lang="es">El aniversario número 50 de la Copa Libertadores, el gran torneo de fútbol de América a nivel de clubes.</desc>
-</programme>
-<programme start="20210603220000 +0000" stop="20210603230000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >WWE Main Event</title>
-<desc lang="es">Los combates más esperados de la WWE, con todas las súper estrellas y divas.</desc>
-</programme>
-<programme start="20210603230000 +0000" stop="20210604000000 +0000" channel="FoxSports2(ConoSur).co">
-<title lang="es" >UFC Clásicos</title>
-<desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.</desc>
-</programme>
-<programme start="20210602000000 +0000" stop="20210602010000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Superbike</title>
-<desc lang="es">Acción de la primera carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
-</programme>
-<programme start="20210602010000 +0000" stop="20210602020000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Superbike</title>
-<desc lang="es">Acción de la segunda carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
-</programme>
-<programme start="20210602020000 +0000" stop="20210602050000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Automovilismo NASCAR Xfinity Racing Series</title>
-<desc lang="es">Acción del Alsco Uniforms 300. Desde el Charlotte Motor Speedway, en Concord, Carolina del Norte, Estados Unidos.</desc>
-</programme>
-<programme start="20210602050000 +0000" stop="20210602053000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Más Motor</title>
-<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
-</programme>
-<programme start="20210602053000 +0000" stop="20210602060000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Porsche Supercup</title>
-<desc lang="es">Primera ronda del calendario 2021. Desde el Circuito de Mónaco, en Montecarlo.</desc>
-</programme>
-<programme start="20210602060000 +0000" stop="20210602080000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Extreme E</title>
-<desc lang="es">Acción de la segunda fecha de la temporada 2021 del Extreme E. Desde Lago Rosa, en Senegal.</desc>
-</programme>
-<programme start="20210602080000 +0000" stop="20210602100000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Automovilismo Fórmula 1</title>
-<desc lang="es">Fecha 1 del calendario 2019. Acción del Gran Premio de Australia, desde Melbourne.</desc>
-</programme>
-<programme start="20210602100000 +0000" stop="20210602130000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Automovilismo NASCAR Xfinity Racing Series</title>
-<desc lang="es">Acción del Alsco Uniforms 300. Desde el Charlotte Motor Speedway, en Concord, Carolina del Norte, Estados Unidos.</desc>
-</programme>
-<programme start="20210602130000 +0000" stop="20210602133000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Más Motor</title>
-<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
-</programme>
-<programme start="20210602133000 +0000" stop="20210602150000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Campeonato Mundial Rally</title>
-<desc lang="es">Cuarta ronda de la temporada 2021 del Campeonato Mundial de Rally.</desc>
-</programme>
-<programme start="20210602150000 +0000" stop="20210602170000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Automovilismo Fórmula 1</title>
-<desc lang="es">Fecha 2 del calendario 2019. Acción del Gran Premio de Bahréin, desde Sakhir.</desc>
-</programme>
-<programme start="20210602170000 +0000" stop="20210602200000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Automovilismo NASCAR Xfinity Racing Series</title>
-<desc lang="es">Acción del Alsco Uniforms 300. Desde el Charlotte Motor Speedway, en Concord, Carolina del Norte, Estados Unidos.</desc>
-</programme>
-<programme start="20210602200000 +0000" stop="20210602203000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Rally on Board</title>
-<desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
-</programme>
-<programme start="20210602203000 +0000" stop="20210602210000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Porsche Supercup</title>
-<desc lang="es">Primera ronda del calendario 2021. Desde el Circuito de Mónaco, en Montecarlo.</desc>
-</programme>
-<programme start="20210602210000 +0000" stop="20210602220000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >World Rally Championship</title>
-<desc lang="es">Lo más destacado de la cuarta jornada del calendario de la temporada 2021 en la edición 49 del Campeonato Mundial de Rally. Disputada en Portugal.</desc>
-</programme>
-<programme start="20210602220000 +0000" stop="20210603000000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Extreme E</title>
-<desc lang="es">Acción de la segunda fecha de la temporada 2021 del Extreme E. Desde Lago Rosa, en Senegal.</desc>
-</programme>
-<programme start="20210603000000 +0000" stop="20210603003000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Porsche Supercup</title>
-<desc lang="es">Primera ronda del calendario 2021. Desde el Circuito de Mónaco, en Montecarlo.</desc>
-</programme>
-<programme start="20210603003000 +0000" stop="20210603013000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >FIA Fórmula 2</title>
-<desc lang="es">Acción de la primera carrera del Gran Premio de Monaco. Desde el Circuit de Monaco, en Monte Carlo.</desc>
-</programme>
-<programme start="20210603013000 +0000" stop="20210603023000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >FIA Fórmula 2</title>
-<desc lang="es">Acción de la segunda carrera del Gran Premio de Monaco. Desde el Circuit de Monaco, en Monte Carlo.</desc>
-</programme>
-<programme start="20210603023000 +0000" stop="20210603040000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >FIA Fórmula 2</title>
-<desc lang="es">Acción de la tercera carrera del Gran Premio de Monaco. Desde el Circuit de Monaco, en Monte Carlo.</desc>
-</programme>
-<programme start="20210603040000 +0000" stop="20210603050000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Superbike</title>
-<desc lang="es">Acción de la primera carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
-</programme>
-<programme start="20210603050000 +0000" stop="20210603060000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Superbike</title>
-<desc lang="es">Acción de la segunda carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
-</programme>
-<programme start="20210603060000 +0000" stop="20210603080000 +0000" channel="FoxSports3(ConoSur).co">
+<programme start="20210605000000 +0000" stop="20210605020000 +0000" channel="FoxSports(ConoSur).do">
 <title lang="es" >WWE SmackDown!</title>
 <desc lang="es">Las superestrellas del Entretenimiento del Mundo de la Lucha, Edge, Big Show, Christian, Rey Mysterio y muchos otros más, se enfrentan entre ellos en competencias de lucha libre elaboradas y extensas. "Smack Down" es un show semanal entretenido de dos horas de duración, en el que se muestran las habilidades atléticas sorprendentes, el humor, momentos dramáticos y algunos controversiales. Estas estrellas de lucha están dispuestas a todo para ser las mejores y alcanzar la máxima distinción en la industria y ser los más queridos por el público.</desc>
 </programme>
-<programme start="20210603080000 +0000" stop="20210603100000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Automovilismo Fórmula 1</title>
-<desc lang="es">Fecha 2 del calendario 2019. Acción del Gran Premio de Bahréin, desde Sakhir.</desc>
+<programme start="20210605020000 +0000" stop="20210605030000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >The Ultimate Fighter</title>
+<desc lang="es">El entrenamiento y desarrollo de los mejores luchadores profesionales.</desc>
 </programme>
-<programme start="20210603100000 +0000" stop="20210603120000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Automovilismo NASCAR Camping World Truck Series</title>
-<desc lang="es">Acción del North Carolina Education Lottery 200. Desde el Charlotte Motor Speedway, en Concord, Carolina del Norte.</desc>
+<programme start="20210605030000 +0000" stop="20210605040000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">La XI Copa Mundial que se llevó a cabo en Argentina, entre el 1 y el 25 de junio de 1978.</desc>
 </programme>
-<programme start="20210603120000 +0000" stop="20210603123000 +0000" channel="FoxSports3(ConoSur).co">
+<programme start="20210605040000 +0000" stop="20210605060000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Fútbol CONMEBOL Libertadores</title>
+<desc lang="es">Partido de vuelta de la gran final. Disputado el 27 de julio de 2016, en el estadio Atanasio Girardot.</desc>
+</programme>
+<programme start="20210605060000 +0000" stop="20210605070000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.</desc>
+</programme>
+<programme start="20210605070000 +0000" stop="20210605100000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC 222: Cyborg vs. Kunitskaya</title>
+<desc lang="es">Evento disputado el 3 de marzo de 2016 en el T-Mobile Arena, Las Vegas.</desc>
+</programme>
+<programme start="20210605100000 +0000" stop="20210605110000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC Unleashed</title>
+<desc lang="es">Presentando los más grandes momentos de la enorme biblioteca de metraje de lucha de la UFC.</desc>
+</programme>
+<programme start="20210605110000 +0000" stop="20210605130000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Fútbol CONMEBOL Libertadores</title>
+<desc lang="es">Octavos de final, partido de vuelta. Disputado el 14 de mayo de 2015.</desc>
+</programme>
+<programme start="20210605130000 +0000" stop="20210605133000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UEFA Champions League Magazine</title>
+<desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
+</programme>
+<programme start="20210605133000 +0000" stop="20210605140000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Momentos eternos</title>
+<desc lang="es">Repaso de momentos históricos en las diferentes disciplinas deportivas contados por sus propios protagonistas.</desc>
+</programme>
+<programme start="20210605140000 +0000" stop="20210605170000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC 223: Khabib vs. Iaquinta</title>
+<desc lang="es">Al Iaquinta enfrenta a Khabib Nurmagomedov. Evento disputado el 7 de abril de 2018. Desde Brooklyn, Nueva York.</desc>
+</programme>
+<programme start="20210605170000 +0000" stop="20210605180000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">La XI Copa Mundial que se llevó a cabo en Argentina, entre el 1 y el 25 de junio de 1978.</desc>
+</programme>
+<programme start="20210605180000 +0000" stop="20210605200000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Defensa y Justicia vs. Sociedade Esportiva Palmeiras</title>
+<desc lang="es">Fútbol CONMEBOL Libertadores</desc>
+</programme>
+<programme start="20210605200000 +0000" stop="20210605210000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Semifinal de película</title>
+<desc lang="es">Programa especial sobre el duelo entre River y Boca, por las semifinales de la Copa Libertadores de América 2019.</desc>
+</programme>
+<programme start="20210605210000 +0000" stop="20210605220000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Final de película</title>
+<desc lang="es">Especial sobre la superfinal de Copa Libertadores de América 2018.</desc>
+</programme>
+<programme start="20210605220000 +0000" stop="20210605230000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UEFA Champions League Magazine</title>
+<desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
+</programme>
+<programme start="20210605230000 +0000" stop="20210606000000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Review</title>
+<desc lang="es">Semifinal, ida. Partido disputado el 24 de octubre de 2017.</desc>
+</programme>
+<programme start="20210606000000 +0000" stop="20210606010000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Review</title>
+<desc lang="es">Semifinal, vuelta. Partido disputado el 31 de octubre de 2017.</desc>
+</programme>
+<programme start="20210606010000 +0000" stop="20210606030000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Fox Sports Clásico</title>
+<desc lang="es">Partido amistoso disputado el 20 de enero de 2010 en el estadio José María Minella, en Mar del Plata.</desc>
+</programme>
+<programme start="20210606030000 +0000" stop="20210606040000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">La XI Copa Mundial que se llevó a cabo en Argentina, entre el 1 y el 25 de junio de 1978.</desc>
+</programme>
+<programme start="20210606040000 +0000" stop="20210606060000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >WWE SmackDown!</title>
+<desc lang="es">Las superestrellas del Entretenimiento del Mundo de la Lucha, Edge, Big Show, Christian, Rey Mysterio y muchos otros más, se enfrentan entre ellos en competencias de lucha libre elaboradas y extensas. "Smack Down" es un show semanal entretenido de dos horas de duración, en el que se muestran las habilidades atléticas sorprendentes, el humor, momentos dramáticos y algunos controversiales. Estas estrellas de lucha están dispuestas a todo para ser las mejores y alcanzar la máxima distinción en la industria y ser los más queridos por el público.</desc>
+</programme>
+<programme start="20210606060000 +0000" stop="20210606070000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UEFA Champions League Magazine</title>
+<desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
+</programme>
+<programme start="20210606070000 +0000" stop="20210606080000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >WWE Raw: Highlights</title>
+<desc lang="es">Lo más destacado de una nueva semana vibrante de acción de WWE Raw.</desc>
+</programme>
+<programme start="20210606080000 +0000" stop="20210606090000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC Clásicos</title>
+<desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.</desc>
+</programme>
+<programme start="20210606090000 +0000" stop="20210606100000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.</desc>
+</programme>
+<programme start="20210606100000 +0000" stop="20210606110000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UEFA Europa League Magazine</title>
+<desc lang="es">Los momentos más destacados de los partidos de la UEFA Europa League, junto con los perfiles de los jugadores, entrevistas y los momentos destacados de los archivos.</desc>
+</programme>
+<programme start="20210606110000 +0000" stop="20210606130000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >La Era Riquelme</title>
+<desc lang="es">El retiro de Juan Román Riquelme, el último de su generación.</desc>
+</programme>
+<programme start="20210606130000 +0000" stop="20210606140000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UEFA Champions League Magazine</title>
+<desc lang="es">Todas las noticias del momento desde el mejor club de competencia de Europa.</desc>
+</programme>
+<programme start="20210606140000 +0000" stop="20210606170000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC Fight Night: Magomedsharipov vs. Kattar</title>
+<desc lang="es">Zabit Magomedsharipov vs. Calvin Kattar, combate peso pluma. Disputado el 9 de noviembre de 2019, en el CSKA Arena de Moscú, Rusia.</desc>
+</programme>
+<programme start="20210606170000 +0000" stop="20210606180000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">La XI Copa Mundial que se llevó a cabo en Argentina, entre el 1 y el 25 de junio de 1978.</desc>
+</programme>
+<programme start="20210606180000 +0000" stop="20210606200000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Santos FC vs. Barcelona</title>
+<desc lang="es">Fútbol CONMEBOL Libertadores</desc>
+</programme>
+<programme start="20210606200000 +0000" stop="20210606230000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >WWE Raw</title>
+<desc lang="es">Las mayores estrellas y divas del WWE le dan vida y adrenalina al cuadrilátero.</desc>
+</programme>
+<programme start="20210606230000 +0000" stop="20210607000000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Review</title>
+<desc lang="es">Final, ida. Partido disputado el 22 de noviembre de 2017.</desc>
+</programme>
+<programme start="20210607000000 +0000" stop="20210607010000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Review</title>
+<desc lang="es">Final, vuelta. Partido disputado el 29 de noviembre de 2017.</desc>
+</programme>
+<programme start="20210607010000 +0000" stop="20210607030000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Fox Sports Clásico</title>
+<desc lang="es">Junio 18, 2004.</desc>
+</programme>
+<programme start="20210607030000 +0000" stop="20210607040000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">La XI Copa Mundial que se llevó a cabo en Argentina, entre el 1 y el 25 de junio de 1978.</desc>
+</programme>
+<programme start="20210607040000 +0000" stop="20210607060000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Fox Gol</title>
+<desc lang="es">Programa especial dedicado al rosarino Lionel Messi, figura del Barcelona y de la Selección Argentina.</desc>
+</programme>
+<programme start="20210607060000 +0000" stop="20210607080000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >WWE SmackDown!</title>
+<desc lang="es">Las superestrellas del Entretenimiento del Mundo de la Lucha, Edge, Big Show, Christian, Rey Mysterio y muchos otros más, se enfrentan entre ellos en competencias de lucha libre elaboradas y extensas. "Smack Down" es un show semanal entretenido de dos horas de duración, en el que se muestran las habilidades atléticas sorprendentes, el humor, momentos dramáticos y algunos controversiales. Estas estrellas de lucha están dispuestas a todo para ser las mejores y alcanzar la máxima distinción en la industria y ser los más queridos por el público.</desc>
+</programme>
+<programme start="20210607080000 +0000" stop="20210607090000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >UFC Clásicos</title>
+<desc lang="es">Las grandes peleas de la Ultimate Fighting Championship que se convirtieron en clásicos.</desc>
+</programme>
+<programme start="20210607090000 +0000" stop="20210607100000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.</desc>
+</programme>
+<programme start="20210607100000 +0000" stop="20210607110000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >50 años Copa Libertadores</title>
+<desc lang="es">El aniversario número 50 de la Copa Libertadores, el gran torneo de fútbol de América a nivel de clubes.</desc>
+</programme>
+<programme start="20210607110000 +0000" stop="20210607130000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Fútbol CONMEBOL Libertadores</title>
+<desc lang="es">Partido correspondiente a la vuelta de la semifinal. Disputado el 27 de mayo de 2015 en el estadio Mineirao.</desc>
+</programme>
+<programme start="20210607130000 +0000" stop="20210607140000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">Historia detallada de un equipo de fútbol o deportista destacado de este deporte.</desc>
+</programme>
+<programme start="20210607140000 +0000" stop="20210607170000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Overeem vs. Rozenstruik</title>
+<desc lang="es">Combate disputado el 7 de diciembre de 2019 en la la Capital One Arena en Washington, Estados Unidos.</desc>
+</programme>
+<programme start="20210607170000 +0000" stop="20210607180000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Expediente fútbol</title>
+<desc lang="es">Programa especial repasando la conquista de la selección de Argentina como campeón del mundo en México 1986.</desc>
+</programme>
+<programme start="20210607180000 +0000" stop="20210607200000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Real Madrid vs. Chelsea</title>
+<desc lang="es">Fútbol UEFA Champions League</desc>
+</programme>
+<programme start="20210607200000 +0000" stop="20210607220000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Fútbol Argentino Primera División</title>
+<desc lang="es">Jornada 10 de la Superliga 2017-2018. Del 25 de noviembre de 2017. Desde el estadio Presidente Perón.</desc>
+</programme>
+<programme start="20210607220000 +0000" stop="20210607230000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Fox Sports Clásico</title>
+<desc lang="es">Semifinal de la Champions League 2009-2010. Partido de ida disputado el 20 de abril de 2010 en el estadio Giuseppe Meazza, en Milan.</desc>
+</programme>
+<programme start="20210607230000 +0000" stop="20210608010000 +0000" channel="FoxSports(ConoSur).do">
+<title lang="es" >Fútbol CONMEBOL Libertadores</title>
+<desc lang="es">Partido correspondiente a la fase de grupos de la Copa Libertadores 2021. Disputado el 27 de abril de 2021.</desc>
+</programme>
+<programme start="20210604000000 +0000" stop="20210604003000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+</programme>
+<programme start="20210604003000 +0000" stop="20210604010000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >World Rally Championship</title>
+<desc lang="es">Un vistazo a toda la acción del World Rally Championship 2021 en Italia.</desc>
+</programme>
+<programme start="20210604010000 +0000" stop="20210604020000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Circuito</title>
+<desc lang="es">Un panel de periodistas especializados en las distintas categorías internacionales de automovilismo analizan y debaten lo más importante del mundo de las carreras.</desc>
+</programme>
+<programme start="20210604020000 +0000" stop="20210604023000 +0000" channel="FoxSports3(ConoSur).do">
 <title lang="es" >Rally on Board</title>
 <desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
 </programme>
-<programme start="20210603123000 +0000" stop="20210603143000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Extreme E</title>
-<desc lang="es">Acción de la segunda fecha de la temporada 2021 del Extreme E. Desde Lago Rosa, en Senegal.</desc>
+<programme start="20210604023000 +0000" stop="20210604030000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
 </programme>
-<programme start="20210603143000 +0000" stop="20210603150000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Porsche Supercup</title>
-<desc lang="es">Primera ronda del calendario 2021. Desde el Circuito de Mónaco, en Montecarlo.</desc>
+<programme start="20210604030000 +0000" stop="20210604033000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >World Rally Championship</title>
+<desc lang="es">Un vistazo a toda la acción del World Rally Championship 2021 en Italia.</desc>
 </programme>
-<programme start="20210603150000 +0000" stop="20210603170000 +0000" channel="FoxSports3(ConoSur).co">
+<programme start="20210604033000 +0000" stop="20210604043000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Circuito</title>
+<desc lang="es">Un panel de periodistas especializados en las distintas categorías internacionales de automovilismo analizan y debaten lo más importante del mundo de las carreras.</desc>
+</programme>
+<programme start="20210604043000 +0000" stop="20210604050000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Rally on Board</title>
+<desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
+</programme>
+<programme start="20210604050000 +0000" stop="20210604060000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Superbike</title>
+<desc lang="es">Acción de la primera carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+</programme>
+<programme start="20210604060000 +0000" stop="20210604070000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Superbike</title>
+<desc lang="es">Acción de la segunda carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+</programme>
+<programme start="20210604070000 +0000" stop="20210604080000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Circuito</title>
+<desc lang="es">Un panel de periodistas especializados en las distintas categorías internacionales de automovilismo analizan y debaten lo más importante del mundo de las carreras.</desc>
+</programme>
+<programme start="20210604080000 +0000" stop="20210604100000 +0000" channel="FoxSports3(ConoSur).do">
 <title lang="es" >Automovilismo Fórmula 1</title>
 <desc lang="es">Fecha 3 del calendario 2019. Acción del Gran Premio de China, desde Shanghái.</desc>
 </programme>
-<programme start="20210603170000 +0000" stop="20210603190000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Automovilismo NASCAR Camping World Truck Series</title>
-<desc lang="es">Acción del North Carolina Education Lottery 200. Desde el Charlotte Motor Speedway, en Concord, Carolina del Norte.</desc>
+<programme start="20210604100000 +0000" stop="20210604110000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Circuito</title>
+<desc lang="es">Un panel de periodistas especializados en las distintas categorías internacionales de automovilismo analizan y debaten lo más importante del mundo de las carreras.</desc>
 </programme>
-<programme start="20210603190000 +0000" stop="20210603193000 +0000" channel="FoxSports3(ConoSur).co">
+<programme start="20210604110000 +0000" stop="20210604113000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Rally on Board</title>
+<desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
+</programme>
+<programme start="20210604113000 +0000" stop="20210604120000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+</programme>
+<programme start="20210604120000 +0000" stop="20210604130000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >World Rally Championship</title>
+<desc lang="es">Lo más destacado de la cuarta jornada del calendario de la temporada 2021 en la edición 49 del Campeonato Mundial de Rally. Disputada en Portugal.</desc>
+</programme>
+<programme start="20210604130000 +0000" stop="20210604140000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Superbike</title>
+<desc lang="es">Acción de la primera carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+</programme>
+<programme start="20210604140000 +0000" stop="20210604150000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Superbike</title>
+<desc lang="es">Acción de la segunda carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+</programme>
+<programme start="20210604150000 +0000" stop="20210604170000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Fecha 4 del calendario 2019. Acción del Gran Premio de Azerbaiyán, desde Bakú.</desc>
+</programme>
+<programme start="20210604170000 +0000" stop="20210604180000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Circuito</title>
+<desc lang="es">Un panel de periodistas especializados en las distintas categorías internacionales de automovilismo analizan y debaten lo más importante del mundo de las carreras.</desc>
+</programme>
+<programme start="20210604180000 +0000" stop="20210604183000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Rally on Board</title>
+<desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
+</programme>
+<programme start="20210604183000 +0000" stop="20210604190000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+</programme>
+<programme start="20210604190000 +0000" stop="20210604203000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo</title>
+<desc lang="es">Acción de la primera fecha del calendario 2021 del Campeonato Copec RallyMobil. Desde Santiago.</desc>
+</programme>
+<programme start="20210604203000 +0000" stop="20210604233000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo NASCAR Xfinity Racing Series</title>
+<desc lang="es">Acción del Alsco Uniforms 300. Desde el Charlotte Motor Speedway, en Concord, Carolina del Norte, Estados Unidos.</desc>
+</programme>
+<programme start="20210604233000 +0000" stop="20210605000000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+</programme>
+<programme start="20210605000000 +0000" stop="20210605010000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Extreme E: Highlights</title>
+<desc lang="es">Repaso de los mejores momentos del evento llevado a cabo en Lago Rosa, Senegal.</desc>
+</programme>
+<programme start="20210605010000 +0000" stop="20210605013000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >World Rally Championship</title>
+<desc lang="es">Primer día de competencia del Rally de Italia, quinta fecha de la temporada 2021 del Campeonato Mundial de Rally. Desde Cerdeña, Italia.</desc>
+</programme>
+<programme start="20210605013000 +0000" stop="20210605033000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Extreme E</title>
+<desc lang="es">Acción de la segunda fecha de la temporada 2021 del Extreme E. Desde Lago Rosa, en Senegal.</desc>
+</programme>
+<programme start="20210605033000 +0000" stop="20210605040000 +0000" channel="FoxSports3(ConoSur).do">
 <title lang="es" >Porsche Supercup</title>
 <desc lang="es">Primera ronda del calendario 2021. Desde el Circuito de Mónaco, en Montecarlo.</desc>
 </programme>
-<programme start="20210603193000 +0000" stop="20210603203000 +0000" channel="FoxSports3(ConoSur).co">
+<programme start="20210605040000 +0000" stop="20210605060000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >WWE SmackDown!</title>
+<desc lang="es">Las superestrellas del Entretenimiento del Mundo de la Lucha, Edge, Big Show, Christian, Rey Mysterio y muchos otros más, se enfrentan entre ellos en competencias de lucha libre elaboradas y extensas. "Smack Down" es un show semanal entretenido de dos horas de duración, en el que se muestran las habilidades atléticas sorprendentes, el humor, momentos dramáticos y algunos controversiales. Estas estrellas de lucha están dispuestas a todo para ser las mejores y alcanzar la máxima distinción en la industria y ser los más queridos por el público.</desc>
+</programme>
+<programme start="20210605060000 +0000" stop="20210605070000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Campeonato Mundial Rally</title>
+<desc lang="es">Acción de la quinta fecha de la temporada 2021 del Campeonato Mundial de Rally. Desde Cerdeña, Italia.</desc>
+</programme>
+<programme start="20210605070000 +0000" stop="20210605080000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >FIA Fórmula 2</title>
+<desc lang="es">Acción de la primera carrera de la tercera fecha de la temporada 2021 de la Fórmula 2. Desde el circuito callejero de Bakú, en Azerbaiyán.</desc>
+</programme>
+<programme start="20210605080000 +0000" stop="20210605083000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Rally on Board</title>
+<desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
+</programme>
+<programme start="20210605083000 +0000" stop="20210605093000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Campeonato Mundial Rally</title>
+<desc lang="es">Acción de la quinta fecha de la temporada 2021 del Campeonato Mundial de Rally. Desde Cerdeña, Italia.</desc>
+</programme>
+<programme start="20210605093000 +0000" stop="20210605100000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+</programme>
+<programme start="20210605100000 +0000" stop="20210605103000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+</programme>
+<programme start="20210605103000 +0000" stop="20210605113000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Circuito</title>
+<desc lang="es">Un panel de periodistas especializados en las distintas categorías internacionales de automovilismo analizan y debaten lo más importante del mundo de las carreras.</desc>
+</programme>
+<programme start="20210605113000 +0000" stop="20210605120000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Rally on Board</title>
+<desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
+</programme>
+<programme start="20210605120000 +0000" stop="20210605123000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+</programme>
+<programme start="20210605123000 +0000" stop="20210605133000 +0000" channel="FoxSports3(ConoSur).do">
 <title lang="es" >Superbike</title>
 <desc lang="es">Acción de la primera carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
 </programme>
-<programme start="20210603203000 +0000" stop="20210603213000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Superbike</title>
-<desc lang="es">Acción de la segunda carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+<programme start="20210605133000 +0000" stop="20210605143000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >FIA Fórmula 2</title>
+<desc lang="es">Acción de la segunda carrera de la tercera fecha de la temporada 2021 de la Fórmula 2. Desde el circuito callejero de Bakú, en Azerbaiyán.</desc>
 </programme>
-<programme start="20210603213000 +0000" stop="20210603223000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Superbike</title>
-<desc lang="es">Acción de la primera carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
-</programme>
-<programme start="20210603223000 +0000" stop="20210603233000 +0000" channel="FoxSports3(ConoSur).co">
-<title lang="es" >Superbike</title>
-<desc lang="es">Acción de la segunda carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
-</programme>
-<programme start="20210603233000 +0000" stop="20210604000000 +0000" channel="FoxSports3(ConoSur).co">
+<programme start="20210605143000 +0000" stop="20210605150000 +0000" channel="FoxSports3(ConoSur).do">
 <title lang="es" >Extreme E Magazine</title>
 <desc lang="es">Cobertura de toda la acción de las jornadas del automovilismo eléctrico todoterreno.</desc>
+</programme>
+<programme start="20210605150000 +0000" stop="20210605170000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Acción del Gran Premio de España, Fecha 5 del calendario 2019 de la Fórmula 1. Desde el Circuit de Barcelona-Catalunya, en Cataluña.</desc>
+</programme>
+<programme start="20210605170000 +0000" stop="20210605200000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo NASCAR Xfinity Racing Series</title>
+<desc lang="es">Acción de la décimo tercera carrera de la temporada 2021 del Xfinity Series. Desde el Mid-Ohio Sports Car Course, en Lexington, Ohio.</desc>
+</programme>
+<programme start="20210605200000 +0000" stop="20210605203000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >World Rally Championship</title>
+<desc lang="es">Primer día de competencia del Rally de Italia, quinta fecha de la temporada 2021 del Campeonato Mundial de Rally. Desde Cerdeña, Italia.</desc>
+</programme>
+<programme start="20210605203000 +0000" stop="20210605210000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Rally on Board</title>
+<desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
+</programme>
+<programme start="20210605210000 +0000" stop="20210605220000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Extreme E: Highlights</title>
+<desc lang="es">Repaso de los mejores momentos del evento llevado a cabo en Lago Rosa, Senegal.</desc>
+</programme>
+<programme start="20210605220000 +0000" stop="20210605230000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >FIA World Endurance Championship</title>
+<desc lang="es">Lo más destacado de las 6 Horas de Spa-Francorchamps en el circuito de Spa-Francorchamps, en Bélgica.</desc>
+</programme>
+<programme start="20210605230000 +0000" stop="20210606000000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Superbike</title>
+<desc lang="es">Acción de la primera carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+</programme>
+<programme start="20210606000000 +0000" stop="20210606010000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Superbike</title>
+<desc lang="es">Acción de la segunda carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+</programme>
+<programme start="20210606010000 +0000" stop="20210606013000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >World Rally Championship</title>
+<desc lang="es">Segundo día de competencia del Rally de Italia, quinta fecha de la temporada 2021 del Campeonato Mundial de Rally. Desde Cerdeña, Italia.</desc>
+</programme>
+<programme start="20210606013000 +0000" stop="20210606033000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Extreme E</title>
+<desc lang="es">Acción de la segunda fecha de la temporada 2021 del Extreme E. Desde Lago Rosa, en Senegal.</desc>
+</programme>
+<programme start="20210606033000 +0000" stop="20210606053000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Acción del Gran Premio de España, Fecha 5 del calendario 2019 de la Fórmula 1. Desde el Circuit de Barcelona-Catalunya, en Cataluña.</desc>
+</programme>
+<programme start="20210606053000 +0000" stop="20210606060000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >World Rally Championship</title>
+<desc lang="es">Segundo día de competencia del Rally de Italia, quinta fecha de la temporada 2021 del Campeonato Mundial de Rally. Desde Cerdeña, Italia.</desc>
+</programme>
+<programme start="20210606060000 +0000" stop="20210606063000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+</programme>
+<programme start="20210606063000 +0000" stop="20210606073000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Campeonato Mundial Rally</title>
+<desc lang="es">Acción de la quinta fecha de la temporada 2021 del Campeonato Mundial de Rally. Desde Cerdeña, Italia.</desc>
+</programme>
+<programme start="20210606073000 +0000" stop="20210606080000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Rally on Board</title>
+<desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
+</programme>
+<programme start="20210606080000 +0000" stop="20210606083000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Más Motor</title>
+<desc lang="es">Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+</programme>
+<programme start="20210606083000 +0000" stop="20210606100000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >FIA Fórmula 2</title>
+<desc lang="es">Acción de la tercera carrera de la tercera fecha de la temporada 2021 de la Fórmula 2. Desde el circuito callejero de Bakú, en Azerbaiyán.</desc>
+</programme>
+<programme start="20210606100000 +0000" stop="20210606113000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Campeonato Mundial Rally</title>
+<desc lang="es">Acción de la quinta fecha de la temporada 2021 del Campeonato Mundial de Rally. Desde Cerdeña, Italia.</desc>
+</programme>
+<programme start="20210606113000 +0000" stop="20210606123000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Extreme E: Highlights</title>
+<desc lang="es">Repaso de los mejores momentos del evento llevado a cabo en Lago Rosa, Senegal.</desc>
+</programme>
+<programme start="20210606123000 +0000" stop="20210606133000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >FIA World Endurance Championship</title>
+<desc lang="es">Lo más destacado de las 6 Horas de Spa-Francorchamps en el circuito de Spa-Francorchamps, en Bélgica.</desc>
+</programme>
+<programme start="20210606133000 +0000" stop="20210606150000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo</title>
+<desc lang="es">Acción de la primera fecha del calendario 2021 del Campeonato Copec RallyMobil. Desde Santiago.</desc>
+</programme>
+<programme start="20210606150000 +0000" stop="20210606160000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Extreme E: Highlights</title>
+<desc lang="es">Repaso de los mejores momentos del evento llevado a cabo en Lago Rosa, Senegal.</desc>
+</programme>
+<programme start="20210606160000 +0000" stop="20210606170000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Superbike</title>
+<desc lang="es">Acción de la primera carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+</programme>
+<programme start="20210606170000 +0000" stop="20210606180000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Superbike</title>
+<desc lang="es">Acción de la segunda carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+</programme>
+<programme start="20210606180000 +0000" stop="20210606190000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Extreme E: Highlights</title>
+<desc lang="es">Repaso de los mejores momentos del evento llevado a cabo en Lago Rosa, Senegal.</desc>
+</programme>
+<programme start="20210606190000 +0000" stop="20210606200000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >FIA World Endurance Championship</title>
+<desc lang="es">Lo más destacado de las 6 Horas de Spa-Francorchamps en el circuito de Spa-Francorchamps, en Bélgica.</desc>
+</programme>
+<programme start="20210606200000 +0000" stop="20210606233000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo NASCAR Cup Series</title>
+<desc lang="es">Acción de las Toyota / Save Mart 350. Desde Sonoma Raceway, en Sonoma, California.</desc>
+</programme>
+<programme start="20210606233000 +0000" stop="20210607000000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Rally on Board</title>
+<desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
+</programme>
+<programme start="20210607000000 +0000" stop="20210607010000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Extreme E: Highlights</title>
+<desc lang="es">Repaso de los mejores momentos del evento llevado a cabo en Lago Rosa, Senegal.</desc>
+</programme>
+<programme start="20210607010000 +0000" stop="20210607013000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >World Rally Championship</title>
+<desc lang="es">Tercer día de competencia del Rally de Italia, quinta fecha de la temporada 2021 del Campeonato Mundial de Rally. Desde Cerdeña, Italia.</desc>
+</programme>
+<programme start="20210607013000 +0000" stop="20210607020000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Rally on Board</title>
+<desc lang="es">Deportes de acción. De punta a punta la mejor información sobre los deportes favoritos.</desc>
+</programme>
+<programme start="20210607020000 +0000" stop="20210607030000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Porsche Supercup</title>
+<desc lang="es">Primera ronda del calendario 2021. Desde el Circuito de Mónaco, en Montecarlo.</desc>
+</programme>
+<programme start="20210607030000 +0000" stop="20210607060000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >WWE Raw</title>
+<desc lang="es">Las mayores estrellas y divas del WWE le dan vida y adrenalina al cuadrilátero.</desc>
+</programme>
+<programme start="20210607060000 +0000" stop="20210607080000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >WWE SmackDown!</title>
+<desc lang="es">Las superestrellas del Entretenimiento del Mundo de la Lucha, Edge, Big Show, Christian, Rey Mysterio y muchos otros más, se enfrentan entre ellos en competencias de lucha libre elaboradas y extensas. "Smack Down" es un show semanal entretenido de dos horas de duración, en el que se muestran las habilidades atléticas sorprendentes, el humor, momentos dramáticos y algunos controversiales. Estas estrellas de lucha están dispuestas a todo para ser las mejores y alcanzar la máxima distinción en la industria y ser los más queridos por el público.</desc>
+</programme>
+<programme start="20210607080000 +0000" stop="20210607100000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Acción del Gran Premio de Monaco, Fecha 6 del calendario 2019 de la Fórmula 1. Desde el circuito de Monaco, en Montecarlo.</desc>
+</programme>
+<programme start="20210607100000 +0000" stop="20210607130000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >WWE Raw</title>
+<desc lang="es">Las mayores estrellas y divas del WWE le dan vida y adrenalina al cuadrilátero.</desc>
+</programme>
+<programme start="20210607130000 +0000" stop="20210607150000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >WWE SmackDown!</title>
+<desc lang="es">Las superestrellas del Entretenimiento del Mundo de la Lucha, Edge, Big Show, Christian, Rey Mysterio y muchos otros más, se enfrentan entre ellos en competencias de lucha libre elaboradas y extensas. "Smack Down" es un show semanal entretenido de dos horas de duración, en el que se muestran las habilidades atléticas sorprendentes, el humor, momentos dramáticos y algunos controversiales. Estas estrellas de lucha están dispuestas a todo para ser las mejores y alcanzar la máxima distinción en la industria y ser los más queridos por el público.</desc>
+</programme>
+<programme start="20210607150000 +0000" stop="20210607170000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Fórmula 1</title>
+<desc lang="es">Acción del Gran Premio de Canadá, Fecha 7 del calendario 2019 de la Fórmula 1. Desde el Circuit Gilles-Villeneuve, en Montreal.</desc>
+</programme>
+<programme start="20210607170000 +0000" stop="20210607180000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Superbike</title>
+<desc lang="es">Acción de la primera carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+</programme>
+<programme start="20210607180000 +0000" stop="20210607190000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Superbike</title>
+<desc lang="es">Acción de la segunda carrera. Desde el autódromo Fernanda Pires da Silva, en Estoril, Portugal.</desc>
+</programme>
+<programme start="20210607190000 +0000" stop="20210607200000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Automovilismo Extreme E: Highlights</title>
+<desc lang="es">Repaso de los mejores momentos del evento llevado a cabo en Lago Rosa, Senegal.</desc>
+</programme>
+<programme start="20210607200000 +0000" stop="20210607210000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >FIA Fórmula 2</title>
+<desc lang="es">Acción de la primera carrera de la tercera fecha de la temporada 2021 de la Fórmula 2. Desde el circuito callejero de Bakú, en Azerbaiyán.</desc>
+</programme>
+<programme start="20210607210000 +0000" stop="20210607220000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >FIA Fórmula 2</title>
+<desc lang="es">Acción de la segunda carrera de la tercera fecha de la temporada 2021 de la Fórmula 2. Desde el circuito callejero de Bakú, en Azerbaiyán.</desc>
+</programme>
+<programme start="20210607220000 +0000" stop="20210607233000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >FIA Fórmula 2</title>
+<desc lang="es">Acción de la tercera carrera de la tercera fecha de la temporada 2021 de la Fórmula 2. Desde el circuito callejero de Bakú, en Azerbaiyán.</desc>
+</programme>
+<programme start="20210607233000 +0000" stop="20210608010000 +0000" channel="FoxSports3(ConoSur).do">
+<title lang="es" >Campeonato Mundial Rally</title>
+<desc lang="es">Acción de la quinta fecha de la temporada 2021 del Campeonato Mundial de Rally. Desde Cerdeña, Italia.</desc>
 </programme>
 <programme start="20210604005400 +0000" stop="20210604030000 +0000" channel="FX.mx">
 <title lang="es" >El apostador</title>
