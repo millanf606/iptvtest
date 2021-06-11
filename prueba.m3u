@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/millanf606/iptvtest/main/guide.xml"
+#EXTM3U
 #EXTINF:-1 tvg-ID="star-channel_m" tvg-name="star-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Series",Star Channel
 https://tv.teleclub.xyz/canales/L1/FOX.m3u8
 #EXTINF:-1 tvg-ID="warner-channel_m" tvg-name="warner-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Series",Warner Channel
@@ -141,11 +141,19 @@ https://tv.teleclub.xyz/canales/L1/ESPN2_LAT.m3u8
 https://tv.teleclub.xyz/canales/L1/ESPN3_LAT.m3u8
 #EXTINF:-1 tvg-ID="espn-1_m" tvg-name="espn-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra 
 https://tv.teleclub.xyz/canales/L1/ESPNPLUS_LAT.m3u8
+#EXTINF:-1 tvg-ID="tntsport_m" tvg-name="tntsport_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tntsport_m.png" group-title="Deportes",Estadio TNT Sports 
+https://tv.teleclub.xyz/canales/L1/TNTSPORTS.m3u8
+#EXTINF:-1 tvg-ID="tudn_m" tvg-name="tudn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN
+https://tv.teleclub.xyz/canales/L1/TUDN_MX.m3u8
+#EXTINF:-1 tvg-ID="tudn-usa_m" tvg-name="tudn-usa_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN USA
+https://tv.teleclub.xyz/canales/L1/TUDN_USA.m3u8
 #
 #EXTINF:-1 tvg-ID="cnn-espanol_m" tvg-name="cnn-espanol_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
 https://tv.teleclub.xyz/canales/L1/CNNESPANOL.m3u8
 #EXTINF:-1 tvg-ID="russia-today_m" tvg-name="russia-today_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
 https://tv.teleclub.xyz/canales/L1/RT_ESPANOL.m3u8
+#EXTINF:-1 tvg-ID="telesur_m" tvg-name="telesur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Noticias",Telesur
+https://tv.teleclub.xyz/canales/EXTERNA_TELESUR_LAT.m3u8
 #
 #EXTINF:-1 tvg-ID="nat-geo_m" tvg-name="nat-geo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Documentales",National Geographic 
 https://tv.teleclub.xyz/canales/L1/NATGEO.m3u8
