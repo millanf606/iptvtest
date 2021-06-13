@@ -96,6 +96,8 @@ https://tv.teleclub.xyz/canales/L1/SPACE.m3u8
 https://tv.teleclub.xyz/canales/L1/HBO.m3u8
 #EXTINF:-1 tvg-ID="hbo-2_m" tvg-name="hbo-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
 https://tv.teleclub.xyz/canales/L1/HBO2.m3u8
+#EXTINF:-1 tvg-ID="hbo-plus-panamericano-hd_m" tvg-name="hbo-plus-panamericano-hd_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
+https://tv.teleclub.xyz/canales/L1/HBOPLUS.m3u8
 #EXTINF:-1 tvg-ID="signature_m" tvg-name="signature_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
 https://tv.teleclub.xyz/canales/L1/HBOSIGNATURE.m3u8
 #EXTINF:-1 tvg-ID="family_m" tvg-name="family_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
@@ -172,4 +174,4 @@ https://tv.teleclub.xyz/canales/L1/HISTORY.m3u8
 #EXTINF:-1 tvg-ID="h2_m" tvg-name="h2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Documentales",H2
 https://tv.teleclub.xyz/canales/L1/H2.m3u8
 #EXTINF:-1 tvg-ID="discovery-science_m" tvg-name="discovery-science_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Documentales",Discovery Science  
-https://tv.teleclub.xyz/canales/L3/DSCIENCES.m3u8
+https://tv.teleclub.xyz/canales/L4/DSCIENCES.m3u8
