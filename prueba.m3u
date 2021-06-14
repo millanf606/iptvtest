@@ -42,6 +42,8 @@ https://tv.teleclub.xyz/canales/L1/FOXLIFE.m3u8
 https://tv.teleclub.xyz/canales/L1/TRUTV.m3u8
 #EXTINF:-1 tvg-ID="hola-tv_m" tvg-name="hola-tv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Variedades",HolaTV
 https://tv.teleclub.xyz/canales/L1/HOLATV.m3u8
+#EXTINF:-1 tvg-ID="caracol_m" tvg-name="caracol_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Variedades",Caracol TV
+https://tv.teleclub.xyz/canales/L1/CARACOL.m3u8
 #
 #EXTINF:-1 tvg-ID="mtv_m" tvg-name="mtv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
 https://tv.teleclub.xyz/canales/L1/MTV.m3u8
