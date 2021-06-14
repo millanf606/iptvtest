@@ -15,6 +15,9 @@
 <channel id="CanalSony.mx">
 <display-name>sony_m</display-name>
 </channel>
+<channel id="CARACOLINTERNATIONAL.mx">
+<display-name>caracol_m</display-name>
+</channel>
 <channel id="CartoonNetwork.mx">
 <display-name>cartoon-network_m</display-name>
 </channel>
@@ -2203,6 +2206,418 @@
 <programme start="20210616223000 +0000" stop="20210617001000 +0000" channel="CanalSony.mx">
 <title lang="es" >Las locuras de Dick y Jane</title>
 <desc lang="es">Un ejecutivo y su esposa deciden comenzar una vida de robo armado después de que él perdiera su trabajo.</desc>
+</programme>
+<programme start="20210613000000 +0000" stop="20210613013000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">Edición central del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210613013000 +0000" stop="20210613040000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Sábados felices</title>
+<desc lang="es">El legendario programa televisivo más reconocido, aclamado y querido por los colombianos, que ya hace parte de la cultura del país y que ha divertido y entretenido a varias generaciones, presenta en sus segmentos característicos, una gama variada de estilos de comedia, cuenta chistes, parodias originales, caracterizaciones de importantes personalidades del país y personalidades internacionales, cuenteros y troveros. Esta serie creada por su anfitrión Alfonso Lizarazo, le ha dado la oportunidad a talentos desconocidos de llegar al estrellato, este espacio ha sido una plataforma para los que han sido aclamados como los mejores comediantes del país. El programa además apoya obras sociales y ha ayudado a recaudar recursos monetarios que han contribuido a construir muchos centros estudiantiles.</desc>
+</programme>
+<programme start="20210613040000 +0000" stop="20210613050000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Se dice de mí</title>
+<desc lang="es">Un programa que muestra la historia de vida y trayectoria de cantantes, deportistas, actores y presentadores, donde hablan sobre los aspectos positivos y negativos de sus vidas.</desc>
+</programme>
+<programme start="20210613050000 +0000" stop="20210613074500 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La red</title>
+<desc lang="es">Los chismes, la información más detallada y exclusiva de los famosos de la farándula y lo que está sucediendo en el mundo del entretenimiento, son transmitidos en este espacio en la que los periodistas, presentadores del programa, revelan lo más íntimo y secreto de las estrellas y sus escándalos. A ellos no se les escapa nadie, las fotografías, vídeos y hasta correos electrónicos son usados para obtener la información de primera plana. Los televidentes también tienen la oportunidad de participar en el programa enviando material valioso sobre sus estrellas favoritas y hasta pueden llegar a ser remunerados.</desc>
+</programme>
+<programme start="20210613074500 +0000" stop="20210613100000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Sábados felices</title>
+<desc lang="es">El legendario programa televisivo más reconocido, aclamado y querido por los colombianos, que ya hace parte de la cultura del país y que ha divertido y entretenido a varias generaciones, presenta en sus segmentos característicos, una gama variada de estilos de comedia, cuenta chistes, parodias originales, caracterizaciones de importantes personalidades del país y personalidades internacionales, cuenteros y troveros. Esta serie creada por su anfitrión Alfonso Lizarazo, le ha dado la oportunidad a talentos desconocidos de llegar al estrellato, este espacio ha sido una plataforma para los que han sido aclamados como los mejores comediantes del país. El programa además apoya obras sociales y ha ayudado a recaudar recursos monetarios que han contribuido a construir muchos centros estudiantiles.</desc>
+</programme>
+<programme start="20210613100000 +0000" stop="20210613113000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">Edición central del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210613113000 +0000" stop="20210613123000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La finca de hoy</title>
+<desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.</desc>
+</programme>
+<programme start="20210613123000 +0000" stop="20210613130000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La Dolce Vita</title>
+<desc lang="es">En cada programa, una invitación a conocer una variedad de personas muy particulares, lugares placenteros y estilos de vida.</desc>
+</programme>
+<programme start="20210613130000 +0000" stop="20210613133000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >El diario de Diana</title>
+<desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.</desc>
+</programme>
+<programme start="20210613133000 +0000" stop="20210613134500 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Ángelus Desde El Vaticano</title>
+<desc lang="es">La celebración dominical del Ángelus con la bendición general desde la ventana del departamento de su Santidad en el Vaticano.</desc>
+</programme>
+<programme start="20210613134500 +0000" stop="20210613143000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Santa Misa</title>
+<desc lang="es">Celebración de la Santa Misa.</desc>
+</programme>
+<programme start="20210613143000 +0000" stop="20210613150000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Las mujeres de mi tierra</title>
+<desc lang="es">Mujeres que inspiran y deslumbran con sus logros y acciones. Las mejores historias de las mujeres más destacadas de Colombia.</desc>
+</programme>
+<programme start="20210613150000 +0000" stop="20210613151500 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Viajeros por naturaleza</title>
+<desc lang="es">Una visita a los lugares más remotos de Colombia en busca de sus maravillas.</desc>
+</programme>
+<programme start="20210613151500 +0000" stop="20210613160000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Latinos por el mundo</title>
+<desc lang="es">Historias de latinos que dejaron sus tierras para introducirse en nuevas culturas y conocer nuevos lugares.</desc>
+</programme>
+<programme start="20210613160000 +0000" stop="20210613163000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Los magos de la cocina</title>
+<desc lang="es">Un recorrido por los principales municipios gastronómicos de Colombia. Alex Burgy investiga acerca de la gastronomía típica de cada uno de estos sitios.</desc>
+</programme>
+<programme start="20210613163000 +0000" stop="20210613170000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La sartén por el mango</title>
+<desc lang="es">Un grupo de expertos enseñan diferentes técnicas, recetas, consejos prácticos, guías de compras, aportes nutricionales y curiosidades de la cocina.</desc>
+</programme>
+<programme start="20210613170000 +0000" stop="20210613173000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Travesía</title>
+<desc lang="es">Programa de turismo y aventuras lleno de adrenalina que presenta las travesías más impactantes alrededor del mundo.</desc>
+</programme>
+<programme start="20210613173000 +0000" stop="20210613203000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">Edición de mediodía del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210613203000 +0000" stop="20210613213000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Se dice de mí</title>
+<desc lang="es">Un programa que muestra la historia de vida y trayectoria de cantantes, deportistas, actores y presentadores, donde hablan sobre los aspectos positivos y negativos de sus vidas.</desc>
+</programme>
+<programme start="20210613213000 +0000" stop="20210613223000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Expediente final</title>
+<desc lang="es">Un programa que saca a la luz los secretos de las muertes de las celebridades de Colombia, porque no todo lo investigado es revelado.</desc>
+</programme>
+<programme start="20210613223000 +0000" stop="20210613233000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >The Suso's show</title>
+<desc lang="es">El embolador más famoso de Colombia "Suso el paspi", es el personaje central de este programa, representado por el comediante Dany Alejandro Hoyos cuya fama la debe a este personaje. Un espacio divertido que no discrimina edad o sexo, está dirigido a todos los géneros y edades. La originalidad son el eje central del show, sus interpretaciones frescas, espontáneas y ágiles, las realiza interactuado con el público presente, que hacen parte activa del show. Este personaje se ha ganado los corazones de la audiencia y ha acaparado fama a nivel internacional.</desc>
+</programme>
+<programme start="20210613233000 +0000" stop="20210614000000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Los magos de la cocina</title>
+<desc lang="es">Un recorrido por los principales municipios gastronómicos de Colombia. Alex Burgy investiga acerca de la gastronomía típica de cada uno de estos sitios.</desc>
+</programme>
+<programme start="20210614000000 +0000" stop="20210614003000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">Edición central del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210614003000 +0000" stop="20210614010000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >360 desde casa</title>
+<desc lang="es">Magazín que reúne lo mejor de las noticias de América Latina, deporte, entretenimiento, cine y mucho más, ¡todo en un solo programa!</desc>
+</programme>
+<programme start="20210614010000 +0000" stop="20210614020000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Los informantes</title>
+<desc lang="es">Un programa de análisis y opinión conformado por un excelente equipo periodístico que se encarga de contar historias a través de crónicas, perfiles y entrevistas.</desc>
+</programme>
+<programme start="20210614020000 +0000" stop="20210614030000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Séptimo día</title>
+<desc lang="es">Un programa periodístico que trata temas de actualidad controversiales. Se habla sobre temas polémicos como problemas sociales, económicos, educativos y más en Colombia.</desc>
+</programme>
+<programme start="20210614030000 +0000" stop="20210614033000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Latinos por el mundo</title>
+<desc lang="es">Historias de latinos que dejaron sus tierras para introducirse en nuevas culturas y conocer nuevos lugares.</desc>
+</programme>
+<programme start="20210614033000 +0000" stop="20210614040000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >360 desde casa</title>
+<desc lang="es">Magazín que reúne lo mejor de las noticias de América Latina, deporte, entretenimiento, cine y mucho más, ¡todo en un solo programa!</desc>
+</programme>
+<programme start="20210614040000 +0000" stop="20210614050000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >The Suso's show</title>
+<desc lang="es">El embolador más famoso de Colombia "Suso el paspi", es el personaje central de este programa, representado por el comediante Dany Alejandro Hoyos cuya fama la debe a este personaje. Un espacio divertido que no discrimina edad o sexo, está dirigido a todos los géneros y edades. La originalidad son el eje central del show, sus interpretaciones frescas, espontáneas y ágiles, las realiza interactuado con el público presente, que hacen parte activa del show. Este personaje se ha ganado los corazones de la audiencia y ha acaparado fama a nivel internacional.</desc>
+</programme>
+<programme start="20210614050000 +0000" stop="20210614053000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Los magos de la cocina</title>
+<desc lang="es">Un recorrido por los principales municipios gastronómicos de Colombia. Alex Burgy investiga acerca de la gastronomía típica de cada uno de estos sitios.</desc>
+</programme>
+<programme start="20210614053000 +0000" stop="20210614063000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Séptimo día</title>
+<desc lang="es">Un programa periodístico que trata temas de actualidad controversiales. Se habla sobre temas polémicos como problemas sociales, económicos, educativos y más en Colombia.</desc>
+</programme>
+<programme start="20210614063000 +0000" stop="20210614070000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La sartén por el mango</title>
+<desc lang="es">Un grupo de expertos enseñan diferentes técnicas, recetas, consejos prácticos, guías de compras, aportes nutricionales y curiosidades de la cocina.</desc>
+</programme>
+<programme start="20210614070000 +0000" stop="20210614073000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La Dolce Vita</title>
+<desc lang="es">En cada programa, una invitación a conocer una variedad de personas muy particulares, lugares placenteros y estilos de vida.</desc>
+</programme>
+<programme start="20210614073000 +0000" stop="20210614080000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >De moda con Ericka</title>
+<desc lang="es">Programa de entretenimiento que muestra lo mejor de la vida social, eventos, gastronomía y otros de la región del Caribe.</desc>
+</programme>
+<programme start="20210614080000 +0000" stop="20210614090000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Se dice de mí</title>
+<desc lang="es">Un programa que muestra la historia de vida y trayectoria de cantantes, deportistas, actores y presentadores, donde hablan sobre los aspectos positivos y negativos de sus vidas.</desc>
+</programme>
+<programme start="20210614090000 +0000" stop="20210614100000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Expediente final</title>
+<desc lang="es">Un programa que saca a la luz los secretos de las muertes de las celebridades de Colombia, porque no todo lo investigado es revelado.</desc>
+</programme>
+<programme start="20210614100000 +0000" stop="20210614101500 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La finca de hoy</title>
+<desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.</desc>
+</programme>
+<programme start="20210614101500 +0000" stop="20210614103000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La finca de hoy</title>
+<desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.</desc>
+</programme>
+<programme start="20210614103000 +0000" stop="20210614110000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >360 desde casa</title>
+<desc lang="es">Magazín que reúne lo mejor de las noticias de América Latina, deporte, entretenimiento, cine y mucho más, ¡todo en un solo programa!</desc>
+</programme>
+<programme start="20210614110000 +0000" stop="20210614120000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Séptimo día</title>
+<desc lang="es">Un programa periodístico que trata temas de actualidad controversiales. Se habla sobre temas polémicos como problemas sociales, económicos, educativos y más en Colombia.</desc>
+</programme>
+<programme start="20210614120000 +0000" stop="20210614140000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La red</title>
+<desc lang="es">Los chismes, la información más detallada y exclusiva de los famosos de la farándula y lo que está sucediendo en el mundo del entretenimiento, son transmitidos en este espacio en la que los periodistas, presentadores del programa, revelan lo más íntimo y secreto de las estrellas y sus escándalos. A ellos no se les escapa nadie, las fotografías, vídeos y hasta correos electrónicos son usados para obtener la información de primera plana. Los televidentes también tienen la oportunidad de participar en el programa enviando material valioso sobre sus estrellas favoritas y hasta pueden llegar a ser remunerados.</desc>
+</programme>
+<programme start="20210614140000 +0000" stop="20210614150000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Expediente final</title>
+<desc lang="es">Un programa que saca a la luz los secretos de las muertes de las celebridades de Colombia, porque no todo lo investigado es revelado.</desc>
+</programme>
+<programme start="20210614150000 +0000" stop="20210614160000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >The Suso's show</title>
+<desc lang="es">El embolador más famoso de Colombia "Suso el paspi", es el personaje central de este programa, representado por el comediante Dany Alejandro Hoyos cuya fama la debe a este personaje. Un espacio divertido que no discrimina edad o sexo, está dirigido a todos los géneros y edades. La originalidad son el eje central del show, sus interpretaciones frescas, espontáneas y ágiles, las realiza interactuado con el público presente, que hacen parte activa del show. Este personaje se ha ganado los corazones de la audiencia y ha acaparado fama a nivel internacional.</desc>
+</programme>
+<programme start="20210614160000 +0000" stop="20210614163000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >El diario de Diana</title>
+<desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.</desc>
+</programme>
+<programme start="20210614163000 +0000" stop="20210614173000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Tu voz estéreo</title>
+<desc lang="es">Un programa en el que convergen desde relatos de amor y despecho hasta conflictos juveniles y familiares que impulsa a los oyentes a comunicarse para desahogarse, denunciar y compartir.</desc>
+</programme>
+<programme start="20210614173000 +0000" stop="20210614190000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">Edición de mediodía del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210614190000 +0000" stop="20210614200000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Los informantes</title>
+<desc lang="es">Un programa de análisis y opinión conformado por un excelente equipo periodístico que se encarga de contar historias a través de crónicas, perfiles y entrevistas.</desc>
+</programme>
+<programme start="20210614200000 +0000" stop="20210614210000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La niña</title>
+<desc lang="es">Una historia basada en hechos reales. Belky tenía 8 años de edad cuando vivía con su familia en el campo, ayudaba con las faenas y cuidaba de su hermano a quien amaba a tal punto que daba la vida por él. Hasta que un día tuvo que demostrarlo cuando la guerrilla llegó para llevarse al niño y ella se ofreció a cambio. Por más de 5 años ella fue adoctrinada y entrenada convirtiéndose en la hija adoptiva del comandante Roncancio, siendo obligada a luchar, colocar minas y atacar pueblos indefensos. Hasta que un buen día logra escapar agotada de los abusos, siendo capturada por las autoridades para su reinserción. Su decepción será grande cuando el reencuentro con su familia no es lo que esperaba.</desc>
+</programme>
+<programme start="20210614210000 +0000" stop="20210614220000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Desafío 2021: The Box</title>
+<desc lang="es">Un gran show de realidad en el que participantes deberán enfrentar obstáculos por un gran premio. El llamado Desafío Territorial incluye competidores de los distintos departamentos del territorio colombiano.</desc>
+</programme>
+<programme start="20210614220000 +0000" stop="20210614223000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La teacher de inglés</title>
+<desc lang="es">Un hombre trabajador que tiene una empresa de confecciones de ropa interior decide incursionar en Estados Unidos, pero al no saber muy bien el idioma contrata a una profesora de inglés para unas clases privadas y termina enamorándose de ella.</desc>
+</programme>
+<programme start="20210614223000 +0000" stop="20210614230000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >360 desde casa</title>
+<desc lang="es">Magazín que reúne lo mejor de las noticias de América Latina, deporte, entretenimiento, cine y mucho más, ¡todo en un solo programa!</desc>
+</programme>
+<programme start="20210614230000 +0000" stop="20210615000000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Séptimo día</title>
+<desc lang="es">Un programa periodístico que trata temas de actualidad controversiales. Se habla sobre temas polémicos como problemas sociales, económicos, educativos y más en Colombia.</desc>
+</programme>
+<programme start="20210615000000 +0000" stop="20210615010000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">Edición central del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210615010000 +0000" stop="20210615020000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Polvo carnavalero</title>
+<desc lang="es">Alejandro es un joven de la élite bogotana que se entera que su padre no es su padre y que él es hijo del carnaval por lo que decide comenzar un viaje al Carnaval de Barranquilla para buscar sus raíces, mientras que aflora su auténtico ser.</desc>
+</programme>
+<programme start="20210615020000 +0000" stop="20210615030000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >El rastro</title>
+<desc lang="es">En cada capítulo se verán la historia de un crimen, sus personajes, los hechos, las evidencias y los antecedentes.</desc>
+</programme>
+<programme start="20210615030000 +0000" stop="20210615033000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La teacher de inglés</title>
+<desc lang="es">Un hombre trabajador que tiene una empresa de confecciones de ropa interior decide incursionar en Estados Unidos, pero al no saber muy bien el idioma contrata a una profesora de inglés para unas clases privadas y termina enamorándose de ella.</desc>
+</programme>
+<programme start="20210615033000 +0000" stop="20210615040000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Las mujeres de mi tierra</title>
+<desc lang="es">Mujeres que inspiran y deslumbran con sus logros y acciones. Las mejores historias de las mujeres más destacadas de Colombia.</desc>
+</programme>
+<programme start="20210615040000 +0000" stop="20210615043000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Testigo directo</title>
+<desc lang="es">Un programa periodístico moderno, con reporteros y periodistas arriesgados que cubren sucesos y casos impactantes de la vida real.</desc>
+</programme>
+<programme start="20210615043000 +0000" stop="20210615050000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >El diario de Diana</title>
+<desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.</desc>
+</programme>
+<programme start="20210615050000 +0000" stop="20210615060000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Polvo carnavalero</title>
+<desc lang="es">Alejandro es un joven de la élite bogotana que se entera que su padre no es su padre y que él es hijo del carnaval por lo que decide comenzar un viaje al Carnaval de Barranquilla para buscar sus raíces, mientras que aflora su auténtico ser.</desc>
+</programme>
+<programme start="20210615060000 +0000" stop="20210615070000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >El rastro</title>
+<desc lang="es">En cada capítulo se verán la historia de un crimen, sus personajes, los hechos, las evidencias y los antecedentes.</desc>
+</programme>
+<programme start="20210615070000 +0000" stop="20210615073000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La teacher de inglés</title>
+<desc lang="es">Un hombre trabajador que tiene una empresa de confecciones de ropa interior decide incursionar en Estados Unidos, pero al no saber muy bien el idioma contrata a una profesora de inglés para unas clases privadas y termina enamorándose de ella.</desc>
+</programme>
+<programme start="20210615073000 +0000" stop="20210615080000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >360 desde casa</title>
+<desc lang="es">Magazín que reúne lo mejor de las noticias de América Latina, deporte, entretenimiento, cine y mucho más, ¡todo en un solo programa!</desc>
+</programme>
+<programme start="20210615080000 +0000" stop="20210615090000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Tu voz estéreo</title>
+<desc lang="es">Un programa en el que convergen desde relatos de amor y despecho hasta conflictos juveniles y familiares que impulsa a los oyentes a comunicarse para desahogarse, denunciar y compartir.</desc>
+</programme>
+<programme start="20210615090000 +0000" stop="20210615093000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >El diario de Diana</title>
+<desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.</desc>
+</programme>
+<programme start="20210615093000 +0000" stop="20210615100000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Testigo directo</title>
+<desc lang="es">Un programa periodístico moderno, con reporteros y periodistas arriesgados que cubren sucesos y casos impactantes de la vida real.</desc>
+</programme>
+<programme start="20210615100000 +0000" stop="20210615101500 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La finca de hoy</title>
+<desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.</desc>
+</programme>
+<programme start="20210615101500 +0000" stop="20210615103000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Día a día I</title>
+<desc lang="es">Un programa para iniciar el día cargado de buena energía con reflexiones que ayudan a superar obstáculos y ver la vida de forma positiva gracias a la sección "El Man está vivo".</desc>
+</programme>
+<programme start="20210615103000 +0000" stop="20210615143000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">La primera edición del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210615143000 +0000" stop="20210615163000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Día a día I</title>
+<desc lang="es">Un programa para iniciar el día cargado de buena energía con reflexiones que ayudan a superar obstáculos y ver la vida de forma positiva gracias a la sección "El Man está vivo".</desc>
+</programme>
+<programme start="20210615163000 +0000" stop="20210615173000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Tu voz estéreo</title>
+<desc lang="es">Un programa en el que convergen desde relatos de amor y despecho hasta conflictos juveniles y familiares que impulsa a los oyentes a comunicarse para desahogarse, denunciar y compartir.</desc>
+</programme>
+<programme start="20210615173000 +0000" stop="20210615200000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">Edición de mediodía del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210615200000 +0000" stop="20210615210000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Polvo carnavalero</title>
+<desc lang="es">Alejandro es un joven de la élite bogotana que se entera que su padre no es su padre y que él es hijo del carnaval por lo que decide comenzar un viaje al Carnaval de Barranquilla para buscar sus raíces, mientras que aflora su auténtico ser.</desc>
+</programme>
+<programme start="20210615210000 +0000" stop="20210615220000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >El rastro</title>
+<desc lang="es">En cada capítulo se verán la historia de un crimen, sus personajes, los hechos, las evidencias y los antecedentes.</desc>
+</programme>
+<programme start="20210615220000 +0000" stop="20210615223000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La teacher de inglés</title>
+<desc lang="es">Un hombre trabajador que tiene una empresa de confecciones de ropa interior decide incursionar en Estados Unidos, pero al no saber muy bien el idioma contrata a una profesora de inglés para unas clases privadas y termina enamorándose de ella.</desc>
+</programme>
+<programme start="20210615223000 +0000" stop="20210615230000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Travesía</title>
+<desc lang="es">Programa de turismo y aventuras lleno de adrenalina que presenta las travesías más impactantes alrededor del mundo.</desc>
+</programme>
+<programme start="20210615230000 +0000" stop="20210616000000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Expediente final</title>
+<desc lang="es">Un programa que saca a la luz los secretos de las muertes de las celebridades de Colombia, porque no todo lo investigado es revelado.</desc>
+</programme>
+<programme start="20210616000000 +0000" stop="20210616010000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">Edición central del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210616010000 +0000" stop="20210616020000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Polvo carnavalero</title>
+<desc lang="es">Alejandro es un joven de la élite bogotana que se entera que su padre no es su padre y que él es hijo del carnaval por lo que decide comenzar un viaje al Carnaval de Barranquilla para buscar sus raíces, mientras que aflora su auténtico ser.</desc>
+</programme>
+<programme start="20210616020000 +0000" stop="20210616030000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Desafío 2021: The Box</title>
+<desc lang="es">Un gran show de realidad en el que participantes deberán enfrentar obstáculos por un gran premio. El llamado Desafío Territorial incluye competidores de los distintos departamentos del territorio colombiano.</desc>
+</programme>
+<programme start="20210616030000 +0000" stop="20210616033000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La teacher de inglés</title>
+<desc lang="es">Un hombre trabajador que tiene una empresa de confecciones de ropa interior decide incursionar en Estados Unidos, pero al no saber muy bien el idioma contrata a una profesora de inglés para unas clases privadas y termina enamorándose de ella.</desc>
+</programme>
+<programme start="20210616033000 +0000" stop="20210616040000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >América 360</title>
+<desc lang="es">Informativo realizado con el apoyo de la alianza informativa latinoamericana, que brinda al público un completo análisis de los hechos más destacados del continente americano.</desc>
+</programme>
+<programme start="20210616040000 +0000" stop="20210616043000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Última edición</title>
+<desc lang="es">El final del día bien informado, con los hechos que fueron noticia en Colombia y el mundo, bajo la mirada crítica y analítica del equipo de Noticias Caracol.</desc>
+</programme>
+<programme start="20210616043000 +0000" stop="20210616050000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >El diario de Diana</title>
+<desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.</desc>
+</programme>
+<programme start="20210616050000 +0000" stop="20210616060000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Polvo carnavalero</title>
+<desc lang="es">Alejandro es un joven de la élite bogotana que se entera que su padre no es su padre y que él es hijo del carnaval por lo que decide comenzar un viaje al Carnaval de Barranquilla para buscar sus raíces, mientras que aflora su auténtico ser.</desc>
+</programme>
+<programme start="20210616060000 +0000" stop="20210616070000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Desafío 2021: The Box</title>
+<desc lang="es">Un gran show de realidad en el que participantes deberán enfrentar obstáculos por un gran premio. El llamado Desafío Territorial incluye competidores de los distintos departamentos del territorio colombiano.</desc>
+</programme>
+<programme start="20210616070000 +0000" stop="20210616073000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La teacher de inglés</title>
+<desc lang="es">Un hombre trabajador que tiene una empresa de confecciones de ropa interior decide incursionar en Estados Unidos, pero al no saber muy bien el idioma contrata a una profesora de inglés para unas clases privadas y termina enamorándose de ella.</desc>
+</programme>
+<programme start="20210616073000 +0000" stop="20210616080000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Travesía</title>
+<desc lang="es">Programa de turismo y aventuras lleno de adrenalina que presenta las travesías más impactantes alrededor del mundo.</desc>
+</programme>
+<programme start="20210616080000 +0000" stop="20210616090000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Tu voz estéreo</title>
+<desc lang="es">Un programa en el que convergen desde relatos de amor y despecho hasta conflictos juveniles y familiares que impulsa a los oyentes a comunicarse para desahogarse, denunciar y compartir.</desc>
+</programme>
+<programme start="20210616090000 +0000" stop="20210616093000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >El diario de Diana</title>
+<desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.</desc>
+</programme>
+<programme start="20210616093000 +0000" stop="20210616100000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Las mujeres de mi tierra</title>
+<desc lang="es">Mujeres que inspiran y deslumbran con sus logros y acciones. Las mejores historias de las mujeres más destacadas de Colombia.</desc>
+</programme>
+<programme start="20210616100000 +0000" stop="20210616101500 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La finca de hoy</title>
+<desc lang="es">Programa dedicado a la producción agropecuaria, economía campesina, tecnología, investigación, sanidad y muchos temas más, relacionados con el campo y su gente.</desc>
+</programme>
+<programme start="20210616101500 +0000" stop="20210616103000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Día a día I</title>
+<desc lang="es">Un programa para iniciar el día cargado de buena energía con reflexiones que ayudan a superar obstáculos y ver la vida de forma positiva gracias a la sección "El Man está vivo".</desc>
+</programme>
+<programme start="20210616103000 +0000" stop="20210616143000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">La primera edición del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210616143000 +0000" stop="20210616160000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Día a día I</title>
+<desc lang="es">Un programa para iniciar el día cargado de buena energía con reflexiones que ayudan a superar obstáculos y ver la vida de forma positiva gracias a la sección "El Man está vivo".</desc>
+</programme>
+<programme start="20210616160000 +0000" stop="20210616163000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >El diario de Diana</title>
+<desc lang="es">Junto a entrevistas a diferentes expertos, lecciones sobre cómo armonizar todas las áreas de la vida, manejar las emociones y cambiar creencias para entender la felicidad como una oportunidad de vivir a plenitud.</desc>
+</programme>
+<programme start="20210616163000 +0000" stop="20210616173000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Tu voz estéreo</title>
+<desc lang="es">Un programa en el que convergen desde relatos de amor y despecho hasta conflictos juveniles y familiares que impulsa a los oyentes a comunicarse para desahogarse, denunciar y compartir.</desc>
+</programme>
+<programme start="20210616173000 +0000" stop="20210616200000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Noticias Caracol</title>
+<desc lang="es">Edición de mediodía del noticiero informativo que registra todos los días de la semana los hechos más importantes de Colombia y el mundo, en los campos de entretenimiento, deportes, salud, arte y muchas más.</desc>
+</programme>
+<programme start="20210616200000 +0000" stop="20210616210000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Polvo carnavalero</title>
+<desc lang="es">Alejandro es un joven de la élite bogotana que se entera que su padre no es su padre y que él es hijo del carnaval por lo que decide comenzar un viaje al Carnaval de Barranquilla para buscar sus raíces, mientras que aflora su auténtico ser.</desc>
+</programme>
+<programme start="20210616210000 +0000" stop="20210616220000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Desafío 2021: The Box</title>
+<desc lang="es">Un gran show de realidad en el que participantes deberán enfrentar obstáculos por un gran premio. El llamado Desafío Territorial incluye competidores de los distintos departamentos del territorio colombiano.</desc>
+</programme>
+<programme start="20210616220000 +0000" stop="20210616223000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >La teacher de inglés</title>
+<desc lang="es">Un hombre trabajador que tiene una empresa de confecciones de ropa interior decide incursionar en Estados Unidos, pero al no saber muy bien el idioma contrata a una profesora de inglés para unas clases privadas y termina enamorándose de ella.</desc>
+</programme>
+<programme start="20210616223000 +0000" stop="20210616230000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Travesía</title>
+<desc lang="es">Programa de turismo y aventuras lleno de adrenalina que presenta las travesías más impactantes alrededor del mundo.</desc>
+</programme>
+<programme start="20210616230000 +0000" stop="20210617000000 +0000" channel="CARACOLINTERNATIONAL.mx">
+<title lang="es" >Se dice de mí</title>
+<desc lang="es">Un programa que muestra la historia de vida y trayectoria de cantantes, deportistas, actores y presentadores, donde hablan sobre los aspectos positivos y negativos de sus vidas.</desc>
 </programme>
 <programme start="20210613001200 +0000" stop="20210613002300 +0000" channel="CartoonNetwork.mx">
 <title lang="es" >Los Jóvenes Titanes en acción</title>
@@ -31964,182 +32379,6 @@
 <title lang="es" >Tesoros de garaje</title>
 <desc lang="es">Jesse y Papa Bear busca de caja fuerte protegida por alambre de púas; Brandon y Lori gestionan un jeep y una vieja tabla de surf.</desc>
 </programme>
-<programme start="20210612000000 +0000" stop="20210612010000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Línea de cuatro</title>
-<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
-</programme>
-<programme start="20210612010000 +0000" stop="20210612020000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >UEFA Euro en 60</title>
-<desc lang="es">Disputado el 11 de junio de 2021.</desc>
-</programme>
-<programme start="20210612020000 +0000" stop="20210612030000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210612030000 +0000" stop="20210612040000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Línea de cuatro</title>
-<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
-</programme>
-<programme start="20210612040000 +0000" stop="20210612050000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Combate global</title>
-<desc lang="es">Épicas peleas entre guerreros de todo el mundo. Grandes duelos en las artes marciales mixtas.</desc>
-</programme>
-<programme start="20210612050000 +0000" stop="20210612060000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >UEFA Euro en 60</title>
-<desc lang="es">Disputado el 11 de junio de 2021.</desc>
-</programme>
-<programme start="20210612060000 +0000" stop="20210612070000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210612070000 +0000" stop="20210612080000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Línea de cuatro</title>
-<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
-</programme>
-<programme start="20210612080000 +0000" stop="20210612090000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210612090000 +0000" stop="20210612100000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Combate global</title>
-<desc lang="es">Épicas peleas entre guerreros de todo el mundo. Grandes duelos en las artes marciales mixtas.</desc>
-</programme>
-<programme start="20210612100000 +0000" stop="20210612110000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Línea de cuatro</title>
-<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
-</programme>
-<programme start="20210612110000 +0000" stop="20210612120000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210612120000 +0000" stop="20210612130000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >UEFA Euro en 60</title>
-<desc lang="es">Disputado el 11 de junio de 2021.</desc>
-</programme>
-<programme start="20210612130000 +0000" stop="20210612140000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Combate global</title>
-<desc lang="es">Épicas peleas entre guerreros de todo el mundo. Grandes duelos en las artes marciales mixtas.</desc>
-</programme>
-<programme start="20210612140000 +0000" stop="20210612150000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210612150000 +0000" stop="20210612160000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Los mejores partidos de Copa América en 60</title>
-<desc lang="es">Final. Disputada el 7 de julio de 2019.</desc>
-</programme>
-<programme start="20210612160000 +0000" stop="20210612170000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210612170000 +0000" stop="20210612180000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >UEFA Euro en 50</title>
-<desc lang="es">Jornada 1 del grupo A del torneo. Partido disputado el 11 de junio de 2021.</desc>
-</programme>
-<programme start="20210612180000 +0000" stop="20210612185000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Línea de cuatro</title>
-<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
-</programme>
-<programme start="20210612185000 +0000" stop="20210612210000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Mexico vs. Australia</title>
-<desc lang="es">Fútbol</desc>
-</programme>
-<programme start="20210612210000 +0000" stop="20210612220000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Misión Europa</title>
-<desc lang="es">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
-</programme>
-<programme start="20210612220000 +0000" stop="20210612230000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210612230000 +0000" stop="20210612233000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Fútbol central</title>
-<desc lang="es">El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
-</programme>
-<programme start="20210612233000 +0000" stop="20210613020000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Mexico vs. Honduras</title>
-<desc lang="es">Fútbol</desc>
-</programme>
-<programme start="20210613020000 +0000" stop="20210613030000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210613030000 +0000" stop="20210613040000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Los mejores partidos de Copa América en 60</title>
-<desc lang="es">Final. Disputada el 7 de julio de 2019.</desc>
-</programme>
-<programme start="20210613040000 +0000" stop="20210613045000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210613045000 +0000" stop="20210613070000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Japan vs. Mexico</title>
-<desc lang="es">Fútbol femenino</desc>
-</programme>
-<programme start="20210613070000 +0000" stop="20210613080000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210613080000 +0000" stop="20210613090000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Los mejores partidos de Copa América en 60</title>
-<desc lang="es">Disputado el 22 de junio de 2019.</desc>
-</programme>
-<programme start="20210613090000 +0000" stop="20210613100000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210613100000 +0000" stop="20210613110000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210613110000 +0000" stop="20210613120000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Combate global</title>
-<desc lang="es">Épicas peleas entre guerreros de todo el mundo. Grandes duelos en las artes marciales mixtas.</desc>
-</programme>
-<programme start="20210613120000 +0000" stop="20210613130000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Misión Europa</title>
-<desc lang="es">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
-</programme>
-<programme start="20210613130000 +0000" stop="20210613150000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Mexico vs. Honduras</title>
-<desc lang="es">Fútbol</desc>
-</programme>
-<programme start="20210613150000 +0000" stop="20210613160000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Contacto deportivo del verano</title>
-<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
-</programme>
-<programme start="20210613160000 +0000" stop="20210613170000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Los mejores partidos de Copa América en 60</title>
-<desc lang="es">Disputado el 22 de junio de 2019.</desc>
-</programme>
-<programme start="20210613170000 +0000" stop="20210613180000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Los mejores partidos de Copa América</title>
-<desc lang="es">Repaso del partido disputado el 15 de junio de 2019. Desde el estadio Arena Fonte Nova de Salvador de Bahía.</desc>
-</programme>
-<programme start="20210613180000 +0000" stop="20210613190000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Los mejores partidos de Copa América en 60</title>
-<desc lang="es">Final. Disputada el 7 de julio de 2019.</desc>
-</programme>
-<programme start="20210613190000 +0000" stop="20210613200000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >República deportiva</title>
-<desc lang="es">Revista deportiva de larga trayectoria, que informa a los televidentes sobre todos los acontecimientos destacados en el deporte durante la última semana, se enfoca en el fútbol mexicano pero además presenta los resultados de los partidos de fútbol más importantes a nivel mundial. Se incluyen los comentarios y el análisis de las jugadas más destacadas. Además de presentar el deporte del balompié, se incluyen noticias de otros deportes como el boxeo, el béisbol, ciclismo, entre otros. El programa tiene invitados especiales que son entrevistados por los presentadores y nunca hace falta el toque femenino con sus bellísimas anfitrionas para darle al programa algo de color, sabor y de picante.</desc>
-</programme>
-<programme start="20210613200000 +0000" stop="20210613203000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Fútbol central</title>
-<desc lang="es">El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
-</programme>
-<programme start="20210613203000 +0000" stop="20210613230000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Brazil vs. Venezuela</title>
-<desc lang="es">CONMEBOL Copa América 2021</desc>
-</programme>
-<programme start="20210613230000 +0000" stop="20210613233000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Fútbol central</title>
-<desc lang="es">El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
-</programme>
-<programme start="20210613233000 +0000" stop="20210614020000 +0000" channel="TUDN(Spanish).us">
-<title lang="es" >Colombia vs. Ecuador</title>
-<desc lang="es">CONMEBOL Copa América 2021</desc>
-</programme>
 <programme start="20210614020000 +0000" stop="20210614030000 +0000" channel="TUDN(Spanish).us">
 <title lang="es" >Contacto deportivo del verano</title>
 <desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
@@ -32315,6 +32554,198 @@
 <programme start="20210615230000 +0000" stop="20210616000000 +0000" channel="TUDN(Spanish).us">
 <title lang="es" >Fútbol club</title>
 <desc lang="es">El magazine futbolero que acerca a los protagonistas y su Lado B, liviano y entretenido. Junto a este contenido divertido y original, los comentaristas debaten sobre la actualidad en un formato descontracturado, fresco e inigualable.</desc>
+</programme>
+<programme start="20210616000000 +0000" stop="20210616010000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210616010000 +0000" stop="20210616020000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >UEFA Euro en 60</title>
+<desc lang="es">Disputado el 15 de junio de 2021.</desc>
+</programme>
+<programme start="20210616020000 +0000" stop="20210616030000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210616030000 +0000" stop="20210616040000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210616040000 +0000" stop="20210616050000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210616050000 +0000" stop="20210616060000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Misión Europa</title>
+<desc lang="es">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
+</programme>
+<programme start="20210616060000 +0000" stop="20210616070000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210616070000 +0000" stop="20210616080000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210616080000 +0000" stop="20210616090000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210616090000 +0000" stop="20210616100000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210616100000 +0000" stop="20210616110000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210616110000 +0000" stop="20210616120000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >UEFA Euro en 60</title>
+<desc lang="es">Disputado el 15 de junio de 2021.</desc>
+</programme>
+<programme start="20210616120000 +0000" stop="20210616130000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Misión Europa</title>
+<desc lang="es">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
+</programme>
+<programme start="20210616130000 +0000" stop="20210616140000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Copa América en 60</title>
+<desc lang="es">Lo más destacado del partido correspondiente a la Jornada 1 del Grupo A. Disputado el 14 de junio de 2021.</desc>
+</programme>
+<programme start="20210616140000 +0000" stop="20210616150000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Copa América en 60</title>
+<desc lang="es">Lo más destacado del partido correspondiente a la Jornada 1 del Grupo A. Disputado el 13 de junio de 2021.</desc>
+</programme>
+<programme start="20210616150000 +0000" stop="20210616160000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210616160000 +0000" stop="20210616170000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210616170000 +0000" stop="20210616180000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Misión Europa</title>
+<desc lang="es">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
+</programme>
+<programme start="20210616180000 +0000" stop="20210616190000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Copa América en 60</title>
+<desc lang="es">Lo más destacado del partido correspondiente a la Jornada 1 del Grupo A. Disputado el 14 de junio de 2021.</desc>
+</programme>
+<programme start="20210616190000 +0000" stop="20210616200000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210616200000 +0000" stop="20210616210000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210616210000 +0000" stop="20210616220000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Misión Europa</title>
+<desc lang="es">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
+</programme>
+<programme start="20210616220000 +0000" stop="20210616230000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Misión Europa</title>
+<desc lang="es">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
+</programme>
+<programme start="20210616230000 +0000" stop="20210617000000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Fútbol club</title>
+<desc lang="es">El magazine futbolero que acerca a los protagonistas y su Lado B, liviano y entretenido. Junto a este contenido divertido y original, los comentaristas debaten sobre la actualidad en un formato descontracturado, fresco e inigualable.</desc>
+</programme>
+<programme start="20210617000000 +0000" stop="20210617010000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Retransmisión del sorteo correspondiente al evento continental.</desc>
+</programme>
+<programme start="20210617010000 +0000" stop="20210617020000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Copa América en 60</title>
+<desc lang="es">Lo más destacado del partido correspondiente a la Jornada 1 del Grupo A. Disputado el 13 de junio de 2021.</desc>
+</programme>
+<programme start="20210617020000 +0000" stop="20210617030000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210617030000 +0000" stop="20210617040000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210617040000 +0000" stop="20210617050000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210617050000 +0000" stop="20210617060000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Misión Europa</title>
+<desc lang="es">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
+</programme>
+<programme start="20210617060000 +0000" stop="20210617070000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210617070000 +0000" stop="20210617080000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210617080000 +0000" stop="20210617090000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210617090000 +0000" stop="20210617100000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210617100000 +0000" stop="20210617110000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210617110000 +0000" stop="20210617120000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Copa América en 60</title>
+<desc lang="es">Lo más destacado del partido correspondiente a la Jornada 1 del Grupo A. Disputado el 13 de junio de 2021.</desc>
+</programme>
+<programme start="20210617120000 +0000" stop="20210617130000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Misión Europa</title>
+<desc lang="es">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
+</programme>
+<programme start="20210617130000 +0000" stop="20210617140000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Copa América en 60</title>
+<desc lang="es">Lo más destacado del partido correspondiente a la Jornada 2 del Grupo B. Disputado el 14 de junio de 2021.</desc>
+</programme>
+<programme start="20210617140000 +0000" stop="20210617150000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210617150000 +0000" stop="20210617160000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210617160000 +0000" stop="20210617170000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Contacto deportivo del verano</title>
+<desc lang="es">El destino obligado de los amantes del deporte para estar actualizados sobre las noticias más importantes y los partidos más destacados del verano.</desc>
+</programme>
+<programme start="20210617170000 +0000" stop="20210617180000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Misión Europa</title>
+<desc lang="es">Programa que abre las puertas al mejor fútbol del planeta: el de las ligas europeas. Con la participación de los corresponsales desde el viejo continente y la opinión de los expertos en el estudio.</desc>
+</programme>
+<programme start="20210617180000 +0000" stop="20210617190000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Copa América en 60</title>
+<desc lang="es">Lo más destacado del partido correspondiente a la Jornada 1 del Grupo A. Disputado el 13 de junio de 2021.</desc>
+</programme>
+<programme start="20210617190000 +0000" stop="20210617200000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Línea de cuatro</title>
+<desc lang="es">Los análisis futboleros más punzantes junto a las opiniones más fuertes. Una combinación exitosa entre la experiencia de los exfutbolistas y el debate apasionado de los periodistas con décadas de recorrido en el deporte más popular del mundo.</desc>
+</programme>
+<programme start="20210617200000 +0000" stop="20210617203000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Fútbol central</title>
+<desc lang="es">El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
+</programme>
+<programme start="20210617203000 +0000" stop="20210617230000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Colombia vs. Venezuela</title>
+<desc lang="es">CONMEBOL Copa América 2021</desc>
+</programme>
+<programme start="20210617230000 +0000" stop="20210617233000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Fútbol central</title>
+<desc lang="es">El programa elemental para los fans, el cual les indica qué buscar y esperar en la cancha en los próximos partidos y campeonatos.</desc>
+</programme>
+<programme start="20210617233000 +0000" stop="20210618020000 +0000" channel="TUDN(Spanish).us">
+<title lang="es" >Peru vs. Brazil</title>
+<desc lang="es">CONMEBOL Copa América 2021</desc>
 </programme>
 <programme start="20210613020000 +0000" stop="20210613030000 +0000" channel="TUDN.mx">
 <title lang="es" >Contacto deportivo del verano</title>
