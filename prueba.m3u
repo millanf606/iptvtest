@@ -63,15 +63,17 @@ https://tv.teleclub.xyz/canales/L1/DISNEY.m3u8
 #EXTINF:-1 tvg-ID="disney-jr_m" tvg-name="disney-jr_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantiles",Disney Junior
 https://tv.teleclub.xyz/canales/L1/DISNEYJR.m3u8
 #EXTINF:-1 tvg-ID="disney-xd_m" tvg-name="disney-xd_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantiles",Disney XD
-https://tv.teleclub.xyz/canales/L1/DISNEYXD.m3u83
+https://tv.teleclub.xyz/canales/L1/DISNEYXD.m3u8
 #EXTINF:-1 tvg-ID="nat-geo-kids_m" tvg-name="nat-geo-kids_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-kids_m.png" group-title="Infantiles",NatGeo Kids
 https://tv.teleclub.xyz/canales/L1/NATGEOKIDS.m3u8
 #EXTINF:-1 tvg-ID="tooncast_m" tvg-name="tooncast_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantiles",Tooncast
 https://tv.teleclub.xyz/canales/L1/TOONCAST.m3u8
+#EXTINF:-1 tvg-ID="babytv_m" tvg-name="babytv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantiles",BabyTV
+https://tv.teleclub.xyz/canales/L2/BABYTV.m3u8
 #
 #EXTINF:-1 tvg-ID="tnt_m" tvg-name="tnt_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Peliculas",TNT
 https://tv.teleclub.xyz/canales/L1/TNT.m3u8
-#EXTINF:-1 tvg-ID="golden_m" tvg-name="golden_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Peliculas",Golden
+#EXTINF:-1 tvg-ID="golden_m" tvg-name="golden_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Peliculas",Golden Plus
 https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 #EXTINF:-1 tvg-ID="tcm_m" tvg-name="tcm_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Peliculas",TCM
 https://tv.teleclub.xyz/canales/L1/TCM.m3u8
@@ -89,7 +91,7 @@ https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
 https://tv.teleclub.xyz/canales/L1/CINELATINO.m3u8
 #EXTINF:-1 tvg-ID="de-pelicula_m" tvg-name="de-pelicula_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Peliculas",De Pelicula
 https://tv.teleclub.xyz/canales/L1/DEPELICULA.m3u8
-#EXTINF:-1 tvg-ID="golden-edge_m" tvg-name="golden-edge_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Peliculas",Golden EDGE
+#EXTINF:-1 tvg-ID="golden-edge_m" tvg-name="golden-edge_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Peliculas",Golden Premier
 https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
 #EXTINF:-1 tvg-ID="space_m" tvg-name="space_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Peliculas",Space 
 https://tv.teleclub.xyz/canales/L1/SPACE.m3u8
@@ -126,7 +128,7 @@ https://tv.teleclub.xyz/canales/L1/FOXACTION.m3u8
 https://tv.teleclub.xyz/canales/L1/FOXCINEMA.m3u8
 #
 #EXTINF:-1 tvg-ID="fox-sports_m" tvg-name="fox-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
-https://tv.teleclub.xyz/canales/L1/FOXSPORT_LAT.m3u
+https://tv.teleclub.xyz/canales/L1/FOXSPORT_LAT.m3u8
 #EXTINF:-1 tvg-ID="fox-sports-2_m" tvg-name="fox-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
 https://tv.teleclub.xyz/canales/L1/FOXSPORT2_LAT.m3u8
 #EXTINF:-1 tvg-ID="fox-sports-3_m" tvg-name="fox-sports-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3 
@@ -176,4 +178,4 @@ https://tv.teleclub.xyz/canales/L1/HISTORY.m3u8
 #EXTINF:-1 tvg-ID="h2_m" tvg-name="h2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Documentales",H2
 https://tv.teleclub.xyz/canales/L1/H2.m3u8
 #EXTINF:-1 tvg-ID="discovery-science_m" tvg-name="discovery-science_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Documentales",Discovery Science  
-https://tv.teleclub.xyz/canales/L4/DSCIENCES.m3u8
+https://tv.teleclub.xyz/canales/L3/DSCIENCES.m3u8
