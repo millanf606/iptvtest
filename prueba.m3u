@@ -73,10 +73,10 @@ https://tv.teleclub.xyz/canales/L2/BABYTV.m3u8
 #
 #EXTINF:-1 tvg-ID="tnt_m" tvg-name="tnt_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Peliculas",TNT
 https://tv.teleclub.xyz/canales/L1/TNT.m3u8
-#EXTINF:-1 tvg-ID="golden_m" tvg-name="golden_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Peliculas",Golden Plus
+#EXTINF:-1 tvg-ID="golden_m" tvg-name="golden_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_plus.png" group-title="Peliculas",Golden Plus
 https://tv.teleclub.xyz/canales/L1/GOLDEN.m3u8
 #EXTINF:-1 tvg-ID="tcm_m" tvg-name="tcm_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Peliculas",TCM
-https://tv.teleclub.xyz/canales/L1/TCM.m3u8
+https://tv.teleclub.xyz/canales/L3/TCM.m3u8
 #EXTINF:-1 tvg-ID="fx-movies-m" tvg-name="fx-movies-m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Peliculas",FX Movies
 https://tv.teleclub.xyz/canales/L1/FXM.m3u8
 #EXTINF:-1 tvg-ID="cinecanal-1_m" tvg-name="cinecanal-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Peliculas",Cinecanal
@@ -91,10 +91,12 @@ https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
 https://tv.teleclub.xyz/canales/L1/CINELATINO.m3u8
 #EXTINF:-1 tvg-ID="de-pelicula_m" tvg-name="de-pelicula_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Peliculas",De Pelicula
 https://tv.teleclub.xyz/canales/L1/DEPELICULA.m3u8
-#EXTINF:-1 tvg-ID="golden-edge_m" tvg-name="golden-edge_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Peliculas",Golden Premier
+#EXTINF:-1 tvg-ID="golden-edge_m" tvg-name="golden-edge_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premi_m.png" group-title="Peliculas",Golden Premier
 https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
 #EXTINF:-1 tvg-ID="space_m" tvg-name="space_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Peliculas",Space 
 https://tv.teleclub.xyz/canales/L1/SPACE.m3u8
+#EXTINF:-1 tvg-ID="golden-mx" tvg-name="golden-mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Peliculas",Golden
+https://tv.teleclub.xyz/canales/L3/GOLDEN.m3u8
 #
 #EXTINF:-1 tvg-ID="hbo_m" tvg-name="hbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
 https://tv.teleclub.xyz/canales/L1/HBO.m3u8
