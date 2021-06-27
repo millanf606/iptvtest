@@ -93,6 +93,8 @@ https://tv.teleclub.xyz/canales/L1/DHYH.m3u8
 https://tv.teleclub.xyz/canales/L1/LIFETIME.m3u8
 #EXTINF:-1 tvg-ID="discovery-science_m" tvg-name="discovery-science_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo y Aprendizaje",Discovery Science  
 https://tv.teleclub.xyz/canales/L3/DSCIENCES.m3u8
+#EXTINF:-1 tvg-ID="discovery-civilization_m" tvg-name="discovery-civilization_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-civilization_m.png" group-title="Documentales",Discovery Civilization  
+https://tv.teleclub.xyz/canales/L2/DISCOVERYCIVILIZATION.m3u8
 #
 #EXTINF:-1 tvg-ID="hbo_m" tvg-name="hbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
 https://tv.teleclub.xyz/canales/L1/HBO.m3u8
@@ -129,7 +131,7 @@ https://tv.teleclub.xyz/canales/L1/FOXCINEMA.m3u8
 #EXTINF:-1 tvg-ID="star-class_m" tvg-name="star-class_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-class_m.png" group-title="Premium",Star Classic
 https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
 #
-#EXTINF:-1 tvg-ID="paramount-channel_m" tvg-name="paramount-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Channel 
+#EXTINF:-1 tvg-ID="paramount-channel_m" tvg-name="paramount-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
 https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
 #EXTINF:-1 tvg-ID="cinecanal-1_m" tvg-name="cinecanal-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
 https://tv.teleclub.xyz/canales/L1/CINECANAL.m3u8
