@@ -76,7 +76,7 @@ https://tv.teleclub.xyz/canales/L1/NATGEO.m3u8
 #EXTINF:-1 tvg-ID="nat-geo-wild_m" tvg-name="nat-geo-wild_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Mundo y Aprendizaje",National Geographic Wild
 https://tv.teleclub.xyz/canales/L1/NATGEOWILD.m3u8
 #EXTINF:-1 tvg-ID="discovery-w_m" tvg-name="discovery-w_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-w_m.png" group-title="Mundo y Aprendizaje",Discovery World
-https://tv.teleclub.xyz/canales/L1/DWORLD.m3u8
+https://tv.teleclub.xyz/canales/L2/DISCOVERYWORLD.m3u8
 #EXTINF:-1 tvg-ID="animal_m" tvg-name="animal_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo y Aprendizaje",Animal Planet 
 https://tv.teleclub.xyz/canales/L1/ANIMALPLANET.m3u8
 #EXTINF:-1 tvg-ID="turbo_m" tvg-name="turbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo y Aprendizaje",Discovery Turbo
@@ -135,7 +135,7 @@ https://tv.teleclub.xyz/canales/L1/FOXCLASSIC.m3u8
 https://tv.teleclub.xyz/canales/L1/PARAMOUNT.m3u8
 #EXTINF:-1 tvg-ID="cinecanal-1_m" tvg-name="cinecanal-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
 https://tv.teleclub.xyz/canales/L1/CINECANAL.m3u8
-#EXTINF:-1 tvg-ID="golden-premi_m" tvg-name="golden-premi_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premi_m.png" group-title="Cine",Golden Premier
+#EXTINF:-1 tvg-ID="golden-premi_m" tvg-name="golden-premi_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" group-title="Cine",Golden Premier
 https://tv.teleclub.xyz/canales/L1/GOLDENPREMIER.m3u8
 #EXTINF:-1 tvg-ID="tnt_m" tvg-name="tnt_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
 https://tv.teleclub.xyz/canales/L1/TNT.m3u8
