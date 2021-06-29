@@ -186,6 +186,8 @@ https://tv.teleclub.xyz/canales/L1/TNTSPORTS.m3u8
 https://tv.teleclub.xyz/canales/L1/TUDN_MX.m3u8
 #EXTINF:-1 tvg-ID="tudn-usa_m" tvg-name="tudn-usa_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN USA
 https://tv.teleclub.xyz/canales/L1/TUDN_USA.m3u8
+#EXTINF:-1 tvg-ID="beins-spa_m" tvg-name="beins-spa_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/beins-spa_m.png" group-title="Deportes",Bein Sport Ñ
+https://tv.teleclub.xyz/canales/L1/BEINSPORTN.m3u8
 #
 #EXTINF:-1 tvg-ID="cnn_m" tvg-name="cnn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
 https://tv.teleclub.xyz/canales/L3/CNNINT.m3u8
@@ -204,8 +206,12 @@ https://tv.teleclub.xyz/canales/L1/HTV.m3u8
 https://tv.teleclub.xyz/canales/L1/VH1.m3u8
 #
 #EXTINF:-1 tvg-ID="venus_m" tvg-name="venus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
-http://propdsrv.com:8080/Ok1989/ok1989/61347
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11246
 #EXTINF:-1 tvg-ID="playboy_m" tvg-name="playboy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png" group-title="Adulto",Playboy TV
-http://propdsrv.com:8080/Ok1989/ok1989/61362
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11265
+#EXTINF:-1 tvg-ID="sextre_m" tvg-name="sextre_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sextre_m.png" group-title="Adulto",Sextreme
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11267
+#EXTINF:-1 tvg-ID="sexhot_m" tvg-name="sexhot_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sexhot_m.png" group-title="Adulto",Sexy Hot
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11266
 
 
