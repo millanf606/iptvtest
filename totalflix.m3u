@@ -1,170 +1,170 @@
 #EXTM3U
-#EXTINF:-1 tvg-ID="star-channel_m" tvg-name="star-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
+#EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 https://tv.teleclub.xyz/canales/club/FOX.m3u8
-#EXTINF:-1 tvg-ID="sony_m" tvg-name="sony_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
+#EXTINF:-1 tvg-ID="CanalSony.mx" tvg-name="CanalSony.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
 https://tv.teleclub.xyz/canales/club/SONY.m3u8
 #EXTINF:-1 tvg-ID="warner-channel_m" tvg-name="warner-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner Channel
 https://tv.teleclub.xyz/canales/club/WARNER.m3u8
-#EXTINF:-1 tvg-ID="universal-channel_m" tvg-name="universal-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
+#EXTINF:-1 tvg-ID="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
 https://tv.teleclub.xyz/canales/club/UNIVERSAL.m3u8
-#EXTINF:-1 tvg-ID="fx_m" tvg-name="fx_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
+#EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
 https://tv.teleclub.xyz/canales/club/FX.m3u8
-#EXTINF:-1 tvg-ID="a-e-mundo_m" tvg-name="a-e-mundo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
+#EXTINF:-1 tvg-ID="AandE.mx" tvg-name="AandE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
 https://tv.teleclub.xyz/canales/club/AYE.m3u8
-#EXTINF:-1 tvg-ID="axn_m" tvg-name="axn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
+#EXTINF:-1 tvg-ID="AXN.mx" tvg-name="AXN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
 https://tv.teleclub.xyz/canales/club/AXN.m3u8
-#EXTINF:-1 tvg-ID="trutv_m" tvg-name="trutv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",Tru TV
+#EXTINF:-1 tvg-ID="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",Tru TV
 https://tv.teleclub.xyz/canales/club/TRUTV.m3u8
-#EXTINF:-1 tvg-ID="comedy-central_m" tvg-name="comedy-central_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
+#EXTINF:-1 tvg-ID="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
 https://tv.teleclub.xyz/canales/club/COMEDYCENTRAL.m3u8
-#EXTINF:-1 tvg-ID="hola-tv_m" tvg-name="hola-tv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Entretenimiento",HolaTV
+#EXTINF:-1 tvg-ID="HOLATV.mx" tvg-name="HOLATV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Entretenimiento",HolaTV
 https://tv.teleclub.xyz/canales/club/HOLATV.m3u8
-#EXTINF:-1 tvg-ID="mas-chic_m" tvg-name="mas-chic_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento",MásChic
+#EXTINF:-1 tvg-ID="MasChic.mx" tvg-name="MasChic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento",MásChic
 https://tv.teleclub.xyz/canales/club3/MASCHIC.m3u8
-#EXTINF:-1 tvg-ID="discovery-id_m" tvg-name="discovery-id_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
+#EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
 https://tv.teleclub.xyz/canales/club/ID.m3u8
-#EXTINF:-1 tvg-ID="sy-fy_m" tvg-name="sy-fy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SyFy
+#EXTINF:-1 tvg-ID="SYFY.mx" tvg-name="SYFY.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SyFy
 https://tv.teleclub.xyz/canales/club2/SYFY.m3u8
-#EXTINF:-1 tvg-ID="tnt-series_m" tvg-name="tnt-series_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
+#EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
 https://tv.teleclub.xyz/canales/club/TNTSERIES.m3u8
-#EXTINF:-1 tvg-ID="gourmet_m" tvg-name="gourmet_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
+#EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
 https://tv.teleclub.xyz/canales/club/ELGOURMET.m3u8
-#EXTINF:-1 tvg-ID="glitz_m" tvg-name="glitz_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
+#EXTINF:-1 tvg-ID="Glitz.mx" tvg-name="Glitz.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
 https://tv.teleclub.xyz/canales/club3/GLITZ.m3u8
-#EXTINF:-1 tvg-ID="star-life_m" tvg-name="star-life_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-life_m.png" group-title="Entretenimiento",Star Life
+#EXTINF:-1 tvg-ID="StarLife.mx" tvg-name="StarLife.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-life_m.png" group-title="Entretenimiento",Star Life
 https://tv.teleclub.xyz/canales/club/FOXLIFE.m3u8
-#EXTINF:-1 tvg-ID="tbs_m" tvg-name="tbs_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
+#EXTINF:-1 tvg-ID="TBS.mx" tvg-name="TBS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
 https://tv.teleclub.xyz/canales/club/TBS.m3u8
-#EXTINF:-1 tvg-ID="tlnovelas_m" tvg-name="tlnovelas_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",TLNovelas
+#EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",TLNovelas
 https://tv.teleclub.xyz/canales/club/TLNOVELAS.m3u8
-#EXTINF:-1 tvg-ID="telemundo_m" tvg-name="telemundo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Entretenimiento",Telemundo
+#EXTINF:-1 tvg-ID="Telemundo(Spanish).us" tvg-name="Telemundo(Spanish).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Entretenimiento",Telemundo
 https://tv.teleclub.xyz/canales/club/TELEMUNDO.m3u8
-#EXTINF:-1 tvg-ID="las-estrellas-m" tvg-name="las-estrellas-m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
+#EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
 https://tv.teleclub.xyz/canales/club/LASESTRELLAS.m3u8
-#EXTINF:-1 tvg-ID="caracol_m" tvg-name="caracol_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Entretenimiento",Caracol TV
+#EXTINF:-1 tvg-ID="CaracolTVCanal1.co" tvg-name="CaracolTVCanal1.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Entretenimiento",Caracol TV
 https://tv.teleclub.xyz/canales/club/CARACOL.m3u8
 #
-#EXTINF:-1 tvg-ID="babytv_m" tvg-name="babytv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",BabyTV
+#EXTINF:-1 tvg-ID="BabyTv.mx" tvg-name="BabyTv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",BabyTV
 https://tv.teleclub.xyz/canales/club3/BABYTV.m3u8
-#EXTINF:-1 tvg-ID="discovery-kids_m" tvg-name="discovery-kids_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantil",Discovery Kids 
+#EXTINF:-1 tvg-ID="DiscoveryKids.mx" tvg-name="DiscoveryKids.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantil",Discovery Kids 
 https://tv.teleclub.xyz/canales/club3/DKIDS.m3u8
-#EXTINF:-1 tvg-ID="disney-jr_m" tvg-name="disney-jr_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
+#EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
 https://tv.teleclub.xyz/canales/club/DISNEYJR.m3u8
-#EXTINF:-1 tvg-ID="nick-jr_m" tvg-name="nick-jr_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil",Nick Jr.
+#EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil",Nick Jr.
 https://tv.teleclub.xyz/canales/club/NICKJR.m3u8
-#EXTINF:-1 tvg-ID="disney-channel_m" tvg-name="disney-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil",Disney Channel 
+#EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil",Disney Channel 
 https://tv.teleclub.xyz/canales/club/DISNEY.m3u8
-#EXTINF:-1 tvg-ID="nickelodeon_m" tvg-name="nickelodeon_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil",Nick
+#EXTINF:-1 tvg-ID="Nick.mx" tvg-name="Nick.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil",Nick
 https://tv.teleclub.xyz/canales/club/NICK.m3u8
-#EXTINF:-1 tvg-ID="nat-geo-kids_m" tvg-name="nat-geo-kids_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-kids_m.png" group-title="Infantil",NatGeo Kids
+#EXTINF:-1 tvg-ID="NatGeoKids.mx" tvg-name="NatGeoKids.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-kids_m.png" group-title="Infantil",NatGeo Kids
 https://tv.teleclub.xyz/canales/club/NATGEOKIDS.m3u8
-#EXTINF:-1 tvg-ID="cartoon-network_m" tvg-name="cartoon-network_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
+#EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
 https://tv.teleclub.xyz/canales/club/CARTOON.m3u8
-#EXTINF:-1 tvg-ID="disney-xd_m" tvg-name="disney-xd_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantil",Disney XD
+#EXTINF:-1 tvg-ID="DisneyXD.mx" tvg-name="DisneyXD.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantil",Disney XD
 https://tv.teleclub.xyz/canales/club/DISNEYXD.m3u8
-#EXTINF:-1 tvg-ID="boomerang-cartoon_m" tvg-name="boomerang-cartoon_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/boomerang-cartoon_m.png" group-title="Infantil",Boomerang 
+#EXTINF:-1 tvg-ID="Boomerang.mx" tvg-name="Boomerang.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/boomerang-cartoon_m.png" group-title="Infantil",Boomerang 
 https://tv.teleclub.xyz/canales/club2/BOOMERANG.m3u8
-#EXTINF:-1 tvg-ID="tooncast_m" tvg-name="tooncast_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
+#EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
 https://tv.teleclub.xyz/canales/club/TOONCAST.m3u8
 #
-#EXTINF:-1 tvg-ID="discovery-the_m" tvg-name="discovery-the_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_m.png" group-title="Mundo y Aprendizaje",Discovery Theater
+#EXTINF:-1 tvg-ID="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_m.png" group-title="Mundo y Aprendizaje",Discovery Theater
 https://tv.teleclub.xyz/canales/club/DTHEATER.m3u8
-#EXTINF:-1 tvg-ID="history_m" tvg-name="history_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo y Aprendizaje",History
+#EXTINF:-1 tvg-ID="History.mx" tvg-name="History.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo y Aprendizaje",History
 https://tv.teleclub.xyz/canales/club/HISTORY.m3u8
-#EXTINF:-1 tvg-ID="nat-geo_m" tvg-name="nat-geo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo y Aprendizaje",National Geographic 
+#EXTINF:-1 tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo y Aprendizaje",National Geographic 
 https://tv.teleclub.xyz/canales/club/NATGEO.m3u8
-#EXTINF:-1 tvg-ID="nat-geo-wild_m" tvg-name="nat-geo-wild_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Mundo y Aprendizaje",National Geographic Wild
+#EXTINF:-1 tvg-ID="NationalGeographicWild.mx" tvg-name="NationalGeographicWild.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Mundo y Aprendizaje",National Geographic Wild
 https://tv.teleclub.xyz/canales/club/NATGEOWILD.m3u8
-#EXTINF:-1 tvg-ID="discovery-w_m" tvg-name="discovery-w_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-w_m.png" group-title="Mundo y Aprendizaje",Discovery World
+#EXTINF:-1 tvg-ID="DiscoveryWorld.mx" tvg-name="DiscoveryWorld.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-w_m.png" group-title="Mundo y Aprendizaje",Discovery World
 https://tv.teleclub.xyz/canales/club2/DISCOVERYWORLD.m3u8
-#EXTINF:-1 tvg-ID="animal_m" tvg-name="animal_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo y Aprendizaje",Animal Planet 
+#EXTINF:-1 tvg-ID="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo y Aprendizaje",Animal Planet 
 https://tv.teleclub.xyz/canales/club/ANIMALPLANET.m3u8
-#EXTINF:-1 tvg-ID="turbo_m" tvg-name="turbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo y Aprendizaje",Discovery Turbo
+#EXTINF:-1 tvg-ID="DiscoveryTurbo.mx" tvg-name="DiscoveryTurbo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo y Aprendizaje",Discovery Turbo
 https://tv.teleclub.xyz/canales/club/DTURBO.m3u8
-#EXTINF:-1 tvg-ID="discovery-tlc_m" tvg-name="discovery-tlc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-tlc_m.png" group-title="Mundo y Aprendizaje",TLC
+#EXTINF:-1 tvg-ID="TLC.mx" tvg-name="TLC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-tlc_m.png" group-title="Mundo y Aprendizaje",TLC
 https://tv.teleclub.xyz/canales/club/TLC.m3u8
-#EXTINF:-1 tvg-ID="h2_m" tvg-name="h2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo y Aprendizaje",H2
+#EXTINF:-1 tvg-ID="History2.mx" tvg-name="History2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo y Aprendizaje",H2
 https://tv.teleclub.xyz/canales/club/H2.m3u8
-#EXTINF:-1 tvg-ID="discovery_m" tvg-name="discovery_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo y Aprendizaje",Discovery Channel
+#EXTINF:-1 tvg-ID="DiscoveryChannel.mx" tvg-name="DiscoveryChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo y Aprendizaje",Discovery Channel
 https://tv.teleclub.xyz/canales/club/DISCOVERY.m3u8
-#EXTINF:-1 tvg-ID="h-a-h_m" tvg-name="h-a-h_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Mundo y Aprendizaje",Discovery Home & Health 
+#EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Mundo y Aprendizaje",Discovery Home & Health 
 https://tv.teleclub.xyz/canales/club/DHYH.m3u8
-#EXTINF:-1 tvg-ID="lifetime_m" tvg-name="lifetime_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Mundo y Aprendizaje",Lifetime
+#EXTINF:-1 tvg-ID="Lifetime.mx" tvg-name="Lifetime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Mundo y Aprendizaje",Lifetime
 https://tv.teleclub.xyz/canales/club/LIFETIME.m3u8
-#EXTINF:-1 tvg-ID="discovery-science_m" tvg-name="discovery-science_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo y Aprendizaje",Discovery Science  
+#EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo y Aprendizaje",Discovery Science  
 https://tv.teleclub.xyz/canales/club3/DSCIENCES.m3u8
-#EXTINF:-1 tvg-ID="discovery-civilization_m" tvg-name="discovery-civilization_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-civilization_m.png" group-title="Mundo y Aprendizaje",Discovery Civilization  
+#EXTINF:-1 tvg-ID="DiscoveryCivilization.mx" tvg-name="DiscoveryCivilization.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-civilization_m.png" group-title="Mundo y Aprendizaje",Discovery Civilization  
 https://tv.teleclub.xyz/canales/club2/DISCOVERYCIVILIZATION.m3u8
 #
-#EXTINF:-1 tvg-ID="hbo_m" tvg-name="hbo_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
+#EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
 https://tv.teleclub.xyz/canales/club/HBO.m3u8
-#EXTINF:-1 tvg-ID="hbo_moeste" tvg-name="hbo_moeste" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO Oeste
+#EXTINF:-1 tvg-ID="HBO.co" tvg-name="HBO.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO Oeste
 https://tv.teleclub.xyz/canales/club3/HBO.m3u8
-#EXTINF:-1 tvg-ID="hbo-2_m" tvg-name="hbo-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
+#EXTINF:-1 tvg-ID="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
 https://tv.teleclub.xyz/canales/club/HBO2.m3u8
-#EXTINF:-1 tvg-ID="hbo-2_moeste" tvg-name="hbo-2_moeste" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2 Oeste
+#EXTINF:-1 tvg-ID="HBO2.co" tvg-name="HBO2.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2 Oeste
 https://tv.teleclub.xyz/canales/club3/HBO2.m3u8
-#EXTINF:-1 tvg-ID="hbo-plus-panamericano-hd_m" tvg-name="hbo-plus-panamericano-hd_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
+#EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
 https://tv.teleclub.xyz/canales/club/HBOPLUS.m3u8
-#EXTINF:-1 tvg-ID="signature_m" tvg-name="signature_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
+#EXTINF:-1 tvg-ID="HBOSignature.mx" tvg-name="HBOSignature.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
 https://tv.teleclub.xyz/canales/club/HBOSIGNATURE.m3u8
-#EXTINF:-1 tvg-ID="family_m" tvg-name="family_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
+#EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
 https://tv.teleclub.xyz/canales/club/HBOFAMILY.m3u8
-#EXTINF:-1 tvg-ID="mundi_m" tvg-name="mundi_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
+#EXTINF:-1 tvg-ID="HBOMundi.mx" tvg-name="HBOMundi.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
 https://tv.teleclub.xyz/canales/club/HBOMUNDI.m3u8
-#EXTINF:-1 tvg-ID="hbo-pop_m" tvg-name="hbo-pop_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
+#EXTINF:-1 tvg-ID="HBOPop.mx" tvg-name="HBOPop.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
 https://tv.teleclub.xyz/canales/club/HBOPOP.m3u8
-#EXTINF:-1 tvg-ID="xtreme_m" tvg-name="xtreme_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
+#EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
 https://tv.teleclub.xyz/canales/club/HBOXTREME.m3u8
-#EXTINF:-1 tvg-ID="star-series_m" tvg-name="star-series_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-series_m.png" group-title="Premium",Star Series
+#EXTINF:-1 tvg-ID="StarSeries.mx" tvg-name="StarSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-series_m.png" group-title="Premium",Star Series
 https://tv.teleclub.xyz/canales/club/FOXSERIES.m3u8
-#EXTINF:-1 tvg-ID="star-action_m" tvg-name="star-action_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-action_m.png" group-title="Premium",Star Action
+#EXTINF:-1 tvg-ID="StarAction.mx" tvg-name="StarAction.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-action_m.png" group-title="Premium",Star Action
 https://tv.teleclub.xyz/canales/club/FOXACTION.m3u8
-#EXTINF:-1 tvg-ID="star-hits_m" tvg-name="star-hits_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-hits_m.png" group-title="Premium",Star Hits
+#EXTINF:-1 tvg-ID="StarHits.mx" tvg-name="StarHits.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-hits_m.png" group-title="Premium",Star Hits
 https://tv.teleclub.xyz/canales/club/FOXMOVIES.m3u8
-#EXTINF:-1 tvg-ID="star-fun_m" tvg-name="star-fun_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-fun_m.png" group-title="Premium",Star Fun
+#EXTINF:-1 tvg-ID="STARFUN.mx" tvg-name="STARFUN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-fun_m.png" group-title="Premium",Star Fun
 https://tv.teleclub.xyz/canales/club/FOXFAMILY.m3u8
-#EXTINF:-1 tvg-ID="star-comedy_m" tvg-name="star-comedy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png" group-title="Premium",Star Comedy
+#EXTINF:-1 tvg-ID="STARCOMEDY.mx" tvg-name="STARCOMEDY.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png" group-title="Premium",Star Comedy
 https://tv.teleclub.xyz/canales/club/FOXCOMEDY.m3u8
-#EXTINF:-1 tvg-ID="star-cinema_m" tvg-name="star-cinema_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-cinema_m.png" group-title="Premium",Star Cinema
+#EXTINF:-1 tvg-ID="STARCINEMA.mx" tvg-name="STARCINEMA.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-cinema_m.png" group-title="Premium",Star Cinema
 https://tv.teleclub.xyz/canales/club/FOXCINEMA.m3u8
-#EXTINF:-1 tvg-ID="star-class_m" tvg-name="star-class_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-class_m.png" group-title="Premium",Star Classic
+#EXTINF:-1 tvg-ID="StarClassics.mx" tvg-name="StarClassics.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-class_m.png" group-title="Premium",Star Classic
 https://tv.teleclub.xyz/canales/club/FOXCLASSIC.m3u8
 #
-#EXTINF:-1 tvg-ID="paramount-channel_m" tvg-name="paramount-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
+#EXTINF:-1 tvg-ID="ParamountNetwork.mx" tvg-name="ParamountNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
 https://tv.teleclub.xyz/canales/club/PARAMOUNT.m3u8
-#EXTINF:-1 tvg-ID="cinecanal-1_m" tvg-name="cinecanal-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
+#EXTINF:-1 tvg-ID="Cinecanal.mx" tvg-name="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
 https://tv.teleclub.xyz/canales/club/CINECANAL.m3u8
-#EXTINF:-1 tvg-ID="golden-premi_m" tvg-name="golden-premi_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" group-title="Cine",Golden Premier
+#EXTINF:-1 tvg-ID="GoldenPremier.mx" tvg-name="GoldenPremier.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" group-title="Cine",Golden Premier
 https://tv.teleclub.xyz/canales/club/GOLDENPREMIER.m3u8
-#EXTINF:-1 tvg-ID="tnt_m" tvg-name="tnt_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
+#EXTINF:-1 tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
 https://tv.teleclub.xyz/canales/club/TNT.m3u8
-#EXTINF:-1 tvg-ID="golden-plus_m" tvg-name="golden-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-plus_m.png" group-title="Cine",Golden Plus
+#EXTINF:-1 tvg-ID="GOLDENPLUS.mx" tvg-name="GOLDENPLUS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-plus_m.png" group-title="Cine",Golden Plus
 https://tv.teleclub.xyz/canales/club/GOLDEN.m3u8
-#EXTINF:-1 tvg-ID="fx-movies-m" tvg-name="fx-movies-m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Cine",FX Movies
+#EXTINF:-1 tvg-ID="FXMovies.mx" tvg-name="FXMovies.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Cine",FX Movies
 https://tv.teleclub.xyz/canales/club/FXM.m3u8
-#EXTINF:-1 tvg-ID="de-pelicula_m" tvg-name="de-pelicula_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Cine",De Pelicula
+#EXTINF:-1 tvg-ID="DePelicula.mx" tvg-name="DePelicula.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Cine",De Pelicula
 https://tv.teleclub.xyz/canales/club/DEPELICULA.m3u8
-#EXTINF:-1 tvg-ID="amc_m" tvg-name="amc_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Entretenimiento",AMC
+#EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Entretenimiento",AMC
 https://tv.teleclub.xyz/canales/club/AMC.m3u8
-#EXTINF:-1 tvg-ID="space_m" tvg-name="space_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
+#EXTINF:-1 tvg-ID="Space.mx" tvg-name="Space.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
 https://tv.teleclub.xyz/canales/club/SPACE.m3u8
-#EXTINF:-1 tvg-ID="cinemax-sur_m" tvg-name="cinemax-sur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
+#EXTINF:-1 tvg-ID="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
 https://tv.teleclub.xyz/canales/club/CINEMAX.m3u8
-#EXTINF:-1 tvg-ID="golden_m" tvg-name="golden_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine",Golden
+#EXTINF:-1 tvg-ID="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine",Golden
 https://tv.teleclub.xyz/canales/club3/GOLDEN.m3u8
-#EXTINF:-1 tvg-ID="studio-universal_m" tvg-name="studio-universal_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
+#EXTINF:-1 tvg-ID="StudioUniversal.mx" tvg-name="StudioUniversal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
 https://tv.teleclub.xyz/canales/club/STUDIOUNIVERSAL.m3u8
-#EXTINF:-1 tvg-ID="cine-latino_m" tvg-name="cine-latino_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine-latino_m.png" group-title="Cine",Cine Latino
+#EXTINF:-1 tvg-ID="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine-latino_m.png" group-title="Cine",Cine Latino
 https://tv.teleclub.xyz/canales/club/CINELATINO.m3u8
-#EXTINF:-1 tvg-ID="tcm_m" tvg-name="tcm_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Cine",TCM
+#EXTINF:-1 tvg-ID="TCM.mx" tvg-name="TCM.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Cine",TCM
 https://tv.teleclub.xyz/canales/club3/TCM.m3u8
 #
-#EXTINF:-1 tvg-ID="fox-sports_m" tvg-name="fox-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
+#EXTINF:-1 tvg-ID="FoxSports(ConoSur).co" tvg-name="FoxSports(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
 https://tv.teleclub.xyz/canales/club/FOXSPORT_LAT.m3u8
-#EXTINF:-1 tvg-ID="fox-sports-2_m" tvg-name="fox-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
+#EXTINF:-1 tvg-ID="FoxSports2(ConoSur).co" tvg-name="FoxSports2(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
 https://tv.teleclub.xyz/canales/club/FOXSPORT2_LAT.m3u8
-#EXTINF:-1 tvg-ID="fox-sports-3_m" tvg-name="fox-sports-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3 
+#EXTINF:-1 tvg-ID="FoxSports3(ConoSur).do" tvg-name="FoxSports3(ConoSur).do" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3 
 https://tv.teleclub.xyz/canales/club/FOXSPORT3_LAT.m3u8
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DirecTV Sports 
 https://tv.teleclub.xyz/canales/club/DIRECTV_SPORT.m3u8
@@ -172,46 +172,46 @@ https://tv.teleclub.xyz/canales/club/DIRECTV_SPORT.m3u8
 https://tv.teleclub.xyz/canales/club/DIRECTV_SPORT2.m3u8
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus 
 https://tv.teleclub.xyz/canales/club/DIRECTV_SPORTPLUS.m3u8
-#EXTINF:-1 tvg-ID="espn_m" tvg-name="espn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN 
+#EXTINF:-1 tvg-ID="ESPN.co" tvg-name="ESPN.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN 
 https://tv.teleclub.xyz/canales/club/ESPN_LAT.m3u8
-#EXTINF:-1 tvg-ID="espn-2_m" tvg-name="espn-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 
+#EXTINF:-1 tvg-ID="ESPN2.co" tvg-name="ESPN2.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 
 https://tv.teleclub.xyz/canales/club/ESPN2_LAT.m3u8
-#EXTINF:-1 tvg-ID="espn-3_m" tvg-name="espn-3_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 
+#EXTINF:-1 tvg-ID="ESPN3(South).co" tvg-name="ESPN3(South).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 
 https://tv.teleclub.xyz/canales/club/ESPN3_LAT.m3u8
-#EXTINF:-1 tvg-ID="espn-1_m" tvg-name="espn-1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra 
+#EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra 
 https://tv.teleclub.xyz/canales/club/ESPNPLUS_LAT.m3u8
 #EXTINF:-1 tvg-ID="tntsport_m" tvg-name="tntsport_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tntsport_m.png" group-title="Deportes",Estadio TNT Sports 
 https://tv.teleclub.xyz/canales/club/TNTSPORTS.m3u8
-#EXTINF:-1 tvg-ID="tudn_m" tvg-name="tudn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN
+#EXTINF:-1 tvg-ID="TUDN.mx" tvg-name="TUDN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN
 https://tv.teleclub.xyz/canales/club/TUDN_MX.m3u8
-#EXTINF:-1 tvg-ID="tudn-usa_m" tvg-name="tudn-usa_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN USA
+#EXTINF:-1 tvg-ID="TUDN(Spanish).us" tvg-name="TUDN(Spanish).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN USA
 https://tv.teleclub.xyz/canales/club/TUDN_USA.m3u8
-#EXTINF:-1 tvg-ID="beins-spa_m" tvg-name="beins-spa_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/beins-spa_m.png" group-title="Deportes",Bein Sport Ñ
+#EXTINF:-1 tvg-ID="beINSportsEnEspanol(Spanish).us" tvg-name="beINSportsEnEspanol(Spanish).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/beins-spa_m.png" group-title="Deportes",Bein Sport Ñ
 https://tv.teleclub.xyz/canales/club/BEINSPORTN.m3u8
 #
-#EXTINF:-1 tvg-ID="cnn_m" tvg-name="cnn_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
+#EXTINF:-1 tvg-ID="CNNInternational(English).mx" tvg-name="CNNInternational(English).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
 https://tv.teleclub.xyz/canales/club3/CNNINT.m3u8
-#EXTINF:-1 tvg-ID="cnn-espanol_m" tvg-name="cnn-espanol_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
+#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
 https://tv.teleclub.xyz/canales/club/CNNESPANOL.m3u8
-#EXTINF:-1 tvg-ID="russia-today_m" tvg-name="russia-today_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
+#EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
 https://tv.teleclub.xyz/canales/club/RT_ESPANOL.m3u8
-#EXTINF:-1 tvg-ID="telesur_m" tvg-name="telesur_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Noticias",Telesur
+#EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Noticias",Telesur
 https://tv.teleclub.xyz/canales/EXTERNA_TELESUR_LAT.m3u8
 #
-#EXTINF:-1 tvg-ID="mtv_m" tvg-name="mtv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
+#EXTINF:-1 tvg-ID="MTV.mx" tvg-name="MTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
 https://tv.teleclub.xyz/canales/club/MTV.m3u8
-#EXTINF:-1 tvg-ID="htv_m" tvg-name="htv_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/htv_m.png" group-title="Musica",HTV
+#EXTINF:-1 tvg-ID="HTV.mx" tvg-name="HTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/htv_m.png" group-title="Musica",HTV
 https://tv.teleclub.xyz/canales/club/HTV.m3u8
-#EXTINF:-1 tvg-ID="vh1_m" tvg-name="vh1_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vh1_m.png" group-title="Musica",VH1
+#EXTINF:-1 tvg-ID="VH1.mx" tvg-name="VH1.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vh1_m.png" group-title="Musica",VH1
 https://tv.teleclub.xyz/canales/club/VH1.m3u8
 #
-#EXTINF:-1 tvg-ID="venus_m" tvg-name="venus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
+#EXTINF:-1 tvg-ID="Venus.mx" tvg-name="Venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
 http://tv1.cs10.tv:80/leopoldo/leopoldo/11246
-#EXTINF:-1 tvg-ID="playboy_m" tvg-name="playboy_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png" group-title="Adulto",Playboy TV
+#EXTINF:-1 tvg-ID="Playboy.mx" tvg-name="Playboy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png" group-title="Adulto",Playboy TV
 http://tv1.cs10.tv:80/leopoldo/leopoldo/11265
-#EXTINF:-1 tvg-ID="sextre_m" tvg-name="sextre_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sextre_m.png" group-title="Adulto",Sextreme
+#EXTINF:-1 tvg-ID="SeXtreme.mx" tvg-name="SeXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sextre_m.png" group-title="Adulto",Sextreme
 http://tv1.cs10.tv:80/leopoldo/leopoldo/11267
-#EXTINF:-1 tvg-ID="sexhot_m" tvg-name="sexhot_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sexhot_m.png" group-title="Adulto",Sexy Hot
+#EXTINF:-1 tvg-ID="SexyHot.br" tvg-name="SexyHot.br" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sexhot_m.png" group-title="Adulto",Sexy Hot
 http://tv1.cs10.tv:80/leopoldo/leopoldo/11266
 
 
