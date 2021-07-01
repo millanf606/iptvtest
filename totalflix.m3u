@@ -3,7 +3,7 @@
 https://tv.teleclub.xyz/canales/club/FOX.m3u8
 #EXTINF:-1 tvg-ID="CanalSony.mx" tvg-name="CanalSony.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
 https://tv.teleclub.xyz/canales/club/SONY.m3u8
-#EXTINF:-1 tvg-ID="warner-channel_m" tvg-name="warner-channel_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner Channel
+#EXTINF:-1 tvg-ID="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner Channel
 https://tv.teleclub.xyz/canales/club/WARNER.m3u8
 #EXTINF:-1 tvg-ID="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
 https://tv.teleclub.xyz/canales/club/UNIVERSAL.m3u8
@@ -180,7 +180,7 @@ https://tv.teleclub.xyz/canales/club/ESPN2_LAT.m3u8
 https://tv.teleclub.xyz/canales/club/ESPN3_LAT.m3u8
 #EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra 
 https://tv.teleclub.xyz/canales/club/ESPNPLUS_LAT.m3u8
-#EXTINF:-1 tvg-ID="tntsport_m" tvg-name="tntsport_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tntsport_m.png" group-title="Deportes",Estadio TNT Sports 
+#EXTINF:-1 tvg-ID="TNTSports.ar" tvg-name="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tntsport_m.png" group-title="Deportes",Estadio TNT Sports 
 https://tv.teleclub.xyz/canales/club/TNTSPORTS.m3u8
 #EXTINF:-1 tvg-ID="TUDN.mx" tvg-name="TUDN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN
 https://tv.teleclub.xyz/canales/club/TUDN_MX.m3u8
