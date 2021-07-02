@@ -159,6 +159,8 @@ https://tv.teleclub.xyz/canales/club/STUDIOUNIVERSAL.m3u8
 https://tv.teleclub.xyz/canales/club/CINELATINO.m3u8
 #EXTINF:-1 tvg-ID="TCM.mx" tvg-name="TCM.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Cine",TCM
 https://tv.teleclub.xyz/canales/club3/TCM.m3u8
+#EXTINF:-1 tvg-ID="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Cine",Golden Edge
+https://tv.teleclub.xyz/canales/club4/GEDGE.m3u8
 #
 #EXTINF:-1 tvg-ID="FoxSports(ConoSur).co" tvg-name="FoxSports(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
 https://tv.teleclub.xyz/canales/club/FOXSPORT_LAT.m3u8
