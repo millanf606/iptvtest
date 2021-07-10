@@ -43,7 +43,7 @@ https://tv.teleclub.xyz/live/club/TELEMUNDO.m3u8
 https://tv.teleclub.xyz/live/club/LASESTRELLAS.m3u8
 #EXTINF:-1 tvg-ID="CaracolTVCanal1.co" tvg-name="CaracolTVCanal1.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Entretenimiento",Caracol TV
 https://tv.teleclub.xyz/live/club/CARACOL.m3u8
-#EXTINF:-1 tvg-ID="Azteca7.mx" tvg-name="Azteca7.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Entretenimiento",Azteca 7
+#EXTINF:-1 tvg-ID="Azteca7.mx" tvg-name="Azteca7.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/azteca7_m.png" group-title="Entretenimiento",Azteca 7
 https://tv.teleclub.xyz/live/club/AZTECA7.m3u8
 #
 #EXTINF:-1 tvg-ID="BabyTv.mx" tvg-name="BabyTv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",BabyTV
@@ -147,7 +147,7 @@ https://tv.teleclub.xyz/live/club/GOLDEN.m3u8
 https://tv.teleclub.xyz/live/club/FXM.m3u8
 #EXTINF:-1 tvg-ID="DePelicula.mx" tvg-name="DePelicula.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Cine",De Pelicula
 https://tv.teleclub.xyz/live/club/DEPELICULA.m3u8
-#EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Entretenimiento",AMC
+#EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Cine",AMC
 https://tv.teleclub.xyz/live/club/AMC.m3u8
 #EXTINF:-1 tvg-ID="Space.mx" tvg-name="Space.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
 https://tv.teleclub.xyz/live/club/SPACE.m3u8
