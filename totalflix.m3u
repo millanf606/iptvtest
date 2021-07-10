@@ -24,7 +24,7 @@ https://tv.teleclub.xyz/live/club2/MASCHIC.m3u8
 #EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
 https://tv.teleclub.xyz/live/club/ID.m3u8
 #EXTINF:-1 tvg-ID="SYFY.mx" tvg-name="SYFY.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SyFy
-https://tv.teleclub.xyz/live/club2/SYFY.m3u8
+https://tv.teleclub.xyz/live/club/SYFY.m3u8
 #EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
 https://tv.teleclub.xyz/live/club/TNTSERIES.m3u8
 #EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
@@ -43,6 +43,8 @@ https://tv.teleclub.xyz/live/club/TELEMUNDO.m3u8
 https://tv.teleclub.xyz/live/club/LASESTRELLAS.m3u8
 #EXTINF:-1 tvg-ID="CaracolTVCanal1.co" tvg-name="CaracolTVCanal1.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Entretenimiento",Caracol TV
 https://tv.teleclub.xyz/live/club/CARACOL.m3u8
+#EXTINF:-1 tvg-ID="Azteca7.mx" tvg-name="Azteca7.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Entretenimiento",Azteca 7
+https://tv.teleclub.xyz/live/club/AZTECA7.m3u8
 #
 #EXTINF:-1 tvg-ID="BabyTv.mx" tvg-name="BabyTv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",BabyTV
 https://tv.teleclub.xyz/live/club2/BABYTV.m3u8
@@ -161,6 +163,8 @@ https://tv.teleclub.xyz/live/club/CINELATINO.m3u8
 https://tv.teleclub.xyz/live/club2/TCM.m3u8
 #EXTINF:-1 tvg-ID="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Cine",Golden Edge
 https://tv.teleclub.xyz/live/club3/GEDGE.m3u8
+#EXTINF:-1 tvg-ID="CanalDHE.mx" tvg-name="CanalDHE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_m.png" group-title="Cine",DHE
+https://tv.teleclub.xyz/live/club3/DHE.m3u8
 #
 #EXTINF:-1 tvg-ID="FoxSports(ConoSur).co" tvg-name="FoxSports(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
 https://tv.teleclub.xyz/live/club/FOXSPORT_LAT.m3u8
