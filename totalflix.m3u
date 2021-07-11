@@ -224,9 +224,9 @@ https://tv.teleclub.xyz/live/club/HTV.m3u8
 https://tv.teleclub.xyz/live/club/VH1.m3u8
 #
 #EXTINF:-1 tvg-ID="Venus.mx" tvg-name="Venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11246
+http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/830
 #EXTINF:-1 tvg-ID="Playboy.mx" tvg-name="Playboy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png" group-title="Adulto",Playboy TV
-http://tv1.cs10.tv:80/leopoldo/leopoldo/11265
+http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/820
 #EXTINF:-1 tvg-ID="SeXtreme.mx" tvg-name="SeXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sextre_m.png" group-title="Adulto",Sextreme
 http://tv1.cs10.tv:80/leopoldo/leopoldo/11267
 #EXTINF:-1 tvg-ID="SexyHot.br" tvg-name="SexyHot.br" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sexhot_m.png" group-title="Adulto",Sexy Hot
