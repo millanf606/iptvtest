@@ -110,6 +110,8 @@ https://tv.teleclub.xyz/live/club/HBO2.m3u8
 https://tv.teleclub.xyz/live/club2/HBO2.m3u8
 #EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
 https://tv.teleclub.xyz/live/club/HBOPLUS.m3u8
+#EXTINF:-1 tvg-ID="HBOPlus.co" tvg-name="HBOPlus.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus Oeste
+https://tv.teleclub.xyz/live/club2/HBOPLUS.m3u8
 #EXTINF:-1 tvg-ID="HBOSignature.mx" tvg-name="HBOSignature.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
 https://tv.teleclub.xyz/live/club/HBOSIGNATURE.m3u8
 #EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
