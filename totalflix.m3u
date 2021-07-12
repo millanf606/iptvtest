@@ -10,11 +10,11 @@ https://tv.teleclub.xyz/live/club/UNIVERSAL.m3u8
 #EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
 https://tv.teleclub.xyz/live/club/FX.m3u8
 #EXTINF:-1 tvg-ID="AandE.mx" tvg-name="AandE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
-https://tv.teleclub.xyz/live/club/AYE.m3u8
+https://tv.teleclub.xyz/live/club2/AYE.m3u8
 #EXTINF:-1 tvg-ID="AXN.mx" tvg-name="AXN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
 https://tv.teleclub.xyz/live/club/AXN.m3u8
 #EXTINF:-1 tvg-ID="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",Tru TV
-https://tv.teleclub.xyz/live/club/TRUTV.m3u8
+https://tv.teleclub.xyz/live/club2/TRUTV.m3u8
 #EXTINF:-1 tvg-ID="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
 https://tv.teleclub.xyz/live/club/COMEDYCENTRAL.m3u8
 #EXTINF:-1 tvg-ID="HOLATV.mx" tvg-name="HOLATV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Entretenimiento",HolaTV
@@ -22,7 +22,7 @@ https://tv.teleclub.xyz/live/club/HOLATV.m3u8
 #EXTINF:-1 tvg-ID="MasChic.mx" tvg-name="MasChic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento",MásChic
 https://tv.teleclub.xyz/live/club2/MASCHIC.m3u8
 #EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
-https://tv.teleclub.xyz/live/club/ID.m3u8
+https://tv.teleclub.xyz/live/club2/ID.m3u8
 #EXTINF:-1 tvg-ID="SYFY.mx" tvg-name="SYFY.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SyFy
 https://tv.teleclub.xyz/live/club/SYFY.m3u8
 #EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
@@ -32,7 +32,7 @@ https://tv.teleclub.xyz/live/club/ELGOURMET.m3u8
 #EXTINF:-1 tvg-ID="Glitz.mx" tvg-name="Glitz.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
 https://tv.teleclub.xyz/live/club2/GLITZ.m3u8
 #EXTINF:-1 tvg-ID="StarLife.mx" tvg-name="StarLife.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-life_m.png" group-title="Entretenimiento",Star Life
-https://tv.teleclub.xyz/live/club/FOXLIFE.m3u8
+https://tv.teleclub.xyz/live/club2/FOXLIFE.m3u8
 #EXTINF:-1 tvg-ID="TBS.mx" tvg-name="TBS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
 https://tv.teleclub.xyz/live/club/TBS.m3u8
 #EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",TLNovelas
@@ -53,19 +53,17 @@ https://tv.teleclub.xyz/live/club2/DKIDS.m3u8
 #EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
 https://tv.teleclub.xyz/live/club/DISNEYJR.m3u8
 #EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil",Nick Jr.
-https://tv.teleclub.xyz/live/club/NICKJR.m3u8
+https://tv.teleclub.xyz/live/club2/NICKJR.m3u8
 #EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil",Disney Channel 
-https://tv.teleclub.xyz/live/club/DISNEY.m3u8
+https://tv.teleclub.xyz/live/club2/DISNEY.m3u8
 #EXTINF:-1 tvg-ID="Nick.mx" tvg-name="Nick.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil",Nick
-https://tv.teleclub.xyz/live/club/NICK.m3u8
+https://tv.teleclub.xyz/live/club2/NICK.m3u8
 #EXTINF:-1 tvg-ID="NatGeoKids.mx" tvg-name="NatGeoKids.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-kids_m.png" group-title="Infantil",NatGeo Kids
 https://tv.teleclub.xyz/live/club/NATGEOKIDS.m3u8
 #EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
 https://tv.teleclub.xyz/live/club/CARTOON.m3u8
 #EXTINF:-1 tvg-ID="DisneyXD.mx" tvg-name="DisneyXD.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantil",Disney XD
-https://tv.teleclub.xyz/live/club/DISNEYXD.m3u8
-#EXTINF:-1 tvg-ID="Boomerang.mx" tvg-name="Boomerang.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/boomerang-cartoon_m.png" group-title="Infantil",Boomerang 
-https://tv.teleclub.xyz/live/club2/BOOMERANG.m3u8
+https://tv.teleclub.xyz/live/club2/DISNEYXD.m3u8
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
 https://tv.teleclub.xyz/live/club/TOONCAST.m3u8
 #EXTINF:-1 tvg-ID="Locomotion.mx" tvg-name="Locomotion.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/loco_m.png" group-title="Infantil",Locomotion TV
@@ -74,15 +72,15 @@ http://51.222.85.85:81/hls/loco/index.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_m.png" group-title="Mundo y Aprendizaje",Discovery Theater
 https://tv.teleclub.xyz/live/club/DTHEATER.m3u8
 #EXTINF:-1 tvg-ID="History.mx" tvg-name="History.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo y Aprendizaje",History
-https://tv.teleclub.xyz/live/club/HISTORY.m3u8
+https://tv.teleclub.xyz/live/club2/HISTORY.m3u8
 #EXTINF:-1 tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo y Aprendizaje",National Geographic 
-https://tv.teleclub.xyz/live/club/NATGEO.m3u8
+https://tv.teleclub.xyz/live/club2/NATGEO.m3u8
 #EXTINF:-1 tvg-ID="NationalGeographicWild.mx" tvg-name="NationalGeographicWild.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Mundo y Aprendizaje",National Geographic Wild
 https://tv.teleclub.xyz/live/club/NATGEOWILD.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryWorld.mx" tvg-name="DiscoveryWorld.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-w_m.png" group-title="Mundo y Aprendizaje",Discovery World
 https://tv.teleclub.xyz/live/club2/DISCOVERYWORLD.m3u8
 #EXTINF:-1 tvg-ID="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo y Aprendizaje",Animal Planet 
-https://tv.teleclub.xyz/live/club/ANIMALPLANET.m3u8
+https://tv.teleclub.xyz/live/club2/ANIMALPLANET.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryTurbo.mx" tvg-name="DiscoveryTurbo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo y Aprendizaje",Discovery Turbo
 https://tv.teleclub.xyz/live/club/DTURBO.m3u8
 #EXTINF:-1 tvg-ID="TLC.mx" tvg-name="TLC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-tlc_m.png" group-title="Mundo y Aprendizaje",TLC
@@ -90,11 +88,11 @@ https://tv.teleclub.xyz/live/club/TLC.m3u8
 #EXTINF:-1 tvg-ID="History2.mx" tvg-name="History2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo y Aprendizaje",H2
 https://tv.teleclub.xyz/live/club/H2.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryChannel.mx" tvg-name="DiscoveryChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo y Aprendizaje",Discovery Channel
-https://tv.teleclub.xyz/live/club/DISCOVERY.m3u8
+https://tv.teleclub.xyz/live/club2/DISCOVERY.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Mundo y Aprendizaje",Discovery Home & Health 
 https://tv.teleclub.xyz/live/club/DHYH.m3u8
 #EXTINF:-1 tvg-ID="Lifetime.mx" tvg-name="Lifetime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Mundo y Aprendizaje",Lifetime
-https://tv.teleclub.xyz/live/club/LIFETIME.m3u8
+https://tv.teleclub.xyz/live/club2/LIFETIME.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo y Aprendizaje",Discovery Science  
 https://tv.teleclub.xyz/live/club2/DSCIENCES.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryCivilization.mx" tvg-name="DiscoveryCivilization.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-civilization_m.png" group-title="Mundo y Aprendizaje",Discovery Civilization  
@@ -138,9 +136,9 @@ https://tv.teleclub.xyz/live/club/FOXCINEMA.m3u8
 https://tv.teleclub.xyz/live/club/FOXCLASSIC.m3u8
 #
 #EXTINF:-1 tvg-ID="ParamountNetwork.mx" tvg-name="ParamountNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
-https://tv.teleclub.xyz/live/club/PARAMOUNT.m3u8
+https://tv.teleclub.xyz/live/club2/PARAMOUNT.m3u8
 #EXTINF:-1 tvg-ID="Cinecanal.mx" tvg-name="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
-https://tv.teleclub.xyz/live/club/CINECANAL.m3u8
+https://tv.teleclub.xyz/live/club2/CINECANAL.m3u8
 #EXTINF:-1 tvg-ID="GoldenPremier.mx" tvg-name="GoldenPremier.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" group-title="Cine",Golden Premier
 https://tv.teleclub.xyz/live/club/GOLDENPREMIER.m3u8
 #EXTINF:-1 tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
@@ -148,7 +146,7 @@ https://tv.teleclub.xyz/live/club/TNT.m3u8
 #EXTINF:-1 tvg-ID="GOLDENPLUS.mx" tvg-name="GOLDENPLUS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-plus_m.png" group-title="Cine",Golden Plus
 https://tv.teleclub.xyz/live/club/GOLDEN.m3u8
 #EXTINF:-1 tvg-ID="FXMovies.mx" tvg-name="FXMovies.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Cine",FX Movies
-https://tv.teleclub.xyz/live/club/FXM.m3u8
+https://tv.teleclub.xyz/live/club2/FXM.m3u8
 #EXTINF:-1 tvg-ID="DePelicula.mx" tvg-name="DePelicula.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Cine",De Pelicula
 https://tv.teleclub.xyz/live/club/DEPELICULA.m3u8
 #EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Cine",AMC
@@ -156,7 +154,7 @@ https://tv.teleclub.xyz/live/club/AMC.m3u8
 #EXTINF:-1 tvg-ID="Space.mx" tvg-name="Space.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
 https://tv.teleclub.xyz/live/club/SPACE.m3u8
 #EXTINF:-1 tvg-ID="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
-https://tv.teleclub.xyz/live/club/CINEMAX.m3u8
+https://tv.teleclub.xyz/live/club2/CINEMAX.m3u8
 #EXTINF:-1 tvg-ID="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine",Golden
 https://tv.teleclub.xyz/live/club2/GOLDEN.m3u8
 #EXTINF:-1 tvg-ID="StudioUniversal.mx" tvg-name="StudioUniversal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
