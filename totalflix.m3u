@@ -5,6 +5,8 @@ https://tv.teleclub.xyz/live/club/FOX.m3u8
 https://tv.teleclub.xyz/live/club/SONY.m3u8
 #EXTINF:-1 tvg-ID="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner Channel
 https://tv.teleclub.xyz/live/club/WARNER.m3u8
+#EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner Channel Oeste
+https://tv.teleclub.xyz/live/club2/WARNER.m3u8
 #EXTINF:-1 tvg-ID="UniversalTV.mx" tvg-name="UniversalTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
 https://tv.teleclub.xyz/live/club/UNIVERSAL.m3u8
 #EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
