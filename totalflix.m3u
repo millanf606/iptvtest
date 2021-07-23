@@ -46,7 +46,7 @@ https://tv.teleclub.xyz/live/club/LASESTRELLAS.m3u8
 #EXTINF:-1 tvg-ID="CaracolTVCanal1.co" tvg-name="CaracolTVCanal1.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Entretenimiento",Caracol TV
 https://tv.teleclub.xyz/live/club/CARACOL.m3u8
 #EXTINF:-1 tvg-ID="Azteca7.mx" tvg-name="Azteca7.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/azteca7_m.png" group-title="Entretenimiento",Azteca 7
-https://tv.teleclub.xyz/live/club/AZTECA7.m3u8
+https://tv.teleclub.xyz/live/club2/AZTECA7.m3u8
 #
 #EXTINF:-1 tvg-ID="BabyTv.mx" tvg-name="BabyTv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",BabyTV
 https://tv.teleclub.xyz/live/club2/BABYTV.m3u8
@@ -192,9 +192,9 @@ https://tv.teleclub.xyz/live/club/ESPN3_MEX.m3u8
 https://tv.teleclub.xyz/live/club/ESPN_DEPORTES.m3u8
 #EXTINF:-1 tvg-ID="ESPN.co" tvg-name="ESPN.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Latam
 https://tv.teleclub.xyz/live/club/ESPN_LAT.m3u8
-#EXTINF:-1 tvg-ID="ESPN3(South).co" tvg-name="ESPN3(South).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 Latam
+#EXTINF:-1 tvg-ID="ESPN2.co" tvg-name="ESPN2.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 Latam
 https://tv.teleclub.xyz/live/club/ESPN3_LAT.m3u8
-#EXTINF:-1 tvg-ID="ESPN2.co" tvg-name="ESPN2.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 Latam
+#EXTINF:-1 tvg-ID="ESPN3(South).co" tvg-name="ESPN3(South).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 Latam
 https://tv.teleclub.xyz/live/club/ESPN2_LAT.m3u8
 #EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra Latam
 https://tv.teleclub.xyz/live/club/ESPNPLUS_LAT.m3u8
@@ -206,6 +206,8 @@ https://tv.teleclub.xyz/live/club/TUDN_MX.m3u8
 https://tv.teleclub.xyz/live/club/TUDN_USA.m3u8
 #EXTINF:-1 tvg-ID="beINSportsEnEspanol(Spanish).us" tvg-name="beINSportsEnEspanol(Spanish).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/beins-spa_m.png" group-title="Deportes",Bein Sport Ñ
 https://tv.teleclub.xyz/live/club/BEINSPORTN.m3u8
+#EXTINF:-1 tvg-ID="ClaroSports.mx" tvg-name="ClaroSports.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/claro-sport_m.png" group-title="Deportes",Claro Sport
+https://tv.teleclub.xyz/live/club2/CLAROSPORT.m3u8
 #
 #EXTINF:-1 tvg-ID="CNNInternational(English).mx" tvg-name="CNNInternational(English).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
 https://tv.teleclub.xyz/live/club2/CNNINT.m3u8
