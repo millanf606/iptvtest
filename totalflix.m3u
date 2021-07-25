@@ -129,9 +129,9 @@ https://tv.teleclub.xyz/live/club2/HBOXTREME.m3u8
 #EXTINF:-1 tvg-ID="StarSeries.mx" tvg-name="StarSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-series_m.png" group-title="Premium",Star Series
 https://tv.teleclub.xyz/live/club2/FOXSERIES.m3u8
 #EXTINF:-1 tvg-ID="StarAction.mx" tvg-name="StarAction.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-action_m.png" group-title="Premium",Star Action
-https://tv.teleclub.xyz/live/club2/FOXACTION.m3u8
+https://tv.teleclub.xyz/live/club/FOXACTION.m3u8
 #EXTINF:-1 tvg-ID="StarHits.mx" tvg-name="StarHits.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-hits_m.png" group-title="Premium",Star Hits
-https://tv.teleclub.xyz/live/club2/FOXMOVIES.m3u8
+https://tv.teleclub.xyz/live/club/FOXMOVIES.m3u8
 #EXTINF:-1 tvg-ID="STARFUN.mx" tvg-name="STARFUN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-fun_m.png" group-title="Premium",Star Fun
 https://tv.teleclub.xyz/live/club2/FOXFAMILY.m3u8
 #EXTINF:-1 tvg-ID="STARCOMEDY.mx" tvg-name="STARCOMEDY.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png" group-title="Premium",Star Comedy
