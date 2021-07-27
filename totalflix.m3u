@@ -154,7 +154,7 @@ https://tv.teleclub.xyz/live/club2/TNT.m3u8
 #EXTINF:-1 tvg-ID="GOLDENPLUS.mx" tvg-name="GOLDENPLUS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-plus_m.png" group-title="Cine",Golden Plus
 https://tv.teleclub.xyz/live/club/GOLDEN.m3u8
 #EXTINF:-1 tvg-ID="FXMovies.mx" tvg-name="FXMovies.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Cine",FX Movies
-https://tv.teleclub.xyz/live/club2/FXM.m3u8
+https://tv.teleclub.xyz/live/club/FXM.m3u8
 #EXTINF:-1 tvg-ID="DePelicula.mx" tvg-name="DePelicula.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Cine",De Pelicula
 https://tv.teleclub.xyz/live/club/DEPELICULA.m3u8
 #EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Cine",AMC
