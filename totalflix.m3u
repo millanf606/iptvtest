@@ -27,12 +27,8 @@ https://tv.teleclub.xyz/live/club/HOLATV.m3u8
 https://tv.teleclub.xyz/live/club2/MASCHIC.m3u8
 #EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
 https://tv.teleclub.xyz/live/club2/ID.m3u8
-#EXTINF:-1 tvg-ID="SYFY.mx" tvg-name="SYFY.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SyFy
-https://tv.teleclub.xyz/live/club/SYFY.m3u8
 #EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
 https://tv.teleclub.xyz/live/club/TNTSERIES.m3u8
-#EXTINF:-1 tvg-ID="TNTSeries.ar" tvg-name="TNTSeries.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series Oeste
-https://tv.teleclub.xyz/live/club2/TNTSERIES.m3u8
 #EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
 https://tv.teleclub.xyz/live/club/ELGOURMET.m3u8
 #EXTINF:-1 tvg-ID="Glitz.mx" tvg-name="Glitz.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
@@ -43,14 +39,16 @@ https://tv.teleclub.xyz/live/club2/FOXLIFE.m3u8
 https://tv.teleclub.xyz/live/club/TBS.m3u8
 #EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",TLNovelas
 https://tv.teleclub.xyz/live/club/TLNOVELAS.m3u8
-#EXTINF:-1 tvg-ID="Telemundo(Spanish).us" tvg-name="Telemundo(Spanish).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Entretenimiento",Telemundo
-https://tv.teleclub.xyz/live/club2/TELEMUNDO.m3u8
 #EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
 https://tv.teleclub.xyz/live/club/LASESTRELLAS.m3u8
+#EXTINF:-1 tvg-ID="Telemundo(Spanish).us" tvg-name="Telemundo(Spanish).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Entretenimiento",Telemundo
+https://tv.teleclub.xyz/live/club2/TELEMUNDO.m3u8
 #EXTINF:-1 tvg-ID="CaracolTVCanal1.co" tvg-name="CaracolTVCanal1.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Entretenimiento",Caracol TV
 https://tv.teleclub.xyz/live/club/CARACOL.m3u8
 #EXTINF:-1 tvg-ID="Azteca7.mx" tvg-name="Azteca7.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/azteca7_m.png" group-title="Entretenimiento",Azteca 7
 https://tv.teleclub.xyz/live/club2/AZTECA7.m3u8
+#EXTINF:-1 tvg-ID="Americatv.pe" tvg-name="Americatv.pe" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/america-tv_m.png" group-title="Entretenimiento",America TV
+https://tv.teleclub.xyz/live/club3/AMERICATV.m3u8
 #
 #EXTINF:-1 tvg-ID="BabyTv.mx" tvg-name="BabyTv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",BabyTV
 https://tv.teleclub.xyz/live/club2/BABYTV.m3u8
@@ -149,8 +147,6 @@ https://tv.teleclub.xyz/live/club2/CINECANAL.m3u8
 https://tv.teleclub.xyz/live/club/GOLDENPREMIER.m3u8
 #EXTINF:-1 tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
 https://tv.teleclub.xyz/live/club/TNT.m3u8
-#EXTINF:-1 tvg-ID="TNT.co" tvg-name="TNT.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT Oeste
-https://tv.teleclub.xyz/live/club2/TNT.m3u8
 #EXTINF:-1 tvg-ID="GOLDENPLUS.mx" tvg-name="GOLDENPLUS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-plus_m.png" group-title="Cine",Golden Plus
 https://tv.teleclub.xyz/live/club/GOLDEN.m3u8
 #EXTINF:-1 tvg-ID="FXMovies.mx" tvg-name="FXMovies.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Cine",FX Movies
