@@ -78,7 +78,7 @@ https://tv.teleclub.xyz/live/club/DTHEATER.m3u8
 #EXTINF:-1 tvg-ID="History.mx" tvg-name="History.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo y Aprendizaje",History
 https://tv.teleclub.xyz/live/club2/HISTORY.m3u8
 #EXTINF:-1 tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo y Aprendizaje",National Geographic 
-https://tv.teleclub.xyz/live/club2/NATGEO.m3u8
+https://tv.teleclub.xyz/live/club/NATGEO.m3u8
 #EXTINF:-1 tvg-ID="NationalGeographicWild.mx" tvg-name="NationalGeographicWild.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Mundo y Aprendizaje",National Geographic Wild
 https://tv.teleclub.xyz/live/club/NATGEOWILD.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryWorld.mx" tvg-name="DiscoveryWorld.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-w_m.png" group-title="Mundo y Aprendizaje",Discovery World
