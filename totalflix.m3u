@@ -127,7 +127,7 @@ https://tv.teleclub.xyz/live/club2/HBOXTREME.m3u8
 #EXTINF:-1 tvg-ID="StarSeries.mx" tvg-name="StarSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-series_m.png" group-title="Premium",Star Series
 https://tv.teleclub.xyz/live/club2/FOXSERIES.m3u8
 #EXTINF:-1 tvg-ID="StarAction.mx" tvg-name="StarAction.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-action_m.png" group-title="Premium",Star Action
-https://tv.teleclub.xyz/live/club/FOXACTION.m3u8
+https://tv.teleclub.xyz/live/club2/FOXACTION.m3u8
 #EXTINF:-1 tvg-ID="StarHits.mx" tvg-name="StarHits.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-hits_m.png" group-title="Premium",Star Hits
 https://tv.teleclub.xyz/live/club/FOXMOVIES.m3u8
 #EXTINF:-1 tvg-ID="STARFUN.mx" tvg-name="STARFUN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-fun_m.png" group-title="Premium",Star Fun
@@ -224,8 +224,8 @@ https://tv.teleclub.xyz/live/club/HTV.m3u8
 https://tv.teleclub.xyz/live/club/VH1.m3u8
 #
 #EXTINF:-1 tvg-ID="Venus.mx" tvg-name="Venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
-http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/830
+http://185.134.22.131:8080/pedro123/pedro321/53589
 #EXTINF:-1 tvg-ID="Playboy.mx" tvg-name="Playboy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png" group-title="Adulto",Playboy TV
-http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/820
+http://185.134.22.131:8080/pedro123/pedro321/13617
 #EXTINF:-1 tvg-ID="HustlerTV(English).ar" tvg-name="HustlerTV(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hustler_m.png" group-title="Adulto",Hustler TV
-http://live.oldtv.online:6923/Bae2pPMdqU/iMYOGmiiXT/812
+http://185.134.22.131:8080/pedro123/pedro321/6166
