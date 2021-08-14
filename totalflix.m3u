@@ -192,12 +192,18 @@ https://tv.teleclub.xyz/live/club2/ESPN_MEX.m3u8
 https://tv.teleclub.xyz/live/club2/ESPN3_MEX.m3u8
 #EXTINF:-1 tvg-ID="ESPN.co" tvg-name="ESPN.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Latam
 https://tv.teleclub.xyz/live/club/ESPN_LAT.m3u8
-#EXTINF:-1 tvg-ID="ESPN2.co" tvg-name="ESPN2.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 Latam
-https://tv.teleclub.xyz/live/club2/ESPN2_LAT.m3u8
+#EXTINF:-1 tvg-ID="ESPN2.ar" tvg-name="ESPN2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 Latam
+https://tv.teleclub.xyz/live/club/ESPN2_LAT.m3u8
 #EXTINF:-1 tvg-ID="ESPN3(South).co" tvg-name="ESPN3(South).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 Latam
-https://tv.teleclub.xyz/live/club2/ESPN3_LAT.m3u8
+https://tv.teleclub.xyz/live/club/ESPN3_LAT.m3u8
 #EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra Latam
 https://tv.teleclub.xyz/live/club/ESPNPLUS_LAT.m3u8
+#EXTINF:-1 tvg-ID="ESPN.co" tvg-name="ESPN.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN Argentina
+https://tv.teleclub.xyz/live/club2/ESPN_LAT.m3u8
+#EXTINF:-1 tvg-ID="ESPN2.co" tvg-name="ESPN2.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 Argentina
+https://tv.teleclub.xyz/live/club2/ESPN2_LAT.m3u8
+#EXTINF:-1 tvg-ID="ESPN3(South).co" tvg-name="ESPN3(South).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 Argentina
+https://tv.teleclub.xyz/live/club2/ESPN3_LAT.m3u8
 #EXTINF:-1 tvg-ID="TNTSports.ar" tvg-name="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tntsport_m.png" group-title="Deportes",Estadio TNT Sports 
 https://tv.teleclub.xyz/live/club/TNTSPORTS.m3u8
 #EXTINF:-1 tvg-ID="TUDN.mx" tvg-name="TUDN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN
