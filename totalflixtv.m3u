@@ -178,17 +178,19 @@ http://tv.teleclub.xyz/live/hls_01/ESPNPLUS_LAT.m3u8
 #
 #EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
 http://tv.teleclub.xyz/live/hls_01/CNNESPANOL.m3u8
-#EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
+#EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT en Español
 http://tv.teleclub.xyz/live/hls_01/RT_ESPANOL.m3u8
 #
 #EXTINF:-1 tvg-ID="MTV.mx" tvg-name="MTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
-http://tv.teleclub.xyz/live/hls_01/MTV.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/4007/master.m3u8?q=desc
+#EXTINF:-1 tvg-ID="MTVHits(English).co" tvg-name="MTVHits(English).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv-hits_m.png" group-title="Musica",MTV Hits
+http://live.steelchannels.com/streaming_free/4e580757/4010/master.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HTV.mx" tvg-name="HTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/htv_m.png" group-title="Musica",HTV
-http://tv.teleclub.xyz/live/hls_01/HTV.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/4005/master.m3u8?q=desc
 #
-#EXTINF:-1 tvg-ID="Venus.mx" tvg-name="Venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
-http://tv.teleclub.xyz/live/hls_01/XXX_2.m3u8
-#EXTINF:-1 tvg-ID="Playboy.mx" tvg-name="Playboy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/brazz_m.png" group-title="Adulto",Brazzers TV
-http://tv.teleclub.xyz/live/hls_01/XXX_3.m3u8
 #EXTINF:-1 tvg-ID="HustlerTV(English).ar" tvg-name="HustlerTV(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hustler_m.png" group-title="Adulto",Hustler TV
 http://tv.teleclub.xyz/live/hls_01/XXX_1.m3u8
+#EXTINF:-1 tvg-ID="Venus.mx" tvg-name="Venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
+http://tv.teleclub.xyz/live/hls_01/XXX_2.m3u8
+#EXTINF:-1 tvg-ID="BrazzersTV.mx" tvg-name="BrazzersTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/brazz_m.png" group-title="Adulto",Brazzers TV
+http://tv.teleclub.xyz/live/hls_01/XXX_3.m3u8
