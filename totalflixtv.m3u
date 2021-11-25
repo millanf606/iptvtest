@@ -5,11 +5,11 @@ http://wwz.cisneros.tv/ch-estudio4/myStream/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-ID="vtv.ve" tvg-name="vtv.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Nacionales",VTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vtv
 #EXTINF:-1 tvg-ID="tlt.ve" tvg-name="tlt.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Nacionales",TLT
-http://live.steelchannels.com/streaming_free/4e580757/8047/master.m3u8?q=desc
+https://vcp.myplaytv.com/tlthd/tlthd/playlist.m3u8
 #EXTINF:-1 tvg-ID="ivc.ve" tvg-name="ivc.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ivc_m.png" group-title="Nacionales",IVC
-http://live.steelchannels.com/streaming_free/4e580757/8053/master.m3u8?q=desc
+https://vp01-ivciptv.delivery.fuugo.com/ngrp:vp01-IVC_IPTV-52ba3ca1_all/chunklist_b2596000.m3u8
 #EXTINF:-1 tvg-ID="televen.ve" tvg-name="televen.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Nacionales",Televen
-http://live.steelchannels.com/streaming_free/4e580757/5497/master.m3u8?q=desc
+https://cloud.streamingconnect.tv:455/televen/televenweb.m3u8
 #EXTINF:-1 tvg-ID="tvo.ve" tvg-name="tvo.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tvo_m.png" group-title="Nacionales",TVO
 http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8
 #EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Nacionales",Telesur
