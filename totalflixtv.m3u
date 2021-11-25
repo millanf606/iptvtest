@@ -52,6 +52,8 @@ http://tv.teleclub.xyz/live/hls_01/TLNOVELAS.m3u8
 #EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
 http://tv.teleclub.xyz/live/hls_01/LASESTRELLAS.m3u8
 #
+#
+#
 #EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
 http://tv.teleclub.xyz/live/hls_01/DISNEYJR.m3u8
 #EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil",Nick Jr.
@@ -74,6 +76,8 @@ http://tv.teleclub.xyz/live/hls_01/BOOMERANG.m3u8
 http://tv.teleclub.xyz/live/hls_01/BITME.m3u8
 #EXTINF:-1 tvg-ID="Locomotion.mx" tvg-name="Locomotion.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/loco_m.png" group-title="Infantil",Locomotion TV
 http://51.222.85.85:81/hls/loco/index.m3u8
+#
+#
 #
 #EXTINF:-1 tvg-ID="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_m.png" group-title="Mundo y Aprendizaje",Discovery Theater
 http://tv.teleclub.xyz/live/hls_01/DTHEATER.m3u8
@@ -101,6 +105,8 @@ http://tv.teleclub.xyz/live/hls_01/DHYH.m3u8
 http://tv.teleclub.xyz/live/hls_01/LIFETIME.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo y Aprendizaje",Discovery Science  
 http://tv.teleclub.xyz/live/hls_01/DSCIENCES.m3u8
+#
+#
 #
 #EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
 http://tv.teleclub.xyz/live/hls_01/HBO.m3u8
@@ -133,6 +139,8 @@ http://tv.teleclub.xyz/live/hls_01/FOXCINEMA.m3u8
 #EXTINF:-1 tvg-ID="StarClassics.mx" tvg-name="StarClassics.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-class_m.png" group-title="Premium",Star Classic
 http://tv.teleclub.xyz/live/hls_01/FOXCLASSIC.m3u8
 #
+#
+#
 #EXTINF:-1 tvg-ID="ParamountNetwork.mx" tvg-name="ParamountNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
 http://tv.teleclub.xyz/live/hls_01/PARAMOUNT.m3u8
 #EXTINF:-1 tvg-ID="Cinecanal.mx" tvg-name="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
@@ -153,16 +161,12 @@ https://tv.teleclub.xyz/live/hls_2/AMC.m3u8
 http://tv.teleclub.xyz/live/hls_01/SPACE.m3u8
 #EXTINF:-1 tvg-ID="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
 http://tv.teleclub.xyz/live/hls_01/CINEMAX.m3u8
-#EXTINF:-1 tvg-ID="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine",Golden
-https://tv.teleclub.xyz/live/hls_2/GOLDEN.m3u8
 #EXTINF:-1 tvg-ID="StudioUniversal.mx" tvg-name="StudioUniversal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
 http://tv.teleclub.xyz/live/hls_01/STUDIOUNIVERSAL.m3u8
 #EXTINF:-1 tvg-ID="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine-latino_m.png" group-title="Cine",Cine Latino
 http://tv.teleclub.xyz/live/hls_01/CINELATINO.m3u8
-#EXTINF:-1 tvg-ID="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Cine",Golden Edge
-https://tv.teleclub.xyz/live/hls_2/GEDGE.m3u8
-#EXTINF:-1 tvg-ID="CanalDHE.mx" tvg-name="CanalDHE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_m.png" group-title="Cine",DHE
-https://tv.teleclub.xyz/live/hls_2/DHE.m3u8
+#
+#
 #
 #EXTINF:-1 tvg-ID="FoxSports(ConoSur).co" tvg-name="FoxSports(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
 http://tv.teleclub.xyz/live/hls_01/FOXSPORT_LAT.m3u8
@@ -186,17 +190,23 @@ http://tv.teleclub.xyz/live/hls_01/ESPN3_LAT.m3u8
 http://tv.teleclub.xyz/live/hls_01/ESPNPLUS_LAT.m3u8
 #EXTINF:-1 tvg-ID="TUDN.mx" tvg-name="TUDN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN
 #
+#
+#
 #EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
 http://tv.teleclub.xyz/live/hls_01/CNNESPANOL.m3u8
 #EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT en Español
 http://tv.teleclub.xyz/live/hls_01/RT_ESPANOL.m3u8
 #
+#
+#
 #EXTINF:-1 tvg-ID="MTV.mx" tvg-name="MTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
-http://live.steelchannels.com/streaming_free/4e580757/4007/master.m3u8?q=desc
+https://tv.teleclub.xyz/live/hls_1/MTV.m3u8
 #EXTINF:-1 tvg-ID="MTVHits(English).co" tvg-name="MTVHits(English).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv-hits_m.png" group-title="Musica",MTV Hits
-http://live.steelchannels.com/streaming_free/4e580757/4010/master.m3u8?q=desc
+https://tv.teleclub.xyz/live/hls_1/MTVHITS.m3u8
 #EXTINF:-1 tvg-ID="HTV.mx" tvg-name="HTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/htv_m.png" group-title="Musica",HTV
-http://live.steelchannels.com/streaming_free/4e580757/4005/master.m3u8?q=desc
+https://tv.teleclub.xyz/live/hls_1/HTV.m3u8
+#
+#
 #
 #EXTINF:-1 tvg-ID="HustlerTV(English).ar" tvg-name="HustlerTV(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hustler_m.png" group-title="Adulto",Hustler TV
 http://tv.teleclub.xyz/live/hls_01/XXX_1.m3u8
