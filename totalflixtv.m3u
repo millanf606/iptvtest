@@ -1,11 +1,21 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8kk72bw16kng1v3"
 #
-#EXTINF:-1 tvg-ID="tlt.ve" tvg-name="tlt.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Regionales",TLT
+#EXTINF:-1 tvg-ID="vene.ve" tvg-name="vene.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Nacionales",Venevision
+https://www.youtube.com/watch?v=-zQh4xk7Mfs
+#EXTINF:-1 tvg-ID="vtv.ve" tvg-name="vtv.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Nacionales",VTV
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/vtv
+#EXTINF:-1 tvg-ID="tlt.ve" tvg-name="tlt.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Nacionales",TLT
 http://live.steelchannels.com/streaming_free/4e580757/8047/master.m3u8?q=desc
-#EXTINF:-1 tvg-ID="ivc.ve" tvg-name="ivc.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ivc_m.png" group-title="Regionales",IVC
+#EXTINF:-1 tvg-ID="ivc.ve" tvg-name="ivc.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ivc_m.png" group-title="Nacionales",IVC
 http://live.steelchannels.com/streaming_free/4e580757/8053/master.m3u8?q=desc
-#EXTINF:-1 tvg-ID="televen.ve" tvg-name="televen.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Regionales",Televen
+#EXTINF:-1 tvg-ID="televen.ve" tvg-name="televen.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Nacionales",Televen
 http://live.steelchannels.com/streaming_free/4e580757/5497/master.m3u8?q=desc
+#EXTINF:-1 tvg-ID="tvo.ve" tvg-name="tvo.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tvo_m.png" group-title="Nacionales",TVO
+http://vcp1.myplaytv.com:1935/tvo/tvo/playlist.m3u8
+#EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Nacionales",Telesur
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
+#
+#
 #
 #EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 http://tv.teleclub.xyz/live/hls_01/FOX.m3u8
