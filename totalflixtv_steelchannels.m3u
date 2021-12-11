@@ -1,170 +1,170 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8kk72bw16kng1v3"
 #
 #EXTINF:-1 tvg-ID="vene.ve" tvg-name="vene.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Nacionales",Venevision
-http://live.steelchannels.com/streaming_free/4e580757/5500/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/5500/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="tlt.ve" tvg-name="tlt.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Nacionales",TLT
-http://live.steelchannels.com/streaming_free/4e580757/8047/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/8047/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="ivc.ve" tvg-name="ivc.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ivc_m.png" group-title="Nacionales",IVC
-http://live.steelchannels.com/streaming_free/4e580757/8053/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/8053/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="televen.ve" tvg-name="televen.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Nacionales",Televen
-http://live.steelchannels.com/streaming_free/4e580757/5497/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/5497/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Nacionales",Telesur
-http://live.steelchannels.com/streaming_free/4e580757/5496/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/5496/master.m3u8?q=desc&d=android
 #
 #
 #
 #EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
-http://live.steelchannels.com/streaming_free/4e580757/2012/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2012/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="CanalSony.mx" tvg-name="CanalSony.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
-http://live.steelchannels.com/streaming_free/4e580757/2041/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2041/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
-http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="UniversalTV.mx" tvg-name="UniversalTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
-http://live.steelchannels.com/streaming_free/4e580757/2051/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2051/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
-http://live.steelchannels.com/streaming_free/4e580757/2023/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2023/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="AandE.mx" tvg-name="AandE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
-http://live.steelchannels.com/streaming_free/4e580757/2000/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2000/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="AXN.mx" tvg-name="AXN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
-http://live.steelchannels.com/streaming_free/4e580757/2002/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2002/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",Tru TV
-http://live.steelchannels.com/streaming_free/4e580757/3014/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3014/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
-http://live.steelchannels.com/streaming_free/4e580757/3002/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3002/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
-http://live.steelchannels.com/streaming_free/4e580757/3020/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3020/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
-http://live.steelchannels.com/streaming_free/4e580757/2050/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2050/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
-http://live.steelchannels.com/streaming_free/4e580757/3032/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3032/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
-http://live.steelchannels.com/streaming_free/4e580757/3001/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3001/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",TLNovelas
-http://live.steelchannels.com/streaming_free/4e580757/3012/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3012/master.m3u8?q=desc&d=android
 #
 #
 #
 #EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
-http://live.steelchannels.com/streaming_free/4e580757/1007/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/1007/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil",Disney Channel 
-http://live.steelchannels.com/streaming_free/4e580757/1006/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/1006/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="NatGeoKids.mx" tvg-name="NatGeoKids.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-kids_m.png" group-title="Infantil",NatGeo Kids
-http://live.steelchannels.com/streaming_free/4e580757/1009/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/1009/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
-http://live.steelchannels.com/streaming_free/4e580757/1003/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/1003/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="DisneyXD.mx" tvg-name="DisneyXD.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantil",Disney XD
-http://live.steelchannels.com/streaming_free/4e580757/1008/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/1008/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
-http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="Locomotion.mx" tvg-name="Locomotion.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/loco_m.png" group-title="Infantil",Locomotion TV
 http://51.222.85.85:81/hls/loco/index/index.m3u8
 #
 #
 #
 #EXTINF:-1 tvg-ID="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_m.png" group-title="Mundo y Aprendizaje",Discovery Theater
-http://live.steelchannels.com/streaming_free/4e580757/3022/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3022/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="History.mx" tvg-name="History.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo y Aprendizaje",History
-http://live.steelchannels.com/streaming_free/4e580757/3033/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3033/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo y Aprendizaje",National Geographic 
-http://live.steelchannels.com/streaming_free/4e580757/3028/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3028/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="NationalGeographicWild.mx" tvg-name="NationalGeographicWild.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Mundo y Aprendizaje",National Geographic Wild
-http://live.steelchannels.com/streaming_free/4e580757/3029/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3029/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo y Aprendizaje",Animal Planet 
-http://live.steelchannels.com/streaming_free/4e580757/3025/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3025/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="DiscoveryTurbo.mx" tvg-name="DiscoveryTurbo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo y Aprendizaje",Discovery Turbo
-http://live.steelchannels.com/streaming_free/4e580757/3023/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3023/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="History2.mx" tvg-name="History2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo y Aprendizaje",H2
-http://live.steelchannels.com/streaming_free/4e580757/3034/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3034/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="DiscoveryChannel.mx" tvg-name="DiscoveryChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo y Aprendizaje",Discovery Channel
-http://live.steelchannels.com/streaming_free/4e580757/3016/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3016/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Mundo y Aprendizaje",Discovery Home & Health 
-http://live.steelchannels.com/streaming_free/4e580757/3019/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3019/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo y Aprendizaje",Discovery Science  
-http://live.steelchannels.com/streaming_free/4e580757/3021/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/3021/master.m3u8?q=desc&d=android
 #
 #
 #
 #EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
-http://live.steelchannels.com/streaming_free/4e580757/2030/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2030/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
-http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
-http://live.steelchannels.com/streaming_free/4e580757/2034/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2034/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="HBOSignature.mx" tvg-name="HBOSignature.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
-http://live.steelchannels.com/streaming_free/4e580757/2036/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2036/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
-http://live.steelchannels.com/streaming_free/4e580757/2032/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2032/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="HBOMundi.mx" tvg-name="HBOMundi.mx" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
-http://live.steelchannels.com/streaming_free/4e580757/2033/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2033/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="HBOPop.mx" tvg-name="HBOPop.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
-http://live.steelchannels.com/streaming_free/4e580757/2035/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2035/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
-http://live.steelchannels.com/streaming_free/4e580757/2037/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2037/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="StarSeries.mx" tvg-name="StarSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-series_m.png" group-title="Premium",Star Series
-http://live.steelchannels.com/streaming_free/4e580757/2022/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2022/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="StarAction.mx" tvg-name="StarAction.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-action_m.png" group-title="Premium",Star Action
-http://live.steelchannels.com/streaming_free/4e580757/2016/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2016/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="StarHits.mx" tvg-name="StarHits.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-hits_m.png" group-title="Premium",Star Hits
-http://live.steelchannels.com/streaming_free/4e580757/2021/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2021/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="STARFUN.mx" tvg-name="STARFUN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-fun_m.png" group-title="Premium",Star Fun
-http://live.steelchannels.com/streaming_free/4e580757/2020/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2020/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="STARCOMEDY.mx" tvg-name="STARCOMEDY.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png" group-title="Premium",Star Comedy
-http://live.steelchannels.com/streaming_free/4e580757/2019/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2019/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="STARCINEMA.mx" tvg-name="STARCINEMA.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-cinema_m.png" group-title="Premium",Star Cinema
-http://live.steelchannels.com/streaming_free/4e580757/2017/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2017/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="StarClassics.mx" tvg-name="StarClassics.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-class_m.png" group-title="Premium",Star Classic
-http://live.steelchannels.com/streaming_free/4e580757/2018/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2018/master.m3u8?q=desc&d=android
 #
 #
 #
 #EXTINF:-1 tvg-ID="Cinecanal.mx" tvg-name="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
-http://live.steelchannels.com/streaming_free/4e580757/2005/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2005/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="GoldenPremier.mx" tvg-name="GoldenPremier.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" group-title="Cine",Golden Premier
-http://live.steelchannels.com/streaming_free/4e580757/2029/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2029/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
-http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="GOLDENPLUS.mx" tvg-name="GOLDENPLUS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-plus_m.png" group-title="Cine",Golden Plus
-http://live.steelchannels.com/streaming_free/4e580757/2028/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2028/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="FXMovies.mx" tvg-name="FXMovies.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Cine",FX Movies
-http://live.steelchannels.com/streaming_free/4e580757/2024/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2024/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Cine",AMC
-http://live.steelchannels.com/streaming_free/4e580757/2001/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2001/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="Space.mx" tvg-name="Space.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
-http://live.steelchannels.com/streaming_free/4e580757/2042/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2042/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
-http://live.steelchannels.com/streaming_free/4e580757/2006/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2006/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="StudioUniversal.mx" tvg-name="StudioUniversal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
-http://live.steelchannels.com/streaming_free/4e580757/2044/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/2044/master.m3u8?q=desc&d=android
 #
 #
 #
 #EXTINF:-1 tvg-ID="FoxSports(ConoSur).co" tvg-name="FoxSports(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
-http://live.steelchannels.com/streaming_free/4e580757/6059/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/6059/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="FoxSports2(ConoSur).co" tvg-name="FoxSports2(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
-http://live.steelchannels.com/streaming_free/4e580757/6061/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/6061/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="FoxSports3(ConoSur).do" tvg-name="FoxSports3(ConoSur).do" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3
-http://live.steelchannels.com/streaming_free/4e580757/6062/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/6062/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DirecTV Sports 
-http://live.steelchannels.com/streaming_free/4e580757/6030/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/6030/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DirecTV Sports 2 
-http://live.steelchannels.com/streaming_free/4e580757/6031/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/6031/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus 
-http://live.steelchannels.com/streaming_free/4e580757/6029/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/6029/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="ESPN.co" tvg-name="ESPN.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
-http://live.steelchannels.com/streaming_free/4e580757/6036/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/6036/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="ESPN2.co" tvg-name="ESPN2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
-http://live.steelchannels.com/streaming_free/4e580757/6038/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/6038/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="ESPN3(South).co" tvg-name="ESPN3(South).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
-http://live.steelchannels.com/streaming_free/4e580757/6039/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/6039/master.m3u8?q=desc&d=android
 #
 #
 #
 #EXTINF:-1 tvg-ID="MTV.mx" tvg-name="MTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
-http://live.steelchannels.com/streaming_free/4e580757/4007/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/4007/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="MTVHits(English).co" tvg-name="MTVHits(English).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv-hits_m.png" group-title="Musica",MTV Hits
-http://live.steelchannels.com/streaming_free/4e580757/4010/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/4010/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="HTV.mx" tvg-name="HTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/htv_m.png" group-title="Musica",HTV
-http://live.steelchannels.com/streaming_free/4e580757/4005/master.m3u8?q=desc
+http://live.steelchannels.com/streaming_free/4e580757/4005/master.m3u8?q=desc&d=android
 #
 #
 #
