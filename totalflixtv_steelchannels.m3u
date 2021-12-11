@@ -1,17 +1,5 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8kk72bw16kng1v3"
 #
-#EXTINF:-1 tvg-ID="vene.ve" tvg-name="vene.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Nacionales",Venevision
-http://live.steelchannels.com/streaming_free/4e580757/5500/master.m3u8?q=desc&d=android
-#EXTINF:-1 tvg-ID="tlt.ve" tvg-name="tlt.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Nacionales",TLT
-http://live.steelchannels.com/streaming_free/4e580757/8047/master.m3u8?q=desc&d=android
-#EXTINF:-1 tvg-ID="ivc.ve" tvg-name="ivc.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ivc_m.png" group-title="Nacionales",IVC
-http://live.steelchannels.com/streaming_free/4e580757/8053/master.m3u8?q=desc&d=android
-#EXTINF:-1 tvg-ID="televen.ve" tvg-name="televen.ve" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Nacionales",Televen
-http://live.steelchannels.com/streaming_free/4e580757/5497/master.m3u8?q=desc&d=android
-#EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Nacionales",Telesur
-http://live.steelchannels.com/streaming_free/4e580757/5496/master.m3u8?q=desc&d=android
-#
-#
 #
 #EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 http://live.steelchannels.com/streaming_free/4e580757/2012/master.m3u8?q=desc&d=android
@@ -31,19 +19,29 @@ http://live.steelchannels.com/streaming_free/4e580757/2002/master.m3u8?q=desc&d=
 http://live.steelchannels.com/streaming_free/4e580757/3014/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
 http://live.steelchannels.com/streaming_free/4e580757/3002/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="MasChic.mx" tvg-name="MasChic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento",MásChic
+http://live.steelchannels.com/streaming_free/4e580757/3027/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
 http://live.steelchannels.com/streaming_free/4e580757/3020/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
 http://live.steelchannels.com/streaming_free/4e580757/2050/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
 http://live.steelchannels.com/streaming_free/4e580757/3032/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="Glitz.mx" tvg-name="Glitz.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
+http://live.steelchannels.com/streaming_free/4e580757/3006/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="StarLife.mx" tvg-name="StarLife.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-life_m.png" group-title="Entretenimiento",Star Life
+http://live.steelchannels.com/streaming_free/4e580757/3035/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
 http://live.steelchannels.com/streaming_free/4e580757/3001/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",TLNovelas
 http://live.steelchannels.com/streaming_free/4e580757/3012/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="pasiones.mx" tvg-name="pasiones.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasiones_m.png" group-title="Entretenimiento",Pasiones
+http://live.steelchannels.com/streaming_free/4e580757/3009/master.m3u8?q=desc&d=android
 #
 #
 #
+#EXTINF:-1 tvg-ID="BabyTv.mx" tvg-name="BabyTv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",Baby TV
+http://live.steelchannels.com/streaming_free/4e580757/1001/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
 http://live.steelchannels.com/streaming_free/4e580757/1007/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil",Disney Channel 
@@ -56,6 +54,10 @@ http://live.steelchannels.com/streaming_free/4e580757/1003/master.m3u8?q=desc&d=
 http://live.steelchannels.com/streaming_free/4e580757/1008/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
 http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="Boomerang.mx" tvg-name="Boomerang.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/boomerang-cartoon_m.png" group-title="Infantil",Boomerang 
+http://live.steelchannels.com/streaming_free/4e580757/1002/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="Bitme.mx" tvg-name="Bitme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bitme.png" group-title="Infantil",Bitme
+http://live.steelchannels.com/streaming_free/4e580757/1020/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="Locomotion.mx" tvg-name="Locomotion.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/loco_m.png" group-title="Infantil",Locomotion TV
 http://51.222.85.85:81/hls/loco/index/index.m3u8
 #
@@ -127,14 +129,24 @@ http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8?q=desc&d=
 http://live.steelchannels.com/streaming_free/4e580757/2028/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="FXMovies.mx" tvg-name="FXMovies.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Cine",FX Movies
 http://live.steelchannels.com/streaming_free/4e580757/2024/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="DePelicula.mx" tvg-name="DePelicula.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Cine",De Pelicula
+http://live.steelchannels.com/streaming_free/4e580757/2008/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Cine",AMC
 http://live.steelchannels.com/streaming_free/4e580757/2001/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="Space.mx" tvg-name="Space.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
 http://live.steelchannels.com/streaming_free/4e580757/2042/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
 http://live.steelchannels.com/streaming_free/4e580757/2006/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine",Golden
+http://live.steelchannels.com/streaming_free/4e580757/2026/master.m3u8?q=desc&d=android
 #EXTINF:-1 tvg-ID="StudioUniversal.mx" tvg-name="StudioUniversal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
 http://live.steelchannels.com/streaming_free/4e580757/2044/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine-latino_m.png" group-title="Cine",Cine Latino
+http://live.steelchannels.com/streaming_free/4e580757/2004/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Cine",Golden Edge
+http://live.steelchannels.com/streaming_free/4e580757/2027/master.m3u8?q=desc&d=android
+#EXTINF:-1 tvg-ID="CanalDHE.mx" tvg-name="CanalDHE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_m.png" group-title="Cine",DHE
+http://live.steelchannels.com/streaming_free/4e580757/2055/master.m3u8?q=desc&d=android
 #
 #
 #
@@ -168,9 +180,9 @@ http://live.steelchannels.com/streaming_free/4e580757/4005/master.m3u8?q=desc&d=
 #
 #
 #
-#EXTINF:-1 tvg-ID="HustlerTV(English).ar" tvg-name="HustlerTV(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hustler_m.png" group-title="Adulto",Hustler TV
+#EXTINF:-1 tvg-ID="SexyHot.br" tvg-name="SexyHot.br" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sexhot_m.png" group-title="Adulto",Sexy Hot
 http://livetv2021.site:8080/9897876765/6576567/8853
 #EXTINF:-1 tvg-ID="Venus.mx" tvg-name="Venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
 http://livetv2021.site:8080/9897876765/6576567/8855
-#EXTINF:-1 tvg-ID="BrazzersTV.mx" tvg-name="BrazzersTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/brazz_m.png" group-title="Adulto",Brazzers TV
+#EXTINF:-1 tvg-ID="BrazzersTV.mx" tvg-name="BrazzersTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/brazz_m.png" group-title="Adulto",Sextreme
 http://livetv2021.site:8080/9897876765/6576567/8852
