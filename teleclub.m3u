@@ -1,35 +1,29 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/3wk1y2xxrgfv9dxygz7x"
 #
 #EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
-http://tv.teleclub.xyz/live/HLS_01/STAR/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2012/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="CanalSony.mx" tvg-name="CanalSony.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
-http://tv.teleclub.xyz/live/HLS_01/SONY/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2041/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
-http://tv.teleclub.xyz/live/HLS_01/WARNER/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="UniversalTV.mx" tvg-name="UniversalTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
-http://tv.teleclub.xyz/live/HLS_01/UNIVERSAL/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2051/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
-http://tv.teleclub.xyz/live/HLS_01/FX/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2023/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="AandE.mx" tvg-name="AandE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
-http://tv.teleclub.xyz/live/HLS_01/AE/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2000/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="AXN.mx" tvg-name="AXN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
-http://tv.teleclub.xyz/live/HLS_01/AXN/index.m3u8
-#EXTINF:-1 tvg-ID="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",Tru TV
-http://tv.teleclub.xyz/live/HLS_01/TRUTV/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2002/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
-http://tv.teleclub.xyz/live/HLS_01/COMEDYCENTRAL/index.m3u8
-#EXTINF:-1 tvg-ID="HOLATV.mx" tvg-name="HOLATV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Entretenimiento",HolaTV
-http://tv.teleclub.xyz/live/HLS_01/HOLATV/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3002/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
-http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_ID/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3020/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
-http://tv.teleclub.xyz/live/HLS_01/TNT_SERIES/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2050/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
-http://tv.teleclub.xyz/live/HLS_01/EL_GOURMET/index.m3u8
-#EXTINF:-1 tvg-ID="StarLife.mx" tvg-name="StarLife.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-life_m.png" group-title="Entretenimiento",Star Life
-http://tv.teleclub.xyz/live/HLS_01/STAR_LIFE/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3032/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
-http://tv.teleclub.xyz/live/HLS_01/LAS_ESTRELLAS/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3001/master.m3u8?q=asc&d=pc
 #
 #
 #
@@ -97,20 +91,6 @@ http://tv.teleclub.xyz/live/HLS_01/HBOMUNDI/index.m3u8
 http://tv.teleclub.xyz/live/HLS_01/HBOPOP/index.m3u8
 #EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
 http://tv.teleclub.xyz/live/HLS_01/HBOXTREME/index.m3u8
-#EXTINF:-1 tvg-ID="StarSeries.mx" tvg-name="StarSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-series_m.png" group-title="Premium",Star Series
-http://tv.teleclub.xyz/live/HLS_01/FOXSERIES/index.m3u8
-#EXTINF:-1 tvg-ID="StarAction.mx" tvg-name="StarAction.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-action_m.png" group-title="Premium",Star Action
-http://tv.teleclub.xyz/live/HLS_01/STAR_ACTION/index.m3u8
-#EXTINF:-1 tvg-ID="StarHits.mx" tvg-name="StarHits.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-hits_m.png" group-title="Premium",Star Hits
-http://tv.teleclub.xyz/live/HLS_01/STAR_HITS/index.m3u8
-#EXTINF:-1 tvg-ID="STARFUN.mx" tvg-name="STARFUN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-fun_m.png" group-title="Premium",Star Fun
-http://tv.teleclub.xyz/live/HLS_01/STAR_FUN/index.m3u8
-#EXTINF:-1 tvg-ID="STARCOMEDY.mx" tvg-name="STARCOMEDY.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-comedy_m.png" group-title="Premium",Star Comedy
-http://tv.teleclub.xyz/live/HLS_01/STAR_COMEDY/index.m3u8
-#EXTINF:-1 tvg-ID="STARCINEMA.mx" tvg-name="STARCINEMA.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-cinema_m.png" group-title="Premium",Star Cinema
-http://tv.teleclub.xyz/live/HLS_01/STAR_CINEMA/index.m3u8
-#EXTINF:-1 tvg-ID="StarClassics.mx" tvg-name="StarClassics.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-class_m.png" group-title="Premium",Star Classic
-http://tv.teleclub.xyz/live/HLS_01/STAR_CLASSICS/index.m3u8
 #
 #
 #
@@ -160,9 +140,9 @@ http://tv.teleclub.xyz/live/HLS_01/ESPN3_SUR/index.m3u8
 #
 #EXTINF:-1 tvg-ID="CNNInternational(English).mx" tvg-name="CNNInternational(English).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
 http://tv.teleclub.xyz/live/HLS_01/CNN/index.m3u8
-#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
+#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en EspaÃ±ol
 http://tv.teleclub.xyz/live/HLS_01/CNN_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT en Español
+#EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT en EspaÃ±ol
 http://tv.teleclub.xyz/live/HLS_01/RT_ESPANOL/index.m3u8
 #
 #
