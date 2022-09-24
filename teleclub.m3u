@@ -100,45 +100,23 @@ http://live.steelchannels.com/streaming_free/4e580757/2044/master.m3u8?q=asc&d=p
 #
 #
 #EXTINF:-1 tvg-ID="FoxSports(ConoSur).co" tvg-name="FoxSports(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
-http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS_SUR/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/6059/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="FoxSports2(ConoSur).co" tvg-name="FoxSports2(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
-http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS2_SUR/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/6061/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="FoxSports3(ConoSur).do" tvg-name="FoxSports3(ConoSur).do" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3
-http://tv.teleclub.xyz/live/HLS_01/FOXSPORTS3_SUR/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/6062/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DirecTV Sports 
-http://tv.teleclub.xyz/live/HLS_01/DIRECTV/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/6028/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DirecTV Sports 2 
-http://tv.teleclub.xyz/live/HLS_01/DIRECTV_2/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/6038/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus 
-http://tv.teleclub.xyz/live/HLS_01/DIRECTV_PLUS/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/6039/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="ESPN.co" tvg-name="ESPN.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
-http://tv.teleclub.xyz/live/HLS_01/ESPN_SUR/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/6036/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="ESPN2.co" tvg-name="ESPN2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
-http://tv.teleclub.xyz/live/HLS_01/ESPN2_SUR/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/6038/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="ESPN3(South).co" tvg-name="ESPN3(South).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
-http://tv.teleclub.xyz/live/HLS_01/ESPN3_SUR/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/6039/master.m3u8?q=asc&d=pc
 #
 #
 #
-#EXTINF:-1 tvg-ID="CNNInternational(English).mx" tvg-name="CNNInternational(English).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
-http://tv.teleclub.xyz/live/HLS_01/CNN/index.m3u8
-#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
-http://tv.teleclub.xyz/live/HLS_01/CNN_ESPANOL/index.m3u8
-#EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT en Español
-http://tv.teleclub.xyz/live/HLS_01/RT_ESPANOL/index.m3u8
-#
-#
-#
-#EXTINF:-1 tvg-ID="MTV.mx" tvg-name="MTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
-https://tv.teleclub.xyz/live/hls_1/MTV/index.m3u8
-#EXTINF:-1 tvg-ID="MTVHits(English).co" tvg-name="MTVHits(English).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv-hits_m.png" group-title="Musica",MTV Hits
-https://tv.teleclub.xyz/live/hls_1/MTVHITS/index.m3u8
-#
-#
-#
-#EXTINF:-1 tvg-ID="HustlerTV(English).ar" tvg-name="HustlerTV(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hustler_m.png" group-title="Adulto",Hustler TV
-http://livetv2021.site:8080/9897876765/6576567/8853
-#EXTINF:-1 tvg-ID="Venus.mx" tvg-name="Venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto",Venus
-http://livetv2021.site:8080/9897876765/6576567/8855
-#EXTINF:-1 tvg-ID="BrazzersTV.mx" tvg-name="BrazzersTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/brazz_m.png" group-title="Adulto",Brazzers TV
-http://livetv2021.site:8080/9897876765/6576567/8852
