@@ -64,44 +64,38 @@ http://live.steelchannels.com/streaming_free/4e580757/3021/master.m3u8?q=asc&d=p
 #
 #
 #EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
-http://tv.teleclub.xyz/live/HLS_01/HBO/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2030/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
-http://tv.teleclub.xyz/live/HLS_01/HBO2/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
-http://tv.teleclub.xyz/live/HLS_01/HBOPLUS/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2034/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="HBOSignature.mx" tvg-name="HBOSignature.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
-http://tv.teleclub.xyz/live/HLS_01/HBOSIGNATURE/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2036/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
-http://tv.teleclub.xyz/live/HLS_01/HBOFAMILY/index.m3u8
-#EXTINF:-1 tvg-ID="HBOMundi.mx" tvg-name="HBOMundi.mx" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
-http://tv.teleclub.xyz/live/HLS_01/HBOMUNDI/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2032/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="HBOPop.mx" tvg-name="HBOPop.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
-http://tv.teleclub.xyz/live/HLS_01/HBOPOP/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2035/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
-http://tv.teleclub.xyz/live/HLS_01/HBOXTREME/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2037/master.m3u8?q=asc&d=pc
 #
 #
 #
-#EXTINF:-1 tvg-ID="ParamountNetwork.mx" tvg-name="ParamountNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
-http://tv.teleclub.xyz/live/HLS_01/PARAMOUNT/index.m3u8
 #EXTINF:-1 tvg-ID="Cinecanal.mx" tvg-name="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
-http://tv.teleclub.xyz/live/HLS_01/CINECANAL/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2005/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="GoldenPremier.mx" tvg-name="GoldenPremier.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" group-title="Cine",Golden Premier
-http://tv.teleclub.xyz/live/HLS_01/GOLDEN_PREMIER/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2029/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
-http://tv.teleclub.xyz/live/HLS_01/TNT/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2049/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="GOLDENPLUS.mx" tvg-name="GOLDENPLUS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-plus_m.png" group-title="Cine",Golden Plus
-http://tv.teleclub.xyz/live/HLS_01/GOLDEN/index.m3u8
-#EXTINF:-1 tvg-ID="FXMovies.mx" tvg-name="FXMovies.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx-movies-m.png" group-title="Cine",FX Movies
-http://tv.teleclub.xyz/live/HLS_01/FXM/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2028/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Cine",AMC
-https://tv.teleclub.xyz/live/hls_2/AMC/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2001/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="Space.mx" tvg-name="Space.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
-http://tv.teleclub.xyz/live/HLS_01/SPACE/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2042/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
-http://tv.teleclub.xyz/live/HLS_01/CINEMAX/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/2006/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="StudioUniversal.mx" tvg-name="StudioUniversal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
-http://tv.teleclub.xyz/live/HLS_01/STUDIO_UNIVERSAL/index.m3u88
+http://live.steelchannels.com/streaming_free/4e580757/2044/master.m3u8?q=asc&d=pc
 #
 #
 #
