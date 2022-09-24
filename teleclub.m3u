@@ -28,50 +28,38 @@ http://live.steelchannels.com/streaming_free/4e580757/3001/master.m3u8?q=asc&d=p
 #
 #
 #EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
-http://tv.teleclub.xyz/live/HLS_01/DISNEY_JR/index.m3u8
-#EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil",Nick Jr.
-http://tv.teleclub.xyz/live/HLS_01/NICK_JR/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/1007/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil",Disney Channel 
-http://tv.teleclub.xyz/live/HLS_01/DISNEY/index.m3u8
-#EXTINF:-1 tvg-ID="Nick.mx" tvg-name="Nick.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil",Nick
-http://tv.teleclub.xyz/live/HLS_01/NICK/index.m3u8
-#EXTINF:-1 tvg-ID="NatGeoKids.mx" tvg-name="NatGeoKids.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-kids_m.png" group-title="Infantil",NatGeo Kids
-http://tv.teleclub.xyz/live/HLS_01/NATGEO_KIDS/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/1006/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
-http://tv.teleclub.xyz/live/HLS_01/CARTOON/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/1003/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="DisneyXD.mx" tvg-name="DisneyXD.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantil",Disney XD
-http://tv.teleclub.xyz/live/HLS_01/DISNEY_XD/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/1008/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
-http://tv.teleclub.xyz/live/HLS_01/TOONCAST/index.m3u8
-#EXTINF:-1 tvg-ID="Locomotion.mx" tvg-name="Locomotion.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/loco_m.png" group-title="Infantil",Locomotion TV
-http://51.222.85.85:81/hls/loco/index/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8?q=asc&d=pc
 #
 #
 #
 #EXTINF:-1 tvg-ID="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_m.png" group-title="Mundo y Aprendizaje",Discovery Theater
-http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_THEATER/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3022/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="History.mx" tvg-name="History.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo y Aprendizaje",History
-http://tv.teleclub.xyz/live/HLS_01/HISTORY/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3033/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo y Aprendizaje",National Geographic 
-http://tv.teleclub.xyz/live/HLS_01/NATGEO/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3028/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="NationalGeographicWild.mx" tvg-name="NationalGeographicWild.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Mundo y Aprendizaje",National Geographic Wild
-http://tv.teleclub.xyz/live/HLS_01/NATGEO_WILD/index.m3u8
-#EXTINF:-1 tvg-ID="DiscoveryWorld.mx" tvg-name="DiscoveryWorld.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-w_m.png" group-title="Mundo y Aprendizaje",Discovery World
-http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_WORLD/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3029/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo y Aprendizaje",Animal Planet 
-http://tv.teleclub.xyz/live/HLS_01/ANIMAL_PLANET/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3025/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="DiscoveryTurbo.mx" tvg-name="DiscoveryTurbo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo y Aprendizaje",Discovery Turbo
-http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_TURBO/index.m3u8
-#EXTINF:-1 tvg-ID="TLC.mx" tvg-name="TLC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-tlc_m.png" group-title="Mundo y Aprendizaje",TLC
-http://tv.teleclub.xyz/live/HLS_01/TLC/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3023/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="History2.mx" tvg-name="History2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo y Aprendizaje",H2
-http://tv.teleclub.xyz/live/HLS_01/H2/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3034/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="DiscoveryChannel.mx" tvg-name="DiscoveryChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo y Aprendizaje",Discovery Channel
-http://tv.teleclub.xyz/live/HLS_01/DISCOVERY/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3016/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Mundo y Aprendizaje",Discovery Home & Health 
-http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_HYH/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3019/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo y Aprendizaje",Discovery Science  
-http://tv.teleclub.xyz/live/HLS_01/DISCOVERY_SCIENCES/index.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/3021/master.m3u8?q=asc&d=pc
 #
 #
 #
