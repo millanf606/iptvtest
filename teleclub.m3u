@@ -132,3 +132,5 @@ https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
 http://live.steelchannels.com/streaming_free/4e580757/8049/master.m3u8?q=asc&d=pc
+#EXTINF:-1 tvg-ID="CNNInternational(English).mx" tvg-name="CNNInternational(English).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_2_1964000.m3u8
