@@ -125,7 +125,7 @@ http://live.steelchannels.com/streaming_free/4e580757/6090/master.m3u8?q=asc&d=p
 #
 #
 #EXTINF:-1 tvg-ID="euronews.mx" tvg-name="euronews.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/euronews.png" group-title="Noticias",Euronews
-https://euronews-euronews-spanish-2-mx.samsung.wurl.com/manifest/playlist.m3u8
+http://live.steelchannels.com/streaming_free/4e580757/8074/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Noticias",Telesur
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-ID="DWEspanol.mx" tvg-name="DWEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dw_esp.png" group-title="Noticias",DW Español
