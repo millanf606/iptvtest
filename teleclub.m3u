@@ -130,3 +130,5 @@ http://live.steelchannels.com/streaming_free/4e580757/8074/master.m3u8?q=asc&d=p
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #EXTINF:-1 tvg-ID="DWEspanol.mx" tvg-name="DWEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dw_esp.png" group-title="Noticias",DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
+http://live.steelchannels.com/streaming_free/4e580757/8049/master.m3u8?q=asc&d=pc
