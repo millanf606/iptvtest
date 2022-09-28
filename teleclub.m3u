@@ -23,7 +23,7 @@ http://live.steelchannels.com/streaming_free/4e580757/2050/master.m3u8?q=asc&d=p
 #EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
 http://live.steelchannels.com/streaming_free/4e580757/3032/master.m3u8?q=asc&d=pc
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tastemade.png" group-title="Entretenimiento",Tastemade
-http://live.steelchannels.com/streaming_free/4e580757/3032/master.m3u8?q=asc&d=pc
+https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
 http://live.steelchannels.com/streaming_free/4e580757/3001/master.m3u8?q=asc&d=pc
 #
