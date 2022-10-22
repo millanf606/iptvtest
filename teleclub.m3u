@@ -1,44 +1,44 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/3m97yp22jpcg8gmpydxq"
 #
 #EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
-http://live.steelchannels.com/streaming_free/4e580757/2012/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2012.m3u8?q=desc
 #EXTINF:-1 tvg-ID="CanalSony.mx" tvg-name="CanalSony.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
-http://live.steelchannels.com/streaming_free/4e580757/2041/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2041.m3u8?q=desc
 #EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
-http://live.steelchannels.com/streaming_free/4e580757/2052/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2052.m3u8?q=desc
 #EXTINF:-1 tvg-ID="UniversalTV.mx" tvg-name="UniversalTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
-http://live.steelchannels.com/streaming_free/4e580757/2051/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2051.m3u8?q=desc
 #EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
-http://live.steelchannels.com/streaming_free/4e580757/2023/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2023.m3u8?q=desc
 #EXTINF:-1 tvg-ID="AandE.mx" tvg-name="AandE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
-http://live.steelchannels.com/streaming_free/4e580757/2000/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2000.m3u8?q=desc
 #EXTINF:-1 tvg-ID="AXN.mx" tvg-name="AXN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
-http://live.steelchannels.com/streaming_free/4e580757/2002/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2002.m3u8?q=desc
 #EXTINF:-1 tvg-ID="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
-http://live.steelchannels.com/streaming_free/4e580757/3002/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3002.m3u8?q=desc
 #EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
-http://live.steelchannels.com/streaming_free/4e580757/3020/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3020.m3u8?q=desc
 #EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
-http://live.steelchannels.com/streaming_free/4e580757/2050/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2050.m3u8?q=desc
 #EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
-http://live.steelchannels.com/streaming_free/4e580757/3032/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3032.m3u8?q=desc
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tastemade.png" group-title="Entretenimiento",Tastemade
 https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
-http://live.steelchannels.com/streaming_free/4e580757/3001/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3001.m3u8?q=desc
 #
 #
 #
 #EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
-http://live.steelchannels.com/streaming_free/4e580757/1007/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1007.m3u8?q=desc
 #EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil",Disney Channel 
-http://live.steelchannels.com/streaming_free/4e580757/1006/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1006.m3u8?q=desc
 #EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
-http://live.steelchannels.com/streaming_free/4e580757/1003/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1003.m3u8?q=desc
 #EXTINF:-1 tvg-ID="DisneyXD.mx" tvg-name="DisneyXD.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantil",Disney XD
-http://live.steelchannels.com/streaming_free/4e580757/1008/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1008.m3u8?q=desc
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
-http://live.steelchannels.com/streaming_free/4e580757/1015/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1015.m3u8?q=desc
 #
 #
 #
@@ -66,19 +66,19 @@ http://live.steelchannels.com/streaming_free/4e580757/3021/master.m3u8?q=asc&d=p
 #
 #
 #EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
-http://live.steelchannels.com/streaming_free/4e580757/2030/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2030.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
-http://live.steelchannels.com/streaming_free/4e580757/2031/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2031.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
-http://live.steelchannels.com/streaming_free/4e580757/2034/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2034.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HBOSignature.mx" tvg-name="HBOSignature.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
-http://live.steelchannels.com/streaming_free/4e580757/2036/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2036.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
-http://live.steelchannels.com/streaming_free/4e580757/2032/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2032.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HBOPop.mx" tvg-name="HBOPop.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
-http://live.steelchannels.com/streaming_free/4e580757/2035/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2035.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
-http://live.steelchannels.com/streaming_free/4e580757/2037/master.m3u8?q=asc&d=pc
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2037.m3u8?q=desc
 #
 #
 #
