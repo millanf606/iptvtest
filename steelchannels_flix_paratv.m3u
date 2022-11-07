@@ -173,7 +173,7 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6039.m3u8?q=desc
 #EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN EXTRA
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6040.m3u8?q=desc
 #EXTINF:-1 tvg-ID="OlympicChannel.us" tvg-name="OlympicChannel.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/olympic.png" group-title="Deportes",Olympic Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+https://dtvott-abc.akamaized.net/dash_live_1057/manifest.mpd
 #
 #
 #
