@@ -136,7 +136,7 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2029.m3u8?q=desc
 #
 #
 #EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2030.m3u8?q=desc
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2031.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
@@ -172,8 +172,6 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6038.m3u8?q=desc
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6039.m3u8?q=desc
 #EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN EXTRA
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6040.m3u8?q=desc
-#EXTINF:-1 tvg-ID="OlympicChannel.us" tvg-name="OlympicChannel.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/olympic.png" group-title="Deportes",Olympic Channel
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
 #
 #
 #
