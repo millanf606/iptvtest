@@ -3,20 +3,18 @@
 #
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Regionales",Venevision
+#EXTINF:-1 tvg-ID="Venevision" tvg-name="Venevision" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Regionales",Venevision
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5500.m3u8?q=desc
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tves_m.png" group-title="Regionales",TVES
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8045.m3u8?q=desc
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/canal-i_m.png" group-title="Regionales",Canal I
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8076.m3u8?q=desc
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Regionales",Televen
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5497.m3u8?q=desc
+#EXTINF:-1 tvg-ID="TVES" tvg-name="TVES" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tves_m.png" group-title="Regionales",TVES
+https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
+#EXTINF:-1 tvg-ID="Televen" tvg-name="Televen" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Regionales",Televen
+https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 #EXTINF:-1 tvg-ID="VenezolanadeTelevision.co" tvg-name="VenezolanadeTelevision.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Regionales",VTV
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8054.m3u8?q=desc
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Regionales",TLT
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8047.m3u8?q=desc
+https://vcp4.myplaytv.com/tlt-ve/tltve-291022.stream/.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/globovision_m.png" group-title="Regionales",Globovision
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5494.m3u8?q=desc
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1668457973/ei/lVFyY-m9CtKL1gKFrbSgBQ/ip/92.205.10.243/id/sKTZqEEkqnc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAIJHTv2xwo1UrpiYn4Wv_DtcsCXw4OiAOECSbYFkB6ybAiBro79xuJJQUyLjKlBT2f50tN6GDxNp3eACk0EHeaeN1w%3D%3D/file/index.m3u8
 #
 #
 #
