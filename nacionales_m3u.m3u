@@ -10,5 +10,12 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8054.m3u8?q=desc
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Regionales",TLT
 https://vcp4.myplaytv.com/tlt-ve/tltve-291022.stream/.m3u8
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/globovision_m.png" group-title="Regionales",Globovision
+#
+#EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
 https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+#EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2030.m3u8?q=desc
+#
+#
+#EXTINF:-1 tvg-ID="Playboy.mx" tvg-name="Playboy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png" group-title="Adultos",Playboy
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8031.m3u8?q=desc
