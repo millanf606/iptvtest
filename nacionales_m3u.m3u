@@ -3,19 +3,12 @@
 #
 #EXTINF:-1 tvg-ID="Venevision" tvg-name="Venevision" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Regionales",Venevision
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5500.m3u8?q=desc
-#EXTINF:-1 tvg-ID="TVES" tvg-name="TVES" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tves_m.png" group-title="Regionales",TVES
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc/ESPN2HD.mpd
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/canal-i_m.png" group-title="Regionales",Canal I
-https://vcp.myplaytv.com/canali/canali/playlist.m3u8
 #EXTINF:-1 tvg-ID="Televen" tvg-name="Televen" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Regionales",Televen
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 #EXTINF:-1 tvg-ID="VenezolanadeTelevision.co" tvg-name="VenezolanadeTelevision.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Regionales",VTV
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8054.m3u8?q=desc
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Regionales",TLT
 https://vcp4.myplaytv.com/tlt-ve/tltve-291022.stream/.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/globovision_m.png" group-title="Regionales",Globovision
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1668464505/ei/GWtyY-3LL4yqzLUPvqOT0Aw/ip/186.89.235.166/id/sKTZqEEkqnc.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24239122/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgT14XJdIE3PnrMwrMcUDW8dvcAoN570yoyuhOWms25ssCIQCwSGOIEaz-eqhjOEENXngTO5KTjrafZKqYGHLrWU6Ifg%3D%3D/file/index.m3u8
-#
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/globovision_m.png" group-title="Regionales",Globovision
-https://edge-live17-sl.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc_2A/CartoonNetwork.mpd
+https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
