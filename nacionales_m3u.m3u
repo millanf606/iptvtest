@@ -57,6 +57,36 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3027.m3u8?q=desc
 #EXTINF:-1 tvg-ID="TelemundoInternacional.mx" tvg-name="TelemundoInternacional.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Entretenimiento",Telemundo
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3011.m3u8?q=desc
 #EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3032.m3u8?q=desc
+http://tv.teleclub.xyz/stream/Cultura/EL_GOURMET/index.m3u8
+#EXTINF:-1 tvg-ID="FoodNetwork.mx" tvg-name="FoodNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food_m.png" group-title="Entretenimiento",Food Network
+http://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
+#
+#
+#EXTINF:-1 tvg-ID="MTV.mx" tvg-name="MTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musicales",MTV
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./4007.m3u8?q=desc
+#EXTINF:-1 tvg-ID="HTV.mx" tvg-name="HTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/htv_m.png" group-title="Musicales",HTV
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./4005.m3u8?q=desc
+#
+#
+#EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantiles",Cartoon Network 
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1003.m3u8?q=desc
+#EXTINF:-1 tvg-ID="Nick.mx" tvg-name="Nick.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil",Nick
+http://tv.teleclub.xyz/stream/Infantil/NICK/index.m3u8
+#EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil",Nick Jr.
+http://tv.teleclub.xyz/stream/Infantil/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantiles",Disney Channel 
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1006.m3u8?q=desc
+#EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantiles",Disney Junior
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1007.m3u8?q=desc
+#EXTINF:-1 tvg-ID="DisneyXD.mx" tvg-name="DisneyXD.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-xd_m.png" group-title="Infantiles",Disney XD
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1008.m3u8?q=desc
+#EXTINF:-1 tvg-ID="DiscoveryKids.mx" tvg-name="DiscoveryKids.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantiles",Disc Kids
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1005.m3u8?q=desc
+#EXTINF:-1 tvg-ID="Cartoonito.mx" tvg-name="Cartoonito.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonito.png" group-title="Infantiles",Cartoonito
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1002.m3u8?q=desc
+#EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantiles",Tooncast
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1015.m3u8?q=desc
+#EXTINF:-1 tvg-ID="Bitme.mx" tvg-name="Bitme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bitme.png" group-title="Infantiles",Bitme
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1020.m3u8?q=desc
 #
 #
