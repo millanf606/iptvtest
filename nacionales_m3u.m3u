@@ -1,6 +1,5 @@
 #
 #
-#
 #EXTINF:-1 tvg-ID="Venevision" tvg-name="Venevision" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Regionales",Venevision
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5500.m3u8?q=desc
 #EXTINF:-1 tvg-ID="Televen" tvg-name="Televen" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Regionales",Televen
@@ -11,11 +10,57 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8054.m3u8?q=desc
 https://vcp4.myplaytv.com/tlt-ve/tltve-291022.stream/.m3u8
 #
 #
-#EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-#EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2030.m3u8?q=desc
+#EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2012.m3u8?q=desc
+#EXTINF:-1 tvg-ID="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2052.m3u8?q=desc
+#EXTINF:-1 tvg-ID="AandE.mx" tvg-name="AandE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2000.m3u8?q=desc
+#EXTINF:-1 tvg-ID="CanalSony.mx" tvg-name="CanalSony.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2041.m3u8?q=desc
+#EXTINF:-1 tvg-ID="AXN.mx" tvg-name="AXN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2002.m3u8?q=desc
+#EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Entretenimiento",AMC
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2001.m3u8?q=desc
+#EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2050.m3u8?q=desc
+#EXTINF:-1 tvg-ID="Atreseries.mx" tvg-name="Atreseries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a3-series_m.png" group-title="Entretenimiento",A3 Series
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5247.m3u8?q=desc
+#EXTINF:-1 tvg-ID="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3002.m3u8?q=desc
+#EXTINF:-1 tvg-ID="TBS.mx" tvg-name="TBS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2047.m3u8?q=desc
+#EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2023.m3u8?q=desc
+#EXTINF:-1 tvg-ID="UniversalTV.mx" tvg-name="UniversalTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2051.m3u8?q=desc
+#EXTINF:-1 tvg-ID="SYFY.mx" tvg-name="SYFY.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SYFY
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2046.m3u8?q=desc
+#EXTINF:-1 tvg-ID="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",TruTV
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3014.m3u8?q=desc
+#EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3020.m3u8?q=desc
+#EXTINF:-1 tvg-ID="Glitz.mx" tvg-name="Glitz.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3006.m3u8?q=desc
+#EXTINF:-1 tvg-ID="PasionesTV.mx" tvg-name="PasionesTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasiones_m.png" group-title="Entretenimiento",Pasiones
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3009.m3u8?q=desc
+#EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3001.m3u8?q=desc
+#EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",Tlnovelas
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3012.m3u8?q=desc
+#EXTINF:-1 tvg-ID="Lifetime.mx" tvg-name="Lifetime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Entretenimiento",Lifetime
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3035.m3u8?q=desc
+#EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Entretenimiento",Discovery Home & Health 
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3019.m3u8?q=desc
+#EXTINF:-1 tvg-ID="MasChic.mx" tvg-name="MasChic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento",MasChic
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3027.m3u8?q=desc
+#EXTINF:-1 tvg-ID="TelemundoInternacional.mx" tvg-name="TelemundoInternacional.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Entretenimiento",Telemundo
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3011.m3u8?q=desc
+#EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3032.m3u8?q=desc
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ivc_m.png" group-title="Entretenimiento",IVC
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8053.m3u8?q=desc
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ve-plus_m.png" group-title="Entretenimiento",Venevision Plus
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5499.m3u8?q=desc
 #
 #
-#EXTINF:-1 tvg-ID="Playboy.mx" tvg-name="Playboy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png" group-title="Adultos",Playboy
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8031.m3u8?q=desc
