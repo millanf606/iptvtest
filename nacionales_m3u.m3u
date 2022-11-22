@@ -123,7 +123,7 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2029.m3u8?q=desc
 #
 #
 #EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO/index.m3u8
 #EXTINF:-1 tvg-ID="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2031.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
@@ -132,9 +132,76 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2034.m3u8?q=desc
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2036.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2032.m3u8?q=desc
+#EXTINF:-1 tvg-ID="HBOMundi.mx" tvg-name="HBOMundi.mx" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
+http://tv.teleclub.xyz/stream/Entretenimiento/HBO_MUNDI/index.m3u8
 #EXTINF:-1 tvg-ID="HBOPop.mx" tvg-name="HBOPop.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2035.m3u8?q=desc
 #EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2037.m3u8?q=desc
+#
+#
+#EXTINF:-1 tvg-ID="FoxSports(ConoSur).co" tvg-name="FoxSports(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6059.m3u8?q=desc
+#EXTINF:-1 tvg-ID="FoxSports2(ConoSur).co" tvg-name="FoxSports2(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6061.m3u8?q=desc
+#EXTINF:-1 tvg-ID="FoxSports3(ConoSur).do" tvg-name="FoxSports3(ConoSur).do" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6062.m3u8?q=desc
+#EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DirecTV Sports 
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
+#EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DirecTV Sports 2 
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6028.m3u8?q=desc
+#EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus 
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
+#EXTINF:-1 tvg-ID="ESPN.mx" tvg-name="ESPN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN MEX
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6036.m3u8?q=desc
+#EXTINF:-1 tvg-ID="ESPN2.mx" tvg-name="ESPN2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN MEX 2
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6038.m3u8?q=desc
+#EXTINF:-1 tvg-ID="ESPNTres(North).mx" tvg-name="ESPNTres(North).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN MEX 3
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6039.m3u8?q=desc
+#
+#EXTINF:-1 tvg-ID="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
+http://tv.teleclub.xyz/stream/Deportes/ESPN_SUR/index.m3u8
+#EXTINF:-1 tvg-ID="ESPN2.ar" tvg-name="ESPN2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
+http://tv.teleclub.xyz/stream/Deportes/ESPN_2_SUR/index.m3u8
+#EXTINF:-1 tvg-ID="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
+http://tv.teleclub.xyz/stream/Deportes/ESPN_3_SUR/index.m3u8
+#EXTINF:-1 tvg-ID="ESPN4.ar" tvg-name="ESPN4.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 4
+http://tv.teleclub.xyz/stream/Deportes/ESPN4/index.m3u8
+#EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN EXTRA
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6040.m3u8?q=desc
+#
+#
+#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
+http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
+#EXTINF:-1 tvg-ID="CNNInternational(English).mx" tvg-name="CNNInternational(English).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_sl
+#EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Noticias",Telesur
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5496.m3u8?q=desc
+#EXTINF:-1 tvg-ID="euronews.mx" tvg-name="euronews.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/euronews.png" group-title="Noticias",Euronews
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8074.m3u8?q=desc
+#EXTINF:-1 tvg-ID="DWEspanol.mx" tvg-name="DWEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dw_esp.png" group-title="Noticias",DW Español
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+#EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8049.m3u8
+#
+#
+#EXTINF:-1 tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo y Aprendizaje",National Geographic 
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3028.m3u8?q=desc
+#EXTINF:-1 tvg-ID="DiscoveryChannel.mx" tvg-name="DiscoveryChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo y Aprendizaje",Discovery Channel
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3016.m3u8?q=descpc
+#EXTINF:-1 tvg-ID="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo y Aprendizaje",Animal Planet 
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3025.m3u8?q=desc
+#EXTINF:-1 tvg-ID="DiscoveryTurbo.mx" tvg-name="DiscoveryTurbo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo y Aprendizaje",Discovery Turbo
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3023.m3u8?q=desc
+#EXTINF:-1 tvg-ID="History.mx" tvg-name="History.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo y Aprendizaje",History
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3033.m3u8?q=desc
+#EXTINF:-1 tvg-ID="History2.mx" tvg-name="History2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo y Aprendizaje",H2
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3034.m3u8?q=desc
+#EXTINF:-1 tvg-ID="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_m.png" group-title="Mundo y Aprendizaje",Discovery Theater
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3022.m3u8?q=desc
+#EXTINF:-1 tvg-ID="NationalGeographicWild.mx" tvg-name="NationalGeographicWild.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Mundo y Aprendizaje",National Geographic Wild
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3029.m3u8?q=desc
+#EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo y Aprendizaje",Discovery Science  
+http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3021.m3u8?q=desc
 #
 #
