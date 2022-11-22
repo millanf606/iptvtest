@@ -45,9 +45,9 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3006.m3u8?q=desc
 #EXTINF:-1 tvg-ID="PasionesTV.mx" tvg-name="PasionesTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasiones_m.png" group-title="Entretenimiento",Pasiones
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3009.m3u8?q=desc
 #EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas 
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3001.m3u8?q=desc
+http://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
 #EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",Tlnovelas
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3012.m3u8?q=desc
+http://tv.teleclub.xyz/stream/Cultura/TLNovelas/index.m3u8
 #EXTINF:-1 tvg-ID="Lifetime.mx" tvg-name="Lifetime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Entretenimiento",Lifetime
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3035.m3u8?q=desc
 #EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Entretenimiento",Discovery Home & Health 
@@ -58,9 +58,5 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3027.m3u8?q=desc
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3011.m3u8?q=desc
 #EXTINF:-1 tvg-ID="ElGourmet.mx" tvg-name="ElGourmet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3032.m3u8?q=desc
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ivc_m.png" group-title="Entretenimiento",IVC
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8053.m3u8?q=desc
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ve-plus_m.png" group-title="Entretenimiento",Venevision Plus
-http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5499.m3u8?q=desc
 #
 #
