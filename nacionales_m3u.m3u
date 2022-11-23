@@ -2,6 +2,8 @@
 #
 #EXTINF:-1 tvg-ID="Venevision" tvg-name="Venevision" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Regionales",Venevision
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5500.m3u8?q=desc
+#EXTINF:-1 tvg-ID="TVES" tvg-name="TVES" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tves_m.png" group-title="Regionales",TVES
+https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 #EXTINF:-1 tvg-ID="Televen" tvg-name="Televen" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Regionales",Televen
 https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 #EXTINF:-1 tvg-ID="VenezolanadeTelevision.co" tvg-name="VenezolanadeTelevision.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Regionales",VTV
@@ -152,6 +154,8 @@ http://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6028.m3u8?q=desc
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DirecTV Sports Plus 
 http://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
+#EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DirecTV Sports ARG 
+http://tv.teleclub.xyz/stream/Deportes/DIRECTV_ARG/index.m3u8
 #EXTINF:-1 tvg-ID="ESPN.mx" tvg-name="ESPN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN MEX
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6036.m3u8?q=desc
 #EXTINF:-1 tvg-ID="ESPN2.mx" tvg-name="ESPN2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN MEX 2
