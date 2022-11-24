@@ -2,6 +2,8 @@
 #
 #EXTINF:-1 tvg-ID="Venevision" tvg-name="Venevision" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Regionales",Venevision
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5500.m3u8?q=desc
+#EXTINF:-1 tvg-ID="TVES" tvg-name="TVES" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/canal-i_m.png" group-title="Regionales",Canal I
+https://vcp.myplaytv.com/canali/canali/chunklist_w1602671541.m3u8
 #EXTINF:-1 tvg-ID="TVES" tvg-name="TVES" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tves_m.png" group-title="Regionales",TVES
 https://edge1o.live.opencaster.com/caster/erCkqDzdGzpj.m3u8
 #EXTINF:-1 tvg-ID="Televen" tvg-name="Televen" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Regionales",Televen
@@ -10,6 +12,10 @@ https://cloud.streamingconnect.tv/hls/televen/televenweb.m3u8
 http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8054.m3u8?q=desc
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Regionales",TLT
 https://vcp4.myplaytv.com/tlt-ve/tltve-291022.stream/.m3u8
+#
+#
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/valetv_m.png" group-title="Regionales",Vale TV
+https://vcp2.myplaytv.com/valetv/valetv/chunklist_w861020773.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
