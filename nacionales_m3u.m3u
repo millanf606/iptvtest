@@ -222,19 +222,10 @@ http://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3021.m3u8?q=desc
 #
 #
 #
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
 #EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 https://is-tucuman.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
+#EXTINF:-1 tvg-ID="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8 
 #EXTINF:-1 tvg-ID="AandE.mx" tvg-name="AandE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
 https://is-tucuman.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="CanalSony.mx" tvg-name="CanalSony.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
@@ -274,9 +265,11 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_hgtv_hls/playlist.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="MTV.mx" tvg-name="MTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musicales",MTV
-https://is-tucuman.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV.m3u8 
 #
 #
+#EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantiles",Cartoon Network 
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-ID="Nick.mx" tvg-name="Nick.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil",Nick
 https://is-tucuman.cdn.rcs.net.ar/mnp/nickelodeon_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil",Nick Jr.
@@ -285,6 +278,10 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/nickjr_hls/playlist.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/disney_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantiles",Disney Junior
 https://is-tucuman.cdn.rcs.net.ar/mnp/disneyjr_hls/playlist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantiles",Baby TV
+https://is-tucuman.cdn.rcs.net.ar/mnp/babytv_hls/playlist.m3u8
+#EXTINF:-1 tvg-ID="DiscoveryKids.mx" tvg-name="DiscoveryKids.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantiles",Discovery Kids
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
 #EXTINF:-1 tvg-ID="Cartoonito.mx" tvg-name="Cartoonito.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonito.png" group-title="Infantiles",Cartoonito
 https://is-tucuman.cdn.rcs.net.ar/mnp/boomerang_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantiles",Tooncast
@@ -297,6 +294,8 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="Cinecanal.mx" tvg-name="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
 https://is-tucuman.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+#EXTINF:-1 tvg-ID="StudioUniversal.mx" tvg-name="StudioUniversal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8 
 #EXTINF:-1 tvg-ID="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
 https://is-tucuman.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="ParamountNetwork.mx" tvg-name="ParamountNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
@@ -329,18 +328,25 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/hboxtr_hls/playlist.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="FoxSports3(ConoSur).do" tvg-name="FoxSports3(ConoSur).do" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3
 https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
-#EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN EXTRA
+#EXTINF:-1 tvg-ID="ESPN.mx" tvg-name="ESPN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8 
+#EXTINF:-1 tvg-ID="ESPN2.mx" tvg-name="ESPN2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8 
+#EXTINF:-1 tvg-ID="ESPNTres(North).mx" tvg-name="ESPNTres(North).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8 
+#EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra
 https://is-tucuman.cdn.rcs.net.ar/mnp/espn_extra_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-pret_m.png" group-title="Deportes",ESPN Premium
 https://is-tucuman.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="TNTSports.ar" tvg-name="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tntsport_m.png" group-title="Deportes",TNT Sports
 https://is-tucuman.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="TyCSports.ar" tvg-name="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tyc-sports.png" group-title="Deportes",TyC Sports
-https://is-tucuman.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+https://is-tucuman.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="CNNInternational(English).mx" tvg-name="CNNInternational(English).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
 https://is-tucuman.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
+#
 #
 #EXTINF:-1 tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo y Aprendizaje",National Geographic 
 https://is-tucuman.cdn.rcs.net.ar/mnp/natgeohd_hls/playlist.m3u8
@@ -352,8 +358,6 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_turbo_hls/playlist.m3u8
 https://is-tucuman.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="History2.mx" tvg-name="History2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo y Aprendizaje",H2
 https://is-tucuman.cdn.rcs.net.ar/mnp/h2_hls/playlist.m3u8
-#EXTINF:-1 tvg-ID="NationalGeographicWild.mx" tvg-name="NationalGeographicWild.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo-wild_m.png" group-title="Mundo y Aprendizaje",National Geographic Wild
-https://is-tucuman.cdn.rcs.net.ar/mnp/natgeohd_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo y Aprendizaje",Discovery Science  
 https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_sci_hls/playlist.m3u8
 #
