@@ -4,6 +4,7 @@
 #
 #
 #
+#
 #EXTINF:-1 tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 https://is-tucuman.cdn.rcs.net.ar/mnp/foxhd_hls/playlist.m3u8
 #EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
@@ -314,5 +315,9 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3021.m3u8
 #
 #
 #
-#EXTINF:-1 tvg-ID="TvPublica.ar" tvg-name="TvPublica.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tv-publica_m.png" group-title="Internacional",TV Publica  
+#EXTINF:-1 tvg-ID="TvPublica.ar" tvg-name="TvPublica.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tv-publica_m.png" group-title="Internacional",Television Publica  
 https://is-tucuman.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
+#EXTINF:-1 tvg-ID="La1.es" tvg-name="La1.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la1_m.png" group-title="Internacional",La 1  
+https://ztnr.rtve.es/ztnr/1688877.m3u8
+#EXTINF:-1 tvg-ID="La2.es" tvg-name="La2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Internacional",La 2  
+https://ztnr.rtve.es/ztnr/1688885.m3u8
