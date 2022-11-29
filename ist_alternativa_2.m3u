@@ -54,6 +54,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 #EXTINF:-1 tvg-ID="hgtv.mx" tvg-name="hgtv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hgtv_m.png" group-title="Entretenimiento",HGTV
 https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
 #
+#
 #EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2012.m3u8
 #EXTINF:-1 tvg-ID="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV Oeste
@@ -132,7 +133,7 @@ https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Di
 https://is-tucuman.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
 https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-
+#
 #
 #EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantiles",Cartoon Network Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1003.m3u8
@@ -167,7 +168,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 tvg-ID="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Cine",TCM
 https://is-tucuman.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-ID="Cinecanal.ar" tvg-name="Cinecanal.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
-https://is-tucuman.cdn.rcs.net.ar/mnp/cinecana/output.mpd
+https://is-tucuman.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-ID="StudioUniversal.ar" tvg-name="StudioUniversal.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8 
 #EXTINF:-1 tvg-ID="Cinemax.ar" tvg-name="Cinemax.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
@@ -274,7 +275,7 @@ https://tv.teleclub.xyz/stream/Deportes/TUDN/index.m3u8
 #
 #EXTINF:-1 tvg-ID="CNNI(English).ar" tvg-name="CNNI(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
 https://is-tucuman.cdn.rcs.net.ar/mnp/cnn_hls/playlist.m3u8
-#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
+#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en EspaÃ±ol
 http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8049.m3u8
