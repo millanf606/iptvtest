@@ -337,3 +337,11 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-ID="La2.es" tvg-name="La2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Internacional",La 2  
 https://ztnr.rtve.es/ztnr/1688885.m3u8
+#
+#
+#
+#
+#
+#
+#EXTINF:-1 tvg-ID="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 MDP
+https://is-tucuman.cdn.rcs.net.ar/mnp/espn2/output.mpd
