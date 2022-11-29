@@ -130,7 +130,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
 #EXTINF:-1 tvg-ID="BabyTv.ar" tvg-name="BabyTv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",Baby TV
 https://is-tucuman.cdn.rcs.net.ar/mnp/babytv/output.mpd
 #EXTINF:-1 tvg-ID="DiscoveryKids.ar" tvg-name="DiscoveryKids.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantil",Discovery Kids
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_HLS/Discovery_Kids.m3u8
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_DASH/Discovery_Kids.mpd
 #EXTINF:-1 tvg-ID="Cartoonito.ar" tvg-name="Cartoonito.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonito.png" group-title="Infantil",Cartoonito
 https://is-tucuman.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
@@ -172,7 +172,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-ID="Cinecanal.ar" tvg-name="Cinecanal.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
 https://is-tucuman.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 #EXTINF:-1 tvg-ID="StudioUniversal.ar" tvg-name="StudioUniversal.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8 
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_DASH/Studio_Universal.mpd
 #EXTINF:-1 tvg-ID="Cinemax.ar" tvg-name="Cinemax.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
 https://is-tucuman.cdn.rcs.net.ar/mnp/cinemax/output.mpd
 #EXTINF:-1 tvg-ID="ParamountNetwork.ar" tvg-name="ParamountNetwork.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
@@ -294,7 +294,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
 #EXTINF:-1 tvg-ID="DiscoveryChannel.ar" tvg-name="DiscoveryChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo",Discovery Channel
 https://is-tucuman.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 tvg-ID="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo",Animal Planet 
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_HLS/Animal_Planet.m3u8
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
 #EXTINF:-1 tvg-ID="DiscoveryTurbo.ar" tvg-name="DiscoveryTurbo.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo",Discovery Turbo
 https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
 #EXTINF:-1 tvg-ID="History.ar" tvg-name="History.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo",History
