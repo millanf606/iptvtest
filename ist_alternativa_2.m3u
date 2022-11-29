@@ -16,7 +16,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #EXTINF:-1 tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 https://is-tucuman.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8 
+https://is-tucuman.cdn.rcs.net.ar/mnp/warner/output.mpd
 #EXTINF:-1 tvg-ID="AandE(Andes).ar" tvg-name="AandE(Andes).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
 https://is-tucuman.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1 tvg-ID="CanalSony.ar" tvg-name="CanalSony.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
@@ -39,6 +39,8 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/universal/output.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 tvg-ID="TruTV.ar" tvg-name="TruTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",TruTV
 https://is-tucuman.cdn.rcs.net.ar/mnp/trutv/output.mpd
+#EXTINF:-1 tvg-ID="ID.ar" tvg-name="ID.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
 #EXTINF:-1 tvg-ID="Glitz.ar" tvg-name="Glitz.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
 https://is-tucuman.cdn.rcs.net.ar/mnp/glitz/output.mpd
 #EXTINF:-1 tvg-ID="Lifetime.ar" tvg-name="Lifetime.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Entretenimiento",Lifetime
@@ -116,7 +118,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/htv/output.mpd
 #
 #
 #EXTINF:-1 tvg-ID="CartoonNetwork.ar" tvg-name="CartoonNetwork.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_HLS/Cartoon_Network.m3u8
+https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
 #EXTINF:-1 tvg-ID="Nick.ar" tvg-name="Nick.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil",Nick
 https://is-tucuman.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
 #EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil",Nick Jr.
