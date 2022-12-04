@@ -101,6 +101,8 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3035.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3027.m3u8
 #EXTINF:-1 tvg-ID="FoodNetwork.mx" tvg-name="FoodNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food_m.png" group-title="Entretenimiento Oeste",Food Network Oeste
 http://black-tiger.live:8080/pro1291/544425347/25132
+#EXTINF:-1 tvg-ID="FoodNetwork.mx" tvg-name="FoodNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vplus_m.png" group-title="Entretenimiento Oeste",Ve Plus Oeste
+http://black-tiger.live:8080/w0023/562795447/29098
 #
 #
 #
