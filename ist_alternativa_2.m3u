@@ -90,9 +90,9 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3009.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Entretenimiento Oeste",Discovery H&H Oeste 
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3019.m3u8
 #EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento Oeste",Las Estrellas Oeste
-https://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/25737 
 #EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento Oeste",Tlnovelas Oeste
-https://tv.teleclub.xyz/stream/Cultura/TLNovelas/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/25749
 #EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento Oeste",Investigation Discovery Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3020.m3u8
 #EXTINF:-1 tvg-ID="Lifetime.mx" tvg-name="Lifetime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Entretenimiento Oeste",Lifetime Oeste
@@ -100,7 +100,7 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3035.m3u8
 #EXTINF:-1 tvg-ID="MasChic.mx" tvg-name="MasChic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento Oeste",MasChic Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3027.m3u8
 #EXTINF:-1 tvg-ID="FoodNetwork.mx" tvg-name="FoodNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food_m.png" group-title="Entretenimiento Oeste",Food Network Oeste
-https://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/25132
 #
 #
 #
@@ -231,10 +231,42 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2032.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2037.m3u8
 #
 #
+#EXTINF:-1 tvg-ID="UniversalCrimen.ar" tvg-name="UniversalPremiere.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium Oeste",Universal Crimen Oeste
+http://black-tiger.live:8080/pro1291/544425347/24943
 #EXTINF:-1 tvg-ID="UniversalPremiere.ar" tvg-name="UniversalPremiere.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium Oeste",Universal Premiere Oeste
-https://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/24944
 #EXTINF:-1 tvg-ID="UniversalReality.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-real_m.png" group-title="Premium Oeste",Universal Reality Oeste
-https://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/24945
+#EXTINF:-1 tvg-ID="UniversalCinema.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium Oeste",Universal Cinema Oeste
+http://black-tiger.live:8080/pro1291/544425347/24946
+#EXTINF:-1 tvg-ID="UniversalCinema.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium Oeste",Universal Comedy Oeste
+http://black-tiger.live:8080/pro1291/544425347/24949
+#
+#
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz East
+http://black-tiger.live:8080/pro1291/544425347/25501
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz West
+http://black-tiger.live:8080/pro1291/544425347/25502
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz Encore Western
+http://black-tiger.live:8080/pro1291/544425347/25503
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz Encore Suspense
+http://black-tiger.live:8080/pro1291/544425347/25504
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz Encore Classic
+http://black-tiger.live:8080/pro1291/544425347/25506
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz Encore Black
+http://black-tiger.live:8080/pro1291/544425347/25507
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz Encore Action
+http://black-tiger.live:8080/pro1291/544425347/25508
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz Cinema
+http://black-tiger.live:8080/pro1291/544425347/25509
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz Black
+http://black-tiger.live:8080/pro1291/544425347/25510
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz EDGE
+http://black-tiger.live:8080/pro1291/544425347/25511
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz Encore Family
+http://black-tiger.live:8080/pro1291/544425347/25512
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/.png" group-title="Premium Oeste",Starz Kids & Family
+http://black-tiger.live:8080/pro1291/544425347/25513
 #
 #
 #
@@ -264,13 +296,13 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/golf/output.mpd
 #
 #
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes Oeste",DSports 
-https://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/25051
 #EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes Oeste",DSports 2
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6028.m3u8?q=desc
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes Oeste",DSports Plus
-https://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/25053
 #EXTINF:-1 tvg-ID="TUDN.mx" tvg-name="TUDN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN Mex
-https://tv.teleclub.xyz/stream/Deportes/TUDN/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/25699
 #
 #
 #
