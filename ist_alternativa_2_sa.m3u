@@ -13,11 +13,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #
 #
 #
-#EXTINF:-1 tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
+#EXTINF:-1 tvg-shift=-2 tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 https://is-tucuman.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
 https://is-tucuman.cdn.rcs.net.ar/mnp/warner/output.mpd
-#EXTINF:-1 tvg-ID="AandE(Andes).ar" tvg-name="AandE(Andes).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
+#EXTINF:-1 tvg-ID="AandE(Andes).ar"  tvg-name="AandE(Andes).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
 https://is-tucuman.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1 tvg-ID="CanalSony.ar" tvg-name="CanalSony.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
 https://is-tucuman.cdn.rcs.net.ar/mnp/sony/output.mpd
@@ -101,6 +101,8 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3035.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3027.m3u8
 #EXTINF:-1 tvg-ID="FoodNetwork.mx" tvg-name="FoodNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food_m.png" group-title="Entretenimiento Oeste",Food Network Oeste
 http://black-tiger.live:8080/pro1291/544425347/25132
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vplus_m.png" group-title="Entretenimiento Oeste",Ve Plus Oeste
+http://black-tiger.live:8080/w0023/562795447/29098
 #
 #
 #
@@ -235,6 +237,18 @@ http://black-tiger.live:8080/pro1291/544425347/24945
 http://black-tiger.live:8080/pro1291/544425347/24949
 #
 #
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime-ppv_m.png" group-title="Premium Oeste",Showtime PPV 1 Oeste
+http://black-tiger.live:8080/w0023/562795447/24899
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime-ppv_m.png" group-title="Premium Oeste",Showtime PPV 2 Oeste
+http://black-tiger.live:8080/w0023/562795447/24898
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime-ppv_m.png" group-title="Premium Oeste",Showtime PPV 3 Oeste
+http://black-tiger.live:8080/w0023/562795447/24897
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime-ppv_m.png" group-title="Premium Oeste",Showtime PPV 4 Oeste
+http://black-tiger.live:8080/w0023/562795447/24896
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime-ppv_m.png" group-title="Premium Oeste",Showtime PPV 5 Oeste
+http://black-tiger.live:8080/w0023/562795447/24895
+#
+#
 #
 #
 #EXTINF:-1 tvg-ID="TNTSports.ar" tvg-name="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tntsport_m.png" group-title="Deportes",TNT Sports
@@ -314,6 +328,8 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3033.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3034.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo Oeste",Discovery Science Oeste  
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3021.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/natgeo-mundo_m.png" group-title="Mundo Oeste",Natgeo Mundo Oeste  
+http://black-tiger.live:8080/w0023/562795447/25470
 #
 #
 #
