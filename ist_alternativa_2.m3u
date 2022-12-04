@@ -322,6 +322,8 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3033.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3034.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo Oeste",Discovery Science Oeste  
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3021.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/natgeo-mundo_m.png" group-title="Mundo Oeste",Natgeo Mundo Oeste  
+http://black-tiger.live:8080/w0023/562795447/25470
 #
 #
 #
