@@ -270,9 +270,9 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/golf/output.mpd
 #
 #
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes Oeste",DSports 
-http://black-tiger.live:8080/pro1291/544425347/25051
+http://black-tiger.live:8080/w0023/562795447/26236
 #EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes Oeste",DSports 2
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6028.m3u8?q=desc
+http://black-tiger.live:8080/w0023/562795447/20523
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes Oeste",DSports Plus
 http://black-tiger.live:8080/pro1291/544425347/25053
 #EXTINF:-1 tvg-ID="TUDN.mx" tvg-name="TUDN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN Mex
