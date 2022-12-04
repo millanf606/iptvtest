@@ -90,9 +90,9 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3009.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Entretenimiento Oeste",Discovery H&H Oeste 
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3019.m3u8
 #EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento Oeste",Las Estrellas Oeste
-https://tv.teleclub.xyz/stream/Mundo/LAS_ESTRELLAS/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/25737 
 #EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento Oeste",Tlnovelas Oeste
-https://tv.teleclub.xyz/stream/Cultura/TLNovelas/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/25749
 #EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento Oeste",Investigation Discovery Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3020.m3u8
 #EXTINF:-1 tvg-ID="Lifetime.mx" tvg-name="Lifetime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Entretenimiento Oeste",Lifetime Oeste
@@ -100,7 +100,7 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3035.m3u8
 #EXTINF:-1 tvg-ID="MasChic.mx" tvg-name="MasChic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento Oeste",MasChic Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3027.m3u8
 #EXTINF:-1 tvg-ID="FoodNetwork.mx" tvg-name="FoodNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food_m.png" group-title="Entretenimiento Oeste",Food Network Oeste
-https://tv.teleclub.xyz/stream/Cultura/FOOD_NETWORK/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/25132
 #
 #
 #
@@ -152,7 +152,7 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1002.m3u8
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil Oeste",Tooncast Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1015.m3u8
 #EXTINF:-1 tvg-ID="Bitme.mx" tvg-name="Bitme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bitme.png" group-title="Infantil Oeste",Bitme Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1020.m3u8
+http://black-tiger.live:8080/w0023/562795447/25362
 #EXTINF:-1 tvg-ID="BabyFirstAmericasSpanish.mx" tvg-name="BabyFirstAmericasSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babyfirsttv_n.png" group-title="Infantil Oeste",BabyFirst Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1000.m3u8
 #
@@ -225,10 +225,14 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2032.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2037.m3u8
 #
 #
+#EXTINF:-1 tvg-ID="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium Oeste",Universal Crimen Oeste
+http://black-tiger.live:8080/pro1291/544425347/24943
 #EXTINF:-1 tvg-ID="UniversalPremiere.ar" tvg-name="UniversalPremiere.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium Oeste",Universal Premiere Oeste
-https://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/24944
 #EXTINF:-1 tvg-ID="UniversalReality.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-real_m.png" group-title="Premium Oeste",Universal Reality Oeste
-https://tv.teleclub.xyz/stream/Entretenimiento/UNIVERSAL_REALITY/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/24945
+#EXTINF:-1 tvg-ID="UniversalComedy.mx" tvg-name="UniversalComedy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium Oeste",Universal Comedy Oeste
+http://black-tiger.live:8080/pro1291/544425347/24949
 #
 #
 #
@@ -258,20 +262,18 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/golf/output.mpd
 #
 #
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes Oeste",DSports 
-https://tv.teleclub.xyz/stream/Deportes/DIRECTV/index.m3u8
+http://black-tiger.live:8080/w0023/562795447/26236
 #EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes Oeste",DSports 2
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./6028.m3u8?q=desc
+http://black-tiger.live:8080/w0023/562795447/20523
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes Oeste",DSports Plus
-https://tv.teleclub.xyz/stream/Deportes/DIRECTV_PLUS/index.m3u8
-#EXTINF:-1 tvg-ID="TUDN.mx" tvg-name="TUDN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN Mex
-https://tv.teleclub.xyz/stream/Deportes/TUDN/index.m3u8
+http://black-tiger.live:8080/pro1291/544425347/25053
 #
 #
 #
 #
 #EXTINF:-1 tvg-ID="CNNI(English).ar" tvg-name="CNNI(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
 https://is-tucuman.cdn.rcs.net.ar/mnp/cnn/output.mpd
-#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
+#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en EspaÃ±ol
 http://tv.teleclub.xyz/stream/Mundo/CNN_ESPANOL/index.m3u8
 #EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
@@ -312,16 +314,6 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3033.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3034.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo Oeste",Discovery Science Oeste  
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3021.m3u8
-#
-#
-#
-#
-#EXTINF:-1 tvg-ID="TvPublica.ar" tvg-name="TvPublica.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tv-publica_m.png" group-title="Internacional",Television Publica  
-https://is-tucuman.cdn.rcs.net.ar/mnp/tvp/output.mpd
-#EXTINF:-1 tvg-ID="La1.es" tvg-name="La1.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la1_m.png" group-title="Internacional",La 1  
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-ID="La2.es" tvg-name="La2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Internacional",La 2  
-https://ztnr.rtve.es/ztnr/1688885.m3u8
 #
 #
 #
