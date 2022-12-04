@@ -13,11 +13,11 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #
 #
 #
-#EXTINF:-1 tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
+#EXTINF:-1 tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 https://is-tucuman.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
 https://is-tucuman.cdn.rcs.net.ar/mnp/warner/output.mpd
-#EXTINF:-1 tvg-ID="AandE(Andes).ar"  tvg-name="AandE(Andes).ar" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
+#EXTINF:-1 tvg-ID="AandE(Andes).ar"  tvg-name="AandE(Andes).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
 https://is-tucuman.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1 tvg-ID="CanalSony.ar" tvg-name="CanalSony.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
 https://is-tucuman.cdn.rcs.net.ar/mnp/sony/output.mpd
@@ -29,7 +29,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/amc/output.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 #EXTINF:-1 tvg-ID="ComedyCentral.ar" tvg-name="ComedyCentral.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
 https://is-tucuman.cdn.rcs.net.ar/mnp/comedy/output.mpd
-#EXTINF:-1 tvg-ID="TBS.mx" tvg-name="TBS.mx" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
+#EXTINF:-1 tvg-ID="TBS.mx" tvg-name="TBS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
 https://is-tucuman.cdn.rcs.net.ar/mnp/tbs/output.mpd
 #EXTINF:-1 tvg-ID="FX.ar" tvg-name="FX.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
 https://is-tucuman.cdn.rcs.net.ar/mnp/fx/output.mpd
