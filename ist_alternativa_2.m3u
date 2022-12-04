@@ -13,7 +13,7 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel
 #
 #
 #
-#EXTINF:-1 tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
+#EXTINF:-1 tvg-shift=-2 tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 https://is-tucuman.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 #EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
 https://is-tucuman.cdn.rcs.net.ar/mnp/warner/output.mpd
