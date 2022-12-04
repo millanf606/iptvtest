@@ -237,8 +237,6 @@ http://black-tiger.live:8080/pro1291/544425347/24943
 http://black-tiger.live:8080/pro1291/544425347/24944
 #EXTINF:-1 tvg-ID="UniversalReality.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-real_m.png" group-title="Premium Oeste",Universal Reality Oeste
 http://black-tiger.live:8080/pro1291/544425347/24945
-#EXTINF:-1 tvg-ID="UniversalCinema.mx" tvg-name="UniversalCinema.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium Oeste",Universal Cinema Oeste
-http://black-tiger.live:8080/pro1291/544425347/24946
 #EXTINF:-1 tvg-ID="UniversalComedy.mx" tvg-name="UniversalComedy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium Oeste",Universal Comedy Oeste
 http://black-tiger.live:8080/pro1291/544425347/24949
 #
@@ -275,8 +273,6 @@ http://black-tiger.live:8080/w0023/562795447/26236
 http://black-tiger.live:8080/w0023/562795447/20523
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes Oeste",DSports Plus
 http://black-tiger.live:8080/pro1291/544425347/25053
-#EXTINF:-1 tvg-ID="TUDN.mx" tvg-name="TUDN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tudn_m.png" group-title="Deportes",TUDN Mex
-http://black-tiger.live:8080/pro1291/544425347/25699
 #
 #
 #
@@ -324,16 +320,6 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3033.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3034.m3u8
 #EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo Oeste",Discovery Science Oeste  
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3021.m3u8
-#
-#
-#
-#
-#EXTINF:-1 tvg-ID="TvPublica.ar" tvg-name="TvPublica.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tv-publica_m.png" group-title="Internacional",Television Publica  
-https://is-tucuman.cdn.rcs.net.ar/mnp/tvp/output.mpd
-#EXTINF:-1 tvg-ID="La1.es" tvg-name="La1.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la1_m.png" group-title="Internacional",La 1  
-https://ztnr.rtve.es/ztnr/1688877.m3u8
-#EXTINF:-1 tvg-ID="La2.es" tvg-name="La2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Internacional",La 2  
-https://ztnr.rtve.es/ztnr/1688885.m3u8
 #
 #
 #
