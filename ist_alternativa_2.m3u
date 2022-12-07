@@ -198,8 +198,14 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2006.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2055.m3u8
 #EXTINF:-1 tvg-ID="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine-latino_m.png" group-title="Cine Oeste",Cine Latino Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2004.m3u8
+#EXTINF:-1 tvg-ID="DePelicula.mx" tvg-name="DePelicula.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Cine Oeste",De Pelicula Oeste
+http://black-tiger.live:8080/w0023/562795447/24912
+#EXTINF:-1 tvg-ID="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Cine Oeste",Golden EDGE Oeste
+http://black-tiger.live:8080/w0023/562795447/24938
 #EXTINF:-1 tvg-ID="Space.mx" tvg-name="Space.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine Oeste",Space Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2042.m3u8
+#EXTINF:-1 tvg-ID="ISAT(English).ar" tvg-name="ISAT(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/isat_m.png" group-title="Cine Oeste",Isat Oeste
+http://black-tiger.live:8080/w0023/562795447/25364
 #
 #
 #
@@ -233,17 +239,16 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2032.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2037.m3u8
 #
 #
-#EXTINF:-1 tvg-ID="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium Oeste",Universal Crimen Oeste
-http://black-tiger.live:8080/w0023/562795447/24943
 #EXTINF:-1 tvg-ID="UniversalPremiere.ar" tvg-name="UniversalPremiere.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium Oeste",Universal Premiere Oeste
 http://black-tiger.live:8080/w0023/562795447/24944
-#EXTINF:-1 tvg-ID="UniversalReality.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-real_m.png" group-title="Premium Oeste",Universal Reality Oeste
-http://black-tiger.live:8080/w0023/562795447/24945
 #EXTINF:-1 tvg-ID="UniversalCinema.mx" tvg-name="UniversalCinema.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium Oeste",Universal Cinema Oeste
 http://black-tiger.live:8080/w0023/562795447/24946
 #EXTINF:-1 tvg-ID="UniversalComedy.mx" tvg-name="UniversalComedy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium Oeste",Universal Comedy Oeste
 http://black-tiger.live:8080/w0023/562795447/24949
-
+#EXTINF:-1 tvg-ID="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium Oeste",Universal Crimen Oeste
+http://black-tiger.live:8080/w0023/562795447/24943
+#EXTINF:-1 tvg-ID="UniversalReality.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-real_m.png" group-title="Premium Oeste",Universal Reality Oeste
+http://black-tiger.live:8080/w0023/562795447/24945
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime-ppv_m.png" group-title="Premium Oeste",Showtime PPV 1 Oeste
