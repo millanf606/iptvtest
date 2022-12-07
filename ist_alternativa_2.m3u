@@ -8,7 +8,7 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5500.m3u8
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Nacional",TLT
 https://vcp4.myplaytv.com/tlt-ve/tltve-291022.stream/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/globovision_m.png" group-title="Naciona",Globovision
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/globovision_m.png" group-title="Nacional",Globovision
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCfJtBtmhnIyfUB6RqXeImMw/live
 #
 #
@@ -119,7 +119,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/htv/output.mpd
 #
 #
 #
-#EXTINF:-1 tvg-ID="CartoonNetwork.ar" tvg-name="CartoonNetwork.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
+#EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
 https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
 #EXTINF:-1 tvg-ID="Nick.ar" tvg-name="Nick.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil",Nick
 https://is-tucuman.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
@@ -139,7 +139,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #
 #
-#EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil Oeste",Cartoon Network Oeste
+#EXTINF:-1 tvg-ID="CartoonNetwork.ar" tvg-name="CartoonNetwork.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil Oeste",Cartoon Network Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1003.m3u8
 #EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil Oeste",Disney Channel Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1006.m3u8
@@ -234,13 +234,16 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2037.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium Oeste",Universal Crimen Oeste
-http://black-tiger.live:8080/pro1291/544425347/24943
+http://black-tiger.live:8080/w0023/562795447/24943
 #EXTINF:-1 tvg-ID="UniversalPremiere.ar" tvg-name="UniversalPremiere.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium Oeste",Universal Premiere Oeste
-http://black-tiger.live:8080/pro1291/544425347/24944
+http://black-tiger.live:8080/w0023/562795447/24944
 #EXTINF:-1 tvg-ID="UniversalReality.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-real_m.png" group-title="Premium Oeste",Universal Reality Oeste
-http://black-tiger.live:8080/pro1291/544425347/24945
+http://black-tiger.live:8080/w0023/562795447/24945
+#EXTINF:-1 tvg-ID="UniversalCinema.mx" tvg-name="UniversalCinema.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium Oeste",Universal Cinema Oeste
+http://black-tiger.live:8080/w0023/562795447/24946
 #EXTINF:-1 tvg-ID="UniversalComedy.mx" tvg-name="UniversalComedy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium Oeste",Universal Comedy Oeste
-http://black-tiger.live:8080/pro1291/544425347/24949
+http://black-tiger.live:8080/w0023/562795447/24949
+
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime-ppv_m.png" group-title="Premium Oeste",Showtime PPV 1 Oeste
