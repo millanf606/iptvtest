@@ -5,6 +5,10 @@
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Nacional",Venevision
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5500.m3u8
+#EXTINF:-1 tvg-ID="TVES" tvg-name="TVES" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tves_m.png" group-title="Nacional",TVES
+http://hidra.live:80/nicobullanguero/231219iptv/43555
+#EXTINF:-1 tvg-ID="Televen" tvg-name="Televen" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Nacional",Televen
+http://hidra.live:80/nicobullanguero/231219iptv/43561
 #EXTINF:-1 tvg-ID="VenezolanadeTelevision.co" tvg-name="VenezolanadeTelevision.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Nacional",VTV
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Nacional",TLT
