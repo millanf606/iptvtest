@@ -254,7 +254,6 @@ http://hidra.live:80/nicobullanguero/231219iptv/34862
 #
 #
 #
-#
 #EXTINF:-1 tvg-ID="TNTSports.ar" tvg-name="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tntsport_m.png" group-title="Deportes",TNT Sports
 https://is-tucuman.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1 tvg-ID="FOXSports(ConoSurArgentina).mx" tvg-name="FOXSports(ConoSurArgentina).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
@@ -298,7 +297,6 @@ http://hidra.live:80/nicobullanguero/231219iptv/312840
 #
 #
 #
-#
 #EXTINF:-1 tvg-ID="CNNI(English).ar" tvg-name="CNNI(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
 https://is-tucuman.cdn.rcs.net.ar/mnp/cnn/output.mpd
 #
@@ -311,7 +309,6 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5496.m3u8
 #EXTINF:-1 tvg-ID="euronews.mx" tvg-name="euronews.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/euronews.png" group-title="Noticias Oeste",Euronews Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8074.m3u8
-#
 #
 #
 #
