@@ -170,16 +170,6 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1015.m3u8
 #
 #
 #
-#EXTINF:-1 tvg-ID="Playboy.mx" tvg-name="Playboy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png" group-title="Adulto Oeste",Playboy Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/35326
-#EXTINF:-1 tvg-ID="venus.mx" tvg-name="venus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/venus_m.png" group-title="Adulto Oeste",Venus Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/304511
-#EXTINF:-1 tvg-ID="sextreme.mx" tvg-name="sextreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sextre_m.png" group-title="Adulto Oeste",Sextreme Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/35400
-#
-#
-#
-#
 #EXTINF:-1 tvg-ID="TNT.ar" tvg-name="TNT.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
 https://is-tucuman.cdn.rcs.net.ar/mnp/tnt/output.mpd
 #EXTINF:-1 tvg-ID="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Cine",TCM
