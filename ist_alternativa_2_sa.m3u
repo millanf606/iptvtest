@@ -2,7 +2,6 @@
 #EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8kk72bkee4gng1v"
 #
 #
-#
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Nacional",Venevision
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5500.m3u8
 #EXTINF:-1 tvg-ID="Televen" tvg-name="Televen" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Nacional",Televen
@@ -11,7 +10,6 @@ http://hidra.live:80/nicobullanguero/231219iptv/43561
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlt_m.png" group-title="Nacional",TLT
 https://vcp4.myplaytv.com/tlt-ve/tltve-291022.stream/playlist.m3u8
-#
 #
 #
 #EXTINF:-1 tvg-shift=-2 tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
@@ -164,7 +162,6 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1005.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1002.m3u8
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil Oeste",Tooncast Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1015.m3u8
-#
 #
 #
 #
