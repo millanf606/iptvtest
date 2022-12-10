@@ -86,6 +86,10 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2051.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2046.m3u8?
 #EXTINF:-1 tvg-ID="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento Oeste",TruTV Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3014.m3u8
+#EXTINF:-1 tvg-ID="HOLATV.ar" tvg-name="HOLATV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Entretenimiento Oeste",¡Hola! TV Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/35042
+#EXTINF:-1 tvg-ID="Glitz.mx" tvg-name="Glitz.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento Oeste",Glitz Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/35052
 #EXTINF:-1 tvg-ID="PasionesTV.mx" tvg-name="PasionesTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasiones_m.png" group-title="Entretenimiento Oeste",Pasiones Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/35058
 #EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Entretenimiento Oeste",Discovery H&H Oeste 
@@ -102,8 +106,6 @@ https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3035.m3u8
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3027.m3u8
 #EXTINF:-1 tvg-ID="FoodNetwork.mx" tvg-name="FoodNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food_m.png" group-title="Entretenimiento Oeste",Food Network Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/35048
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vplus_m.png" group-title="Entretenimiento Oeste",Ve Plus Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/43565
 #
 #
 #
