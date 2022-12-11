@@ -296,22 +296,38 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/tyc/output.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/golf/output.mpd
 #
 #
-#EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes Oeste",DSports 
-http://hidra.live:80/nicobullanguero/231219iptv/312889
-#EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes Oeste",DSports 2
+#EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes Oeste",DSports Oeste 
+http://hidra.live:80/nicobullanguero/231219iptv/312885
+#EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes Oeste",DSports 2 Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/312881
-#EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes Oeste",DSports Plus
+#EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes Oeste",DSports Plus Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/312880
 #
 #
 #EXTINF:-1 tvg-ID="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes Oeste",ESPN Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/34659
 #EXTINF:-1 tvg-ID="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes Oeste",ESPN 2 Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/34662
+http://hidra.live:80/nicobullanguero/231219iptv/34612
 #EXTINF:-1 tvg-ID="ESPNTres(North).mx" tvg-name="ESPNTres(North).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes Oeste",ESPN 3 Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/34665
 #EXTINF:-1 tvg-ID="ESPN4SUR.co" tvg-name="ESPN4SUR.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-4_m.png" group-title="Deportes Oeste",ESPN 4 Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/312840
+#
+#
+#EXTINF:-1 tvg-ID="DAZN1(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes Oeste",DAZN 1 Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/303779
+#EXTINF:-1 tvg-ID="DAZN2(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes Oeste",DAZN 2 Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/303781
+#EXTINF:-1 tvg-ID="DAZN3(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes Oeste",DAZN 3 Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/303783
+#EXTINF:-1 tvg-ID="DAZN4(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes Oeste",DAZN 4 Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/303785
+#EXTINF:-1 tvg-ID="DAZNF1(src01).es" tvg-name="DAZNF1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan-f1_m.png" group-title="Deportes Oeste",DAZN F1 Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/303806
+#
+#
+#EXTINF:-1 tvg-ID="MLBNetwork(src01).us" tvg-name="MLBNetwork(src01).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="Deportes Oeste",MLB Network Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/303847
 #
 #
 #
