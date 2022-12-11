@@ -144,23 +144,23 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/boomerang/output.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast/output.mpd
 #
 #EXTINF:-1 tvg-ID="CartoonNetwork.ar" tvg-name="CartoonNetwork.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil Oeste",Cartoon Network Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1003.m3u8
+http://hidra.live:80/nicobullanguero/231219iptv/34754
 #EXTINF:-1 tvg-ID="Nick.mx" tvg-name="Nick.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil Oeste",Nick Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/34768
 #EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil Oeste",Nick Jr. Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/34779
+http://hidra.live:80/nicobullanguero/231219iptv/312754
 #EXTINF:-1 tvg-ID="TeenNick.mx" tvg-name="TeenNick.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/teennick_m.png" group-title="Infantil Oeste",TeenNick Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/34773
 #EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil Oeste",Disney Channel Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1006.m3u8
+http://hidra.live:80/nicobullanguero/231219iptv/34757
 #EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil Oeste",Disney Junior Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1007.m3u8
+http://hidra.live:80/nicobullanguero/231219iptv/34765
 #EXTINF:-1 tvg-ID="ZooMoo.mx" tvg-name="ZooMoo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/zoomoo_m.png" group-title="Infantil Oeste",ZooMoo Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/312762
 #EXTINF:-1 tvg-ID="DiscoveryKids.mx" tvg-name="DiscoveryKids.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantil Oeste",Disc Kids Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1005.m3u8
+http://hidra.live:80/nicobullanguero/231219iptv/34781
 #EXTINF:-1 tvg-ID="Cartoonito.mx" tvg-name="Cartoonito.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonito.png" group-title="Infantil Oeste",Cartoonito Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1002.m3u8
+http://hidra.live:80/nicobullanguero/231219iptv/312753
 #EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil Oeste",Tooncast Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1015.m3u8
 #
