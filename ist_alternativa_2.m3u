@@ -226,7 +226,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/hbofam/output.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 #EXTINF:-1 tvg-ID="HBOPop.ar" tvg-name="HBOPop.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
 https://is-tucuman.cdn.rcs.net.ar/mnp/hbopop/output.mpd
-#EXTINF:-1 tvg-ID="HBOXtreme.ar" tvg-name="HBOXtreme.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
+#EXTINF:-1 tvg-shift=-2 tvg-ID="HBOXtreme.ar" tvg-name="HBOXtreme.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
 https://is-tucuman.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 #
 #EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium Oeste",HBO Oeste
@@ -241,7 +241,7 @@ http://hidra.live:80/nicobullanguero/231219iptv/34895
 http://hidra.live:80/nicobullanguero/231219iptv/312766
 #EXTINF:-1 tvg-ID="HBOPop.ar" tvg-name="HBOPop.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium Oeste",HBO Pop Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/312768
-#EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium Oeste",HBO Xtreme Oeste
+#EXTINF:-1 tvg-shift=-2 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium Oeste",HBO Xtreme Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/312770
 #
 #EXTINF:-1 tvg-ID="UniversalPremiere.ar" tvg-name="UniversalPremiere.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium Oeste",Universal Premiere Oeste
