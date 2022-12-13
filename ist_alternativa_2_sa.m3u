@@ -95,6 +95,8 @@ http://hidra.live:80/nicobullanguero/231219iptv/35058
 http://hidra.live:80/nicobullanguero/231219iptv/35036
 #EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento Oeste",Tlnovelas Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/35161
+#EXTINF:-1 tvg-ID="TUnivisionTLNovelas(Spanish).us" tvg-name="UnivisionTLNovelas(Spanish).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni-tlnovelas_m.png" group-title="Entretenimiento Oeste",Univision Tlnovelas Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/312987
 #EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Entretenimiento Oeste",Discovery H&H Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/302693
 #EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento Oeste",Investigation Discovery Oeste
