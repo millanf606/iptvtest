@@ -193,7 +193,7 @@ https://is-tucuman.cdn.rcs.net.ar/mnp/space/output.mpd
 https://is-tucuman.cdn.rcs.net.ar/mnp/isat/output.mpd
 #
 #EXTINF:-1 tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine Oeste",TNT Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2049.m3u8
+http://hidra.live:80/nicobullanguero/231219iptv/34957
 #EXTINF:-1 tvg-ID="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine Oeste",Golden Oeste
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2026.m3u8
 #EXTINF:-1 tvg-ID="TCM.mx" tvg-name="TCM.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Cine Oeste",TCM Oeste
