@@ -4,7 +4,7 @@
 #
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Nacional",Venevision
+#EXTINF:-1 tvg-chno="100" tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Nacional",Venevision
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5500.m3u8
 #EXTINF:-1 tvg-ID="TVES" tvg-name="TVES" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tves_m.png" group-title="Nacional",TVes
 http://hidra.live:80/nicobullanguero/231219iptv/43555
@@ -14,355 +14,238 @@ http://hidra.live:80/nicobullanguero/231219iptv/43561
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
 #
 #
-#EXTINF:-1 tvg-shift=-2 tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+#EXTINF:-1  tvg-chno="202" tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
+http://hidra.live:80/nicobullanguero/231219iptv/34926
 #EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
-https://is-tucuman.cdn.rcs.net.ar/mnp/warner/output.mpd
-#EXTINF:-1 tvg-ID="AandE(Andes).ar"  tvg-name="AandE(Andes).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
-https://is-tucuman.cdn.rcs.net.ar/mnp/ae/output.mpd
-#EXTINF:-1 tvg-ID="CanalSony.ar" tvg-name="CanalSony.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
-https://is-tucuman.cdn.rcs.net.ar/mnp/sony/output.mpd
-#EXTINF:-1 tvg-ID="AXN.ar" tvg-name="AXN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
-https://is-tucuman.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1 tvg-ID="AMC.ar" tvg-name="AMC.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Entretenimiento",AMC
-https://is-tucuman.cdn.rcs.net.ar/mnp/amc/output.mpd
-#EXTINF:-1 tvg-ID="TNTSeries.ar" tvg-name="TNTSeries.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
-https://is-tucuman.cdn.rcs.net.ar/mnp/tntseries/output.mpd
-#EXTINF:-1 tvg-ID="ComedyCentral.ar" tvg-name="ComedyCentral.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
-https://is-tucuman.cdn.rcs.net.ar/mnp/comedy/output.mpd
-#EXTINF:-1 tvg-ID="TBS.mx" tvg-name="TBS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
-https://is-tucuman.cdn.rcs.net.ar/mnp/tbs/output.mpd
-#EXTINF:-1 tvg-ID="FX.ar" tvg-name="FX.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
-https://is-tucuman.cdn.rcs.net.ar/mnp/fx/output.mpd
-#EXTINF:-1 tvg-ID="UniversalTV.ar" tvg-name="UniversalTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
-https://is-tucuman.cdn.rcs.net.ar/mnp/universal/output.mpd
-#EXTINF:-1 tvg-ID="SYFY.ar" tvg-name="SYFY.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SYFY
-https://is-tucuman.cdn.rcs.net.ar/mnp/syfy/output.mpd
-#EXTINF:-1 tvg-ID="TruTV.ar" tvg-name="TruTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",TruTV
-https://is-tucuman.cdn.rcs.net.ar/mnp/trutv/output.mpd
-#EXTINF:-1 tvg-ID="ID.ar" tvg-name="ID.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
-#EXTINF:-1 tvg-ID="Glitz.ar" tvg-name="Glitz.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
-https://is-tucuman.cdn.rcs.net.ar/mnp/glitz/output.mpd
-#EXTINF:-1 tvg-ID="Lifetime.ar" tvg-name="Lifetime.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Entretenimiento",Lifetime
-https://is-tucuman.cdn.rcs.net.ar/mnp/lifetime/output.mpd
-#EXTINF:-1 tvg-ID="MasChic.ar" tvg-name="MasChic.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento",MasChic
-https://is-tucuman.cdn.rcs.net.ar/mnp/maschic/output.mpd
-#EXTINF:-1 tvg-ID="TelemundoInternacional.mx" tvg-name="TelemundoInternacional.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Entretenimiento",Telemundo
-https://is-tucuman.cdn.rcs.net.ar/mnp/telemundo/output.mpd
-#EXTINF:-1 tvg-ID="ElGourmet.ar" tvg-name="ElGourmet.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
-https://is-tucuman.cdn.rcs.net.ar/mnp/gourmet/output.mpd
-#EXTINF:-1 tvg-ID="tlc.ar" tvg-name="tlc.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlc_m.png" group-title="Entretenimiento",TLC
-https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
-#EXTINF:-1 tvg-ID="hgtv.mx" tvg-name="hgtv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hgtv_m.png" group-title="Entretenimiento",HGTV
-https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_hgtv/output.mpd
-#
-#EXTINF:-1 tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento Oeste",Star Channel Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2012.m3u8
-#EXTINF:-1 tvg-ID="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento Oeste",Warner TV Oeste
 http://hidra.live:80/nicobullanguero/231219iptv/34920
-#EXTINF:-1 tvg-ID="AandE.mx" tvg-name="AandE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento Oeste",A&E Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2000.m3u8
-#EXTINF:-1 tvg-ID="CanalSony.mx" tvg-name="CanalSony.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento Oeste",Sony Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2041.m3u8
-#EXTINF:-1 tvg-ID="AXN.mx" tvg-name="AXN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento Oeste",AXN Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2002.m3u8
-#EXTINF:-1 tvg-ID="AMC.mx" tvg-name="AMC.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Entretenimiento Oeste",AMC Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2001.m3u8
-#EXTINF:-1 tvg-ID="TNTSeries.mx" tvg-name="TNTSeries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento Oeste",TNT Series Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2050.m3u8
-#EXTINF:-1 tvg-ID="Atreseries.mx" tvg-name="Atreseries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a3-series_m.png" group-title="Entretenimiento Oeste",A3 Series Oeste
+#EXTINF:-1 tvg-ID="AandE(Andes).ar"  tvg-name="AandE(Andes).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
+http://hidra.live:80/nicobullanguero/231219iptv/34944
+#EXTINF:-1 tvg-ID="CanalSony.ar" tvg-name="CanalSony.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
+http://hidra.live:80/nicobullanguero/231219iptv/34934
+#EXTINF:-1 tvg-ID="AXN.ar" tvg-name="AXN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
+http://hidra.live:80/nicobullanguero/231219iptv/34939
+#EXTINF:-1 tvg-ID="AMC.ar" tvg-name="AMC.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Entretenimiento",AMC
+http://hidra.live:80/nicobullanguero/231219iptv/34915
+#EXTINF:-1 tvg-ID="TNTSeries.ar" tvg-name="TNTSeries.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
+http://hidra.live:80/nicobullanguero/231219iptv/34960
+#EXTINF:-1 tvg-ID="Atreseries.mx" tvg-name="Atreseries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a3-series_m.png" group-title="Entretenimiento",A3 Series
 http://hidra.live:80/nicobullanguero/231219iptv/312781
-#EXTINF:-1 tvg-ID="ComedyCentral.mx" tvg-name="ComedyCentral.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento Oeste",Comedy Central Oeste
+#EXTINF:-1 tvg-ID="ComedyCentral.ar" tvg-name="ComedyCentral.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
 http://hidra.live:80/nicobullanguero/231219iptv/34949
-#EXTINF:-1 tvg-ID="TBS.mx" tvg-name="TBS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento Oeste",TBS Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2047.m3u8
-#EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento Oeste",FX Oeste
+#EXTINF:-1 tvg-ID="TBS.mx" tvg-name="TBS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
+http://hidra.live:80/nicobullanguero/231219iptv/35062
+#EXTINF:-1 tvg-ID="FX.ar" tvg-name="FX.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
 http://hidra.live:80/nicobullanguero/231219iptv/34975
-#EXTINF:-1 tvg-ID="UniversalTV.mx" tvg-name="UniversalTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento Oeste",Universal TV Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2051.m3u8
-#EXTINF:-1 tvg-ID="SYFY.mx" tvg-name="SYFY.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento Oeste",SYFY Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2046.m3u8?
-#EXTINF:-1 tvg-ID="TruTV.mx" tvg-name="TruTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento Oeste",TruTV Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3014.m3u8
-#EXTINF:-1 tvg-ID="HOLATV.ar" tvg-name="HOLATV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Entretenimiento Oeste",¡Hola! TV Oeste
+#EXTINF:-1 tvg-ID="UniversalTV.ar" tvg-name="UniversalTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
+http://hidra.live:80/nicobullanguero/231219iptv/34956
+#EXTINF:-1 tvg-ID="SYFY.ar" tvg-name="SYFY.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SYFY
+http://hidra.live:80/nicobullanguero/231219iptv/35010
+#EXTINF:-1 tvg-ID="TruTV.ar" tvg-name="TruTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",TruTV
+http://hidra.live:80/nicobullanguero/231219iptv/35065
+#EXTINF:-1 tvg-ID="HOLATV.ar" tvg-name="HOLATV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Entretenimiento",¡Hola! TV
 http://hidra.live:80/nicobullanguero/231219iptv/35042
-#EXTINF:-1 tvg-ID="Glitz.mx" tvg-name="Glitz.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento Oeste",Glitz Oeste
+#EXTINF:-1 tvg-ID="ID.ar" tvg-name="ID.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
+http://hidra.live:80/nicobullanguero/231219iptv/34836
+#EXTINF:-1 tvg-ID="Glitz.ar" tvg-name="Glitz.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
 http://hidra.live:80/nicobullanguero/231219iptv/35052
-#EXTINF:-1 tvg-ID="PasionesTV.mx" tvg-name="PasionesTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasiones_m.png" group-title="Entretenimiento Oeste",Pasiones Oeste
+#EXTINF:-1 tvg-ID="PasionesTV.mx" tvg-name="PasionesTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasiones_m.png" group-title="Entretenimiento",Pasiones
 http://hidra.live:80/nicobullanguero/231219iptv/35058
-#EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento Oeste",Las Estrellas Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/35036
-#EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento Oeste",Tlnovelas Oeste
+#EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas
+http://hidra.live:80/nicobullanguero/231219iptv/302641
+#EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",Tlnovelas
 http://hidra.live:80/nicobullanguero/231219iptv/35161
-#EXTINF:-1 tvg-ID="TUnivisionTLNovelas(Spanish).us" tvg-name="UnivisionTLNovelas(Spanish).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni-tlnovelas_m.png" group-title="Entretenimiento Oeste",Univision Tlnovelas Oeste
+#EXTINF:-1 tvg-ID="TUnivisionTLNovelas(Spanish).us" tvg-name="UnivisionTLNovelas(Spanish).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni-tlnovelas_m.png" group-title="Entretenimiento",Univision Tlnovelas
 http://hidra.live:80/nicobullanguero/231219iptv/312987
-#EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Entretenimiento Oeste",Discovery H&H Oeste
+#EXTINF:-1 tvg-ID="Lifetime.ar" tvg-name="Lifetime.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Entretenimiento",Lifetime
+http://hidra.live:80/nicobullanguero/231219iptv/35038
+#EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Entretenimiento",Discovery H&H
 http://hidra.live:80/nicobullanguero/231219iptv/302693
-#EXTINF:-1 tvg-ID="ID.mx" tvg-name="ID.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento Oeste",Investigation Discovery Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3020.m3u8
-#EXTINF:-1 tvg-ID="Lifetime.mx" tvg-name="Lifetime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Entretenimiento Oeste",Lifetime Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3035.m3u8
-#EXTINF:-1 tvg-ID="MasChic.mx" tvg-name="MasChic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento Oeste",MasChic Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3027.m3u8
-#EXTINF:-1 tvg-ID="ElGourmet.ar" tvg-name="ElGourmet.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento Oeste",El Gourmet Oeste
+#EXTINF:-1 tvg-ID="MasChic.ar" tvg-name="MasChic.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento",MasChic
+http://hidra.live:80/nicobullanguero/231219iptv/35055
+#EXTINF:-1 tvg-ID="TelemundoInternacional.mx" tvg-name="TelemundoInternacional.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Entretenimiento",Telemundo
+http://hidra.live:80/nicobullanguero/231219iptv/35088
+#EXTINF:-1 tvg-ID="ElGourmet.ar" tvg-name="ElGourmet.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
 http://hidra.live:80/nicobullanguero/231219iptv/35045
-#EXTINF:-1 tvg-ID="tlc.ar" tvg-name="tlc.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlc_m.png" group-title="Entretenimiento Oeste",TLC Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/34820
-#EXTINF:-1 tvg-ID="FoodNetwork.mx" tvg-name="FoodNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food_m.png" group-title="Entretenimiento Oeste",Food Network Oeste
+#EXTINF:-1 tvg-ID="FoodNetwork.mx" tvg-name="FoodNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food_m.png" group-title="Entretenimiento",Food Network
 http://hidra.live:80/nicobullanguero/231219iptv/35048
+#EXTINF:-1 tvg-ID="hgtv.mx" tvg-name="hgtv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hgtv_m.png" group-title="Entretenimiento",HGTV
+http://hidra.live:80/nicobullanguero/231219iptv/312820
 #
 #
-#EXTINF:-1 tvg-ID="MTV.ar" tvg-name="MTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
-https://is-tucuman.cdn.rcs.net.ar/mnp/mtv/output.mpd
-#EXTINF:-1 tvg-ID="MuchMusic.mx" tvg-name="MuchMusic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/much-music_m.png" group-title="Musica",Much Music
-https://is-tucuman.cdn.rcs.net.ar/mnp/much_music/output.mpd
+#EXTINF:-1 tvg-chno="264" tvg-ID="MTV.ar" tvg-name="MTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
+http://hidra.live:80/nicobullanguero/231219iptv/35016
 #EXTINF:-1 tvg-ID="HTV.mx" tvg-name="HTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/htv_m.png" group-title="Musica",HTV
-https://is-tucuman.cdn.rcs.net.ar/mnp/htv/output.mpd
-#
-#EXTINF:-1 tvg-ID="MTVHitsInternational.mx" tvg-name="MTVHitsInternational.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv-hits_m.png" group-title="Musica Oeste" tvg-id="",MTV Hits Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/35019
-#EXTINF:-1 tvg-ID="MTV00s.mx" tvg-name="MTV00s.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv00s_m.png" group-title="Musica Oeste" tvg-id="",MTV 00s Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/35033
+http://hidra.live:80/nicobullanguero/231219iptv/35025
 #
 #
-#EXTINF:-1 tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
-#EXTINF:-1 tvg-ID="Nick.ar" tvg-name="Nick.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil",Nick
-https://is-tucuman.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-#EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil",Nick Jr.
-https://is-tucuman.cdn.rcs.net.ar/mnp/nickjr/output.mpd
-#EXTINF:-1 tvg-ID="DisneyChannel.ar" tvg-name="DisneyChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil",Disney Channel 
-https://is-tucuman.cdn.rcs.net.ar/mnp/disney/output.mpd
-#EXTINF:-1 tvg-ID="DisneyJunior.ar" tvg-name="DisneyJunior.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
-https://is-tucuman.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
-#EXTINF:-1 tvg-ID="BabyTv.ar" tvg-name="BabyTv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",Baby TV
-https://is-tucuman.cdn.rcs.net.ar/mnp/babytv/output.mpd
-#EXTINF:-1 tvg-ID="DiscoveryKids.ar" tvg-name="DiscoveryKids.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantil",Discovery Kids
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_Kids/SA_DASH/Discovery_Kids.mpd
-#EXTINF:-1 tvg-ID="Cartoonito.ar" tvg-name="Cartoonito.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonito.png" group-title="Infantil",Cartoonito
-https://is-tucuman.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-#EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
-https://is-tucuman.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-#
-#EXTINF:-1 tvg-ID="CartoonNetwork.ar" tvg-name="CartoonNetwork.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil Oeste",Cartoon Network Oeste
+#EXTINF:-1 tvg-chno="304" tvg-ID="CartoonNetwork.mx" tvg-name="CartoonNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoon-network_m.png" group-title="Infantil",Cartoon Network 
 http://hidra.live:80/nicobullanguero/231219iptv/34754
-#EXTINF:-1 tvg-ID="Nick.mx" tvg-name="Nick.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil Oeste",Nick Oeste
+#EXTINF:-1 tvg-ID="Nick.ar" tvg-name="Nick.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickelodeon_m.png" group-title="Infantil",Nick
 http://hidra.live:80/nicobullanguero/231219iptv/34768
-#EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil Oeste",Nick Jr. Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/312754
-#EXTINF:-1 tvg-ID="TeenNick.mx" tvg-name="TeenNick.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/teennick_m.png" group-title="Infantil Oeste",TeenNick Oeste
+#EXTINF:-1 tvg-ID="NickJr.mx" tvg-name="NickJr.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick-jr_m.png" group-title="Infantil",Nick Jr.
+http://hidra.live:80/nicobullanguero/231219iptv/34778
+#EXTINF:-1 tvg-ID="TeenNick.mx" tvg-name="TeenNick.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/teennick_m.png" group-title="Infantil",TeenNick
 http://hidra.live:80/nicobullanguero/231219iptv/34773
-#EXTINF:-1 tvg-ID="DisneyChannel.mx" tvg-name="DisneyChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil Oeste",Disney Channel Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/34757
-#EXTINF:-1 tvg-ID="DisneyJunior.mx" tvg-name="DisneyJunior.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil Oeste",Disney Junior Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/34765
-#EXTINF:-1 tvg-ID="ZooMoo.mx" tvg-name="ZooMoo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/zoomoo_m.png" group-title="Infantil Oeste",ZooMoo Oeste
+#EXTINF:-1 tvg-ID="DisneyChannel.ar" tvg-name="DisneyChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-channel_m.png" group-title="Infantil",Disney Channel 
+http://hidra.live:80/nicobullanguero/231219iptv/34759
+#EXTINF:-1 tvg-ID="DisneyJunior.ar" tvg-name="DisneyJunior.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
+http://hidra.live:80/nicobullanguero/231219iptv/34767
+#EXTINF:-1 tvg-ID="ZooMoo.mx" tvg-name="ZooMoo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/zoomoo_m.png" group-title="Infantil",ZooMoo
 http://hidra.live:80/nicobullanguero/231219iptv/312762
-#EXTINF:-1 tvg-ID="DiscoveryKids.mx" tvg-name="DiscoveryKids.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantil Oeste",Disc Kids Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/34781
-#EXTINF:-1 tvg-ID="Cartoonito.mx" tvg-name="Cartoonito.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonito.png" group-title="Infantil Oeste",Cartoonito Oeste
+#EXTINF:-1 tvg-ID="BabyTv.ar" tvg-name="BabyTv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",Baby TV
+http://hidra.live:80/nicobullanguero/231219iptv/312755
+#EXTINF:-1 tvg-ID="DiscoveryKids.ar" tvg-name="DiscoveryKids.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantil",Discovery Kids
+http://hidra.live:80/nicobullanguero/231219iptv/34783
+#EXTINF:-1 tvg-ID="Cartoonito.ar" tvg-name="Cartoonito.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonito.png" group-title="Infantil",Cartoonito
 http://hidra.live:80/nicobullanguero/231219iptv/312753
-#EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil Oeste",Tooncast Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./1015.m3u8
+#EXTINF:-1 tvg-ID="Tooncast.mx" tvg-name="Tooncast.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tooncast_m.png" group-title="Infantil",Tooncast
+http://hidra.live:80/nicobullanguero/231219iptv/34796
 #
 #
-#EXTINF:-1 tvg-ID="TNT.ar" tvg-name="TNT.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
-https://is-tucuman.cdn.rcs.net.ar/mnp/tnt/output.mpd
+#EXTINF:-1 tvg-chno="502" tvg-ID="TNT.ar" tvg-name="TNT.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
+http://hidra.live:80/nicobullanguero/231219iptv/34957
+#EXTINF:-1 tvg-ID="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine",Golden
+http://hidra.live:80/nicobullanguero/231219iptv/34985
 #EXTINF:-1 tvg-ID="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Cine",TCM
-https://is-tucuman.cdn.rcs.net.ar/mnp/tcm/output.mpd
+http://hidra.live:80/nicobullanguero/231219iptv/34967
 #EXTINF:-1 tvg-ID="Cinecanal.ar" tvg-name="Cinecanal.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
-https://is-tucuman.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+http://hidra.live:80/nicobullanguero/231219iptv/34992
 #EXTINF:-1 tvg-ID="StudioUniversal.ar" tvg-name="StudioUniversal.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_DASH/Studio_Universal.mpd
+http://hidra.live:80/nicobullanguero/231219iptv/34965
 #EXTINF:-1 tvg-ID="Cinemax.ar" tvg-name="Cinemax.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
-https://is-tucuman.cdn.rcs.net.ar/mnp/cinemax/output.mpd
+http://hidra.live:80/nicobullanguero/231219iptv/34997
 #EXTINF:-1 tvg-ID="ParamountNetwork.ar" tvg-name="ParamountNetwork.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
-https://is-tucuman.cdn.rcs.net.ar/mnp/paramount/output.mpd
-#EXTINF:-1 tvg-ID="Space.ar" tvg-name="Space.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
-https://is-tucuman.cdn.rcs.net.ar/mnp/space/output.mpd
-#EXTINF:-1 tvg-ID="ISAT(English).ar" tvg-name="ISAT(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/isat_m.png" group-title="Cine",Isat 
-https://is-tucuman.cdn.rcs.net.ar/mnp/isat/output.mpd
-#
-#EXTINF:-1 tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine Oeste",TNT Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2049.m3u8
-#EXTINF:-1 tvg-ID="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine Oeste",Golden Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2026.m3u8
-#EXTINF:-1 tvg-ID="TCM.mx" tvg-name="TCM.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Cine Oeste",TCM Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2048.m3u8
-#EXTINF:-1 tvg-ID="Cinecanal.mx" tvg-name="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine Oeste",Cinecanal Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2005.m3u8
-#EXTINF:-1 tvg-ID="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine Oeste",Cinemax Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2006.m3u8
-#EXTINF:-1 tvg-ID="CanalDHE.mx" tvg-name="CanalDHE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_m.png" group-title="Cine Oeste",DHE Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2055.m3u8
-#EXTINF:-1 tvg-ID="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine-latino_m.png" group-title="Cine Oeste",Cine Latino Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2004.m3u8
-#EXTINF:-1 tvg-ID="DePelicula.mx" tvg-name="DePelicula.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Cine Oeste",De Pelicula Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/312787
-#EXTINF:-1 tvg-ID="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Cine Oeste",Golden EDGE Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/34982
+#EXTINF:-1 tvg-ID="CanalDHE.mx" tvg-name="CanalDHE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_m.png" group-title="Cine",DHE
+http://hidra.live:80/nicobullanguero/231219iptv/35004
+#EXTINF:-1 tvg-ID="CineLatino.mx" tvg-name="CineLatino.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine-latino_m.png" group-title="Cine",Cine Latino
+http://hidra.live:80/nicobullanguero/231219iptv/34998
+#EXTINF:-1 tvg-ID="DePelicula.mx" tvg-name="DePelicula.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula_m.png" group-title="Cine",De Pelicula
+http://hidra.live:80/nicobullanguero/231219iptv/35000
+#EXTINF:-1 tvg-ID="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Cine",Golden EDGE
 http://hidra.live:80/nicobullanguero/231219iptv/34986
-#EXTINF:-1 tvg-ID="Space.mx" tvg-name="Space.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine Oeste",Space Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./2042.m3u8
+#EXTINF:-1 tvg-ID="Space.ar" tvg-name="Space.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
+http://hidra.live:80/nicobullanguero/231219iptv/34968
+#EXTINF:-1 tvg-ID="ISAT(English).ar" tvg-name="ISAT(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/isat_m.png" group-title="Cine",Isat 
+http://hidra.live:80/nicobullanguero/231219iptv/34972
 #
 #
-#EXTINF:-1 tvg-ID="HBO.ar" tvg-name="HBO.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbo/output.mpd
-#EXTINF:-1 tvg-ID="HBO2.ar" tvg-name="HBO2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbo2/output.mpd
-#EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
-https://is-tucuman.cdn.rcs.net.ar/mnp/hboplus/output.mpd
-#EXTINF:-1 tvg-ID="HBOSignature.ar" tvg-name="HBOSignature.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbosig/output.mpd
-#EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbofam/output.mpd
-#EXTINF:-1 tvg-ID="HBOMundi.mx" tvg-name="HBOMundi.mx" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbomund/output.mpd
-#EXTINF:-1 tvg-ID="HBOPop.ar" tvg-name="HBOPop.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
-https://is-tucuman.cdn.rcs.net.ar/mnp/hbopop/output.mpd
-#EXTINF:-1 tvg-ID="HBOXtreme.ar" tvg-name="HBOXtreme.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
-https://is-tucuman.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
-#
-#EXTINF:-1 tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium Oeste",HBO Oeste
+#EXTINF:-1 tvg-chno="522" tvg-ID="HBO.ar" tvg-name="HBO.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
 http://hidra.live:80/nicobullanguero/231219iptv/34881
-#EXTINF:-1 tvg-ID="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium Oeste",HBO 2 Oeste
+#EXTINF:-1 tvg-ID="HBO2.ar" tvg-name="HBO2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
 http://hidra.live:80/nicobullanguero/231219iptv/34890
-#EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium Oeste",HBO Plus Oeste
+#EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
 http://hidra.live:80/nicobullanguero/231219iptv/34892
-#EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium Oeste",HBO Family Oeste
+#EXTINF:-1 tvg-ID="HBOSignature.ar" tvg-name="HBOSignature.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
+http://hidra.live:80/nicobullanguero/231219iptv/34899
+#EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
 http://hidra.live:80/nicobullanguero/231219iptv/34895
-#EXTINF:-1 tvg-ID="HBOMundi.mx" tvg-name="HBOMundi.mx" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium Oeste",HBO Mundi Oeste
+#EXTINF:-1 tvg-ID="HBOMundi.mx" tvg-name="HBOMundi.mx" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
 http://hidra.live:80/nicobullanguero/231219iptv/312766
-#EXTINF:-1 tvg-ID="HBOPop.ar" tvg-name="HBOPop.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium Oeste",HBO Pop Oeste
+#EXTINF:-1 tvg-ID="HBOPop.ar" tvg-name="HBOPop.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
 http://hidra.live:80/nicobullanguero/231219iptv/312768
-#EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium Oeste",HBO Xtreme Oeste
+#EXTINF:-1 tvg-ID="HBOXtreme.ar" tvg-name="HBOXtreme.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
 http://hidra.live:80/nicobullanguero/231219iptv/312770
 #
-#EXTINF:-1 tvg-ID="UniversalPremiere.ar" tvg-name="UniversalPremiere.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium Oeste",Universal Premiere Oeste
+#EXTINF:-1 tvg-chno="571" tvg-ID="UniversalPremiere.ar" tvg-name="UniversalPremiere.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium",Universal Premiere
 http://hidra.live:80/nicobullanguero/231219iptv/34873
-#EXTINF:-1 tvg-ID="UniversalCinema.mx" tvg-name="UniversalCinema.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium Oeste",Universal Cinema Oeste
+#EXTINF:-1 tvg-ID="UniversalCinema.mx" tvg-name="UniversalCinema.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium",Universal Cinema
 http://hidra.live:80/nicobullanguero/231219iptv/34869
-#EXTINF:-1 tvg-ID="UniversalComedy.mx" tvg-name="UniversalComedy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium Oeste",Universal Comedy Oeste
+#EXTINF:-1 tvg-ID="UniversalComedy.mx" tvg-name="UniversalComedy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium",Universal Comedy
 http://hidra.live:80/nicobullanguero/231219iptv/34854
-#EXTINF:-1 tvg-ID="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium Oeste",Universal Crimen Oeste
+#EXTINF:-1 tvg-ID="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium",Universal Crimen
 http://hidra.live:80/nicobullanguero/231219iptv/34851
-#EXTINF:-1 tvg-ID="UniversalReality.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-real_m.png" group-title="Premium Oeste",Universal Reality Oeste
+#EXTINF:-1 tvg-ID="UniversalReality.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-real_m.png" group-title="Premium",Universal Reality
 http://hidra.live:80/nicobullanguero/231219iptv/34862
+
 #
 #
-#EXTINF:-1 tvg-ID="TNTSports.ar" tvg-name="TNTSports.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tntsport_m.png" group-title="Deportes",TNT Sports
-https://is-tucuman.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-#EXTINF:-1 tvg-ID="FOXSports(ConoSurArgentina).mx" tvg-name="FOXSports(ConoSurArgentina).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
-https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
+#EXTINF:-1 tvg-chno="606" tvg-ID="FOXSports(ConoSurArgentina).mx" tvg-name="FOXSports(ConoSurArgentina).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
+http://hidra.live:80/nicobullanguero/231219iptv/34639
 #EXTINF:-1 tvg-ID="FoxSports2(ConoSur).co" tvg-name="FoxSports2(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
-https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+http://hidra.live:80/nicobullanguero/231219iptv/34642
 #EXTINF:-1 tvg-ID="FoxSports3(ConoSur).do" tvg-name="FoxSports3(ConoSur).do" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3
-https://is-tucuman.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:-1 tvg-ID="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
-https://is-tucuman.cdn.rcs.net.ar/mnp/espn/output.mpd
-#EXTINF:-1 tvg-ID="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
-https://is-tucuman.cdn.rcs.net.ar/mnp/espn2/output.mpd 
-#EXTINF:-1 tvg-ID="ESPNTres(North).mx" tvg-name="ESPNTres(North).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
-https://is-tucuman.cdn.rcs.net.ar/mnp/espn3/output.mpd
-#EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra
-https://is-tucuman.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-pret_m.png" group-title="Deportes",ESPN Premium
-https://is-tucuman.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-#EXTINF:-1 tvg-ID="TyCSports.ar" tvg-name="TyCSports.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tyc-sports.png" group-title="Deportes",TyC Sports
-https://is-tucuman.cdn.rcs.net.ar/mnp/tyc/output.mpd
-#EXTINF:-1 tvg-ID="GolfChannel.us" tvg-name="GolfChannel.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golf_m.png" group-title="Deportes",Golf Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/golf/output.mpd
+http://hidra.live:80/nicobullanguero/231219iptv/34645
 #
-#EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes Oeste",DSports Oeste 
-http://hidra.live:80/nicobullanguero/231219iptv/312885
-#EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes Oeste",DSports 2 Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/312881
-#EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes Oeste",DSports Plus Oeste
+#EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DSports
+http://hidra.live:80/nicobullanguero/231219iptv/312889
+#EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DSports 2
+http://hidra.live:80/nicobullanguero/231219iptv/34612
+#EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DSports Plus
 http://hidra.live:80/nicobullanguero/231219iptv/312880
 #
-#EXTINF:-1 tvg-ID="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes Oeste",ESPN Oeste
+#EXTINF:-1 tvg-ID="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
 http://hidra.live:80/nicobullanguero/231219iptv/34659
-#EXTINF:-1 tvg-ID="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes Oeste",ESPN 2 Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/34612
-#EXTINF:-1 tvg-ID="ESPNTres(North).mx" tvg-name="ESPNTres(North).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes Oeste",ESPN 3 Oeste
+#EXTINF:-1 tvg-ID="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
+http://hidra.live:80/nicobullanguero/231219iptv/34662
+#EXTINF:-1 tvg-ID="ESPNTres(North).mx" tvg-name="ESPNTres(North).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
 http://hidra.live:80/nicobullanguero/231219iptv/34665
-#EXTINF:-1 tvg-ID="ESPN4SUR.co" tvg-name="ESPN4SUR.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-4_m.png" group-title="Deportes Oeste",ESPN 4 Oeste
+#EXTINF:-1 tvg-ID="ESPN4SUR.co" tvg-name="ESPN4SUR.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-4_m.png" group-title="Deportes",ESPN 4
 http://hidra.live:80/nicobullanguero/231219iptv/312840
+#EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra
+http://hidra.live:80/nicobullanguero/231219iptv/312843
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-pret_m.png" group-title="Deportes",ESPN Premium
+http://hidra.live:80/nicobullanguero/231219iptv/312847
+#EXTINF:-1 tvg-ID="GolfChannel.us" tvg-name="GolfChannel.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golf_m.png" group-title="Deportes",Golf Channel
+http://hidra.live:80/nicobullanguero/231219iptv/34695
 #
-#EXTINF:-1 tvg-ID="DAZN1(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes Oeste",DAZN 1 Oeste
+#EXTINF:-1 tvg-ID="DAZN1(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes",DAZN 1
 http://hidra.live:80/nicobullanguero/231219iptv/303779
-#EXTINF:-1 tvg-ID="DAZN2(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes Oeste",DAZN 2 Oeste
+#EXTINF:-1 tvg-ID="DAZN2(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes",DAZN 2
 http://hidra.live:80/nicobullanguero/231219iptv/303781
-#EXTINF:-1 tvg-ID="DAZN3(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes Oeste",DAZN 3 Oeste
+#EXTINF:-1 tvg-ID="DAZN3(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes",DAZN 3
 http://hidra.live:80/nicobullanguero/231219iptv/303783
-#EXTINF:-1 tvg-ID="DAZN4(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes Oeste",DAZN 4 Oeste
+#EXTINF:-1 tvg-ID="DAZN4(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes",DAZN 4
 http://hidra.live:80/nicobullanguero/231219iptv/303785
-#EXTINF:-1 tvg-ID="DAZNF1(src01).es" tvg-name="DAZNF1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan-f1_m.png" group-title="Deportes Oeste",DAZN F1 Oeste
+#EXTINF:-1 tvg-ID="DAZNF1(src01).es" tvg-name="DAZNF1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan-f1_m.png" group-title="Deportes",DAZN F1
 http://hidra.live:80/nicobullanguero/231219iptv/303806
 #
-#EXTINF:-1 tvg-ID="MLBNetwork(src01).us" tvg-name="MLBNetwork(src01).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="Deportes Oeste",MLB Network Oeste
+#EXTINF:-1 tvg-ID="MLBNetwork(src01).us" tvg-name="MLBNetwork(src01).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="Deportes",MLB Network
 http://hidra.live:80/nicobullanguero/231219iptv/303847
 #
 #
-#EXTINF:-1 tvg-ID="CNNI(English).ar" tvg-name="CNNI(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
-https://is-tucuman.cdn.rcs.net.ar/mnp/cnn/output.mpd
-#
-#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias Oeste",CNN en Español Oeste
+#EXTINF:-1 tvg-chno="704" tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
 http://hidra.live:80/nicobullanguero/231219iptv/35181
-#EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias Oeste",RT Noticias Oeste
+#EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
-#EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Noticias Oeste",Telesur Oeste
+#EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Noticias",Telesur
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5496.m3u8
-#EXTINF:-1 tvg-ID="euronews.mx" tvg-name="euronews.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/euronews.png" group-title="Noticias Oeste",Euronews Oeste
+#EXTINF:-1 tvg-ID="euronews.mx" tvg-name="euronews.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/euronews.png" group-title="Noticias",Euronews
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8074.m3u8
 #
 #
-#EXTINF:-1 vg-shift=-2 tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo",National Geographic 
-https://is-tucuman.cdn.rcs.net.ar/mnp/natgeohd/output.mpd
-#EXTINF:-1 tvg-ID="DiscoveryChannel.ar" tvg-name="DiscoveryChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo",Discovery Channel
-https://is-tucuman.cdn.rcs.net.ar/mnp/discovery/output.mpd
-#EXTINF:-1 tvg-shift=-2 tvg-ID="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo",Animal Planet 
-https://is-tucuman.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
-#EXTINF:-1 tvg-ID="DiscoveryTurbo.ar" tvg-name="DiscoveryTurbo.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo",Discovery Turbo
-https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-#EXTINF:-1 tvg-ID="History.ar" tvg-name="History.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo",History
-https://is-tucuman.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:-1 tvg-ID="History2.ar" tvg-name="History2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo",H2
-https://is-tucuman.cdn.rcs.net.ar/mnp/h2/output.mpd
-#EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo",Discovery Science  
-https://is-tucuman.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
-#
-#EXTINF:-1 tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo Oeste",National Geographic Oeste 
+#EXTINF:-1 tvg-chno="730" tvg-ID="NationalGeographic.mx" tvg-name="NationalGeographic.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat-geo_m.png" group-title="Mundo",National Geographic 
 http://hidra.live:80/nicobullanguero/231219iptv/302706
-#EXTINF:-1 tvg-ID="DiscoveryChannel.mx" tvg-name="DiscoveryChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo Oeste",Discovery Channel Oeste
+#EXTINF:-1 tvg-ID="DiscoveryChannel.ar" tvg-name="DiscoveryChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery_m.png" group-title="Mundo",Discovery Channel
 http://hidra.live:80/nicobullanguero/231219iptv/34806
-#EXTINF:-1 tvg-ID="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo Oeste",Animal Planet Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3025.m3u8
-#EXTINF:-1 tvg-ID="DiscoveryTurbo.mx" tvg-name="DiscoveryTurbo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo Oeste",Discovery Turbo Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3023.m3u8
-#EXTINF:-1 tvg-ID="History.mx" tvg-name="History.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo Oeste",History Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3033.m3u8
-#EXTINF:-1 tvg-ID="History2.mx" tvg-name="History2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo Oeste",H2 Oeste
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./3034.m3u8
-#EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo Oeste",Discovery Science Oeste  
+#EXTINF:-1 tvg-ID="AnimalPlanet.mx" tvg-name="AnimalPlanet.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_m.png" group-title="Mundo",Animal Planet 
+http://hidra.live:80/nicobullanguero/231219iptv/34801
+#EXTINF:-1 tvg-ID="DiscoveryTurbo.ar" tvg-name="DiscoveryTurbo.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_m.png" group-title="Mundo",Discovery Turbo
+http://hidra.live:80/nicobullanguero/231219iptv/34825
+#EXTINF:-1 tvg-ID="tlc.ar" tvg-name="tlc.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlc_m.png" group-title="Mundo",TLC
+http://hidra.live:80/nicobullanguero/231219iptv/34820
+#EXTINF:-1 tvg-ID="History.ar" tvg-name="History.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo",History
+http://hidra.live:80/nicobullanguero/231219iptv/34831
+#EXTINF:-1 tvg-ID="History2.ar" tvg-name="History2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo",H2
+http://hidra.live:80/nicobullanguero/231219iptv/302662
+#EXTINF:-1 tvg-ID="DiscoveryScience.mx" tvg-name="DiscoveryScience.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo",Discovery Science  
 http://hidra.live:80/nicobullanguero/231219iptv/34817
-#EXTINF:-1 tvg-ID="DiscoveryWorld.mx" tvg-name="DiscoveryWorld.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-w_m.png" group-title="Mundo Oeste",Discovery World Oeste  
+#EXTINF:-1 tvg-ID="DiscoveryWorld.mx" tvg-name="DiscoveryWorld.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-w_m.png" group-title="Mundo",Discovery World 
 http://hidra.live:80/nicobullanguero/231219iptv/34827
-#EXTINF:-1 tvg-ID="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_m.png" group-title="Mundo Oeste",Discovery Theater Oeste  
+#EXTINF:-1 tvg-ID="DiscoveryTheater.mx" tvg-name="DiscoveryTheater.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_m.png" group-title="Mundo",Discovery Theater
 http://hidra.live:80/nicobullanguero/231219iptv/34818
 #
 #
-#EXTINF:-1 tvg-ID="Antena3.mx" tvg-name="Antena3.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/antena3_m.png" group-title="Internacional Oeste",Antena 3 Oeste 
+#EXTINF:-1 tvg-chno="762" tvg-ID="Antena3.mx" tvg-name="Antena3.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/antena3_m.png" group-title="Internacional",Antena 3
 http://hidra.live:80/nicobullanguero/231219iptv/303673
-#EXTINF:-1 tvg-ID="La1.es" tvg-name="La1.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la1_m.png" group-title="Internacional Oeste",La 1 Oeste 
+#EXTINF:-1 tvg-ID="La1.es" tvg-name="La1.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la1_m.png" group-title="Internacional",La 1
 http://hidra.live:80/nicobullanguero/231219iptv/303667
-#EXTINF:-1 tvg-ID="La2.es" tvg-name="La2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Internacional Oeste",La 2 Oeste  
+#EXTINF:-1 tvg-ID="La2.es" tvg-name="La2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Internacional",La 2 
 http://hidra.live:80/nicobullanguero/231219iptv/303670
-#EXTINF:-1 tvg-ID="TVE(src01).es" tvg-name="TVE(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tve_m.png" group-title="Internacional Oeste",TVE Oeste  
+#EXTINF:-1 tvg-ID="TVE(src01).es" tvg-name="TVE(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tve_m.png" group-title="Internacional",TVE
 http://hidra.live:80/nicobullanguero/231219iptv/35167
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/america-tv_m.png" group-title="Internacional Oeste",America Tv Oeste
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/america-tv_m.png" group-title="Internacional",America Tv
 http://hidra.live:80/nicobullanguero/231219iptv/304291
-#EXTINF:-1 tvg-ID="CaracolTVCanal1.co" tvg-name="CaracolTVCanal1.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Internacional Oeste",Caraccol Oeste
+#EXTINF:-1 tvg-ID="CaracolTVCanal1.co" tvg-name="CaracolTVCanal1.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Internacional",Caraccol
 http://hidra.live:80/nicobullanguero/231219iptv/304248
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/rcn_m.png" group-title="Internacional Oeste",RCN Oeste
-http://hidra.live:80/nicobullanguero/231219iptv/304261
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/rcn_m.png" group-title="Internacional",RCN
