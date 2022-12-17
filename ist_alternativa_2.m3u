@@ -244,17 +244,17 @@ http://hidra.live:80/nicobullanguero/231219iptv/34827
 http://hidra.live:80/nicobullanguero/231219iptv/34818
 #
 #
-#EXTINF:-1 tvg-chno="762" tvg-ID="Antena3.mx" tvg-name="Antena3.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/antena3_m.png" group-title="Internacional Oeste",Antena 3 Oeste 
+#EXTINF:-1 tvg-chno="762" tvg-ID="Antena3.mx" tvg-name="Antena3.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/antena3_m.png" group-title="Internacional",Antena 3
 http://hidra.live:80/nicobullanguero/231219iptv/303673
-#EXTINF:-1 tvg-ID="La1.es" tvg-name="La1.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la1_m.png" group-title="Internacional Oeste",La 1 Oeste 
+#EXTINF:-1 tvg-ID="La1.es" tvg-name="La1.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la1_m.png" group-title="Internacional",La 1
 http://hidra.live:80/nicobullanguero/231219iptv/303667
-#EXTINF:-1 tvg-ID="La2.es" tvg-name="La2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Internacional Oeste",La 2 Oeste  
+#EXTINF:-1 tvg-ID="La2.es" tvg-name="La2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Internacional",La 2 
 http://hidra.live:80/nicobullanguero/231219iptv/303670
-#EXTINF:-1 tvg-ID="TVE(src01).es" tvg-name="TVE(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tve_m.png" group-title="Internacional Oeste",TVE Oeste  
+#EXTINF:-1 tvg-ID="TVE(src01).es" tvg-name="TVE(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tve_m.png" group-title="Internacional",TVE
 http://hidra.live:80/nicobullanguero/231219iptv/35167
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/america-tv_m.png" group-title="Internacional Oeste",America Tv Oeste
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/america-tv_m.png" group-title="Internacional",America Tv
 http://hidra.live:80/nicobullanguero/231219iptv/304291
-#EXTINF:-1 tvg-ID="CaracolTVCanal1.co" tvg-name="CaracolTVCanal1.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Internacional Oeste",Caraccol Oeste
+#EXTINF:-1 tvg-ID="CaracolTVCanal1.co" tvg-name="CaracolTVCanal1.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Internacional",Caraccol
 http://hidra.live:80/nicobullanguero/231219iptv/304248
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/rcn_m.png" group-title="Internacional Oeste",RCN Oeste
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/rcn_m.png" group-title="Internacional",RCN
 http://hidra.live:80/nicobullanguero/231219iptv/304261
