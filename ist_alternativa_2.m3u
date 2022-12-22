@@ -138,41 +138,42 @@ http://hidra.live:80/nicobullanguero/231219iptv/34968
 http://hidra.live:80/nicobullanguero/231219iptv/34972
 #
 #
-#EXTINF:-1 tvg-chno="522" tvg-ID="HBO.ar" tvg-name="HBO.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
+#EXTINF:-1 tvg-chno="522" tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
 http://hidra.live:80/nicobullanguero/231219iptv/34881
-#EXTINF:-1 tvg-ID="HBO2.ar" tvg-name="HBO2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
+#EXTINF:-1 tvg-ID="HBO2.mx" tvg-name="HBO2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
 http://hidra.live:80/nicobullanguero/231219iptv/34890
 #EXTINF:-1 tvg-ID="HBOPlus.mx" tvg-name="HBOPlus.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
 http://hidra.live:80/nicobullanguero/231219iptv/34892
-#EXTINF:-1 tvg-ID="HBOSignature.ar" tvg-name="HBOSignature.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
+#EXTINF:-1 tvg-ID="HBOSignature.mx" tvg-name="HBOSignature.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
 http://hidra.live:80/nicobullanguero/231219iptv/34899
 #EXTINF:-1 tvg-ID="HBOFamily.mx" tvg-name="HBOFamily.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/family_m.png" group-title="Premium",HBO Family
 http://hidra.live:80/nicobullanguero/231219iptv/34895
 #EXTINF:-1 tvg-ID="HBOMundi.mx" tvg-name="HBOMundi.mx" tvg-shift=-2 tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_m.png" group-title="Premium",HBO Mundi
 http://hidra.live:80/nicobullanguero/231219iptv/312766
-#EXTINF:-1 tvg-ID="HBOPop.ar" tvg-name="HBOPop.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
+#EXTINF:-1 tvg-ID="HBOPop.co" tvg-name="HBOPop.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
 http://hidra.live:80/nicobullanguero/231219iptv/312768
-#EXTINF:-1 tvg-ID="HBOXtreme.ar" tvg-name="HBOXtreme.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
+#EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
 http://hidra.live:80/nicobullanguero/231219iptv/312770
 #
 #EXTINF:-1 tvg-chno="571" tvg-ID="UniversalPremiere.ar" tvg-name="UniversalPremiere.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium",Universal Premiere
 http://hidra.live:80/nicobullanguero/231219iptv/34873
-#EXTINF:-1 tvg-ID="UniversalCinema.mx" tvg-name="UniversalCinema.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium",Universal Cinema
-http://hidra.live:80/nicobullanguero/231219iptv/34869
-#EXTINF:-1 tvg-ID="UniversalComedy.mx" tvg-name="UniversalComedy.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium",Universal Comedy
+#EXTINF:-1 tvg-ID="UniversalCinema.ar" tvg-name="UniversalCinema.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium",Universal Cinema
+http://hidra.live:80/nicobullanguero/231219iptv/312948
+#EXTINF:-1 tvg-ID="UniversalCinema.mx" tvg-name="UniversalCinema.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium",Universal Cinema Oeste
+http://hidra.live:80/nicobullanguero/231219iptv/302740
+#EXTINF:-1 tvg-ID="UniversalComedy.ar" tvg-name="UniversalComedy.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium",Universal Comedy
 http://hidra.live:80/nicobullanguero/231219iptv/34854
-#EXTINF:-1 tvg-ID="UniversalCrime.mx" tvg-name="UniversalCrime.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium",Universal Crimen
+#EXTINF:-1 tvg-ID="UniversalCrime.ar" tvg-name="UniversalCrime.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium",Universal Crimen
 http://hidra.live:80/nicobullanguero/231219iptv/34851
 #EXTINF:-1 tvg-ID="UniversalReality.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-real_m.png" group-title="Premium",Universal Reality
 http://hidra.live:80/nicobullanguero/231219iptv/34862
-
 #
 #
-#EXTINF:-1 tvg-chno="606" tvg-ID="FOXSports(ConoSurArgentina).mx" tvg-name="FOXSports(ConoSurArgentina).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
+#EXTINF:-1 tvg-chno="606" tvg-ID="FOXSports(ConoSurArgentina).ar" tvg-name="FOXSports(ConoSurArgentina).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports_m.png" group-title="Deportes",Fox Sports
 http://hidra.live:80/nicobullanguero/231219iptv/34639
-#EXTINF:-1 tvg-ID="FoxSports2(ConoSur).co" tvg-name="FoxSports2(ConoSur).co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
+#EXTINF:-1 tvg-ID="FoxSports2(Argentina).ar" tvg-name="FoxSports2(Argentina).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-2_m.png" group-title="Deportes",Fox Sports 2 
 http://hidra.live:80/nicobullanguero/231219iptv/34642
-#EXTINF:-1 tvg-ID="FoxSports3(ConoSur).do" tvg-name="FoxSports3(ConoSur).do" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3
+#EXTINF:-1 tvg-ID="FoxSports3(ConoSur).ar" tvg-name="FoxSports3(ConoSur).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3
 http://hidra.live:80/nicobullanguero/231219iptv/34645
 #
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DSports
@@ -184,9 +185,9 @@ http://hidra.live:80/nicobullanguero/231219iptv/312880
 #
 #EXTINF:-1 tvg-ID="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
 http://hidra.live:80/nicobullanguero/231219iptv/34659
-#EXTINF:-1 tvg-ID="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-ID="ESPN2Argentina.ar" tvg-name="ESPN2Argentina.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
 http://hidra.live:80/nicobullanguero/231219iptv/34662
-#EXTINF:-1 tvg-ID="ESPNTres(North).mx" tvg-name="ESPNTres(North).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
+#EXTINF:-1 tvg-ID="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
 http://hidra.live:80/nicobullanguero/231219iptv/34665
 #EXTINF:-1 tvg-ID="ESPN4SUR.co" tvg-name="ESPN4SUR.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-4_m.png" group-title="Deportes",ESPN 4
 http://hidra.live:80/nicobullanguero/231219iptv/312840
@@ -196,6 +197,13 @@ http://hidra.live:80/nicobullanguero/231219iptv/312843
 http://hidra.live:80/nicobullanguero/231219iptv/312847
 #EXTINF:-1 tvg-ID="GolfChannel.us" tvg-name="GolfChannel.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golf_m.png" group-title="Deportes",Golf Channel
 http://hidra.live:80/nicobullanguero/231219iptv/34695
+#
+#EXTINF:-1 tvg-ID="ESPN.mx" tvg-name="ESPN.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN MEX
+http://hidra.live:80/nicobullanguero/231219iptv/34652
+#EXTINF:-1 tvg-ID="ESPN2.mx" tvg-name="ESPN2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2 MEX
+http://hidra.live:80/nicobullanguero/231219iptv/34655
+#EXTINF:-1 tvg-ID="ESPNTres(North).mx" tvg-name="ESPNTres(North).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 MEX
+http://hidra.live:80/nicobullanguero/231219iptv/34657
 #
 #EXTINF:-1 tvg-ID="DAZN1(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes",DAZN 1
 http://hidra.live:80/nicobullanguero/231219iptv/303779
@@ -207,9 +215,6 @@ http://hidra.live:80/nicobullanguero/231219iptv/303783
 http://hidra.live:80/nicobullanguero/231219iptv/303785
 #EXTINF:-1 tvg-ID="DAZNF1(src01).es" tvg-name="DAZNF1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan-f1_m.png" group-title="Deportes",DAZN F1
 http://hidra.live:80/nicobullanguero/231219iptv/303806
-#
-#EXTINF:-1 tvg-ID="MLBNetwork(src01).us" tvg-name="MLBNetwork(src01).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="Deportes",MLB Network
-http://hidra.live:80/nicobullanguero/231219iptv/303847
 #
 #
 #EXTINF:-1 tvg-chno="704" tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
