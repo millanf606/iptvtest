@@ -216,6 +216,9 @@ http://hidra.live:80/nicobullanguero/231219iptv/303785
 #EXTINF:-1 tvg-ID="DAZNF1(src01).es" tvg-name="DAZNF1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan-f1_m.png" group-title="Deportes",DAZN F1
 http://hidra.live:80/nicobullanguero/231219iptv/303806
 #
+#EXTINF:-1 tvg-ID="MplusLaLiga(src01).es" tvg-name="MplusLaLiga(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mplus-laliga_m.png" group-title="Deportes",La Liga
+http://hidra.live:80/nicobullanguero/231219iptv/303734
+#
 #
 #EXTINF:-1 tvg-chno="704" tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
 http://hidra.live:80/nicobullanguero/231219iptv/35181
