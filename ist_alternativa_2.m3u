@@ -14,9 +14,9 @@ http://hidra.live:80/nicobullanguero/231219iptv/43561
 http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/VTV
 #
 #
-#EXTINF:-1  tvg-chno="202" tvg-ID="StarChannel.ar" tvg-name="StarChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
+#EXTINF:-1  tvg-chno="202" tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 http://hidra.live:80/nicobullanguero/231219iptv/34926
-#EXTINF:-1 tvg-ID="WarnerChannel.ar" tvg-name="WarnerChannel.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
+#EXTINF:-1 tvg-ID="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
 http://hidra.live:80/nicobullanguero/231219iptv/34920
 #EXTINF:-1 tvg-ID="AandE(Andes).ar"  tvg-name="AandE(Andes).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
 http://hidra.live:80/nicobullanguero/231219iptv/34944
@@ -34,7 +34,7 @@ http://hidra.live:80/nicobullanguero/231219iptv/312781
 http://hidra.live:80/nicobullanguero/231219iptv/34949
 #EXTINF:-1 tvg-ID="TBS.mx" tvg-name="TBS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
 http://hidra.live:80/nicobullanguero/231219iptv/35062
-#EXTINF:-1 tvg-ID="FX.ar" tvg-name="FX.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
+#EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
 http://hidra.live:80/nicobullanguero/231219iptv/34975
 #EXTINF:-1 tvg-ID="UniversalTV.ar" tvg-name="UniversalTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
 http://hidra.live:80/nicobullanguero/231219iptv/34956
@@ -110,19 +110,19 @@ http://hidra.live:80/nicobullanguero/231219iptv/304511
 http://hidra.live:80/nicobullanguero/231219iptv/35400
 #
 #
-#EXTINF:-1 tvg-chno="502" tvg-ID="TNT.ar" tvg-name="TNT.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
+#EXTINF:-1 tvg-chno="502" tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
 http://hidra.live:80/nicobullanguero/231219iptv/34957
 #EXTINF:-1 tvg-ID="Golden.mx" tvg-name="Golden.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine",Golden
 http://hidra.live:80/nicobullanguero/231219iptv/34985
-#EXTINF:-1 tvg-ID="TCM.ar" tvg-name="TCM.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Cine",TCM
+#EXTINF:-1 tvg-ID="TCM.mx" tvg-name="TCM.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tcm_m.png" group-title="Cine",TCM
 http://hidra.live:80/nicobullanguero/231219iptv/34967
-#EXTINF:-1 tvg-ID="Cinecanal.ar" tvg-name="Cinecanal.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
+#EXTINF:-1 tvg-ID="Cinecanal.mx" tvg-name="Cinecanal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal-1_m.png" group-title="Cine",Cinecanal
 http://hidra.live:80/nicobullanguero/231219iptv/34992
-#EXTINF:-1 tvg-ID="StudioUniversal.ar" tvg-name="StudioUniversal.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
+#EXTINF:-1 tvg-ID="StudioUniversal.mx" tvg-name="StudioUniversal.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/studio-universal_m.png" group-title="Cine",Studio Universal
 http://hidra.live:80/nicobullanguero/231219iptv/34965
-#EXTINF:-1 tvg-ID="Cinemax.ar" tvg-name="Cinemax.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
+#EXTINF:-1 tvg-ID="Cinemax.mx" tvg-name="Cinemax.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinemax-sur_m.png" group-title="Cine",Cinemax
 http://hidra.live:80/nicobullanguero/231219iptv/34997
-#EXTINF:-1 tvg-ID="ParamountNetwork.ar" tvg-name="ParamountNetwork.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
+#EXTINF:-1 tvg-ID="ParamountNetwork.mx" tvg-name="ParamountNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/paramount-channel_m.png" group-title="Cine",Paramount Network 
 http://hidra.live:80/nicobullanguero/231219iptv/34982
 #EXTINF:-1 tvg-ID="CanalDHE.mx" tvg-name="CanalDHE.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_m.png" group-title="Cine",DHE
 http://hidra.live:80/nicobullanguero/231219iptv/35004
@@ -132,9 +132,11 @@ http://hidra.live:80/nicobullanguero/231219iptv/34998
 http://hidra.live:80/nicobullanguero/231219iptv/35000
 #EXTINF:-1 tvg-ID="GoldenEdge.mx" tvg-name="GoldenEdge.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-edge_m.png" group-title="Cine",Golden EDGE
 http://hidra.live:80/nicobullanguero/231219iptv/34986
-#EXTINF:-1 tvg-ID="Space.ar" tvg-name="Space.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
+#EXTINF:-1 tvg-ID="Space.mx" tvg-name="Space.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_m.png" group-title="Cine",Space 
 http://hidra.live:80/nicobullanguero/231219iptv/34968
-#EXTINF:-1 tvg-ID="ISAT(English).ar" tvg-name="ISAT(English).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/isat_m.png" group-title="Cine",Isat 
+#EXTINF:-1 tvg-ID="ISAT.mx" tvg-name="ISAT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/isat_m.png" group-title="Cine",Isat 
+http://hidra.live:80/nicobullanguero/231219iptv/34972
+#EXTINF:-1 tvg-ID="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/multi_m.png" group-title="Cine",Multipremier
 http://hidra.live:80/nicobullanguero/231219iptv/34972
 #
 #
@@ -177,7 +179,7 @@ http://hidra.live:80/nicobullanguero/231219iptv/34642
 http://hidra.live:80/nicobullanguero/231219iptv/34645
 #
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DSports
-http://hidra.live:80/nicobullanguero/231219iptv/312889
+http://hidra.live:80/nicobullanguero/231219iptv/123872
 #EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DSports 2
 http://hidra.live:80/nicobullanguero/231219iptv/34612
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DSports Plus
@@ -185,11 +187,11 @@ http://hidra.live:80/nicobullanguero/231219iptv/312880
 #
 #EXTINF:-1 tvg-ID="ESPN.ar" tvg-name="ESPN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
 http://hidra.live:80/nicobullanguero/231219iptv/34659
-#EXTINF:-1 tvg-ID="ESPN2Argentina.ar" tvg-name="ESPN2Argentina.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
+#EXTINF:-1 tvg-ID="ESPN2.ar" tvg-name="ESPN2.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m.png" group-title="Deportes",ESPN 2
 http://hidra.live:80/nicobullanguero/231219iptv/34662
 #EXTINF:-1 tvg-ID="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
 http://hidra.live:80/nicobullanguero/231219iptv/34665
-#EXTINF:-1 tvg-ID="ESPN4SUR.co" tvg-name="ESPN4SUR.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-4_m.png" group-title="Deportes",ESPN 4
+#EXTINF:-1 tvg-ID="ESPN4.ar" tvg-name="ESPN4.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-4_m.png" group-title="Deportes",ESPN 4
 http://hidra.live:80/nicobullanguero/231219iptv/312840
 #EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra
 http://hidra.live:80/nicobullanguero/231219iptv/312843
@@ -219,7 +221,6 @@ http://hidra.live:80/nicobullanguero/231219iptv/303806
 #EXTINF:-1 tvg-ID="MplusLaLiga(src01).es" tvg-name="MplusLaLiga(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mplus-laliga_m.png" group-title="Deportes",La Liga
 http://hidra.live:80/nicobullanguero/231219iptv/303734
 #
-#
 #EXTINF:-1 tvg-chno="704" tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
 http://hidra.live:80/nicobullanguero/231219iptv/35181
 #EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
@@ -227,6 +228,8 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Noticias",Telesur
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5496.m3u8
 #EXTINF:-1 tvg-ID="euronews.mx" tvg-name="euronews.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/euronews.png" group-title="Noticias",Euronews
+https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8074.m3u8
+#EXTINF:-1 tvg-ID="BBCWorldNews(English).mx" tvg-name="BBCWorldNews(English).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bbc-wn_m.png" group-title="Noticias",BBC World News
 https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8074.m3u8
 #
 #
