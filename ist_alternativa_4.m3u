@@ -141,8 +141,6 @@ http://hidra.live:80/tvzpow/220680iptv/304511
 http://hidra.live:80/tvzpow/220680iptv/35398
 #EXTINF:-1 tvg-ID="SexyHot.br" tvg-name="SexyHot.br" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sexhot_m.png" group-title="Adulto",SexyHot
 http://hidra.live:80/tvzpow/220680iptv/35350
-#EXTINF:-1 tvg-ID="Hot(src01).pt" tvg-name="Hot(src01).pt" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/playboy_m.png" group-title="Adulto",Hot
-http://hidra.live:80/tvzpow/220680iptv/35375
 #
 #
 #EXTINF:-1 tvg-chno="502" tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
