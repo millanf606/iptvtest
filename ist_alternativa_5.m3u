@@ -214,6 +214,11 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34642
 #EXTINF:-1 tvg-ID="FoxSports3(ConoSur).ar" tvg-name="FoxSports3(ConoSur).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34645
 #
+#EXTINF:-1 tvg-chno="606" tvg-ID="" tvg-name="FOXSports(ConoSurArgentina).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fs1_m.png" group-title="Deportes",FS1
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312668
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fs2_m.png" group-title="Deportes",FS2
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312667
+#
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DSports
 http://hidra.live:80/ypamzjtt/xY2597mnGj/121857
 #EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DSports 2
