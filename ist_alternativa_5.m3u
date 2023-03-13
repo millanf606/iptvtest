@@ -5,7 +5,7 @@
 #
 #
 #EXTINF:-1 tvg-chno="100" tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Nacional",Venevision
-http://hidra.live:80/ypamzjtt/xY2597mnGj/43565
+http://hidra.live:80/ypamzjtt/xY2597mnGj/43563
 #EXTINF:-1 tvg-ID="TVES" tvg-name="TVES" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tves_m.png" group-title="Nacional",TVes
 http://hidra.live:80/ypamzjtt/xY2597mnGj/43555
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/canal-i_m.png" group-title="Nacional",Canal I
@@ -16,6 +16,8 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/43561
 http://hidra.live:80/ypamzjtt/xY2597mnGj/313100
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/meridiano-tv_m.png" group-title="Nacional",Medidiano TV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/313103
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vive_m.png" group-title="Nacional",Vive
+http://hidra.live:80/ypamzjtt/xY2597mnGj/313101
 #
 #
 #
@@ -112,7 +114,7 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34759
 #EXTINF:-1 tvg-ID="DisneyJunior.ar" tvg-name="DisneyJunior.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney-jr_m.png" group-title="Infantil",Disney Junior
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34767
 #EXTINF:-1 tvg-ID="ZooMoo.mx" tvg-name="ZooMoo.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/zoomoo_m.png" group-title="Infantil",ZooMoo
-http://hidra.live:80/ypamzjtt/xY2597mnGj/312762
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312761
 #EXTINF:-1 tvg-ID="DiscoveryKids.ar" tvg-name="DiscoveryKids.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_m.png" group-title="Infantil",Discovery Kids
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34783
 #EXTINF:-1 tvg-ID="Cartoonito.ar" tvg-name="Cartoonito.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonito.png" group-title="Infantil",Cartoonito
@@ -122,13 +124,8 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34796
 #
 #EXTINF:-1 tvg-ID="BabyTv.ar" tvg-name="BabyTv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",Baby TV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312755
-#
-#
-#
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/orbe_m.png" group-title="Religioso",Orbe 21
-http://hidra.live:80/ypamzjtt/xY2597mnGj/43360
-#EXTINF:-1 tvg-ID="ENLACETV.ar" tvg-name="ENLACETV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/enlace.png" group-title="Religioso",Enlace
-http://hidra.live:80/ypamzjtt/xY2597mnGj/312874
+#EXTINF:-1 tvg-ID="BabyTv.ar" tvg-name="BabyTv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bitme.png" group-title="Infantil",bitme
+http://hidra.live:80/ypamzjtt/xY2597mnGj/34797
 #
 #
 #
@@ -139,8 +136,6 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/304511
 #
 #EXTINF:-1 tvg-ID="sextreme.mx" tvg-name="sextreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sextre_m.png" group-title="Adulto",Sextreme
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35398
-#EXTINF:-1 tvg-ID="SexyHot.br" tvg-name="SexyHot.br" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sexhot_m.png" group-title="Adulto",SexyHot
-http://hidra.live:80/ypamzjtt/xY2597mnGj/35350
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hot_m.png" group-title="Adulto",Hot
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35375
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pinkotv_m.png" group-title="Adulto",PinkoTV
@@ -176,6 +171,10 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34972
 #
 #EXTINF:-1 tvg-ID="Multipremier.mx" tvg-name="Multipremier.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/multi_m.png" group-title="Cine",Multipremier
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35003
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden-premier_m.png" group-title="Cine",Golden Premiere
+http://hidra.live:80/ypamzjtt/xY2597mnGj/34910
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/de-pelicula-clasico_m.png" group-title="Cine",De Pelicula Clasico
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312701
 #
 #
 #EXTINF:-1 tvg-chno="522" tvg-ID="HBO.mx" tvg-name="HBO.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
@@ -194,10 +193,11 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/312766
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312768
 #EXTINF:-1 tvg-ID="HBOXtreme.mx" tvg-name="HBOXtreme.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312770
+#
 #EXTINF:-1 tvg-chno="571" tvg-ID="UniversalPremiere.ar" tvg-name="UniversalPremiere.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium",Universal Premiere
-http://hidra.live:80/ypamzjtt/xY2597mnGj/34873
+http://hidra.live:80/ypamzjtt/xY2597mnGj/313119
 #EXTINF:-1 tvg-ID="UniversalCinema.ar" tvg-name="UniversalCinema.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium",Universal Cinema
-http://hidra.live:80/ypamzjtt/xY2597mnGj/34869
+http://hidra.live:80/ypamzjtt/xY2597mnGj/313124
 #EXTINF:-1 tvg-ID="UniversalComedy.ar" tvg-name="UniversalComedy.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium",Universal Comedy
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34854
 #EXTINF:-1 tvg-ID="UniversalCrime.ar" tvg-name="UniversalCrime.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium",Universal Crimen
@@ -214,13 +214,13 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34642
 #EXTINF:-1 tvg-ID="FoxSports3(ConoSur).ar" tvg-name="FoxSports3(ConoSur).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fox-sports-3_m.png" group-title="Deportes",Fox Sports 3
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34645
 #
-#EXTINF:-1 tvg-chno="606" tvg-ID="" tvg-name="FOXSports(ConoSurArgentina).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fs1_m.png" group-title="Deportes",FS1
+#EXTINF:-1 tvg-chno="606" tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fs1_m.png" group-title="Deportes",FS1
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312668
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fs2_m.png" group-title="Deportes",FS2
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312667
 #
 #EXTINF:-1 tvg-ID="directv-sports_m" tvg-name="directv-sports_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DSports
-http://hidra.live:80/ypamzjtt/xY2597mnGj/121857
+http://hidra.live:80/ypamzjtt/xY2597mnGj/123872
 #EXTINF:-1 tvg-ID="directv-sports-2_m" tvg-name="directv-sports-2_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DSports 2
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34612
 #EXTINF:-1 tvg-ID="directv-sports-plus_m" tvg-name="directv-sports-plus_m" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DSports Plus
@@ -233,9 +233,9 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34662
 #EXTINF:-1 tvg-ID="ESPN3.ar" tvg-name="ESPN3.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34665
 #EXTINF:-1 tvg-ID="ESPN4.ar" tvg-name="ESPN4.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-4_m.png" group-title="Deportes",ESPN 4
-http://hidra.live:80/ypamzjtt/xY2597mnGj/312840
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312867
 #EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra
-http://hidra.live:80/ypamzjtt/xY2597mnGj/312843
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312846
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-pret_m.png" group-title="Deportes",ESPN Premium
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312847
 #EXTINF:-1 tvg-ID="GolfChannel.us" tvg-name="GolfChannel.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golf_m.png" group-title="Deportes",Golf Channel
@@ -247,6 +247,8 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34652
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34655
 #EXTINF:-1 tvg-ID="ESPNTres(North).mx" tvg-name="ESPNTres(North).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3 MEX
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34657
+#EXTINF:-1 tvg-ID="ESPNEXTRA.co" tvg-name="ESPNEXTRA.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra MEX
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312828
 #
 #EXTINF:-1 tvg-ID="DAZN1(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes",DAZN 1
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303779
@@ -264,16 +266,16 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/303734
 #
 #
 #
-#EXTINF:-1 tvg-chno="704" tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
-http://hidra.live:80/ypamzjtt/xY2597mnGj/35181
+#EXTINF:-1 tvg-chno="704" tvg-ID="CNN" tvg-name="CNN" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
+http://hidra.live:80/ypamzjtt/xY2597mnGj/35182
+#EXTINF:-1 tvg-ID="CNNEnEspanol.mx" tvg-name="CNNEnEspanol.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn-espanol_m.png" group-title="Noticias",CNN en Español
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312871
 #EXTINF:-1 tvg-ID="RTinSpanish.mx" tvg-name="RTinSpanish.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/russia-today_m.png" group-title="Noticias",RT Noticias
 https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 #EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Noticias",Telesur
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./5496.m3u8
-#EXTINF:-1 tvg-ID="euronews.mx" tvg-name="euronews.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/euronews.png" group-title="Noticias",Euronews
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8074.m3u8
-#EXTINF:-1 tvg-ID="BBCWorldNews(English).mx" tvg-name="BBCWorldNews(English).mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bbc-wn_m.png" group-title="Noticias",BBC World News
-https://live.steelchannels.tk/live/4e580757/felixQUIJADA1982./8074.m3u8
+http://hidra.live:80/ypamzjtt/xY2597mnGj/43554
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ntn24_m.png" group-title="Noticias",NTN 24 Horas
+http://hidra.live:80/ypamzjtt/xY2597mnGj/313187
 #
 #
 #
