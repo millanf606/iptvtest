@@ -6,18 +6,12 @@
 #
 #EXTINF:-1 tvg-chno="100" tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_m.png" group-title="Nacional",Venevision
 http://hidra.live:80/ypamzjtt/xY2597mnGj/43563
-#EXTINF:-1 tvg-ID="TVES" tvg-name="TVES" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tves_m.png" group-title="Nacional",TVes
-http://hidra.live:80/ypamzjtt/xY2597mnGj/43555
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/canal-i_m.png" group-title="Nacional",Canal I
-http://hidra.live:80/ypamzjtt/xY2597mnGj/43566
 #EXTINF:-1 tvg-ID="Televen" tvg-name="Televen" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Nacional",Televen
 http://hidra.live:80/ypamzjtt/xY2597mnGj/43561
 #EXTINF:-1 tvg-ID="VenezolanadeTelevision.co" tvg-name="VenezolanadeTelevision.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Nacional",VTV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/313100
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/meridiano-tv_m.png" group-title="Nacional",Medidiano TV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/313103
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vive_m.png" group-title="Nacional",Vive
-http://hidra.live:80/ypamzjtt/xY2597mnGj/313101
 #
 #
 #
@@ -78,8 +72,11 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/35048
 #
 #EXTINF:-1 tvg-ID="hgtv.mx" tvg-name="hgtv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hgtv_m.png" group-title="Entretenimiento",HGTV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312820
-#EXTINF:-1 tvg-ID="TUnivisionTLNovelas(Spanish).us" tvg-name="UnivisionTLNovelas(Spanish).us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni-tlnovelas_m.png" group-title="Entretenimiento",Univision Tlnovelas
-http://hidra.live:80/ypamzjtt/xY2597mnGj/312987
+#
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/adrenalina_m.png" group-title="Entretenimiento",Adrenalina
+http://hidra.live:80/ypamzjtt/xY2597mnGj/302603
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Entretenimiento",Caracol
+http://hidra.live:80/ypamzjtt/xY2597mnGj/304248
 #
 #
 #
@@ -124,8 +121,10 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34796
 #
 #EXTINF:-1 tvg-ID="BabyTv.ar" tvg-name="BabyTv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/babytv_m.png" group-title="Infantil",Baby TV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312755
-#EXTINF:-1 tvg-ID="BabyTv.ar" tvg-name="BabyTv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bitme.png" group-title="Infantil",bitme
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bitme.png" group-title="Infantil",bitme
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34797
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dreamworks_m.png" group-title="Infantil",DreamWorks
+http://hidra.live:80/ypamzjtt/xY2597mnGj/302633
 #
 #
 #
