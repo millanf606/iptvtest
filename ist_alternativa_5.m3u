@@ -87,6 +87,14 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/43616
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/america-tv_m.png" group-title="Entretenimiento",America
 http://hidra.live:80/ypamzjtt/xY2597mnGj/304291
 #
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la1_m.png" group-title="Entretenimiento",La 1
+http://hidra.live:80/ypamzjtt/xY2597mnGj/303667
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Entretenimiento",La 2
+http://hidra.live:80/ypamzjtt/xY2597mnGj/303670
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/antena3_m.png" group-title="Entretenimiento",Antena 3
+http://hidra.live:80/ypamzjtt/xY2597mnGj/303673
+#
+#
 #
 #
 #EXTINF:-1 tvg-chno="264" tvg-ID="MTV.ar" tvg-name="MTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mtv_m.png" group-title="Musica",MTV
