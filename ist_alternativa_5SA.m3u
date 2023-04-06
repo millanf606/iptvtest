@@ -73,30 +73,36 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/35048
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312820
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Entretenimiento",Caracol
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_m.png" group-title="Internacional",Caracol
 http://hidra.live:80/ypamzjtt/xY2597mnGj/304248
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/rcn_m.png" group-title="Entretenimiento",RCN
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/rcn_m.png" group-title="Internacional",RCN
 http://hidra.live:80/ypamzjtt/xY2597mnGj/304258
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/rcnnovelas_m.png" group-title="Entretenimiento",RCN Telenovelas
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/rcnnovelas_m.png" group-title="Internacional",RCN Telenovelas
 http://hidra.live:80/ypamzjtt/xY2597mnGj/304262
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/adrenalina_m.png" group-title="Entretenimiento",Adrenalina
-http://hidra.live:80/ypamzjtt/xY2597mnGj/302603
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uno_m.png" group-title="Entretenimiento",Azteca Uno
-http://hidra.live:80/ypamzjtt/xY2597mnGj/43613
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/clic_m.png" group-title="Entretenimiento",Clic
-http://hidra.live:80/ypamzjtt/xY2597mnGj/43600
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundo_m.png" group-title="Entretenimiento",Mundo
-http://hidra.live:80/ypamzjtt/xY2597mnGj/43616
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/canal5_m.png" group-title="Entretenimiento",Canal 5
-http://hidra.live:80/ypamzjtt/xY2597mnGj/43626
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/america-tv_m.png" group-title="Entretenimiento",America
-http://hidra.live:80/ypamzjtt/xY2597mnGj/304291
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la1_m.png" group-title="Entretenimiento",La 1
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/adrenalina_m.png" group-title="Internacional",Adrenalina
+http://hidra.live:80/ypamzjtt/xY2597mnGj/302603
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uno_m.png" group-title="Internacional",Azteca Uno
+http://hidra.live:80/ypamzjtt/xY2597mnGj/43613
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/clic_m.png" group-title="Internacional",Clic
+http://hidra.live:80/ypamzjtt/xY2597mnGj/43600
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundo_m.png" group-title="Internacional",Mundo
+http://hidra.live:80/ypamzjtt/xY2597mnGj/43616
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/canal5_m.png" group-title="Internacional",Canal 5
+http://hidra.live:80/ypamzjtt/xY2597mnGj/43626
+#
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/latina_m.png" group-title="Internacional",Latina
+http://hidra.live:80/ypamzjtt/xY2597mnGj/304297
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/america-tv_m.png" group-title="Internacional",America TV
+http://hidra.live:80/ypamzjtt/xY2597mnGj/304291
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tvperu_m.png" group-title="Internacional",TV Peru
+http://hidra.live:80/ypamzjtt/xY2597mnGj/304309
+#
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la1_m.png" group-title="Internacional",La 1
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303667
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Entretenimiento",La 2
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/la2_m.png" group-title="Internacional",La 2
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303670
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/antena3_m.png" group-title="Entretenimiento",Antena 3
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/antena3_m.png" group-title="Internacional",Antena 3
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303673
 #
 #
@@ -146,6 +152,9 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/312755
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34797
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dreamworks_m.png" group-title="Infantil",DreamWorks
 http://hidra.live:80/ypamzjtt/xY2597mnGj/302633
+#
+#
+#
 #
 #
 #EXTINF:-1 tvg-chno="502" tvg-ID="TNT.mx" tvg-name="TNT.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
@@ -231,7 +240,7 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/303878
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303902
 #EXTINF:-1 tvg-chno="571" tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/series2_m.png" group-title="Premium",Movistar Series 2
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303899
-#EXTINF:-1 tvg-chno="571" tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/#0_m.png" group-title="Premium",Movistar #0
+#EXTINF:-1 tvg-chno="571" tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/canal0_m.png" group-title="Premium",Movistar #0
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303947
 #
 #
