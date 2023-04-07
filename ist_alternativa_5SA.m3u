@@ -1,5 +1,6 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/8p4ey8kk72bkee4gng1v"
-#EXTM3U url-tvg="http://m3u4u.com/xml/8p4ey8kk72bkee4gng1v"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/mi.tv.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/gatotv.com.xml"
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/es/movistarplus.es.xml"
 #
 #
 #
@@ -13,63 +14,63 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/43561
 #EXTINF:-1 tvg-ID="VenezolanadeTelevision.co" tvg-name="VenezolanadeTelevision.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Nacional",VTV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/313100
 #
-#EXTINF:-1  tvg-chno="202" tvg-ID="StarChannel.mx" tvg-name="StarChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
+#EXTINF:-1 tvg-ID="StarChannelSouth.us" tvg-name="StarChannelSouth.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34926
-#EXTINF:-1 tvg-ID="WarnerChannel.mx" tvg-name="WarnerChannel.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
+#EXTINF:-1 tvg-ID="WarnerChannelMexico.mx" tvg-name="WarnerChannelMexico.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner-channel_m.png" group-title="Entretenimiento",Warner TV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34920
-#EXTINF:-1 tvg-ID="AandE(Andes).ar"  tvg-name="AandE(Andes).ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
+#EXTINF:-1 tvg-ID="AEMexico.mx"  tvg-name="AEMexico.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a-e-mundo_m.png" group-title="Entretenimiento",A&E
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34944
-#EXTINF:-1 tvg-ID="CanalSony.ar" tvg-name="CanalSony.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
+#EXTINF:-1 tvg-ID="SonyChannelArgentina.ar" tvg-name="SonyChannelArgentina.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_m.png" group-title="Entretenimiento",Sony 
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34934
-#EXTINF:-1 tvg-ID="AXN.ar" tvg-name="AXN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
+#EXTINF:-1 tvg-ID="AXNMexico.mx" tvg-name="AXNMexico.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_m.png" group-title="Entretenimiento",AXN
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34939
-#EXTINF:-1 tvg-ID="AXN.ar" tvg-name="AXN.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn-w_m.png" group-title="Entretenimiento",AXN White
+#EXTINF:-1 tvg-ID="AXNWhite.us" tvg-name="AXNWhite.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn-w_m.png" group-title="Entretenimiento",AXN White
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303911
-#EXTINF:-1 tvg-ID="AMC.ar" tvg-name="AMC.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Entretenimiento",AMC
+#EXTINF:-1 tvg-ID="AMCLatinAmerica.us" tvg-name="AMCLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_m.png" group-title="Entretenimiento",AMC
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34915
-#EXTINF:-1 tvg-ID="TNTSeries.ar" tvg-name="TNTSeries.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
+#EXTINF:-1 tvg-ID="TNTSeriesMexico.mx" tvg-name="TNTSeriesMexico.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_m.png" group-title="Entretenimiento",TNT Series
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34960
-#EXTINF:-1 tvg-ID="Atreseries.mx" tvg-name="Atreseries.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a3-series_m.png" group-title="Entretenimiento",A3 Series
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a3-series_m.png" group-title="Entretenimiento",A3 Series
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312781
-#EXTINF:-1 tvg-ID="ComedyCentral.ar" tvg-name="ComedyCentral.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_m.png" group-title="Entretenimiento",Comedy Central
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34949
-#EXTINF:-1 tvg-ID="TBS.mx" tvg-name="TBS.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
+#EXTINF:-1 tvg-ID="TBSPanregional.us" tvg-name="TBSPanregional.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tbs_m.png" group-title="Entretenimiento",TBS
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35062
-#EXTINF:-1 tvg-ID="FX.mx" tvg-name="FX.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
+#EXTINF:-1 tvg-ID="FXChile.cl" tvg-name="FXChile.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_m.png" group-title="Entretenimiento",FX
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34975
-#EXTINF:-1 tvg-ID="UniversalTV.ar" tvg-name="UniversalTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
+#EXTINF:-1 tvg-ID="UniversalTVMexico.mx" tvg-name="UniversalTVMexico.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34956
-#EXTINF:-1 tvg-ID="SYFY.ar" tvg-name="SYFY.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SYFY
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SYFY
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35010
-#EXTINF:-1 tvg-ID="TruTV.ar" tvg-name="TruTV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",TruTV
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",TruTV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35065
-#EXTINF:-1 tvg-ID="HOLATV.ar" tvg-name="HOLATV.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Entretenimiento",¡Hola! TV
+#EXTINF:-1 tvg-ID="HolaTVLatinAmerica.us" tvg-name="HolaTVLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_m.png" group-title="Entretenimiento",¡Hola! TV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35042
-#EXTINF:-1 tvg-ID="EEntertainmentTV.mx" tvg-name="EEntertainmentTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/e-ent_m.png" group-title="Entretenimiento",E! Entertainment
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/e-ent_m.png" group-title="Entretenimiento",E! Entertainment
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35040
-#EXTINF:-1 tvg-ID="ID.ar" tvg-name="ID.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
+#EXTINF:-1 tvg-ID="InvestigationDiscoveryPanregional.us" tvg-name="InvestigationDiscoveryPanregional.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_m.png" group-title="Entretenimiento",Investigation Discovery
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34836
-#EXTINF:-1 tvg-ID="Glitz.ar" tvg-name="Glitz.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
+#EXTINF:-1 tvg-ID="GlitzPanregional.ar" tvg-name="GlitzPanregional.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/glitz_m.png" group-title="Entretenimiento",Glitz
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35052
-#EXTINF:-1 tvg-ID="PasionesTV.mx" tvg-name="PasionesTV.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasiones_m.png" group-title="Entretenimiento",Pasiones
+#EXTINF:-1 tvg-ID="PasionesLatinAmerica.us" tvg-name="PasionesLatinAmerica.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasiones_m.png" group-title="Entretenimiento",Pasiones
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35058
-#EXTINF:-1 tvg-ID="LasEstrellas.mx" tvg-name="LasEstrellas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas
+#EXTINF:-1 tvg-ID="LasEstrellasLatinAmerica.mx" tvg-name="LasEstrellasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas-m.png" group-title="Entretenimiento",Las Estrellas
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35036
-#EXTINF:-1 tvg-ID="TLNovelas.mx" tvg-name="TLNovelas.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",Tlnovelas
+#EXTINF:-1 tvg-ID="TlnovelasLatinAmerica.mx" tvg-name="TlnovelasLatinAmerica.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_m.png" group-title="Entretenimiento",Tlnovelas
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35161
-#EXTINF:-1 tvg-ID="Lifetime.ar" tvg-name="Lifetime.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Entretenimiento",Lifetime
+#EXTINF:-1 tvg-ID="LifetimePanregional.us" tvg-name="LifetimePanregional.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/lifetime_m.png" group-title="Entretenimiento",Lifetime
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35038
-#EXTINF:-1 tvg-ID="DiscoveryHomeandHealth.mx" tvg-name="DiscoveryHomeandHealth.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Entretenimiento",Discovery H&H
+#EXTINF:-1 tvg-ID="DiscoveryHomeHealthPanregional.us" tvg-name="DiscoveryHomeHealthPanregional.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_m.png" group-title="Entretenimiento",Discovery H&H
 http://hidra.live:80/ypamzjtt/xY2597mnGj/302693
-#EXTINF:-1 tvg-ID="MasChic.ar" tvg-name="MasChic.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento",MasChic
+#EXTINF:-1 tvg-ID="MasChicPanregional.ar" tvg-name="MasChicPanregional.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mas-chic_m.png" group-title="Entretenimiento",MasChic
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35055
-#EXTINF:-1 tvg-ID="TelemundoInternacional.mx" tvg-name="TelemundoInternacional.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Entretenimiento",Telemundo
+#EXTINF:-1 tvg-ID="elemicroInternacional.do" tvg-name="elemicroInternacional.do" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telemundo_m.png" group-title="Entretenimiento",Telemundo
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35088
-#EXTINF:-1 tvg-ID="ElGourmet.ar" tvg-name="ElGourmet.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
+#EXTINF:-1 tvg-ID="ElGourmetPanregional.ar" tvg-name="ElGourmetPanregional.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_m.png" group-title="Entretenimiento",El Gourmet
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35045
-#EXTINF:-1 tvg-ID="FoodNetwork.mx" tvg-name="FoodNetwork.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food_m.png" group-title="Entretenimiento",Food Network
+#EXTINF:-1 tvg-ID="FoodNetworkPanregional.us" tvg-name="FoodNetworkPanregional.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/food_m.png" group-title="Entretenimiento",Food Network
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35048
-#EXTINF:-1 tvg-ID="hgtv.mx" tvg-name="hgtv.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hgtv_m.png" group-title="Entretenimiento",HGTV
+#EXTINF:-1 tvg-ID="HGTVPanregional.us" tvg-name="HGTVPanregional.us" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hgtv_m.png" group-title="Entretenimiento",HGTV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312820
 #
 #
