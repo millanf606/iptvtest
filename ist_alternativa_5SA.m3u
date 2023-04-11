@@ -313,6 +313,10 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/303806
 #
 #EXTINF:-1 tvg-ID="mpluslaliga.es" tvg-name="mpluslaliga.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mplus-laliga_m.png" group-title="Deportes",La Liga
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303734
+#EXTINF:-1 tvg-ID="mpluslcampeones.es" tvg-name="mpluslcampeones.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/campeones_m.png" group-title="Deportes",Liga de Campeones
+http://hidra.live:80/ypamzjtt/xY2597mnGj/303758
+#EXTINF:-1 tvg-ID="mpluslcampeon2.es" tvg-name="mpluslcampeon2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/campeones2_m.png" group-title="Deportes",Liga de Campeones 2
+http://hidra.live:80/ypamzjtt/xY2597mnGj/303765
 #
 #
 #
