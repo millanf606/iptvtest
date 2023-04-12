@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 #
 #
 #
