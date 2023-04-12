@@ -289,8 +289,6 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/312867
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312846
 #EXTINF:-1 tvg-ID="1604dtv.ar" tvg-name="1604dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-pret_m.png" group-title="Deportes",ESPN Premium
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312847
-#EXTINF:-1 tvg-ID="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golf_m.png" group-title="Deportes",Golf Channel
-http://hidra.live:80/ypamzjtt/xY2597mnGj/34695
 #
 #EXTINF:-1 tvg-ID="espn-2.mx" tvg-name="espn-2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN MEX
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34652
@@ -300,6 +298,9 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34655
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34657
 #EXTINF:-1 tvg-ID="1620dtv.cl" tvg-name="1620dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-1_m.png" group-title="Deportes",ESPN Extra MEX
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312828
+#
+#EXTINF:-1 tvg-ID="628dtv.cl" tvg-name="628dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golf_m.png" group-title="Deportes",Golf Channel
+http://hidra.live:80/ypamzjtt/xY2597mnGj/34695
 #
 #EXTINF:-1 tvg-ID="dazn1.es" tvg-name="dazn1.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan_m.png" group-title="Deportes",DAZN 1
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303779
@@ -322,6 +323,8 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/303745
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303758
 #EXTINF:-1 tvg-ID="mpluslcampeon2.es" tvg-name="mpluslcampeon2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/campeones2_m.png" group-title="Deportes",Liga de Campeones 2
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303765
+#EXTINF:-1 tvg-ID="mplus#vamos.es" tvg-name="mplus#vamos.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vamos_m.png" group-title="Deportes",#Vamos
+http://hidra.live:80/ypamzjtt/xY2597mnGj/303812
 #
 #
 #
