@@ -39,7 +39,7 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/313074
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34975
 #EXTINF:-1 tvg-ID="218dtv.cl" tvg-name="218dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-channel_m.png" group-title="Entretenimiento",Universal TV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34956
-#EXTINF:-1 tvg-ID="I122.11097.schedulesdirect.org" tvg-name="I122.11097.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SYFY
+#EXTINF:-1 tvg-ID="I617.56727.schedulesdirect.org" tvg-name="I617.56727.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sy-fy_m.png" group-title="Entretenimiento",SYFY
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35010
 #EXTINF:-1 tvg-ID="220dtv.cl" tvg-name="220dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/trutv_m.png" group-title="Entretenimiento",TruTV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35065
@@ -313,6 +313,10 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/303806
 #
 #EXTINF:-1 tvg-ID="mpluslaliga.es" tvg-name="mpluslaliga.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mplus-laliga_m.png" group-title="Deportes",La Liga
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303734
+#EXTINF:-1 tvg-ID="mpluslaliga2.es" tvg-name="mpluslaliga2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mplus-laliga_m.png" group-title="Deportes",La Liga 2
+http://hidra.live:80/ypamzjtt/xY2597mnGj/303742
+#EXTINF:-1 tvg-ID="mpluslaliga3.es" tvg-name="mpluslaliga3.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mplus-laliga_m.png" group-title="Deportes",La Liga 3
+http://hidra.live:80/ypamzjtt/xY2597mnGj/303745
 #EXTINF:-1 tvg-ID="mpluslcampeones.es" tvg-name="mpluslcampeones.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/campeones_m.png" group-title="Deportes",Liga de Campeones
 http://hidra.live:80/ypamzjtt/xY2597mnGj/303758
 #EXTINF:-1 tvg-ID="mpluslcampeon2.es" tvg-name="mpluslcampeon2.es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/campeones2_m.png" group-title="Deportes",Liga de Campeones 2
