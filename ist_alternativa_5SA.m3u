@@ -1,5 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U x-tvg-url="https://epg.programadorx.cl/mdiaz/gratis.xml,https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
 #
 #
 #
@@ -158,7 +157,7 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/302633
 #
 #
 #
-#EXTINF:-1 tvg-ID="I641.19384.schedulesdirect.org" tvg-name="I641.19384.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
+#EXTINF:-1 tvg-ID="502dtv.cl" tvg-name="502dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34957
 #EXTINF:-1 tvg-ID="503dtv.cl" tvg-name="503dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine",Golden
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34985
@@ -193,6 +192,8 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34910
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312701
 #EXTINF:-1 tvg-ID="1506dtv.cl" tvg-name="1506dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony-cine_m.png" group-title="Cine",Sony Cine
 http://hidra.live:80/ypamzjtt/xY2597mnGj/304509
+#EXTINF:-1 tvg-ID="746dtv.cl" tvg-name="746dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fa_m.png" group-title="Cine",Film & Art
+http://hidra.live:80/ypamzjtt/xY2597mnGj/35002
 #
 #
 #EXTINF:-1 tvg-ID="hbo-oeste.mx" tvg-name="hbo-oeste.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
@@ -338,6 +339,10 @@ https://rt-esp.rttv.com/live/rtesp/playlist.m3u8
 http://hidra.live:80/ypamzjtt/xY2597mnGj/43554
 #EXTINF:-1 tvg-ID="145dtv.co" tvg-name="145dtv.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ntn24_m.png" group-title="Noticias",NTN 24 Horas
 http://hidra.live:80/ypamzjtt/xY2597mnGj/313187
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/bloomberg_m.png" group-title="Noticias",Bloomberg
+http://hidra.live:80/ypamzjtt/xY2597mnGj/35176
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dw_m.png" group-title="Noticias",DW America
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312873
 #
 #
 #
@@ -351,9 +356,9 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34801
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34825
 #EXTINF:-1 tvg-ID="740dtv.cl" tvg-name="740dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlc_m.png" group-title="Mundo",TLC
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34820
-#EXTINF:-1 tvg-ID="I408.40137.schedulesdirect.org" tvg-name="I408.40137.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo",History
+#EXTINF:-1 tvg-ID="742dtv.cl" tvg-name="742dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_m.png" group-title="Mundo",History
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34831
-#EXTINF:-1 tvg-ID="I413.80374.schedulesdirect.org" tvg-name="I413.80374.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo",H2
+#EXTINF:-1 tvg-ID="744dtv.cl" tvg-name="744dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_m.png" group-title="Mundo",H2
 http://hidra.live:80/ypamzjtt/xY2597mnGj/302662
 #EXTINF:-1 tvg-ID="discovery-science.cl" tvg-name="discovery-science.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-science_m.png" group-title="Mundo",Discovery Science  
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34817
