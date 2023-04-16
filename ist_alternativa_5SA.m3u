@@ -200,9 +200,15 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/35001
 #
 #EXTINF:-1 tvg-ID="hbo-oeste.mx" tvg-name="hbo-oeste.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34881
+#EXTINF:-1 tvg-ID="1481dtv.cl" tvg-name="1481dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO Este
+http://hidra.live:80/ypamzjtt/xY2597mnGj/313095
 #EXTINF:-1 tvg-ID="hbo-2.mx" tvg-name="hbo-2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34890
-#EXTINF:-1 tvg-ID="526dtv.cl" tvg-name="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus
+#EXTINF:-1 tvg-ID="525dtv.cl" tvg-name="525dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2 Este
+http://hidra.live:80/ypamzjtt/xY2597mnGj/313098
+#EXTINF:-1 tvg-ID="I357.82003.schedulesdirect.org" tvg-name="I357.82003.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO plus
+http://hidra.live:80/ypamzjtt/xY2597mnGj/34892
+#EXTINF:-1 tvg-ID="526dtv.cl" tvg-name="526dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO Plus Este
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34892
 #EXTINF:-1 tvg-ID="528dtv.cl" tvg-name="528dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34899
@@ -276,7 +282,7 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/312667
 #EXTINF:-1 tvg-ID="610dtv.ar" tvg-name="610dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DSports
 http://hidra.live:80/ypamzjtt/xY2597mnGj/123872
 #EXTINF:-1 tvg-ID="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DSports 2
-http://hidra.live:80/ypamzjtt/xY2597mnGj/34612
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312890
 #EXTINF:-1 tvg-ID="179directv.cl" tvg-name="179directv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DSports Plus
 http://hidra.live:80/ypamzjtt/xY2597mnGj/123871
 #
