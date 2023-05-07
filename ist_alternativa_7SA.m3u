@@ -387,7 +387,7 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/303812
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/303691
 #
 #
-#EXTINF:-1 tvg-ID="766dtv.cl" tvg-name="766dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/rai_m" group-title="Italia",Rai Italia
+#EXTINF:-1 tvg-ID="766dtv.cl" tvg-name="766dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/rai_m.png" group-title="Italia",Rai Italia
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/313189
 #
 #
@@ -399,5 +399,5 @@ http://hidra.live:80/zvwfwyhz/z7680ifYPc/43308
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/43316
 #EXTINF:-1 tvg-ID="123dtv.ar" tvg-name="123dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telefe_m.png" group-title="Argentina",Telefe
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/43310
-#EXTINF:-1 tvg-ID="123dtv.ar" tvg-name="123dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinear_m.png" group-title="Argentina",CineAR
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinear_m.png" group-title="Argentina",CineAR
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/43342
