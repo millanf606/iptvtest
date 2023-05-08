@@ -8,7 +8,7 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/43555
 #EXTINF:-1 tvg-ID="Televen" tvg-name="Televen" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Nacional",Televen
 http://hidra.live:80/ypamzjtt/xY2597mnGj/43561
 #EXTINF:-1 tvg-ID="VenezolanadeTelevision.co" tvg-name="VenezolanadeTelevision.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Nacional",VTV
-http://hidra.live:80/ypamzjtt/xY2597mnGj/313100
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLk6quBdj0ltoLpRV55Q7VtmTgp4PyDsmrKJhJkVFkKiL)/dm/3/x828i6j/s/live-2.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="202dtv.cl" tvg-name="202dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
@@ -119,9 +119,9 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/34797
 http://hidra.live:80/ypamzjtt/xY2597mnGj/302633
 #
 #
-#EXTINF:-1 tvg-ID="502dtv.cl" tvg-name="502dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
+#EXTINF:-1 tvg-ID="502dtv.ar" tvg-name="502dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/313063
-#EXTINF:-1 tvg-ID="502dtv.ar" tvg-name="502dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT este
+#EXTINF:-1 tvg-ID="502dtv.cl" tvg-name="502dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_m.png" group-title="Cine",TNT este
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34957
 #EXTINF:-1 tvg-ID="503dtv.cl" tvg-name="503dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/golden_m.png" group-title="Cine",Golden
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34985
