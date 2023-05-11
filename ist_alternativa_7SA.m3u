@@ -183,13 +183,15 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/312766
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312768
 #EXTINF:-1 tvg-ID="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312770
-#EXTINF:-1 tvg-ID="571dtv.cl" tvg-name="571dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium",Universal Premiere
+#EXTINF:-1 tvg-ID="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium",Universal Premiere
+http://hidra.live:80/ypamzjtt/xY2597mnGj/312776
+#EXTINF:-1 tvg-ID="571dtv.cl" tvg-name="571dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium",Universal Premiere Este
 http://hidra.live:80/ypamzjtt/xY2597mnGj/313119
 #EXTINF:-1 tvg-ID="1572dtv.cl" tvg-name="1572dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium",Universal Cinema
 http://hidra.live:80/ypamzjtt/xY2597mnGj/313124
 #EXTINF:-1 tvg-ID="1573dtv.cl" tvg-name="1573dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-come_m.png" group-title="Premium",Universal Comedy
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34854
-#EXTINF:-1 tvg-ID="I681.122765.schedulesdirect.org" tvg-name="I681.122765.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium",Universal Crimen
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cri_m.png" group-title="Premium",Universal Crime Este
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34851
 #EXTINF:-1 tvg-ID="UniversalReality.ar" tvg-name="UniversalReality.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-real_m.png" group-title="Premium",Universal Reality
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34862
@@ -291,6 +293,8 @@ http://hidra.live:80/zvwfwyhz/z7680ifYPc/43812
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/313027
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="Deportes",MLB Network
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/303847
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nhl_m.png" group-title="Deportes",NHL Network
+http://hidra.live:80/ypamzjtt/xY2597mnGj/303845
 #
 #
 #EXTINF:-1 tvg-ID="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
