@@ -8,7 +8,7 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/43555
 #EXTINF:-1 tvg-ID="Televen" tvg-name="Televen" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Nacional",Televen
 http://hidra.live:80/ypamzjtt/xY2597mnGj/43561
 #EXTINF:-1 tvg-ID="VenezolanadeTelevision.co" tvg-name="VenezolanadeTelevision.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Nacional",VTV
-https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLk6quBdj0ltoLpRV55Q7VtmTgp4PyDsmrKJhJkVFkKiL)/dm/3/x828i6j/s/live-2.m3u8
+http://hidra.live:80/ypamzjtt/xY2597mnGj/313100
 #
 #
 #EXTINF:-1 tvg-ID="202dtv.cl" tvg-name="202dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
@@ -236,9 +236,9 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/312668
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fs2_m.png" group-title="Deportes",FS2
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312667
 #EXTINF:-1 tvg-ID="610dtv.ar" tvg-name="610dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DSports
-http://hidra.live:80/ypamzjtt/xY2597mnGj/123872
-#EXTINF:-1 tvg-ID="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DSports 2
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312890
+#EXTINF:-1 tvg-ID="612directv.cl" tvg-name="612directv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-2_m.png" group-title="Deportes",DSports 2
+http://hidra.live:80/ypamzjtt/xY2597mnGj/34612
 #EXTINF:-1 tvg-ID="179directv.cl" tvg-name="179directv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DSports Plus
 http://hidra.live:80/ypamzjtt/xY2597mnGj/123871
 #EXTINF:-1 tvg-ID="1621dtv.ar" tvg-name="1621dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
