@@ -10,8 +10,7 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/43561
 #EXTINF:-1 tvg-ID="VenezolanadeTelevision.co" tvg-name="VenezolanadeTelevision.co" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vtv_m.png" group-title="Nacional",VTV
 https://www.dailymotion.com/video/x828i6j#tab_embed.m3u8
 #EXTINF:-1 tvg-ID="TeleSur.mx" tvg-name="TeleSur.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telesur_m.png" group-title="Noticias",Telesur
-https://list.iptvcat.com/my_list/s/86a07291548a03587f54320baf9a2ea4.m3u8
-#
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/playlist.m3u8
 #
 #EXTINF:-1 tvg-ID="202dtv.cl" tvg-name="202dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star-channel_m.png" group-title="Entretenimiento",Star Channel
 http://hidra.live:80/zvwfwyhz/z7680ifYPc/313066
