@@ -86,6 +86,10 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/35045
 http://hidra.live:80/ypamzjtt/xY2597mnGj/35048
 #EXTINF:-1 tvg-ID="hgtv.ar" tvg-name="hgtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hgtv_m.png" group-title="Entretenimiento",HGTV
 http://hidra.live:80/ypamzjtt/xY2597mnGj/312820
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ondirectv.png" group-title="Entretenimiento",OnDIRECTV
+http://hidra.live:80/ypamzjtt/xY2597mnGj/318017
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tntnovelas.png" group-title="Entretenimiento",TNT Novelas
+http://hidra.live:80/ypamzjtt/xY2597mnGj/313074
 #
 #
 #
@@ -263,6 +267,8 @@ http://hidra.live:80/ypamzjtt/xY2597mnGj/312890
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34612
 #EXTINF:-1 tvg-ID="179directv.cl" tvg-name="179directv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports-plus_m.png" group-title="Deportes",DSports Plus
 http://hidra.live:80/ypamzjtt/xY2597mnGj/123871
+#EXTINF:-1 tvg-ID="620dtv.cl" tvg-name="620dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dsports_fight.png" group-title="Deportes",DSports Fight 
+http://hidra.live:80/ypamzjtt/xY2597mnGj/318013
 #
 #EXTINF:-1 tvg-ID="1621dtv.ar" tvg-name="1621dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
 http://hidra.live:80/ypamzjtt/xY2597mnGj/34659
