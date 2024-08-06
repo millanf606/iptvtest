@@ -127,10 +127,12 @@ http://newultra.xyz:8080/984062096tv/gb11n4/187
 #
 #EXTINF:-1 tvg-ID="hbo-oeste.mx" tvg-name="hbo-oeste.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
 http://newultra.xyz:8080/984062096tv/gb11n4/139
+#EXTINF:-1 tvg-ID="hbo-oeste.mx" tvg-name="hbo-oeste.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO Este
+http://newultra.xyz:8080/984062096tv/gb11n4/140
 #EXTINF:-1 tvg-ID="hbo-2.mx" tvg-name="hbo-2.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2
 http://newultra.xyz:8080/984062096tv/gb11n4/131
 #EXTINF:-1 tvg-ID="525dtv.cl" tvg-name="525dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2_m.png" group-title="Premium",HBO 2 Este
-http://newultra.xyz:8080/984062096tv/gb11n4/132
+http://newultra.xyz:8080/984062096tv/gb11n4/133
 #EXTINF:-1 tvg-ID="I357.82003.schedulesdirect.org" tvg-name="I357.82003.schedulesdirect.org" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-plus-panamericano-hd_m.png" group-title="Premium",HBO plus
 http://newultra.xyz:8080/984062096tv/gb11n4/144
 #EXTINF:-1 tvg-ID="528dtv.cl" tvg-name="528dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_m.png" group-title="Premium",HBO Signature
@@ -142,7 +144,7 @@ http://newultra.xyz:8080/984062096tv/gb11n4/142
 #EXTINF:-1 tvg-ID="541dtv.cl" tvg-name="541dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_m.png" group-title="Premium",HBO Pop
 http://newultra.xyz:8080/984062096tv/gb11n4/148
 #EXTINF:-1 tvg-ID="542dtv.cl" tvg-name="542dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_m.png" group-title="Premium",HBO Xtreme
-http://newultra.xyz:8080/984062096tv/gb11n4/156
+http://newultra.xyz:8080/984062096tv/gb11n4/158
 #EXTINF:-1 tvg-ID="576dtv.cl" tvg-name="576dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-pre_m.png" group-title="Premium",Universal Premiere
 http://newultra.xyz:8080/984062096tv/gb11n4/54463
 #EXTINF:-1 tvg-ID="1572dtv.cl" tvg-name="1572dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/universal-cin_m.png" group-title="Premium",Universal Cinema
@@ -159,19 +161,24 @@ http://newultra.xyz:8080/984062096tv/gb11n4/206
 http://newultra.xyz:8080/984062096tv/gb11n4/207
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_m.png" group-title="Premium",STARZ East
 http://newultra.xyz:8080/984062096tv/gb11n4/208
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_m.png" group-title="Premium",STARZ Edge
-http://newultra.xyz:8080/984062096tv/gb11n4/209
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_m.png" group-title="Premium",STARZ Encore Classic
 http://newultra.xyz:8080/984062096tv/gb11n4/211
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_m.png" group-title="Premium",STARZ Encore Family
+http://newultra.xyz:8080/984062096tv/gb11n4/212
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_m.png" group-title="Premium",STARZ Encore
 http://newultra.xyz:8080/984062096tv/gb11n4/213
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_m.png" group-title="Premium",STARZ Suspense
 http://newultra.xyz:8080/984062096tv/gb11n4/214
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_m.png" group-title="Premium",STARZ Western
+http://newultra.xyz:8080/984062096tv/gb11n4/215
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_m.png" group-title="Premium",STARZ
 http://newultra.xyz:8080/984062096tv/gb11n4/216
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_m.png" group-title="Premium",STARZ west
-http://newultra.xyz:8080/984062096tv/gb11n4/217
-
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/outermax_m.png" group-title="Premium",OuterMax
+http://newultra.xyz:8080/984062096tv/gb11n4/190
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime-ppv_m.png" group-title="Premium",Showtime
+http://newultra.xyz:8080/984062096tv/gb11n4/198
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/showtime-ppv_m.png" group-title="Premium",Showtime Este
+http://newultra.xyz:8080/984062096tv/gb11n4/196
 #
 #
 #EXTINF:-1 tvg-ID="610dtv.ar" tvg-name="610dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DSports
@@ -188,6 +195,8 @@ http://newultra.xyz:8080/984062096tv/gb11n4/520
 http://newultra.xyz:8080/984062096tv/gb11n4/506
 #EXTINF:-1 tvg-ID="1623dtv.ar" tvg-name="1623dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-3_m.png" group-title="Deportes",ESPN 3
 http://newultra.xyz:8080/984062096tv/gb11n4/513
+#EXTINF:-1 tvg-ID="1623dtv.ar" tvg-name="1623dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/adrenalina_m.png" group-title="Deportes",Adrenalina Sports
+http://newultra.xyz:8080/984062096tv/gb11n4/59599
 #
 #
 #EXTINF:-1 tvg-ID="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
