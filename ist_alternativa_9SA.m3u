@@ -219,7 +219,10 @@ http://newultra.xyz:8080/984062096tv/gb11n4/60361
 http://newultra.xyz:8080/984062096tv/gb11n4/60363
 #EXTINF:-1 tvg-ID="DAZNF1(src01).es" tvg-name="DAZNF1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dzan-f1_m.png" group-title="Deportes",DAZN F1
 http://newultra.xyz:8080/984062096tv/gb11n4/12348
-#
+#EXTINF:-1 tvg-ID="DAZN1(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dazn_liga_m.png" group-title="Deportes",DAZN La Liga 1
+http://newultra.xyz:8080/984062096tv/gb11n4/60261
+#EXTINF:-1 tvg-ID="DAZN1(src01).es" tvg-name="DAZN1(src01).es" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dazn_liga_m.png" group-title="Deportes",DAZN La Liga 2
+http://newultra.xyz:8080/984062096tv/gb11n4/60268
 #
 #EXTINF:-1 tvg-ID="706dtv.cl" tvg-name="706dtv.cl" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cnn_m.png" group-title="Noticias",CNN
 http://newultra.xyz:8080/984062096tv/gb11n4/23822
