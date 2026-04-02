@@ -5,6 +5,10 @@
 https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D190.97.237.93%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1775161669~hmac%3Dd19b859ef62be5db41460693a99bbc59f088ff4c006cddc8786ec6bfcaec1eaf#1775150869830
 #
 #
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas_m_stm.png".png" group-title="Entretenimiento",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+#
+#
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinesony_m_stm.png" group-title="Entretenimiento",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #
@@ -15,7 +19,7 @@ http://ag154.pjoejsvp.top:8080/VIP019901744546778386/c40205a71a51/4774
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlbn-spa_stm.png" group-title="MLB",MLB Network
 https://aegis-cloudfront-1.tubi.video/36ef2f9d-7100-4c4d-b41a-dbf41ab7e461/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",  MLB.TV 01
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV 01
 https://nyachamselizabeth.s3.us-east-1.amazonaws.com/braves_720p30.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m_stm.png" group-title="Deportes",ESPN
