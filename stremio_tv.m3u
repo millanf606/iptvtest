@@ -1,6 +1,9 @@
 #EXTM3U
 #
 #
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/televen_m.png" group-title="Nacional",Televen
+https://mediablocks-ve.global.ssl.fastly.net/10255/live/hls/televen/index.m3u8?hdnts=data%3Dip%3D190.97.237.93%2Cid%3DTLV-GUEST%2Cpid%3D255%2Cdid%3DN%2FA%2Csid%3DWBS~acl%3D%2F10255%2Flive%2Fhls%2Fteleven%2F%2A~exp%3D1775161669~hmac%3Dd19b859ef62be5db41460693a99bbc59f088ff4c006cddc8786ec6bfcaec1eaf#1775150869830
+#
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-spa_stm.png" group-title="Premium",HBO
 http://ag154.pjoejsvp.top:8080/VIP019901744546778386/c40205a71a51/4774
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlbn-spa_stm.png" group-title="MLB",MLB Network
