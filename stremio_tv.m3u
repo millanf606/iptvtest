@@ -45,6 +45,8 @@ https://darmasaki888.s3.us-east-1.amazonaws.com/tigers.m3u8
 https://darmasaki888.s3.us-east-1.amazonaws.com/dodgers.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV 14
 https://darmasaki888.s3.us-east-1.amazonaws.com/redsox.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV 15
+https://darmasaki888.s3.us-east-1.amazonaws.com/whitesox.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fifaplus_stm.png" group-title="MLB",FIFA+
