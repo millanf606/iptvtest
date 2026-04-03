@@ -39,6 +39,10 @@ https://nyachamselizabeth.s3.us-east-1.amazonaws.com/brewers.m3u8
 https://nyachamselizabeth.s3.us-east-1.amazonaws.com/mariners.m3u8
 #
 #
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",FIFA+
+https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
+#
+#
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m_stm.png" group-title="Deportes",ESPN
 https://wp9xqedt.fubohd.com/espn/mono.m3u8?token=fa62c142be14e8b7e9028d8c4231362457b861f6-17-1775168363-1775150363
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn-2_m_stm.png" group-title="Deportes",ESPN 2
