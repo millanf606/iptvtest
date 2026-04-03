@@ -20,7 +20,9 @@ http://ag154.pjoejsvp.top:8080/VIP019901744546778386/c40205a71a51/4774
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlbn-spa_stm.png" group-title="MLB",MLB Network
 https://jmp2.uk/plu-5e66968a70f34c0007d050be.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV 01
-https://nyachamselizabeth.s3.us-east-1.amazonaws.com/braves_720p30.m3u8
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/braves.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV 02
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/orioles.m3u8
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m_stm.png" group-title="Deportes",ESPN
 https://wp9xqedt.fubohd.com/espn/mono.m3u8?token=fa62c142be14e8b7e9028d8c4231362457b861f6-17-1775168363-1775150363
