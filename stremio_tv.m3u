@@ -31,6 +31,8 @@ https://nyachamselizabeth.s3.us-east-1.amazonaws.com/royals.m3u8
 https://nyachamselizabeth.s3.us-east-1.amazonaws.com/cardinals.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV 06
 https://nyachamselizabeth.s3.us-east-1.amazonaws.com/marlins.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV 07
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/cubs.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m_stm.png" group-title="Deportes",ESPN
