@@ -32,7 +32,7 @@ https://nyachamselizabeth.s3.us-east-1.amazonaws.com/bluejays.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Phillies
 https://darmasaki888.s3.us-east-1.amazonaws.com/phillies.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Brewers
-https://nyachamselizabeth.s3.us-east-1.amazonaws.com/brewers.m3u8
+https://darmasaki888.s3.us-east-1.amazonaws.com/brewers.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Mariners
 https://nyachamselizabeth.s3.us-east-1.amazonaws.com/mariners.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Yankees
@@ -47,6 +47,10 @@ https://darmasaki888.s3.us-east-1.amazonaws.com/redsox.m3u8
 https://darmasaki888.s3.us-east-1.amazonaws.com/whitesox.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Twins
 https://darmasaki888.s3.us-east-1.amazonaws.com/twins.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Rangers
+https://darmasaki888.s3.us-east-1.amazonaws.com/rangers.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Giants
+https://darmasaki888.s3.us-east-1.amazonaws.com/giants.m3u8
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fifaplus_stm.png" group-title="MLB",FIFA+
 https://6c849fb3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctbXhfRklGQVBsdXNTcGFuaXNoLTFfSExT/playlist.m3u8
