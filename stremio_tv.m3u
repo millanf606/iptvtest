@@ -1,10 +1,6 @@
 #EXTM3U
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tvo_stm.png" group-title="Local",TVO
-https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
-#
-#
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_stm.png" group-title="Entretenimiento",Venevision Int.
 https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas_m_stm.png" group-title="Entretenimiento",Las Estrellas
