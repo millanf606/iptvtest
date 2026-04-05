@@ -1,0 +1,54 @@
+#EXTM3U
+#
+#
+#EXTINF:-1 tvg-ID="hbo-oeste.mx" tvg-name="hbo-oeste.mx" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_m.png" group-title="Premium",HBO
+http://ag154.pjoejsvp.top:8080/VIP019901744546778386/c40205a71a51/4774
+#
+#
+#EXTINF:-1 tvg-ID="610dtv.ar" tvg-name="610dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m.png" group-title="Deportes",DSports
+http://tvhomesmart.xyz:8080/56956986618wsp2ztv/07062023ztv/317
+#
+#EXTINF:-1 tvg-ID="1621dtv.ar" tvg-name="1621dtv.ar" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_m.png" group-title="Deportes",ESPN
+http://tvhomesmart.xyz:8080/56956986618wsp2ztv/07062023ztv/520
+#
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="Deportes",MLB Network
+https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mmpgjr4zitcp0/playlist.m3u8
+#
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Braves
+https://darmasaki888.s3.us-east-1.amazonaws.com/braves.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Orioles
+https://darmasaki888.s3.us-east-1.amazonaws.com/orioles.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Cardinals
+https://darmasaki888.s3.us-east-1.amazonaws.com/cardinals.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Royals
+https://darmasaki888.s3.us-east-1.amazonaws.com/royals.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Marlins
+https://darmasaki888.s3.us-east-1.amazonaws.com/marlins.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Cubs
+https://darmasaki888.s3.us-east-1.amazonaws.com/cubs.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Blue Jays
+https://darmasaki888.s3.us-east-1.amazonaws.com/bluejays.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Phillies
+https://darmasaki888.s3.us-east-1.amazonaws.com/phillies.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Brewers
+https://darmasaki888.s3.us-east-1.amazonaws.com/brewers.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Mariners
+https://nyachamselizabeth.s3.us-east-1.amazonaws.com/mariners.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Yankees
+https://darmasaki888.s3.us-east-1.amazonaws.com/yankees.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Tigers
+https://darmasaki888.s3.us-east-1.amazonaws.com/tigers.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Dodgers
+https://darmasaki888.s3.us-east-1.amazonaws.com/dodgers.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Red Sox
+https://darmasaki888.s3.us-east-1.amazonaws.com/redsox.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV White Sox
+https://darmasaki888.s3.us-east-1.amazonaws.com/whitesox.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Twins
+https://darmasaki888.s3.us-east-1.amazonaws.com/twins.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Rangers
+https://darmasaki888.s3.us-east-1.amazonaws.com/rangers.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Giants
+https://darmasaki888.s3.us-east-1.amazonaws.com/giants.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb_m.png" group-title="MLB",MLB.TV Extra
+https://darmasaki888.s3.us-east-1.amazonaws.com/heat.m3u8
