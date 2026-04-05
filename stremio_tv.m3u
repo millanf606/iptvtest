@@ -18,12 +18,13 @@ https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Cubs
 https://darmasaki888.s3.us-east-1.amazonaws.com/cubs.m3u8
+https://ag8543460.s3.us-east-1.amazonaws.com/cubs.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Orioles
-https://darmasaki888.s3.us-east-1.amazonaws.com/orioles.m3u8
+https://ag8543460.s3.us-east-1.amazonaws.com/orioles.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Dodgers
-https://darmasaki888.s3.us-east-1.amazonaws.com/dodgers.m3u8
+https://ag8543460.s3.us-east-1.amazonaws.com/dodgers.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Yankees
-https://darmasaki888.s3.us-east-1.amazonaws.com/yankees.m3u8
+https://ag8543460.s3.us-east-1.amazonaws.com/yankees.m3u8
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Braves
 https://darmasaki888.s3.us-east-1.amazonaws.com/braves.m3u8
