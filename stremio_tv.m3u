@@ -18,34 +18,32 @@ https://d1yqxv6gx128ca.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Cubs
-https://oshanrd4.s3.us-east-1.amazonaws.com/cubs.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/cubs.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Orioles
-https://oshanrd4.s3.us-east-1.amazonaws.com/orioles.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/orioles.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Dodgers
-https://oshanrd4.s3.us-east-1.amazonaws.com/dodgers.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/dodgers.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Yankees
-https://oshanrd4.s3.us-east-1.amazonaws.com/yankees.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/yankees.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Astros
-https://oshanrd4.s3.us-east-1.amazonaws.com/astros.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/astros.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Giants
-https://oshanrd4.s3.us-east-1.amazonaws.com/giants.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/giants.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Diamondbacks
-https://oshanrd4.s3.us-east-1.amazonaws.com/diamondbacks.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/diamondbacks.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Padres
-https://oshanrd4.s3.us-east-1.amazonaws.com/padres.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/padres.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Red Sox
-https://oshanrd4.s3.us-east-1.amazonaws.com/redsox.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/redsox.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Blue Jays
-https://oshanrd4.s3.us-east-1.amazonaws.com/bluejays.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/bluejays.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Rangers
-https://oshanrd4.s3.us-east-1.amazonaws.com/rangers.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/rangers.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Mets
-https://oshanrd4.s3.us-east-1.amazonaws.com/mets.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/mets.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Phillies
-https://oshanrd4.s3.us-east-1.amazonaws.com/phillies.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/phillies.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Tigers
-https://oshanrd4.s3.us-east-1.amazonaws.com/tigers.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" group-title="MLB",MLB.TV Extra
-https://oshanrd4.s3.us-east-1.amazonaws.com/espn.m3u8
+https://s3.us-east-1.amazonaws.com/shelest.stanislav/tigers.m3u8
 #
 #
