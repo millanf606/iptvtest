@@ -23,6 +23,8 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #
 #
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_stm.png" group-title="Cine",AMC
+http://15.204.246.24:8080/AMCHD/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinesony_m_stm.png" group-title="Cine",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sonymovie_m_stm.png" group-title="Cine",Sony
