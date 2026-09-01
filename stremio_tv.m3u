@@ -13,6 +13,8 @@ http://15.204.246.24:8080/PasionesHD/index.m3u8
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" group-title="Variedades",NatGeo
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" group-title="Variedades",Sony Channel
+http://15.204.246.24:8080/SonyHD/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney_stm.png" group-title="Infantil",Disney Channe
