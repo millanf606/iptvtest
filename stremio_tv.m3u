@@ -15,15 +15,15 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinesony_m_stm.png" group-title="Entretenimiento",Cine Sony
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinesony_m_stm.png" group-title=""Cine",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sonymovie_m_stm.png" group-title="Entretenimiento",Cine Movie
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sonymovie_m_stm.png" group-title="Cine",Sony Movie
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" group-title="Entretenimiento",AXN
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" group-title="Cine",AXN
 http://45.228.235.116:8000/play/a0iy/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" group-title="Entretenimiento",Cinecanal
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" group-title="Cine",Cinecanal
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_encore_stm.png" group-title="Entretenimiento",Starz Encore
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_encore_stm.png" group-title="Cine",Starz Encore
 http://168.228.44.241:9998/play/a0e1/index.m3u8
 #
 #
