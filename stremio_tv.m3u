@@ -11,7 +11,7 @@ http://181.78.14.26:4000/play/a00d/index.m3u8
 http://15.204.246.24:8080/PasionesHD/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tele_stm.png" group-title="Entretenimiento",Telemundo
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tele_stm.png" group-title="Entretenimiento",Tlnovelas
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_stm.png" group-title="Entretenimiento",Tlnovelas
 http://177.234.249.178:8888/TELENOVELAS/index.m3u8
 #
 #
