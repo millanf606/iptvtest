@@ -9,6 +9,12 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #
 #
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney_stm.png" group-title="Infantil",Disney Channe
+http://15.204.246.24:8080/DisneyHD/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disneyjr_stm.png" group-title="Infantil",Disney Jr.
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8
+#
+#
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_stm.png" group-title="Entretenimiento",History
 http://15.204.246.24:8080/HistoryHD/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_stm.png" group-title="Entretenimiento",H2
