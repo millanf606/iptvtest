@@ -32,7 +32,7 @@ http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star_stm.png" group-title="Cine",Star Channel
-http://15.204.246.24:8080/STARCHANNELHD/index.m3u8
+http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni_stm.png" group-title="Cine",Universal TV
 http://15.204.246.24:8080/UniversalHD/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/estudio_stm.png" group-title="Cine",Studio Universal
