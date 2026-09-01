@@ -8,7 +8,7 @@ https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_stm.png" group-title="Entretenimiento",Caracol
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasi_stm.png" group-title="Entretenimiento",Pasiones
-http://15.204.246.24:8080/PasionesHD/index.m3u8
+http://177.234.249.178:8888/PASIONES/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tele_stm.png" group-title="Entretenimiento",Telemundo
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_stm.png" group-title="Entretenimiento",Tlnovelas
