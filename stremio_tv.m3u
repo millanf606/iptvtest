@@ -33,6 +33,8 @@ http://15.204.246.24:8080/HistoryHD/index.m3u8
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
 #
 #
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" group-title="Cine",TNT
+http://177.234.249.178:8888/TNT/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star_stm.png" group-title="Cine",Star Channel
 http://138.121.15.230:9002/STAR-CHANNEL/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni_stm.png" group-title="Cine",Universal TV
@@ -48,7 +50,7 @@ https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sonymovie_m_stm.png" group-title="Cine",Sony
 http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" group-title="Cine",AXN
-http://45.228.235.116:8000/play/a0iy/index.m3u8
+http://177.234.249.178:8888/AXN/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" group-title="Cine",Cinecanal
 http://15.204.246.24:8080/CinecanalHD/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_encore_stm.png" group-title="Cine",Starz Encore
@@ -65,6 +67,10 @@ http://177.234.249.178:8888/ESPN2/index.m3u8
 http://177.234.249.178:8888/ESPN3/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN 5
 http://177.234.249.178:8888/ESPN5/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN 6
+http://177.234.249.178:8888/ESPN6/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN 6
+http://177.234.249.178:8888/ESPN7/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m_stm.png" group-title="Deportes",Dsports
 http://138.121.113.175:8000/play/a0cj/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fifaplus_stm.png" group-title="Deportes",FIFA+
