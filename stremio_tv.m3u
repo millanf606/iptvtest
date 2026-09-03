@@ -19,6 +19,8 @@ http://177.234.249.178:8888/TELENOVELAS/index.m3u8
 http://15.204.246.24:8080/SonyHD/index.m3u8
 #
 #
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney_stm.png" group-title="Infantil",Cartoon Network
+http://181.78.197.59:8000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney_stm.png" group-title="Infantil",Disney Channe
 http://15.204.246.24:8080/DisneyHD/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disneyjr_stm.png" group-title="Infantil",Disney Jr.
@@ -80,6 +82,10 @@ http://177.234.249.178:8888/ESPN5/index.m3u8
 http://177.234.249.178:8888/ESPN6/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN 7
 http://177.234.249.178:8888/ESPN7/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" group-title="Deportes",ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" group-title="Deportes",ESPN 4
+http://181.78.197.59:8000/play/a07n/index.m3u8
 #
 #
 #
