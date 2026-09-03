@@ -15,8 +15,10 @@ http://177.234.249.178:8888/TELEMUNDO/index.m3u8
 http://177.234.249.178:8888/TELENOVELAS/index.m3u8
 #
 #
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner_stm.png" group-title="Variedades",Warner Channel
+http://181.78.197.59:8000/play/a07s/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_stm.png" group-title="Variedades",Sony Channel
-http://15.204.246.24:8080/SonyHD/index.m3u8
+http://181.78.197.59:8000/play/a07q/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonn_stm.png" group-title="Infantil",Cartoon Network
@@ -65,7 +67,7 @@ http://15.204.246.24:8080/SonyMoviesHD/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" group-title="Cine",Cinecanal
-http://15.204.246.24:8080/CinecanalHD/index.m3u8
+http://181.78.197.59:8000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/starz_encore_stm.png" group-title="Cine",Starz Encore
 http://168.228.44.241:9998/play/a0e1/index.m3u8
 #
