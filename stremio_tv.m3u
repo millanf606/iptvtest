@@ -50,7 +50,7 @@ http://177.234.249.178:8888/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_stm.png" group-title="Cine",Space
 http://177.234.249.178:8888/SPACE/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star_stm.png" group-title="Cine",Star Channel
-http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
+http://181.78.197.59:8000/play/a07p/index.m3u8
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/estudio_stm.png" group-title="Cine",Studio Universal
 http://15.204.246.24:8080/StudioUniversalHD/index.m3u8
@@ -72,6 +72,14 @@ http://168.228.44.241:9998/play/a0e1/index.m3u8
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_stm.png" group-title="Premium",HBO
 http://181.78.197.59:8000/play/a07c/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2-stm.png" group-title="Premium",HBO 2
+http://181.78.197.59:8000/play/a07e/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_stm.png" group-title="Premium",HBO +
+http://181.78.197.59:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-family_stm.png" group-title="Premium",HBO Family
+http://181.78.197.59:8000/play/a07f/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_stm.png" group-title="Premium",HBO Xtreme
+http://181.78.197.59:8000/play/a07h/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN
