@@ -19,7 +19,7 @@ http://177.234.249.178:8888/TELENOVELAS/index.m3u8
 http://15.204.246.24:8080/SonyHD/index.m3u8
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney_stm.png" group-title="Infantil",Cartoon Network
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonn_stm.png" group-title="Infantil",Cartoon Network
 http://181.78.197.59:8000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney_stm.png" group-title="Infantil",Disney Channe
 http://15.204.246.24:8080/DisneyHD/index.m3u8
@@ -27,7 +27,7 @@ http://15.204.246.24:8080/DisneyHD/index.m3u8
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick_stm.png" group-title="Infantil",Nickelodeon
 http://177.234.249.178:8888/NICK/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick_stm.png" group-title="Infantil",Nick Jr.
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickjr_stm.png" group-title="Infantil",Nick Jr.
 http://177.234.249.178:8888/NICK-JR/index.m3u8
 #
 #
