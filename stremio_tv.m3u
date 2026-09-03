@@ -42,7 +42,7 @@ http://177.234.249.178:8888/HISTORY2/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" group-title="Cine",TNT
-http://177.234.249.178:8888/TNT/index.m3u8
+http://181.78.197.59:8000/play/a07u/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine_stm.png" group-title="Cine",Cinemax
 http://177.234.249.178:8888/CINEMAX/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" group-title="Cine",AXN
