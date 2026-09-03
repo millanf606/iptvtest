@@ -12,7 +12,7 @@ http://177.234.249.178:8888/PASIONES/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tele_stm.png" group-title="Entretenimiento",Telemundo
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_stm.png" group-title="Entretenimiento",Tlnovelas
-http://177.234.249.178:8888/TELENOVELAS/index.m3u8
+http://181.78.197.59:8000/play/a09k/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner_stm.png" group-title="Variedades",Warner Channel
