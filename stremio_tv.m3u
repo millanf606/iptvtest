@@ -51,8 +51,10 @@ http://177.234.249.178:8888/CINEMAX/index.m3u8
 http://177.234.249.178:8888/AXN/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni_stm.png" group-title="Cine",Universal TV
 http://177.234.249.178:8888/UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_stm.png" group-title="Cine",Space
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_stm.png" group-title="Cine",Space Sur
 http://177.234.249.178:8888/SPACE/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_stm.png" group-title="Cine",Space Central
+http://45.170.130.224:8000/play/a03h/index.m3u8
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/estudio_stm.png" group-title="Cine",Studio Universal
 http://181.78.197.59:8000/play/a06t/index.m3u8
