@@ -16,7 +16,7 @@ http://181.78.197.59:8000/play/a09k/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner_stm.png" group-title="Variedades",Warner Channel
-http://181.78.197.59:8000/play/a07s/index.m3u8
+http://45.170.130.224:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_stm.png" group-title="Variedades",Sony Channel
 http://181.78.197.59:8000/play/a07q/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star_stm.png" group-title="Cine",Star Channel
