@@ -14,7 +14,7 @@ http://177.234.249.178:8888/AXN/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_stm.png" group-title="Entretenimiento",AMC
 http://181.78.197.59:8000/play/a06w/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_stm.png" group-title="Entretenimiento",FX
-http://181.78.197.59:8000/play/a06y/index.m3u8
+http://181.78.14.26:4000/play/a04h/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni_stm.png" group-title="Entretenimiento",Universal TV
 http://177.234.249.178:8888/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasi_stm.png" group-title="Entretenimiento",Pasiones
