@@ -41,11 +41,13 @@ http://45.170.130.224:8000/play/a01r/index.m3u8
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" group-title="Variedades",NatGeo
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" group-title="Mundo",NatGeo
 http://177.234.249.178:8888/NATGEO/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_stm.png" group-title="Entretenimiento",History
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disco_stm.png" group-title="Mundo",Discovery Channel
+http://181.78.14.26:4000/play/a00t/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_stm.png" group-title="Mundo",History
 http://177.234.249.178:8888/HISTORY/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_stm.png" group-title="Entretenimiento",H2
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_stm.png" group-title="Mundo",H2
 http://177.234.249.178:8888/HISTORY2/index.m3u8
 #
 #
