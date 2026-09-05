@@ -1,8 +1,6 @@
 #EXTM3U
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/vene_stm.png" group-title="Entretenimiento",Venevision Int.
-https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas_m_stm.png" group-title="Entretenimiento",Las Estrellas
 http://181.78.14.26:4000/play/a07r/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_stm.png" group-title="Entretenimiento",Caracol
@@ -21,6 +19,10 @@ http://45.170.130.224:8000/play/a01u/index.m3u8
 http://181.78.197.59:8000/play/a07q/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star_stm.png" group-title="Cine",Star Channel
 http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" group-title="Cine",AXN
+http://177.234.249.178:8888/AXN/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni_stm.png" group-title="Cine",Universal TV
+http://177.234.249.178:8888/UNIVERSAL/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonn_stm.png" group-title="Infantil",Cartoon Network
@@ -47,10 +49,6 @@ http://177.234.249.178:8888/HISTORY2/index.m3u8
 http://177.234.249.178:8888/TNT/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine_stm.png" group-title="Cine",Cinemax
 http://177.234.249.178:8888/CINEMAX/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" group-title="Cine",AXN
-http://177.234.249.178:8888/AXN/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni_stm.png" group-title="Cine",Universal TV
-http://177.234.249.178:8888/UNIVERSAL/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_stm.png" group-title="Cine",Space Sur
 http://177.234.249.178:8888/SPACE/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_stm.png" group-title="Cine",Space Central
@@ -80,6 +78,8 @@ http://181.78.197.59:8000/play/a07f/index.m3u8
 http://181.78.197.59:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_stm.png" group-title="Premium",HBO Xtreme
 http://181.78.197.59:8000/play/a07h/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/as_stm.png" group-title="Premium",Adult Swim
+http://138.121.113.175:8000/play/a08q/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN ARG
