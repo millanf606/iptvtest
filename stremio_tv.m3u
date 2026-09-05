@@ -103,6 +103,10 @@ http://177.234.249.178:8888/ESPN6/index.m3u8
 http://177.234.249.178:8888/ESPN7/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" group-title="Deportes",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" group-title="Deportes",ESPN 2
+http://72.1.184.5:8089/play/a05s/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" group-title="Deportes",ESPN 3
+http://72.1.184.5:8089/play/a05t/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" group-title="Deportes",ESPN 4
 http://181.78.197.59:8000/play/a07n/index.m3u8
 #
