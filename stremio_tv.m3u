@@ -4,7 +4,7 @@
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star_stm.png" group-title="Entretenimiento",Star Channel
-http://177.234.249.178:8888/STAR-CHANNEL/index.m3u8
+http://72.1.184.5:8089/play/a06e/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner_stm.png" group-title="Entretenimiento",Warner Channel
 http://45.170.130.224:8000/play/a01u/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_stm.png" group-title="Entretenimiento",Sony Channel
