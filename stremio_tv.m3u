@@ -82,10 +82,10 @@ http://181.78.197.59:8000/play/a07g/index.m3u8
 http://181.78.197.59:8000/play/a07h/index.m3u8
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN
-http://177.234.249.178:8888/ESPN/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN ARG
 http://190.93.224.42/ESPN/index.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN COL
+http://177.234.249.178:8888/ESPN/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN 2
 http://177.234.249.178:8888/ESPN2/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN 3
