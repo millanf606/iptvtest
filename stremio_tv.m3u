@@ -81,8 +81,6 @@ http://181.78.197.59:8000/play/a07f/index.m3u8
 http://181.78.197.59:8000/play/a07g/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_stm.png" group-title="Premium",HBO Xtreme
 http://181.78.197.59:8000/play/a07h/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/as_stm.png" group-title="Premium",Adult Swim
-http://138.121.113.175:8000/play/a08q/index.m3u8
 #
 #
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" group-title="Deportes",ESPN ARG
