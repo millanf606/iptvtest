@@ -1,0 +1,95 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/476rnmvvkqtpq6jqyekg" x-generator="https://m3u4u.com/"
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star_stm.png" tvg-id="",Star Channel
+http://72.1.184.5:8089/play/a06e/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner_stm.png" tvg-id="",Warner Channel
+http://45.170.130.224:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_stm.png" tvg-id="",Sony Channel
+http://181.78.197.59:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" tvg-id="",AXN
+http://177.234.249.178:8888/AXN/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_stm.png" tvg-id="",AMC
+http://181.78.197.59:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_stm.png" tvg-id="",FX
+http://181.78.14.26:4000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni_stm.png" tvg-id="",Universal TV
+http://177.234.249.178:8888/UNIVERSAL/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasi_stm.png" tvg-id="",Pasiones
+http://177.234.249.178:8888/PASIONES/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas_m_stm.png" tvg-id="",Las Estrellas
+http://181.78.14.26:4000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_stm.png" tvg-id="",Tlnovelas
+http://181.78.197.59:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tele_stm.png" tvg-id="",Telemundo
+http://177.234.249.178:8888/TELEMUNDO/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_stm.png" tvg-id="",Caracol Colombia
+http://181.78.14.26:4000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonn_stm.png" tvg-id="",Cartoon Network
+http://181.78.197.59:8000/play/a07c/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick_stm.png" tvg-id="",Nickelodeon
+http://177.234.249.178:8888/NICK/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickjr_stm.png" tvg-id="",Nick Jr.
+http://177.234.249.178:8888/NICK-JR/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney_stm.png" tvg-id="",Disney Channel
+http://45.170.130.224:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disneyjr_stm.png" tvg-id="",Disney Jr.
+http://177.234.249.178:8888/DISNEY-JR/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" tvg-id="",NatGeo
+http://177.234.249.178:8888/NATGEO/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disco_stm.png" tvg-id="",Discovery Channel
+http://181.78.14.26:4000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_stm.png" tvg-id="",History
+http://177.234.249.178:8888/HISTORY/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_stm.png" tvg-id="",H2
+http://177.234.249.178:8888/HISTORY2/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="tnt.ar",TNT
+http://177.234.249.178:8888/TNT/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" tvg-id="cinecanal.ar",Cinecanal
+http://181.78.197.59:8000/play/a07r/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/estudio_stm.png" tvg-id="UniversalTV.ar",Studio Universal
+http://181.78.197.59:8000/play/a06t/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine_stm.png" tvg-id="cinemax.ar",Cinemax
+http://177.234.249.178:8888/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_stm.png" tvg-id="dhe.ar",DHE
+http://181.78.197.59:8000/play/a08d/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_stm.png" tvg-id="space.ar",Space Sur
+http://104.248.13.17:7080/play/a01x/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/space_stm.png" tvg-id="space.mx",Space Central
+http://72.1.184.5:8089/play/a09v/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinesony_m_stm.png" tvg-id="",Sony
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sonymovie_m_stm.png" tvg-id="sonymovies.ar",Sony (2)
+http://190.61.90.17:40000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_stm.png" tvg-id="",HBO
+http://181.78.197.59:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2-stm.png" tvg-id="",HBO 2
+http://181.78.197.59:8000/play/a07e/index.m3u8
+#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/plus_stm.png" tvg-id="",HBO +
+http://181.78.197.59:8000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-family_stm.png" tvg-id="",HBO Family
+http://181.78.197.59:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_stm.png" tvg-id="",HBO Xtreme
+http://181.78.197.59:8000/play/a07h/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="",ESPN ARG
+http://190.93.224.42/ESPN/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="",ESPN COL
+http://177.234.249.178:8888/ESPN/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="",ESPN 2
+http://177.234.249.178:8888/ESPN2/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="",ESPN 3
+http://177.234.249.178:8888/ESPN3/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="",ESPN 4
+http://138.121.113.175:8000/play/a08h/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="",ESPN 5
+http://177.234.249.178:8888/ESPN5/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="",ESPN 6
+http://177.234.249.178:8888/ESPN6/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="",ESPN 7
+http://177.234.249.178:8888/ESPN7/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="",ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="",ESPN 2 (2)
+http://72.1.184.5:8089/play/a05s/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="",ESPN 3 (2)
+http://72.1.184.5:8089/play/a05t/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="",ESPN 4 (2)
+http://181.78.197.59:8000/play/a07n/index.m3u8
