@@ -51,7 +51,7 @@ http://177.234.249.178:8888/HISTORY/index.m3u8
 http://177.234.249.178:8888/HISTORY2/index.m3u8
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" group-title="Cine",TNT
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="tnt.ar",TNT
 http://177.234.249.178:8888/TNT/index.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" group-title="Cine",Cinecanal
 http://181.78.197.59:8000/play/a07r/index.m3u8
