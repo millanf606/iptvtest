@@ -3,51 +3,51 @@
 #
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star_stm.png" group-title="Entretenimiento",Star Channel
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/star_stm.png" tvg-id="STAR.CHANNEL.co (src05)",Star Channel
 http://72.1.184.5:8089/play/a06e/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner_stm.png" group-title="Entretenimiento",Warner Channel
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner_stm.png" tvg-id="Warner Channel.co (src09)",Warner Channel
 http://45.170.130.224:8000/play/a01u/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_stm.png" group-title="Entretenimiento",Sony Channel
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_stm.png" tvg-id="SETLC.co (m3u4u)",Sony Channel
 http://181.78.197.59:8000/play/a07q/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" group-title="Entretenimiento",AXN
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" tvg-id="AXN.co (src05)",AXN
 http://177.234.249.178:8888/AXN/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_stm.png" group-title="Entretenimiento",AMC
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_stm.png" tvg-id="AMC.co (src05)",AMC
 http://181.78.197.59:8000/play/a06w/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_stm.png" group-title="Entretenimiento",FX
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_stm.png" tvg-id="FX.co (src05)",FX
 http://181.78.14.26:4000/play/a04h/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni_stm.png" group-title="Entretenimiento",Universal TV
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni_stm.png" tvg-id="Canal.Universal.TV.(México).mx (src05)",Universal TV
 http://177.234.249.178:8888/UNIVERSAL/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasi_stm.png" group-title="Entretenimiento",Pasiones
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasi_stm.png" tvg-id="PASIONES.co (src05)",Pasiones
 http://177.234.249.178:8888/PASIONES/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas_m_stm.png" group-title="Entretenimiento",Las Estrellas
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas_m_stm.png" tvg-id="Canal de las Estrellas HD.co (src09)",Las Estrellas
 http://181.78.14.26:4000/play/a07r/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_stm.png" group-title="Entretenimiento",Tlnovelas
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_stm.png" tvg-id="TLNovelas.co (src09)",Tlnovelas
 http://181.78.197.59:8000/play/a09k/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tele_stm.png" group-title="Entretenimiento",Telemundo
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tele_stm.png" tvg-id="Telemundo.co (src05)",Telemundo
 http://177.234.249.178:8888/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_stm.png" group-title="Entretenimiento",Caracol Colombia
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_stm.png" tvg-id="Caracol.co (src09)",Caracol Colombia
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonn_stm.png" group-title="Infantil",Cartoon Network
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cartoonn_stm.png" tvg-id="Canal.Cartoon.Network.(México).mx (src05)",Cartoon Network
 http://181.78.197.59:8000/play/a07c/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick_stm.png" group-title="Infantil",Nickelodeon
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick_stm.png" tvg-id="Nickelodeon.ar (src09)",Nickelodeon
 http://177.234.249.178:8888/NICK/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickjr_stm.png" group-title="Infantil",Nick Jr.
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickjr_stm.png" tvg-id="Canal.Nick.Jr..(Argentina).ar (src05)",Nick Jr.
 http://177.234.249.178:8888/NICK-JR/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney_stm.png" group-title="Infantil",Disney Channel
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney_stm.png" tvg-id="Disney Channel.co (src09)",Disney Channel
 http://45.170.130.224:8000/play/a01r/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disneyjr_stm.png" group-title="Infantil",Disney Jr.
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disneyjr_stm.png" tvg-id="Canal.Disney.Junior.(Argentina).ar (src05)",Disney Jr.
 http://177.234.249.178:8888/DISNEY-JR/index.m3u8
 #
 #
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" group-title="Mundo",NatGeo
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" tvg-id="",NatGeo
 http://177.234.249.178:8888/NATGEO/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disco_stm.png" group-title="Mundo",Discovery Channel
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disco_stm.png" tvg-id="TDCL.co (m3u4u)",Discovery Channel
 http://181.78.14.26:4000/play/a00t/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_stm.png" group-title="Mundo",History
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_stm.png" tvg-id="",History
 http://177.234.249.178:8888/HISTORY/index.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_stm.png" group-title="Mundo",H2
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_stm.png" tvg-id="",H2
 http://177.234.249.178:8888/HISTORY2/index.m3u8
 #
 #
