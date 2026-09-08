@@ -51,13 +51,15 @@ http://177.234.249.178:8888/HISTORY/index.m3u8
 http://177.234.249.178:8888/HISTORY2/index.m3u8
 #
 #
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="Canal.TNT.(Argentina).ar (src05)",TNT
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="Canal.TNT.(Argentina).ar (src05)" tvg-shift="0.5",TNT
+http://177.234.249.178:8888/TNT/index.m3u8
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="Canal.TNT.(Argentina).ar (src05)",TNT Sur
 http://177.234.249.178:8888/TNT/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" tvg-id="Canal.Cinecanal.(México).mx (src05)",Cinecanal
 http://181.78.197.59:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/estudio_stm.png" tvg-id="StudioUniversal.ar (src09)",Studio Universal
 http://181.78.197.59:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine_stm.png" tvg-id="CINELWH.mx (m3u4u)" tvg-shift="-4",Cinemax
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine_stm.png" tvg-id="CINELWH.mx (m3u4u)",Cinemax
 http://186.148.196.100:8000/play/a003
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_stm.png" tvg-id="dhe.ar",DHE
 http://181.78.197.59:8000/play/a08d/index.m3u8
