@@ -51,7 +51,7 @@ http://177.234.249.178:8888/HISTORY/index.m3u8
 http://177.234.249.178:8888/HISTORY2/index.m3u8
 #
 #
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="Canal.TNT.(Argentina).ar (src05)" tvg-shift="0.5",TNT
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="Canal.TNT.(Argentina).ar (src05)" tvg-shift="0.5",TNT Central
 http://177.234.249.178:8888/TNT/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="Canal.TNT.(Argentina).ar (src05)",TNT Sur
 http://177.234.249.178:8888/TNT/index.m3u8
