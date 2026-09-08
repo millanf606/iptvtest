@@ -53,9 +53,9 @@ http://177.234.249.178:8888/HISTORY2/index.m3u8
 #
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="Canal.TNT.(Argentina).ar (src05)",TNT
 http://177.234.249.178:8888/TNT/index.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" tvg-id="Canal.Cinecanal.(Argentina).ar (src05)",Cinecanal
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" tvg-id="Canal.Cinecanal.(México).mx (src05)",Cinecanal
 http://181.78.197.59:8000/play/a07r/index.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/estudio_stm.png" tvg-id="Canal.Studio.Universal.(México).mx (src05)",Studio Universal
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/estudio_stm.png" tvg-id="StudioUniversal.ar (src09)",Studio Universal
 http://181.78.197.59:8000/play/a06t/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine_stm.png" tvg-id="CINELWH.mx (m3u4u)" tvg-shift="-4",Cinemax
 http://177.234.249.178:8888/CINEMAX/index.m3u8
@@ -91,6 +91,8 @@ http://177.234.249.178:8888/ESPN/index.m3u8
 http://177.234.249.178:8888/ESPN2/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="Canal.ESPN.3.(Argentina).ar (src05)",ESPN 3
 http://177.234.249.178:8888/ESPN3/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="Espn4.ar (src09)",ESPN 4
+http://138.121.113.175:8000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPN.5.co (src05)",ESPN 5
 http://177.234.249.178:8888/ESPN5/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="Espn6.ar (src09)",ESPN 6
@@ -99,13 +101,9 @@ http://177.234.249.178:8888/ESPN6/index.m3u8
 http://177.234.249.178:8888/ESPN7/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESPNM.mx (m3u4u)",ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP2ME.mx (m3u4u)",ESPN 2
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP2ME.mx (m3u4u)",ESPN 2 (2)
 http://72.1.184.5:8089/play/a05s/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESPN 3.mx (src09)",ESPN 3
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESPN 3.mx (src09)",ESPN 3 (2)
 http://72.1.184.5:8089/play/a05t/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESPN 4.mx (src09)",ESPN 4
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESPN 4.mx (src09)",ESPN 4 (2)
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#
-#
-#
-#
