@@ -93,8 +93,6 @@ http://190.93.224.42/ESPN/index.m3u8
 http://177.234.249.178:8888/ESPN2/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="Canal.ESPN.3.(Argentina).ar (src05)",ESPN 3 ARG
 http://177.234.249.178:8888/ESPN3/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="Espn4.ar (src09)",ESPN 4 ARG
-http://138.121.113.175:8000/play/a08h/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPN.5.co (src05)",ESPN 5 ARG
 http://177.234.249.178:8888/ESPN5/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="Espn6.ar (src09)",ESPN 6 ARG
