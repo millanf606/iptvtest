@@ -57,7 +57,7 @@ http://177.234.249.178:8888/TNT/index.m3u8
 http://181.78.197.59:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/estudio_stm.png" tvg-id="Canal.Studio.Universal.(México).mx (src05)",Studio Universal
 http://181.78.197.59:8000/play/a06t/index.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine_stm.png" tvg-id="CINELWH.mx (m3u4u)",Cinemax
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cine_stm.png" tvg-id="CINELWH.mx (m3u4u)" tvg-shift="-4",Cinemax
 http://177.234.249.178:8888/CINEMAX/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/dhe_stm.png" tvg-id="dhe.ar",DHE
 http://181.78.197.59:8000/play/a08d/index.m3u8
