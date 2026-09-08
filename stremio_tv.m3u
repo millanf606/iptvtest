@@ -51,9 +51,9 @@ http://177.234.249.178:8888/HISTORY/index.m3u8
 http://177.234.249.178:8888/HISTORY2/index.m3u8
 #
 #
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="Canal.TNT.(Argentina).ar (src05)" tvg-shift="0.5",TNT Central
-http://177.234.249.178:8888/TNT/index.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="Canal.TNT.(Argentina).ar (src05)",TNT Sur
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="TNTLCHH.co (m3u4u)",TNT Central
+http://186.148.196.100:8000/play/a009
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="TNTLC.co (m3u4u)",TNT Sur
 http://177.234.249.178:8888/TNT/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" tvg-id="Canal.Cinecanal.(México).mx (src05)",Cinecanal
 http://181.78.197.59:8000/play/a07r/index.m3u8
