@@ -92,12 +92,12 @@ http://72.1.184.5:8089/play/a06g/index.m3u8
 #
 #
 #
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPARH.ar (m3u4u)" tvg-shift="-4",ESPN COL
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPNAR.co (m3u4u)" tvg-shift="-4",ESPN COL
 http://181.78.14.26:4000/play/a05b/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPARH.ar (m3u4u)" tvg-shift="-4",ESPN ARG
 http://190.93.224.42/ESPN/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESP2SH.ar (m3u4u)" tvg-shift="-4",ESPN 2 ARG
-http://181.78.14.26:4000/play/a02p/index.m3u8
+http://181.78.14.26:4000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPN3AN.co (m3u4u)" tvg-shift="-4",ESPN 3 ARG
 http://181.78.14.26:4000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPN5SH.co (m3u4u)" tvg-shift="-4",ESPN 5 ARG
