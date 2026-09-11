@@ -42,7 +42,7 @@ http://45.170.130.224:8000/play/a01m/index.m3u8
 #
 #
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" tvg-id="NGLAT.co (m3u4u)" tvg-shift="-4",NatGeo
-http://72.1.184.5:8089/play/a05v/index.m3u8
+http://181.78.14.26:4000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disco_stm.png" tvg-id="TDCL.co (m3u4u)" tvg-shift="-4",Discovery Channel
 http://181.78.14.26:4000/play/a00t/index.m3u8
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_stm.png" tvg-id="HISTSOU.ar (m3u4u)" tvg-shift="-4",History
@@ -91,6 +91,9 @@ http://181.78.197.59:8000/play/a07h/index.m3u8
 http://72.1.184.5:8089/play/a06g/index.m3u8
 #
 #
+#
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPARH.ar (m3u4u)" tvg-shift="-4",ESPN COL
+http://181.78.14.26:4000/play/a05b/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPARH.ar (m3u4u)" tvg-shift="-4",ESPN ARG
 http://190.93.224.42/ESPN/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESP2SH.ar (m3u4u)" tvg-shift="-4",ESPN 2 ARG
