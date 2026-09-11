@@ -49,6 +49,8 @@ http://181.78.14.26:4000/play/a00t/index.m3u8
 http://177.234.249.178:8888/HISTORY/index.m3u8
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_stm.png" tvg-id="H2LAT.ar (m3u4u)" tvg-shift="-4",H2
 http://177.234.249.178:8888/HISTORY2/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/science_stm.png" tvg-id="DSCIENL.ar (m3u4u)",Discovery Science
+http://181.78.14.26:4000/play/a00o/index.m3u8
 #
 #
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="TNTLCHH.co (m3u4u)" tvg-shift="-4",TNT Central
@@ -69,7 +71,7 @@ http://104.248.13.17:7080/play/a01x/index.m3u8
 http://72.1.184.5:8089/play/a09v/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinesony_m_stm.png" tvg-id="SOCINH.us (m3u4u)" tvg-shift="-4",Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sonymovie_m_stm.png" tvg-id="SONYMH.ar (m3u4u)" tvg-shift="-4",Sony
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sonymovie_m_stm.png" tvg-id="SONYMH.ar (m3u4u)" tvg-shift="-4",Sony (2)
 http://190.61.90.17:40000/play/a03s/index.m3u8
 #
 #
@@ -87,8 +89,6 @@ http://181.78.197.59:8000/play/a07g/index.m3u8
 http://181.78.197.59:8000/play/a07h/index.m3u8
 #
 #
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPNAR.co (m3u4u)" tvg-shift="-4",ESPN COL
-http://177.234.249.178:8888/ESPN/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPARH.ar (m3u4u)" tvg-shift="-4",ESPN ARG
 http://190.93.224.42/ESPN/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESP2SH.ar (m3u4u)" tvg-shift="-4",ESPN 2 ARG
