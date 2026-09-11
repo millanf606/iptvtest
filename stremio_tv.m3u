@@ -100,6 +100,8 @@ http://190.93.224.42/ESPN/index.m3u8
 http://181.78.14.26:4000/play/a05c/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPN3AN.co (m3u4u)" tvg-shift="-4",ESPN 3 ARG
 http://181.78.14.26:4000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPN4SH.co (m3u4u)" tvg-shift="-4",ESPN 4 ARG
+http://170.244.209.30:8000/play/a0nj/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPN5SH.co (m3u4u)" tvg-shift="-4",ESPN 5 ARG
 http://181.78.14.26:4000/play/a06b/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPN6SH.co (m3u4u)" tvg-shift="-4",ESPN 6 ARG
@@ -114,3 +116,5 @@ http://72.1.184.5:8089/play/a05s/index.m3u8
 http://72.1.184.5:8089/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP4MXS.mx (m3u4u)" tvg-shift="-4",ESPN 4 MEX
 http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP4MXS.mx (m3u4u)" tvg-shift="-4",FOX MEX
+http://181.78.106.127:5000/play/a009/index.m3u8
