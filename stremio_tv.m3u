@@ -56,7 +56,7 @@ http://181.78.14.26:4000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="TNTLCHH.co (m3u4u)" tvg-shift="-4",TNT Central
 http://186.148.196.100:8000/play/a009
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="TNTLH.co (m3u4u)" tvg-shift="-4",TNT
-http://177.234.249.178:8888/TNT/index.m3u8
+http://181.78.197.59:8000/play/a07u/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinecanal_stm.png" tvg-id="CCL.co (m3u4u)" tvg-shift="-4",Cinecanal
 http://181.78.197.59:8000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/estudio_stm.png" tvg-id="STULCOH.co (m3u4u)" tvg-shift="-4",Studio Universal
