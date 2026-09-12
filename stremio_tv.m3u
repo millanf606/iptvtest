@@ -89,11 +89,12 @@ http://181.78.197.59:8000/play/a07e/index.m3u8
 http://181.78.197.59:8000/play/a07f/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-family_stm.png" tvg-id="HBOFMEH.ar (m3u4u)" tvg-shift="-4",HBO Family
 http://181.78.197.59:8000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_stm.png" tvg-id="POPLA.ar (m3u4u)" tvg-shift="-4",HBO Pop
+http://190.61.42.218:9000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_stm.png" tvg-id="HBOXLAH.co (m3u4u)" tvg-shift="-4",HBO Xtreme
 http://181.78.197.59:8000/play/a07h/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ucinema_stm.png" tvg-id="UNICI.co (m3u4u)",Universal Cinema
 http://72.1.184.5:8089/play/a06g/index.m3u8
-#
 #
 #
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPNAR.co (m3u4u)" tvg-shift="-4",ESPN COL
