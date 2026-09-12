@@ -41,6 +41,8 @@ http://177.234.249.178:8888/NICK-JR/index.m3u8
 http://170.244.209.30:8000/play/a0oa/index.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disneyjr_stm.png" tvg-id="DISNJS.co (m3u4u)" tvg-shift="-4",Disney Jr.
 http://181.78.197.59:8000/play/a09f/index.m3u8
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_stm.png" tvg-ID="DKNL.co (m3u4u)" tvg-shift="-4",Discovery Kids
+http://190.61.42.218:9000/play/a00s/index.m3u8
 #
 #
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" tvg-id="NGLAT.co (m3u4u)" tvg-shift="-4",NatGeo
