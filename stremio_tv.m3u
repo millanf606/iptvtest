@@ -7,6 +7,8 @@
 http://72.1.184.5:8089/play/a06e/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner_stm.png" tvg-id="WOLEARH.ar (m3u4u)" tvg-shift="-4",Warner Channel
 http://45.170.130.224:8000/play/a01u/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/aemundo_stm.png" tvg-ID="AENORH.ar (m3u4u)" tvg-shift="-4",A&E
+http://170.244.209.30:8000/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_stm.png" tvg-id="SETLC.co (m3u4u)" tvg-shift="-4",Sony Channel
 http://181.78.197.59:8000/play/a07q/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" tvg-id="AXNARGH.ar (m3u4u)" tvg-shift="-4",AXN
