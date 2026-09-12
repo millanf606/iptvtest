@@ -116,5 +116,3 @@ http://72.1.184.5:8089/play/a05s/index.m3u8
 http://72.1.184.5:8089/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP4MXS.mx (m3u4u)" tvg-shift="-4",ESPN 4 MEX
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP4MXS.mx (m3u4u)" tvg-shift="-4",FOX MEX
-http://181.78.106.127:5000/play/a009/index.m3u8
