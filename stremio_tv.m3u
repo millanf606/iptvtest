@@ -36,7 +36,7 @@ http://181.78.197.59:8000/play/a07c/index.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nick_stm.png" tvg-id="NKLACHD.ar (m3u4u)" tvg-shift="-4",Nickelodeon
 http://170.244.209.30:8000/play/a0hm/index.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nickjr_stm.png" tvg-id="NICKJMH.ar (m3u4u)" tvg-shift="-4",Nick Jr.
-http://177.234.249.178:8888/NICK-JR/index.m3u8
+http://190.61.42.218:9000/play/a01u/index.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disney_stm.png" tvg-id="DISNLS.ar (m3u4u)" tvg-shift="-4",Disney Channel
 http://170.244.209.30:8000/play/a0oa/index.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disneyjr_stm.png" tvg-id="DISNJS.co (m3u4u)" tvg-shift="-4",Disney Jr.
