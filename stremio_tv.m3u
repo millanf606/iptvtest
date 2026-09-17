@@ -96,6 +96,9 @@ http://181.78.197.59:8000/play/a07h/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ucinema_stm.png" tvg-id="UNICI.co (m3u4u)",Universal Cinema
 http://72.1.184.5:8089/play/a06g/index.m3u8
 #
+#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/scinema_stm.png" tvg-id="STZCI.us (m3u4u)",Starz Cinema
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8 
+#
 #
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPNAR.co (m3u4u)" tvg-shift="-4",ESPN COL
 http://181.78.14.26:4000/play/a05b/index.m3u8
@@ -121,7 +124,6 @@ http://72.1.184.5:8089/play/a05s/index.m3u8
 http://72.1.184.5:8089/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP4MXS.mx (m3u4u)" tvg-shift="-4",ESPN 4 MEX
 http://181.78.197.59:8000/play/a07n/index.m3u8
-#
 #
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" tvg-id="" tvg-shift="-4",Mlb Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
