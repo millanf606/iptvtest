@@ -7,7 +7,7 @@
 http://72.1.184.5:8089/play/a06e/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/warner_stm.png" tvg-id="WOLEARH.ar (m3u4u)" tvg-shift="-4",Warner Channel
 http://170.244.209.30:8000/play/a0nt/index.m3u8
-#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/aemundo_stm.png" tvg-ID="AENORH.ar (m3u4u)" tvg-shift="-4",A&E
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/aemundo_stm.png" tvg-id="AENORH.ar (m3u4u)" tvg-shift="-4",A&E
 http://170.244.209.30:8000/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_stm.png" tvg-id="SETLC.co (m3u4u)" tvg-shift="-4",Sony Channel
 http://181.78.197.59:8000/play/a07q/index.m3u8
@@ -41,10 +41,10 @@ http://190.61.42.218:9000/play/a01u/index.m3u8
 http://170.244.209.30:8000/play/a0oa/index.m3u8
 #EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disneyjr_stm.png" tvg-id="DISNJS.co (m3u4u)" tvg-shift="-4",Disney Jr.
 http://181.78.197.59:8000/play/a09f/index.m3u8
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_stm.png" tvg-ID="DKNL.co (m3u4u)" tvg-shift="-4",Discovery Kids
+#
+#
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_stm.png" tvg-id="DKNL.co (m3u4u)" tvg-shift="-4",Discovery Kids
 http://190.61.42.218:9000/play/a00s/index.m3u8
-#
-#
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" tvg-id="NGLAT.co (m3u4u)" tvg-shift="-4",NatGeo
 http://181.78.14.26:4000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disco_stm.png" tvg-id="TDCL.co (m3u4u)" tvg-shift="-4",Discovery Channel
@@ -75,7 +75,7 @@ http://104.248.13.17:7080/play/a01x/index.m3u8
 http://181.78.197.59:8000/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinesony_m_stm.png" tvg-id="SOCINH.us (m3u4u)" tvg-shift="-4",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
-#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sonymovie_m_stm.png" tvg-id="SONYMH.ar (m3u4u)" tvg-shift="-4",Sony
+#EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sonymovie_m_stm.png" tvg-id="SONYMH.co (m3u4u)" tvg-shift="-4",Sony
 http://190.61.90.17:40000/play/a03s/index.m3u8
 #
 #
@@ -102,7 +102,7 @@ http://181.78.14.26:4000/play/a05b/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPARH.ar (m3u4u)" tvg-shift="-4",ESPN ARG
 http://190.93.224.42/ESPN/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESP2SH.ar (m3u4u)" tvg-shift="-4",ESPN 2 ARG
-http://181.78.14.26:4000/play/a05c/index.m3u8
+http://181.78.14.26:4000/play/a02p/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPN3AN.co (m3u4u)" tvg-shift="-4",ESPN 3 ARG
 http://181.78.14.26:4000/play/a02q/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espn_stm.png" tvg-id="ESPN4SH.co (m3u4u)" tvg-shift="-4",ESPN 4 ARG
