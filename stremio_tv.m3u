@@ -121,3 +121,9 @@ http://72.1.184.5:8089/play/a05s/index.m3u8
 http://72.1.184.5:8089/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP4MXS.mx (m3u4u)" tvg-shift="-4",ESPN 4 MEX
 http://181.78.197.59:8000/play/a07n/index.m3u8
+#
+#
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP4MXS.mx (m3u4u)" tvg-shift="-4",Mlb Strike Zone
+http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/yes_m_stm.png" tvg-id="YESHDNY.us (m3u4u)" tvg-shift="-4",YES Network
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8 
