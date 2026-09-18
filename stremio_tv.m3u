@@ -128,6 +128,8 @@ http://72.1.184.5:8089/play/a05s/index.m3u8
 http://72.1.184.5:8089/play/a05t/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP4MXS.mx (m3u4u)" tvg-shift="-4",ESPN 4 MEX
 http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/espnm_stm.png" tvg-id="ESP5CES.mx (m3u4u)" tvg-shift="-4",ESPN 5 MEX
+http://138.59.177.78:9999/play/a07x/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m_stm.png" tvg-id="SPOCOHD.co (m3u4u)" tvg-shift="-4",DSports
 http://15.204.146.163:8002/play/a00g/index.m3u8
 #
