@@ -132,6 +132,8 @@ http://181.78.197.59:8000/play/a07n/index.m3u8
 http://138.59.177.78:9999/play/a07x/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/directv-sports_m_stm.png" tvg-id="SPOCOHD.co (m3u4u)" tvg-shift="-4",DSports
 http://15.204.146.163:8002/play/a00g/index.m3u8
+#EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sky_stm.png" tvg-id="Canal.Sky.Sports.16.mx (src05)" tvg-shift="-4",SKY Sports
+http://138.59.177.78:9999/play/a08c/index.m3u8
 #
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" tvg-id="" tvg-shift="-4",Mlb Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
