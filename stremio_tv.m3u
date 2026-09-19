@@ -27,6 +27,8 @@ http://181.78.14.26:4000/play/a07r/index.m3u8
 http://181.78.197.59:8000/play/a09k/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tele_stm.png" tvg-id="TELILF.co (m3u4u)" tvg-shift="-4",Telemundo Internacional
 http://181.78.14.26:4000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tele_stm.png" tvg-id="TELESAP.us (m3u4u)" tvg-shift="-4",Telemundo
+http://138.59.177.78:9999/play/a03i/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_stm.png" tvg-id="CARA.co (m3u4u)" tvg-shift="-4",Caracol Colombia
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #
