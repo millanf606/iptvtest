@@ -49,20 +49,6 @@ http://138.59.177.78:9999/play/a00m/index.m3u8
 http://138.59.177.78:9999/play/a08n/index.m3u8
 #
 #
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_stm.png" tvg-id="DKNL.co (m3u4u)" tvg-shift="-4",Discovery Kids
-http://190.61.42.218:9000/play/a00s/index.m3u8
-#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" tvg-id="NGLAT.co (m3u4u)" tvg-shift="-4",NatGeo
-http://181.78.14.26:4000/play/a04p/index.m3u8
-#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disco_stm.png" tvg-id="TDCL.co (m3u4u)" tvg-shift="-4",Discovery Channel
-http://181.78.14.26:4000/play/a00t/index.m3u8
-#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_stm.png" tvg-id="HISTSOU.ar (m3u4u)" tvg-shift="-4",History
-http://181.78.14.26:4000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_stm.png" tvg-id="H2LAT.ar (m3u4u)" tvg-shift="-4",H2
-http://181.78.14.26:4000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/science_stm.png" tvg-id="DSCIENL.ar (m3u4u)",Discovery Science
-http://181.78.14.26:4000/play/a00o/index.m3u8
-#
-#
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="TNTLCHH.co (m3u4u)" tvg-shift="-4",TNT Central
 http://138.59.177.78:9999/play/a06j/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt_stm.png" tvg-id="TNTLH.co (m3u4u)" tvg-shift="-4",TNT
@@ -142,4 +128,20 @@ http://138.59.177.78:9999/play/a08i/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mlb-spa_stm.png" tvg-id="" tvg-shift="-4",Mlb Strike Zone
 http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 #EXTINF:-1 group-title="Deportes" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/yes_m_stm.png" tvg-id="YESHDNY.us (m3u4u)" tvg-shift="-4",YES Network
-http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8 
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#
+#
+#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_stm.png" tvg-id="DKNL.co (m3u4u)" tvg-shift="-4",Discovery Kids
+http://190.61.42.218:9000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" tvg-id="NGLAT.co (m3u4u)" tvg-shift="-4",NatGeo
+http://181.78.14.26:4000/play/a04p/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disco_stm.png" tvg-id="TDCL.co (m3u4u)" tvg-shift="-4",Discovery Channel
+http://181.78.14.26:4000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_stm.png" tvg-id="HISTSOU.ar (m3u4u)" tvg-shift="-4",History
+http://181.78.14.26:4000/play/a07f/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_stm.png" tvg-id="H2LAT.ar (m3u4u)" tvg-shift="-4",H2
+http://181.78.14.26:4000/play/a07g/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/science_stm.png" tvg-id="DSCIENL.ar (m3u4u)",Discovery Science
+http://181.78.14.26:4000/play/a00o/index.m3u8
+#
+#
