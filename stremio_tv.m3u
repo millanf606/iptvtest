@@ -88,7 +88,7 @@ http://190.61.42.218:9000/play/a01n/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/xtreme_stm.png" tvg-id="HBOXLAH.co (m3u4u)" tvg-shift="-4",HBO Xtreme
 http://181.78.197.59:8000/play/a07h/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/ucinema_stm.png" tvg-id="UNICI.co (m3u4u)",Universal Cinema
-http://72.1.184.5:8089/play/a06g/index.m3u8
+http://45.166.93.156:9999/play/a0i9/index.m3u8
 #
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/scinema_stm.png" tvg-id="STZCI.us (m3u4u)",Starz Cinema
 http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
