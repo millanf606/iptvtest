@@ -70,7 +70,7 @@ http://181.78.197.59:8000/play/a09e/index.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/cinesony_m_stm.png" tvg-id="SOCINH.us (m3u4u)" tvg-shift="-4",Cine Sony
 https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
 #EXTINF:-1 group-title="Cine" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sonymovie_m_stm.png" tvg-id="SONYMH.co (m3u4u)" tvg-shift="-4",Sony
-http://190.61.90.17:40000/play/a03s/index.m3u8
+http://190.121.140.222:8081/SONY-MOVIES/index.m3u8 
 #
 #
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo_stm.png" tvg-id="HBOEHD.co (m3u4u)" tvg-shift="-4",HBO
