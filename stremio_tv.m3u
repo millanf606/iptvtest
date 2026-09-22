@@ -83,11 +83,11 @@ http://181.78.197.59:8000/play/a07d/index.m3u8
 http://181.78.197.59:8000/play/a07e/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/plus_stm.png" tvg-id="HBOPPHD.ar (m3u4u)" tvg-shift="-4",HBO Plus
 http://181.78.197.59:8000/play/a07f/index.m3u8
-#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/plus_stm.png" tvg-id="HBOSLHD.ar (m3u4u)" tvg-shift="-4",HBO Signature
+#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/signature_stm.png" tvg-id="HBOSLHD.ar (m3u4u)" tvg-shift="-4",HBO Signature
 http://187.102.208.209:8000/play/a07l/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-family_stm.png" tvg-id="HBOFMEH.ar (m3u4u)" tvg-shift="-4",HBO Family
 http://181.78.197.59:8000/play/a07g/index.m3u8
-#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/plus_stm.png" tvg-id="MUNLA.ar (m3u4u)" tvg-shift="-4",HBO Mundi
+#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/mundi_stm.png" tvg-id="MUNLA.ar (m3u4u)" tvg-shift="-4",HBO Mundi
 http://187.102.208.209:8000/play/a07m/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-pop_stm.png" tvg-id="POPLA.ar (m3u4u)" tvg-shift="-4",HBO Pop
 http://190.61.42.218:9000/play/a01n/index.m3u8
