@@ -81,7 +81,7 @@ http://186.148.196.100:8000/play/a002
 http://181.78.197.59:8000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-2-stm.png" tvg-id="HBO2LA.mx (m3u4u)" tvg-shift="-4",HBO 2
 http://181.78.197.59:8000/play/a07e/index.m3u8
-#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/plus_stm.png" tvg-id="HBOPPHD.ar (m3u4u)" tvg-shift="-4",HBO +
+#EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/plus_stm.png" tvg-id="HBOPPHD.ar (m3u4u)" tvg-shift="-4",HBO Plus
 http://181.78.197.59:8000/play/a07f/index.m3u8
 #EXTINF:-1 group-title="Premium" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hbo-family_stm.png" tvg-id="HBOFMEH.ar (m3u4u)" tvg-shift="-4",HBO Family
 http://181.78.197.59:8000/play/a07g/index.m3u8
