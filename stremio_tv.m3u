@@ -13,6 +13,8 @@ http://200.69.92.222:8000/play/a02m/index.m3u8
 http://170.244.209.30:8000/play/a0gt/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_stm.png" tvg-id="SETLC.co (m3u4u)" tvg-shift="-4",Sony Channel
 http://181.78.197.59:8000/play/a07q/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/sony_stm.png" tvg-id="SETPLEH.co (m3u4u)" tvg-shift="-4",Sony Channel Central
+http://187.102.208.209:8000/play/a092/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/axn_stm.png" tvg-id="AXNARGH.ar (m3u4u)" tvg-shift="-4",AXN
 http://181.78.14.26:4000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_stm.png" tvg-id="AMCANSD.mx (m3u4u)" tvg-shift="-4",AMC
