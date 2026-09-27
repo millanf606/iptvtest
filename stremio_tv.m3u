@@ -163,12 +163,16 @@ http://23.237.104.106:8080/USA_MLB_STRIKE_ZONE/index.m3u8
 http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
 #
 #
-#EXTINF:-1 group-title="Infantil" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-kids_stm.png" tvg-id="DKNL.co (m3u4u)" tvg-shift="-4",Discovery Kids
-http://190.61.42.218:9000/play/a00s/index.m3u8
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/nat_stm.png" tvg-id="NGLAT.co (m3u4u)" tvg-shift="-4",NatGeo
 http://181.78.14.26:4000/play/a04p/index.m3u8
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/disco_stm.png" tvg-id="TDCL.co (m3u4u)" tvg-shift="-4",Discovery Channel
 http://181.78.14.26:4000/play/a00t/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/animal_stm.png" tvg-id="ANIPL.co (m3u4u)" tvg-shift="-4",Animal Planet
+http://187.102.208.209:8000/play/a08w/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/turbo_stm.png" tvg-id="DTURBOL.ar (m3u4u)" tvg-shift="-4",Discovery Turbo
+http://187.102.208.209:8000/play/a08v/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlc_stm.png" tvg-id="TLCLASP.co (m3u4u)" tvg-shift="-4",TLC
+http://187.102.208.209:8000/play/a0a5/index.m3u8
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/history_stm.png" tvg-id="HISTSOU.ar (m3u4u)" tvg-shift="-4",History
 http://181.78.14.26:4000/play/a07f/index.m3u8
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h2_stm.png" tvg-id="H2LAT.ar (m3u4u)" tvg-shift="-4",H2
@@ -177,5 +181,7 @@ http://181.78.14.26:4000/play/a07g/index.m3u8
 http://181.78.14.26:4000/play/a00o/index.m3u8
 #EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discow_stm.png" tvg-id="DWRLDHD.ar (m3u4u)",Discovery World
 http://45.166.93.156:9999/play/a0i5/index.m3u8
+#EXTINF:-1 group-title="Mundo" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-the_stm.png" tvg-id="DTHLAHD.ar (m3u4u)",Discovery Theater
+http://187.102.208.209:8000/play/a04k/index.m3u8
 #
 #
