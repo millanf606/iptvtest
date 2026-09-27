@@ -19,10 +19,22 @@ http://187.102.208.209:8000/play/a092/index.m3u8
 http://181.78.14.26:4000/play/a07d/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/amc_stm.png" tvg-id="AMCANSD.mx (m3u4u)" tvg-shift="-4",AMC
 http://181.78.197.59:8000/play/a06w/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tnt-series_stm.png" tvg-id="TNTSERH.ar (m3u4u)" tvg-shift="-4",TNT Series
+http://187.102.208.209:8000/play/a09c/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/a3-series_stm.png" tvg-id="ATRES.SERIES.HD.co (src05)" tvg-shift="-4",Atres Series
+http://187.102.208.209:8000/play/a0bd/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/comedy-central_stm.png" tvg-id="COMCCEH.co (m3u4u)" tvg-shift="-4",Comedy Central
+http://187.102.208.209:8000/play/a041/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/fx_stm.png" tvg-id="FXLCHD.co (m3u4u)" tvg-shift="-4",FX
 http://181.78.14.26:4000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/uni_stm.png" tvg-id="UNTVCOH.co (m3u4u)" tvg-shift="-4",Universal TV
 http://181.78.14.26:4000/play/a09q/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hola-tv_stm.png" tvg-id="HolaTV.ar (src09)" tvg-shift="-4",Hola TV
+http://187.102.208.209:8000/play/a0ba/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/e-ent_stm.png" tvg-id="Canal.E!.Entertainment.Television.(México).mx (src05)" tvg-shift="-4",E! Entertainment
+http://187.102.208.209:8000/play/a0a7/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/discovery-id_stm.png" tvg-id="ID.-.Investigation.Discovery.co (src05)" tvg-shift="-4",Investigation Discovery
+http://187.102.208.209:8000/play/a095/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/pasi_stm.png" tvg-id="PASNLA.co (m3u4u)" tvg-shift="-4",Pasiones
 http://181.78.14.26:4000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/las-estrellas_m_stm.png" tvg-id="ESTREHD.co (m3u4u)" tvg-shift="-4",Las Estrellas
