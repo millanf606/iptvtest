@@ -41,10 +41,16 @@ http://181.78.14.26:4000/play/a03j/index.m3u8
 http://181.78.14.26:4000/play/a07r/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tlnovelas_stm.png" tvg-id="TLNOHI.co (m3u4u)" tvg-shift="-4",Tlnovelas
 http://181.78.197.59:8000/play/a09k/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/h-a-h_stm.png" tvg-id="DHEALHD.co (m3u4u)" tvg-shift="-4",Home & Health
+http://187.102.208.209:8000/play/a0bg/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/tele_stm.png" tvg-id="TELILF.co (m3u4u)" tvg-shift="-4",Telemundo Internacional
 http://181.78.14.26:4000/play/a02x/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/telem_stm.png" tvg-id="TELESAP.us (m3u4u)" tvg-shift="-4",Telemundo
 http://138.59.177.78:9999/play/a03i/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/gourmet_stm.png" tvg-id="GOURMETN.ar (m3u4u)" tvg-shift="-4",El Gourmet
+http://187.102.208.209:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/hgtv_stm.png" tvg-id="HGTVLAS.ar (m3u4u)" tvg-shift="-4",HGTV
+http://187.102.208.209:8000/play/a0aa/index.m3u8
 #EXTINF:-1 group-title="Entretenimiento" tvg-logo="https://raw.githubusercontent.com/millanf606/iptvtest/main/pngch/caracol_stm.png" tvg-id="CARA.co (m3u4u)" tvg-shift="-4",Caracol Colombia
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #
